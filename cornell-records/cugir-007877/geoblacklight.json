@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This Raster GeoTIFF represents Average Wind Speed at 70m of Tompkins County NY for 2003. This file was created using the MesoMap system which consists of an integrated set of atmospheric simulation models, databases, and computers and storage systems. At the core of MesoMap is MASS (Mesoscale Atmospheric Simulation System), a numerical weather model, which simulates the physics of the atmosphere. MASS is coupled to a simpler wind flow model, WindMap, which is used to refine the spatial resolution of MASS and account for simple localized effects of terrain and surface roughness. MASS simulates weather conditions over a region for 366 historical days randomly selected from a 15-year period. When the runs are finished, the results are input into WindMap. Truewind subsequently validates the wind maps. The final product is a grid of cells each containing a single value of average wind speed (m/s) at a hub height of 70 meters, for a 40,000 square meter area. The purpose of creating this file was to use MesoMap to create high-resolution wind resource maps of the state and to provide wind resource data in a format enabling the assessesment potential wind development sites in a GIS. By combining a sophisticated numerical weather model capable of simulating large-scale wind patterns with a microscale wind flow model responsive to local terrain and surface conditions, they enable the mapping of wind resources with much greater accuracy than has been possible in the past. In addition, they do not require surface wind data to make accurate predictions. While on-site measurements will be required to confirm the predicted wind resource at any particular location, mesoscale-microscale modeling can greatly reduce the time and cost required to identify and evaluate potential wind project sites.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007877",
+  "dc_language_s": "English",
+  "dc_publisher_s": "AWS Truewind (Firm)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Winds",
+    "Climatology",
+    "Meteorology and Atmosphere"
+  ],
+  "dc_title_s": "Average Wind Speed at 70m, Tompkins County NY, 2003",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2003",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007877\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/77/cugir-007877.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/77/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Tompkins, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cugir007877",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007877",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.69611, -76.235723, 42.626817, 42.261918)",
+  "solr_year_i": 2003
+}

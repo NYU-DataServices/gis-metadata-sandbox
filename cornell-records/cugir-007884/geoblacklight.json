@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Sediment Type of Hudson River estuary for 2004. This dataset provides sediment types found on the floor of the Hudson River Estuary. The sediment type interpretation is based on the grain size analysis of the cores and grabs with some guidance from acoustic backscatter data collected with sidescan sonar. Sediment profile imagery (SPI) has also been used to supplement these interpretations. Since the first guide in developing this interpretation is contouring the results of the grain size interpretation there is deviation from the side scan images. In most research on sediments, grain size data is given in phi intervals rather than in microns, millimeters, or inches. One phi unit is equal to one Udden-Wentworth grade. Phi diameter is computed by taking the negative log of the diameter in millimeters. We have identified 9 major classes of sediment based on the Wentworth classification. In 1996, the New York State Department of Environmental Conservation (DEC) initiated an effort to map the benthic habitat of the Hudson River Estuary as part of a larger Hudson River Action Plan. This project includes extensive mapping using sidescan sonar, sub-bottom profiling, single and multi-beam bathymetric sonars, as well as collecting ground truth data with sediment cores, grab samples, and sediment profiling imagery (SPI). The goal of the project is the creation of a comprehensive data set that includes detailed interpretive maps of the physical environment of the floor of the estuary. An overview of the first phase of the benthic mapping project can be found in Bell, et al. (2006)",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007884",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lamont-Doherty Earth Observatory",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Estuaries",
+    "Sediments (Geology)",
+    "Sand",
+    "Gravel"
+  ],
+  "dc_title_s": "Sediment Type, Hudson River estuary, 2004",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007884\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/84/cugir-007884.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/84/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hudson River, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "2004"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007884",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007884",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.107056, -73.684992, 42.751979, 40.601828)",
+  "solr_year_i": 2004
+}

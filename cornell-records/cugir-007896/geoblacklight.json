@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This Raster GeoTIFF represents Hudson River Valley Gap Analysis 30m Land Cover of for 1992-1993. This land cover data of the Hudson River Valley (New York) has a 30m pixel resolution, and was derived from Landsat-5 satellite imagery from 1992 and 1993. The Hudson River Valley GAP Analysis Project (HRV-GAP) uses the New York State GAP Analysis Project (NY-GAP) database to perform analyses and answer research questions directly related to the Hudson River Valley (HRV).",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007896",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Hudson River Estuary Monitoring Program (N.Y.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land cover"
+  ],
+  "dc_title_s": "Hudson River Valley Gap Analysis 30m Land Cover, 1992-1993",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007896\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/96/cugir-007896.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/96/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hudson River, New York, United States",
+    "New York State, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1993"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cugir007896",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007896",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.806419, -73.241627, 42.982985, 40.472841)",
+  "solr_year_i": 1993
+}

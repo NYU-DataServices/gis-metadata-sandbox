@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "New York Aquatic Gap Analysis Group"
+  ],
+  "dc_description_s": "This polygon shapefile represents Stream Basins of Allegheny River NY for 2007. This shapefile contains polygons representing the stream basins of the Allegheny River watershed in western New York. Basins were developed for stream segments at the 1:24,000 scale from 7.5 minute topographic quadrangles. For the purposes of this study, a stream segment is defined as the portion of stream from tributary confluence to tributary confluence. To define the drainage basin for each stream segment.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007897",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Basin",
+    "Hydrography",
+    "Watersheds",
+    "Boundaries",
+    "Rivers"
+  ],
+  "dc_title_s": "Stream Basins, Allegheny River NY, 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2007",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007897\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/97/cugir-007897.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/97/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York State, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007897",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007897",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-79.759144, -77.959902, 42.448981, 41.976192)",
+  "solr_year_i": 1996
+}

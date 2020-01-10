@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Tompkins County ITS GIS Division",
+    "Hitachi Software"
+  ],
+  "dc_description_s": "This polygon shapefile represents Building Outlines of Tompkins County NY for 2005. Building polygons representing houses, businesses, mobile homes, barns, silos and other buildings that could be determined from aerial photography, using photogrammetric mapping technologies and HouseDiff feature extraction process. This data set is intended for use as a reference map layer for GIS maps and applications.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007881",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Buildings",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Building Outlines, Tompkins County NY, 2005",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "9/23/2016",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007881\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/81/cugir-007881.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/81/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Tompkins, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1991",
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007881",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007881",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-76.698696, -76.247387, 42.627218, 42.262932)",
+  "solr_year_i": 2002
+}

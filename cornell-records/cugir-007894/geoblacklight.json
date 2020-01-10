@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "New York Cornell University Aquatic Ecology group"
+  ],
+  "dc_description_s": "This polygon shapefile represents Great Lakes Stream Basins of New York State for 1994. This dataset provides polygon coverage of the basins in the Great Lakes tributary watersheds of New York state, except for the Genesee, Black, Salmon, and Oswego Rivers. For use in performing any analysis requiring stream reach basins in the Great Lakes basins of New York state.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007894",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Basin",
+    "Hydrography",
+    "Rivers",
+    "Drainage",
+    "Inland waters"
+  ],
+  "dc_title_s": "Great Lakes Stream Basins, New York State, 1994",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2/28/2016",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007894\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/94/cugir-007894.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/94/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Great Lakes, United States"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007894",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007894",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-79.763357, -75.667464, 44.261713, 42.161879)",
+  "solr_year_i": 1994
+}

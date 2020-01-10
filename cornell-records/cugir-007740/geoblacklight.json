@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents State Forest Acquisitions of Adirondack Park for 2000. The Adirondack State Forest Acquisition Map contains the old growth timber areas of the Adirondack Park, New York State. The data was created for the Adirondack Park Agency (APA) as an historical reference. This resource may be used to determine approximate areas of old timber growth in the Adirondack Park.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007740",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (State). Adirondack Park Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Forests and forestry",
+    "Adirondack Park (N.Y.)",
+    "Lumber trade"
+  ],
+  "dc_title_s": "State Forest Acquisitions, Adirondack Park, 2000",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "3/31/2017",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007740\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/77/40/cugir-007740.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/77/40/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Adirondack State Park, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007740",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007740",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-75.302225, -73.370807, 44.840283, 43.107888)",
+  "solr_year_i": 2000
+}

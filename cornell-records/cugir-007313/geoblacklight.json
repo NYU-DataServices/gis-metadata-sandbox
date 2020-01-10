@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Census of Agriculture of New York State for 1997. This data set portrays the National Agricultural Statistics Service, U.S. Department of Agriculture's 1997 Census data for the United States, presented by county. There are 25 categories of data which include information about farms, crops, livestock, values of products, and farm operator characteristics. These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data. No responsibility is assumed by the U.S. Geological Survey in the use of these data.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007313",
+  "dc_language_s": "English",
+  "dc_publisher_s": "U. S. Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Agriculture",
+    "Census",
+    "Farming",
+    "Cattle",
+    "Corn",
+    "Wheat",
+    "Cotton",
+    "Soybeans"
+  ],
+  "dc_title_s": "Census of Agriculture, New York State, 1997",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2000",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007313\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/73/13/cugir-007313.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/73/13/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York State, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007313",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007313",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-79.763329, -71.855881, 45.010994, 40.499077)",
+  "solr_year_i": 1997
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Sedimentary Environment of Hudson River estuary for 2004. This dataset provides sedimentary environments of the Hudson River Estuary from Verrazano Narrows Bridge to Troy. Areas of the Hudson River shallower than 4 meters have not been surveyed and sampled completely. The sedimentary environment interpretation is based on the evaluation of Chirp sub-bottom acoustic profiler data in conjunction with acoustic backscatter and bathymetry data. It is subdivided into depositional, erosional, and dynamic classes that are further subdivided, depending on the details identified in the sub-bottom data, or because of their location. A more complete description of this interpretation can be found in Nitsche et al. (2004) and Nitsche et al. (2005) In 1996, the New York State Department of Environmental Conservation (DEC) initiated an effort to map the benthic habitat of the Hudson River Estuary as part of a larger Hudson River Action Plan. This project includes extensive mapping using sidescan sonar, sub-bottom profiling, single and multi-beam bathymetric sonars, as well as collecting ground truth data with sediment cores, grab samples, and sediment profiling imagery (SPI). The goal of the project is the creation of a comprehensive data set that includes detailed interpretive maps of the physical environment of the floor of the estuary. An overview of the first phase of the benthic mapping project can be found in Bell et al. (2006)",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007885",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lamont-Doherty Earth Observatory",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Estuaries",
+    "Sediments (Geology)"
+  ],
+  "dc_title_s": "Sedimentary Environment, Hudson River estuary, 2004",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2005",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007885\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/85/cugir-007885.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/85/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hudson River, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "2004"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007885",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007885",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.10704, -73.685001, 42.751991, 40.602704)",
+  "solr_year_i": 2004
+}

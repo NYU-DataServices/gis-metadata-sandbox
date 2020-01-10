@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Chris Daly, Spatial Climate Analysis Service",
+    "George Taylor, the Oregon Climate Service at Oregon State University"
+  ],
+  "dc_description_s": "This polygon shapefile represents Average Annual Precipitation of New York State for 1961-1990. This data set shows polygons of average annual precipitation in New York State, for the climatological period 1961-1990. Parameter-elevation Regressions on Independent Slopes Model (PRISM) derived raster data is the underlying data set from which the polygons and vectors were created. PRISM is an analytical model that uses point data and a digital elevation model (DEM) to generate gridded estimates of annual, monthly and event-based climatic parameters. These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data. No responsibility is assumed by the Spatial Climate Analysis Service, the USDA - NRCS National Water and Climate Center, the USDA - NRCS National Cartography and Geospatial Center, or the U.S. Geological Survey in the use of these data.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007318",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Precipitation (Meteorology)—Maps",
+    "Climate",
+    "Rain and rainfall"
+  ],
+  "dc_title_s": "Average Annual Precipitation, New York State, 1961-1990",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "3/31/2017",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007318\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/73/18/cugir-007318.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/73/18/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York State, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1961",
+    "1990"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007318",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007318",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-79.763235, -71.870161, 45.006138, 40.506003)",
+  "solr_year_i": 1990
+}

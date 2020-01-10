@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Critical Environmental Areas of Tompkins County NY for 2000. Polygons delineating the boundary of Tompkins County Critical Environmental Areas. Currently, Coy Glen, located in the Town of Ithaca, is the only CEA in Tompkins County. It is an important botanic and geologic site, and is home to uncommon ecological communities and rare species. Under New York State Environmental Quality Review Regulations (SEQR) Section 617.14(g), local agencies may choose specific geographic areas within their boundaries as Critical Environmental Areas (CEAs). To be designated as a CEA, an area must have an exceptional or unique character covering one or more of the following: 1. A benefit or threat to human health; 2. A natural setting (e.g. fish and wildlife habitat, forest and vegetation, open space and areas of important aesthetic or scenic quality); 3. Agricultural, social, cultural, historic, archaeological, recreational, or educational values, or; 4. An inherent ecological, geological or hydrological sensitivity to change that may be adversely affected by an change. Following designation, the potential impact of any Type I or Unlisted Action on the environmental characteristics of the CEA is a relevant area of environmental concern and must be evaluated in the determination of significance prepared pursuant to the SEQR regulations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-001646",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Tompkins County (N.Y.). Department of Planning",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Conservation of natural resources",
+    "Ecological reserves"
+  ],
+  "dc_title_s": "Critical Environmental Areas, Tompkins County NY, 2000",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2000",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-001646\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/16/46/cugir-001646.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/16/46/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Tompkins, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir001646",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-001646",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-76.552765, -76.527097, 42.437541, 42.425479)",
+  "solr_year_i": 1999
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This point shapefile represents Major Surface Water Sampling Sites (NAWQA) of New York State for 1991 and 1994. This data set shows the 1991 and 1994 National Water-Quality Assessment (NAWQA) study units' major surface-water sampling sites. These sites are in NAWQA's fixed network and (or) in a bed sediment and tissue network. This data set was created to display NAWQA's major surface-water sampling sites identified as part of a fixed network and (or) a bed sediment and tissue network. The points were generated from the latitude and longitude coordinates in the U.S. Geological Survey's National Water Information System (NWIS) for the selected stations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007319",
+  "dc_language_s": "English",
+  "dc_publisher_s": "U.S. Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrography",
+    "Water quality management"
+  ],
+  "dc_title_s": "Major Surface Water Sampling Sites (NAWQA), New York State, 1991 and 1994",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "3/31/2017",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007319\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/73/19/cugir-007319.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/73/19/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York State, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "cugir007319",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007319",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-78.935036, -73.337334, 43.892006, 40.936489)",
+  "solr_year_i": 1994
+}

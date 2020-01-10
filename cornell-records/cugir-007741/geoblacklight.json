@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This point shapefile represents Air Monitoring Stations of Adirondack Park for 2000. This dataset shows the location of each ambient air quality monitoring station currently being operated by the Bureau of Air Quality Surveillance (BAQS), Division of Air Resources, New York State Department of Environmental Conservation.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007741",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York (State). Division of Air Resources. Bureau of Air Quality Surveillance",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Air quality monitoring stations",
+    "Air quality management"
+  ],
+  "dc_title_s": "Air Monitoring Stations, Adirondack Park, 2000",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "3/31/2017",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007741\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/77/41/cugir-007741.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/77/41/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Adirondack State Park, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "cugir007741",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007741",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.989258, -73.858335, 44.67778, 43.452994)",
+  "solr_year_i": 2000
+}

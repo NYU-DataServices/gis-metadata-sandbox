@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "This polygon shapefile represents Shoreline of Hudson River estuary for 1998. This data set presents a detailed shoreline of the Hudson River Estuary, based upon shoreline data from the Hudson River Estuary Program (accuracy <5m) where such data are available, and NOAA data (accuracy >10m) for the remainder. To provide a complete detailed shoreline of the Hudson River Estuary, from Staten Island to Troy, New York.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://cugir.library.cornell.edu/catalog/cugir-007888",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lamont-Doherty Earth Observatory",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Estuaries",
+    "Shorelines"
+  ],
+  "dc_title_s": "Shoreline, Hudson River estuary, 1998",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "2004",
+  "dct_provenance_s": "Cornell",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cugir.library.cornell.edu/catalog/cugir-007888\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/cugir-data/00/78/88/cugir-007888.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://cugir.library.cornell.edu/geoserver/cugir/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://cugir.library.cornell.edu/geoserver/cugir/wms\",\"http://www.w3.org/1999/xhtml\":\"https://s3.amazonaws.com/cugir-data/00/78/88/fgdc.html\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hudson River, New York, United States"
+  ],
+  "dct_temporal_sm": [
+    "1988",
+    "1998"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "cugir007888",
+  "layer_modified_dt": "2019-03-05T16:08:46Z",
+  "layer_slug_s": "cugir-007888",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.2244, -73.49947, 42.750131, 40.499559)",
+  "solr_year_i": 1998
+}
