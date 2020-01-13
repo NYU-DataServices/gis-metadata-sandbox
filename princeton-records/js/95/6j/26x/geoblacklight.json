@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Bartholomew, John, 1805-1861"
+  ],
+  "dc_description_s": "Relief shown by hachures. In margin: 49. Probably issued in: General atlas of the world ... [Edinburgh : Adam and Charles Black, 1889?] John Bartholomew designed and engraved the maps for the 1846 edition of Adam and Charles Black's General atlas of the world, which appeared in several editions up to 1900. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/js956j26x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Edinburgh? : A. & C. Black?, 1889?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Colombia,Maps",
+    "Ecuador,Maps",
+    "Peru,Maps",
+    "Venezuela,Maps"
+  ],
+  "dc_title_s": "Venezuela, Colombia, Equador, Peru & Bolivia (north section)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6555346\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/7a3f1d7e-6fc9-4ea5-ae9c-0847e4b4ea96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/b2e57a12-eebc-480c-bb19-32d58a4be3f1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2Ff3%2F7e%2Ffdf37e723f4840d6ba76acd352eac98e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b3023673-a40f-458d-b5f2-23da85816630/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Venezuela",
+    "Colombia",
+    "Ecuador",
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-70da8d16-6572-4f80-9201-f33fb1c2b1ba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-js956j26x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-81.51, -57.52, 13.01, -19.0)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-js956j26x"
+}

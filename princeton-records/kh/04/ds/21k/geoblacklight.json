@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Triangulation, topography, and hydrography conducted between 1833 and 1837. Relief shown by hachures and landform drawings. Depths shown by soundings and contours. Includes information on tides and sailing directions. \"Harbor map no.\"--Upper left margin. \"Reduction for engraving by M.I. McClery, assistant, with some additions by J.M. Wampler, draughtsman. Topography engraved by S.T. Pettit, apprentice, finished by F. Dankworth, O.A. Lawson & A. Rolle\u0301. Lettering by F. Dankworth and J. Knight.\"--Lower margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04ds21k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1848.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Connecticut,Bridgeport,Maps",
+    "Black Rock Harbor (Conn.),Maps",
+    "Bridgeport Harbor (Conn.),Maps"
+  ],
+  "dc_title_s": "Harbors of Black Rock and Bridgeport",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7684019\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d3e8052-10f4-4544-bdf6-e735546e568d/file/c94fb34a-3fd4-4d27-84d6-60934ff1ec15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d3e8052-10f4-4544-bdf6-e735546e568d/file/1473b3fa-ccea-4304-820a-6dd108e4781a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2F8a%2Fad%2F1e8aadf27c764f9aa5311383acfe805a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c03d78c-8daf-43da-a9b8-10674b3c3b01/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4d3e8052-10f4-4544-bdf6-e735546e568d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04ds21k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.246016, -73.158468, 41.200116, 41.12516)",
+  "solr_year_i": 1848.0,
+  "uuid": "princeton-kh04ds21k"
+}

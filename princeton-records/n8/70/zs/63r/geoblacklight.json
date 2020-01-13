@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree 49.4788 South Decimal Degree 49.1191 East Decimal Degree 5.4063 West Decimal Degree 4.5300",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs63r",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1934.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geolgique de la France a 1/80,000; Verdun",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518421\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6d7f87d-3672-4a9c-acf6-8d1420149ffc/file/774d2232-f9a5-49c7-88f8-5909d97df8fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6d7f87d-3672-4a9c-acf6-8d1420149ffc/file/53e8221d-8339-4a5a-b886-2050c31158f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F15%2F8a%2Fb0158af8cbbb4ae3a55a3715250e19d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6250f903-ae14-46e1-a799-22e7e6f782bb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d6d7f87d-3672-4a9c-acf6-8d1420149ffc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs63r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.53, 5.4063, 49.4788, 49.1191)",
+  "solr_year_i": 1934.0,
+  "uuid": "princeton-n870zs63r"
+}

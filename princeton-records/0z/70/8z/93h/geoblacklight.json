@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hills, John (Surveyor)"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708z93h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by Wm. Faden, geographer to the King, Charing-Cross, Jany. 1st. 1784.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lower Bay (N.Y. and N.J.),Maps,Early works to 1800",
+    "Sandy Hook (N.J.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A chart of the bar of Sandy Hook, the entrance of Hudsons River in the Province of New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7283626\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4afba1c8-83ac-425b-baf0-aa43443680a6/file/e8a6fdc2-10b6-4a07-983a-5ec6b5c72d8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4afba1c8-83ac-425b-baf0-aa43443680a6/file/43975f2d-98d4-4552-9655-f1f627fb7074\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2Fe9%2F12%2F07e912a97cea4c4d8d1831624ddd7f0b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87978371-30b2-4a0b-81d5-706c407ee8d6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1784"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4afba1c8-83ac-425b-baf0-aa43443680a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708z93h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.094265, -73.876598, 40.64819, 40.404975)",
+  "solr_year_i": 1784.0,
+  "uuid": "princeton-0z708z93h"
+}

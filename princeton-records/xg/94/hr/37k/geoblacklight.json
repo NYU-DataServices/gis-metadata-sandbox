@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Payne, John, active 1800"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Engrav'd for Jackson's edition of Payne's new System of universal geography.\" Prime meridian: London. Has watermarks.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr37k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Dublin? : Jackson, 1792?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa,Maps"
+  ],
+  "dc_title_s": "Africa, 1792",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4561919\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df4b8466-fedb-4f9e-b5ff-610a3f74287e/file/3ef54468-2d8e-4e3b-bad8-da875af54604\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df4b8466-fedb-4f9e-b5ff-610a3f74287e/file/8d6dd3fb-95c3-41aa-8445-20b12d6d472a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7d%2Fba%2F63%2F7dba6372377e4adea2361ae1c3a1a9b6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8fedac12-8796-4ad7-86cd-ef080f52d99f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1792"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-df4b8466-fedb-4f9e-b5ff-610a3f74287e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr37k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-26.0, 65.0, 38.5, -36.0)",
+  "solr_year_i": 1792.0,
+  "uuid": "princeton-xg94hr37k"
+}

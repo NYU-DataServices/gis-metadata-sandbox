@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Dayman, Joseph"
+  ],
+  "dc_description_s": "Map showing coastline of Cape Natal and the city of Durban; relief shown by hachures and soundings. Map includes profiles: Coast between the Umlass and Uncomass Rivers -- Mouth of Umlass R. -- C. Natal (bluff) N.E.b.E. -- Cape Natal (bluff) flagstaff -- Bar -- Sandy Point -- Blockhouse W.S.W. -- Sandy Point marks -- Bluff marks (white). At head of title: Africa, south east coast.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks26f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published at the Hydrographic Office of the Admiralty ; sold by J.D. Potter, agent for the Admiralty charts ... , August 23rd, 1856.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "KwaZulu-Natal (South Africa),Maps",
+    "Durban (South Africa),Maps"
+  ],
+  "dc_title_s": "Port Natal",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4647616\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/870be2b8-3d89-4aa5-885a-bbcc9f85350b/file/e88abced-b8d0-4faa-be05-acfa1c8cf671\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/870be2b8-3d89-4aa5-885a-bbcc9f85350b/file/201d9a45-d2b3-43cd-a267-0a112acaa57c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2Fa8%2F9e%2F0ca89e3a9e81425ba48518eda1d22b02%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e41e76e5-5afd-4d3f-9f37-d9b777d84d50/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-870be2b8-3d89-4aa5-885a-bbcc9f85350b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks26f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.816772, 31.071002, -29.754273, -29.979353)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-8c97ks26f"
+}

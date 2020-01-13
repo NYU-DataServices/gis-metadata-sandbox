@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Soundings shown in fathoms.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rx913r50w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London? : s.n., 1750?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps,Early works to 1800",
+    "(Kingston) Jamaica,Maps"
+  ],
+  "dc_title_s": "Kingston harbour in Jamaica",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4529590\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5544cfa9-4ebd-416f-ae81-00a51bb30677/file/72a3a912-82bb-4749-abf6-1ce902963bbe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94738a27-a0eb-4c6b-b016-f57b62e36da8/file/1837784a-cb24-4ccb-a8d0-3072d511457c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94738a27-a0eb-4c6b-b016-f57b62e36da8/file/1e1239c1-22c7-43d3-827d-adb35bddc7df\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F65%2F32%2F216532a7d1fc4498a9858fe470b97141%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94eb733e-2716-41e5-996c-599b53402880/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-94738a27-a0eb-4c6b-b016-f57b62e36da8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rx913r50w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.879209, -76.762651, 18.00841, 17.925132)",
+  "solr_year_i": 1750.0,
+  "uuid": "princeton-rx913r50w"
+}

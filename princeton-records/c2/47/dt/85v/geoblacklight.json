@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. 7.5-minute series (topographic) U.S. Geological Survey Alternate title: Princeton, NJ. In upper left margin: United States.. Department of the Interior. Geological Survey. \"Revisions shown in purple compiled by the Geological Survey from aerial photographs taken 1976 and other sources. This information not field checked. Map edited 1981.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c247dt85v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "New Jersey,Maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Princeton Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449433\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3511250b-e78c-4fc0-92df-28ab76df4dc1/file/ed0922b0-c162-460b-85a9-c6e08d11095b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9607a868-8f4f-4c11-8c38-4a2db51f9a51/file/ee52c994-82db-46f8-b8ff-1c22c3339859\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9607a868-8f4f-4c11-8c38-4a2db51f9a51/file/b3f8d54a-d0cd-4d41-8dec-b18988b09ebd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F31%2Fdb%2F5031dbaf166d48e3a2a1e1c76811ea65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09e0c4d4-fe71-4848-9efe-522abc077712/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9607a868-8f4f-4c11-8c38-4a2db51f9a51",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c247dt85v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.61666666666666, 40.36666666666667, 40.25)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-c247dt85v"
+}

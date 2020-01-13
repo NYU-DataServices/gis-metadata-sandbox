@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Townville, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1926-1927. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pp52m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1932.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Townville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868323\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/be2cdb1d-2c63-4daf-876c-60ca267e8fb4/file/d2fa39b6-2077-4958-8b00-0d261958e8f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16195c88-5207-4149-94fe-e2311c271100/file/55d993c9-8df9-47a3-824d-003f89d92ff4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16195c88-5207-4149-94fe-e2311c271100/file/c7e8c87a-5049-40a7-9683-07fdbacdb312\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fc2%2Ffe%2F03c2fe1ff4154ada9cb064112635a0d7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/16026ed8-50f2-4c3a-bf52-3e3a436bf157/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-16195c88-5207-4149-94fe-e2311c271100",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pp52m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.75, -78.0, 41.75, 41.5)",
+  "solr_year_i": 1932.0,
+  "uuid": "princeton-tt44pp52m"
+}

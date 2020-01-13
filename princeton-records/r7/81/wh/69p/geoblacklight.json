@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Little Egg Harbor. Relief shown by 10 feet countour intervals. Triangulation and Coast line by the U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1885. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wh69p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Little Egg Harbor (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Little Egg Harbor sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831660\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98793547-1f5f-41c5-8805-1326aba882c6/file/ad9e081b-0092-4936-8992-a159dd5892bb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79b38010-454c-4844-a944-d1d332fad6f4/file/85402be6-7e04-499f-9c1b-a39d70f01898\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79b38010-454c-4844-a944-d1d332fad6f4/file/a17c2b5d-54a3-4505-a0b0-4e858258d138\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2F7f%2F6e%2F037f6ed52b4342678d5944c467469aee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70339120-3ec4-4837-ab92-4036c23e2a42/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-79b38010-454c-4844-a944-d1d332fad6f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wh69p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 39.75, 39.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-r781wh69p"
+}

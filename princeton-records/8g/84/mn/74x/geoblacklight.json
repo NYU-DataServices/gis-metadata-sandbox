@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Civitavecchia, Italy, shown at a 1:10,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8g84mn74x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "MAX  G6714.C582C2.1942.R6A3",
+    "City map",
+    "Railroads",
+    "Topography",
+    "Military",
+    "Industry",
+    "Port",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Italy 1:10,000. Civitavecchia. G.S.G.S. 4380.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/212a6dab-d0df-436d-9d76-0f040ffd3707/file/de364ed8-7229-492a-a641-19bf27679ad3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f004487-afe9-4fe1-a4ee-47378f962557/file/7361be64-189e-4c7b-af29-1500255662c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f004487-afe9-4fe1-a4ee-47378f962557/file/0f8e2561-956d-429e-82d8-b8e3f176ca91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3e%2Fc5%2Fc0%2F3ec5c0b1ed3c4d61b1386093b1c11bec%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c89e323f-3dad-45dc-8316-5d12c9982a98/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Civitavecchia",
+    "Italy",
+    "Latinum Regioni",
+    "Roma Prov."
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f004487-afe9-4fe1-a4ee-47378f962557",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8g84mn74x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.767, 11.833, 42.117, 42.067)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-8g84mn74x"
+}

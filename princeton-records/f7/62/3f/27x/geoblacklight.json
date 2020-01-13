@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bosnia and Herzogovina with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f7623f27x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina, 1992 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e49f34b6-791b-4615-bbef-b85c2540930c/file/7e4b057e-d23d-4d0a-8403-29afb3d07778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9805c908-207e-4555-b2de-e991af63e26b/file/9e0d005f-904f-4e0c-a980-605be8e454b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9805c908-207e-4555-b2de-e991af63e26b/file/04bfcf67-8ac2-43af-9447-96b2517107b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F0e%2Fa7%2Fdf0ea7683ded4a74bfe42a8f6c77f838%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b8089945-e141-40f1-9f73-a6ba01e16470/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Herzegovina",
+    "Europe",
+    "Balkans",
+    "Bosnia"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9805c908-207e-4555-b2de-e991af63e26b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f7623f27x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 20.0, 45.0, 42.0)",
+  "solr_year_i": 1992.0,
+  "uuid": "princeton-f7623f27x"
+}

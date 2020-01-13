@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA. Lykens. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1889. Triangulation by S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n296x065v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Lykens Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868027\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/004d7bd3-8853-4ea2-8d3a-3268c71e7a3e/file/d9bf705e-88a9-457e-9ef7-a0fb5828a5f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11f43157-64a9-4a28-b1de-b4f9269f2824/file/a52d764f-0dfd-4679-a91c-e154ceac5f6e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11f43157-64a9-4a28-b1de-b4f9269f2824/file/0813af72-e05e-40dd-842b-49a75208852b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F5d%2Fca%2F495dcaa6cac1479eb45a2f26314de376%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b85793d7-289d-48aa-8ab1-67da1ce9f531/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-11f43157-64a9-4a28-b1de-b4f9269f2824",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n296x065v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 40.75, 40.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-n296x065v"
+}

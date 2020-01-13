@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1922.\" Includes location map, key, streets, specials, villas, estates, &c index, and text. \"5072.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sf268682d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Englewood, Bergen County, New Jersey (Sheet 26)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5247939\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d635090-547d-4e1a-b083-b23a1fcfccd0/file/57de38c4-8341-4c82-be1f-d439945a9b4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d635090-547d-4e1a-b083-b23a1fcfccd0/file/1634c51c-e9bf-417b-bbf7-ad6bbeb3842e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F45%2F0f%2Fc9450f438691429aa5ca582805e4aed9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5a9e87a0-5b3b-4844-9d2a-234bfb6f8756/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d635090-547d-4e1a-b083-b23a1fcfccd0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sf268682d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-sf268682d"
+}

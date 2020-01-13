@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Cote d'Ivoire. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8p58pf39x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Railroads",
+    "Airfield",
+    "Administrational and Political Boundaries"
+  ],
+  "dc_title_s": "Cote d'Ivoire, 2004",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/871b0a07-d3d8-442b-8b1a-a6794518c7b5/file/5e9c28a7-37e5-46d0-a676-cd6684f6730b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2838bbdb-5a0f-419d-98fc-b78677ada810/file/102ce643-d6ee-4e77-8d20-1a8dba1f642e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2838bbdb-5a0f-419d-98fc-b78677ada810/file/e11b4563-561b-4bfd-b873-07db43a2d145\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F4a%2Fdc%2Fe44adc3fbb6249d3a455decc39f27c52%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/457b2ffa-f739-4b46-b60e-8c77df5b8c1c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cote d'Ivoire",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2838bbdb-5a0f-419d-98fc-b78677ada810",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8p58pf39x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -4.0, 10.0, 4.0)",
+  "solr_year_i": 2004.0,
+  "uuid": "princeton-8p58pf39x"
+}

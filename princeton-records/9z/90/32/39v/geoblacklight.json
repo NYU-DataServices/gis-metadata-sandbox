@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Also covers Lewis Bay. Relief shown by landform drawings. Depths shown by soundings and contours. \"Harbor map no.\"--Upper left margin. \"Electroptype Copy No. 1 by G. Mathiot U.S.C.S.\"--Upper right margin. \"Reduction by Wm. Luce, Draughtsman. Engraved by Sherman & Smith, N.Y. Sailing directions &c. by W. Smith, U.S.C.S.\"--Lower margin. Includes 2 views of entrances to the harbor as seen from the ocean.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9z903239v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1850.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Massachusetts,Hyannis,Maps",
+    "Hyannis Harbor (Mass.),Maps",
+    "Lewis Bay (Mass.),Maps"
+  ],
+  "dc_title_s": "The harbor of Hyannis",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7683986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9988777d-59a1-4420-9c25-46582414f7b5/file/ea3fb019-3d1a-4a8e-9cbf-f49511066a72\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9988777d-59a1-4420-9c25-46582414f7b5/file/2c1a23b4-5c7d-42e1-8578-c812d13cce5c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F18%2F23%2F93182380eee343fb8c3482e0bd8a5deb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/20fad166-e7a3-4edd-bd65-107ac6b2f196/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9988777d-59a1-4420-9c25-46582414f7b5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9z903239v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.325142, -70.22515, 41.658546, 41.604272)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-9z903239v"
+}

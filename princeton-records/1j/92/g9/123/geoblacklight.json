@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Montpelier. Polyconic projection. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1919. Verso: The Topographic Maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g9123",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Vermont: Montpelier Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838768\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0482f7cc-58f9-400a-9024-8026f35150b3/file/c92127dc-bfed-4a10-af41-2d6c0e35c142\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06ff1056-ab7e-4186-b0dc-5f2fa16dba70/file/faa376c7-34d6-4be9-a2e1-b0969bbd2e84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06ff1056-ab7e-4186-b0dc-5f2fa16dba70/file/902ee93c-6fdb-4a66-b0b0-57977749556d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4d%2F7e%2F21%2F4d7e21fa4c7d48ed88ed1d4c3121705f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/13ff3eb0-d8c5-4453-ad1f-4ac1aa652117/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06ff1056-ab7e-4186-b0dc-5f2fa16dba70",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g9123",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 44.5, 44.25)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-1j92g9123"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.750000. South Decimal Degree 39.625000. East Decimal Degree -74.375000. West Decimal Degree -74.500000. Alternate title: Oswego Lake, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped, edited, and published by the United States Geological Survey. Control by USCE, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1951. Topography by plane-table surveys 1954 and 1955.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257g716",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Oswego Lake Quadrangle, New Jersey, 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844322\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed295bfd-6b68-4b61-a34d-ad4edf129a3f/file/4dfc3566-26bf-4f45-854c-1f9128e527ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb5538ea-69c7-4488-9724-932c962d8ea0/file/3b705adb-6976-4921-9886-d716f33756a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb5538ea-69c7-4488-9724-932c962d8ea0/file/248fa7bb-9253-4f7e-8125-79eb5dd93fd4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2Fdc%2Fb3%2F34dcb3a5364746f4a38eeb034bb24db9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd573360-ef3e-4d1c-ae2a-4da2f955b6b3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb5538ea-69c7-4488-9724-932c962d8ea0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257g716",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 39.75, 39.625)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-bg257g716"
+}

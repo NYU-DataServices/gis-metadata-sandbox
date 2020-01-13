@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"5153.\" Includes title sheet, key, streets and specials index, key map, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/000002067",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Bayonne,Maps",
+    "Hudson County (N.J.),Maps",
+    "Bayonne (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey, vol. 10 : Bayonne (Sheet 95)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5493699\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e7b20ae-4b3d-41ea-9134-dbaff65e99d5/file/9b941afd-84d7-4e98-92f7-6437896c3861\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e7b20ae-4b3d-41ea-9134-dbaff65e99d5/file/151c9ec0-3a6f-4303-86c4-d42632d5ab1a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F94%2F25%2F2094250dce1540a2b9fa464947cc7ba0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d8656c17-21d7-4f9e-9920-336735cd146c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0e7b20ae-4b3d-41ea-9134-dbaff65e99d5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-000002067",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-000002067"
+}

@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Caribbean, shown at a 1:18,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042v53w",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "The Caribbean, 1990",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6bba989-0aff-4aaa-a831-69255c66af4d/file/8b9e63b2-1fce-444f-b34a-302b88fca8f5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffa18da6-e27b-43b2-8948-7faa7f736b21/file/3b48b4cf-c994-4d8c-be34-6ef7430737f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffa18da6-e27b-43b2-8948-7faa7f736b21/file/996c97d9-21e6-4489-85fc-cafafad64d2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6e%2F3f%2F63%2F6e3f6373000d4c108c86bfbd6572c7ce%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5dc0f752-3c59-4f5e-8165-94923d2dfbd9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Puerto Rico",
+    "Bahamas",
+    "Cuba",
+    "Jamaica",
+    "Dominican Republic",
+    "Caribbean",
+    "Haiti"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ffa18da6-e27b-43b2-8948-7faa7f736b21",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042v53w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-82.0, -60.0, 30.0, 4.0)",
+  "solr_year_i": 1990.0,
+  "uuid": "princeton-rv042v53w"
+}

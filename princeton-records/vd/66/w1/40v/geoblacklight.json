@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Africa, shown at a 1:51,400,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w140v",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "802692AI (R02109) 4-00",
+    "Boundaries",
+    "Relief",
+    "Administrative and Political Boundary"
+  ],
+  "dc_title_s": "Africa (2000, Relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c11ca412-92c8-45b0-878f-e91cfc1d6df2/file/b74f6880-9962-4563-9b98-9b4ee8f7874a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc8e51f3-e983-4a88-bd48-beccf55f8a59/file/e176e43c-aabc-4a25-b3a1-052a8a9c6a52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc8e51f3-e983-4a88-bd48-beccf55f8a59/file/842a4140-5ddd-4dfe-adb4-71a926070286\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2Faf%2F11%2F0daf112df1e34b85b2764c44651d1a96%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0fa8271c-4c73-4aa5-9832-20bc7f804efe/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cc8e51f3-e983-4a88-bd48-beccf55f8a59",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w140v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-25.6244, 51.5195, 37.5071, -35.0869)",
+  "solr_year_i": 2000.0,
+  "uuid": "princeton-vd66w140v"
+}

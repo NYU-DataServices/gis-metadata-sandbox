@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of Elizabethtown and Port Henry quadrangles / James F. Kemp, Rudolf Ruedemann. Albany : New York State Museum. Bulletin 138, 1910. 173p. 19pls. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/00000176z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Elizabethtown (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic maps of the Elizabethtown and Port Henry quadrangles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515142\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/41fd1ff0-1e84-47cf-b324-f1d2f4034738/file/7b5ebe77-4032-474f-a26f-c0cbb8897397\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9270676f-242b-4681-bd31-f860d3227eca/file/0e23f61a-4506-4c21-afb9-1dc7c9174ad2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9270676f-242b-4681-bd31-f860d3227eca/file/8cf206f9-b808-44a5-9b26-a5d33c8ca62d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/13%2F42%2Fdd%2F1342dd32a7094383abfe15cbded8495c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3cfd15e0-1afe-47d7-bcbc-7b6aa1421522/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9270676f-242b-4681-bd31-f860d3227eca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-00000176z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.33333333333333, 44.25, 44.0)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-00000176z"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by contours, spot heights, and landform drawings. Sheets numbered at end of title: 1, 2, etc. Maps 3-11 have title at upper left: Peiraieus, 1:10 000. Coverage complete in 11 sheets?",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3197xp56c",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "[Athens? : s.n., between 1950 and 1970?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Athens (Greece),Administrative and political divisions,Maps",
+    "Piraeus (Greece),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Charte\u00afs perioche\u00afs tes dioike\u00afseo\u00afs [sheet 7 of 11]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7697510\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2c9a738-a90e-4eab-8819-7501404b7b8f/file/bca5cfcf-c1a2-408b-901f-6c02c9b4149f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2c9a738-a90e-4eab-8819-7501404b7b8f/file/0cf565f5-73d0-4196-8af8-60819cb05ee3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F55%2F41%2Ff85541bcb737481fa929bf83622d60fc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/755c0d12-8880-415e-860f-c02914ec3ce5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b2c9a738-a90e-4eab-8819-7501404b7b8f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3197xp56c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.5679843, 23.8879843, 38.1441493, 37.8241493)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-3197xp56c"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"2681.\" Historic Maps copy has stamp of Map Division, Library of Congress.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf796",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1899.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paterson,Maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Paterson, New Jersey : volume two (Sheet 132)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5580035\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fcc33984-80a5-43ef-ad4d-eafffb9084f4/file/c841e551-05f2-4558-baf8-915cf0af2510\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fcc33984-80a5-43ef-ad4d-eafffb9084f4/file/9937c7b1-72a1-48e7-a2f0-08f630ecbfbe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F80%2Fa4%2F9f80a4b048a546f98a1eaebb8c265261%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b1ddfb39-7ffb-48c1-880b-205d5839f05c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fcc33984-80a5-43ef-ad4d-eafffb9084f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf796",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-zp38wf796"
+}

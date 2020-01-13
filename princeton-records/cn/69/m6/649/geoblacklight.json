@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "James Imray and Son"
+  ],
+  "dc_description_s": "Hydrographic chart of the world showing ocean currents. Depths shown by soundings. \"Additions to 1889.\" In upper margin: Sheet 1, Sheet 2, Sheet 3. In lower margin: London, James Imray & Son, 102 Minories, 1855. Historic Maps copy has tracks of voyages drawn in ms. in red, yellow and blue; red track marked with dates.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cn69m6649",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by Jas. Imray and Son, 89 Minories and Tower Hill, 1883 [i.e. 1889]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps",
+    "Ocean currents,Maps"
+  ],
+  "dc_title_s": "Outline chart of the world intended for the purpose of marking off a ship's track",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7649540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77d992aa-bfc0-4dd8-a61b-f521636926f5/file/f34c894b-d2dd-47d9-8262-9f69b65fec9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77d992aa-bfc0-4dd8-a61b-f521636926f5/file/ed64bc1f-0939-4789-964b-fbe6f3dabff3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F8c%2F05%2F2b8c05d1532b4adea1e73e27311c58f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c8fb7010-2474-465c-9cca-50dd890aa3cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77d992aa-bfc0-4dd8-a61b-f521636926f5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m6649",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 70.0, -70.0)",
+  "solr_year_i": 1883.0,
+  "uuid": "princeton-cn69m6649"
+}

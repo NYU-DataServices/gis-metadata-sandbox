@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Geological and Geographical Survey of the Territories (U.S.)"
+  ],
+  "dc_description_s": "\"Surveyed in 1877 & '78.\" Relief shown by contours and spot heights. To accompany the Survey's 12th annual report (1878). \"45\"--Lower right margin. \"9\"--Upper left margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rj4306386",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : The Survey] ; New York : Julius Bien, Lith., [1878]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Wyoming,Maps, Topographic",
+    "Idaho,Maps, Topographic",
+    "Wyoming,Maps",
+    "Idaho,Maps"
+  ],
+  "dc_title_s": "Parts of western Wyoming and southeastern Idaho",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4682122\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7a57dce-e5b2-4699-aaec-cf9c7d4a47cb/file/e4106d1e-140f-4589-8f9e-2d5c57dbae33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7a57dce-e5b2-4699-aaec-cf9c7d4a47cb/file/ac8ff4de-c193-4123-aebc-7514b04996ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2F9f%2F69%2Fad9f695b93f648d5823fbd6448a4bcfb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/617097c1-b922-425d-994e-5f6eb1169faf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7a57dce-e5b2-4699-aaec-cf9c7d4a47cb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rj4306386",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-112.012, -109.5071, 44.2584, 42.992)",
+  "solr_year_i": 1878.0,
+  "uuid": "princeton-rj4306386"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1886.\" Includes key and text. North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m338n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hammonton,Maps",
+    "Hammonton (N.J.),Maps"
+  ],
+  "dc_title_s": "Hammonton, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5213692\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4bcabf40-b6da-4dc5-908f-52c19cbc18e7/file/70290491-5699-42b3-a53b-9c3ab0b05e8d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4bcabf40-b6da-4dc5-908f-52c19cbc18e7/file/d5c963c6-f4c5-436c-8def-34d7bf7f4b46\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F93%2F28%2Fbd93287777374281aac15eec41dfa851%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/13596b2e-754d-4fa0-814d-cb5de2cc5529/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4bcabf40-b6da-4dc5-908f-52c19cbc18e7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m338n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.861, -74.676, 39.73, 39.583)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-m326m338n"
+}

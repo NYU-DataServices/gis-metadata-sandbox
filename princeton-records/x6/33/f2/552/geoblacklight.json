@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1919.\" Includes key, streets and specials index, and text. \"2928.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x633f2552",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, Limited, 1919, c1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Palmyra,Maps",
+    "Palmyra (N.J.),Maps"
+  ],
+  "dc_title_s": "Palmyra, Burlington County, New Jersey (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5148203\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a89f7886-5ebb-4244-a7c2-04fe8b838ed3/file/e9ef9f33-b7d8-49cb-b641-84a43cbf5798\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a89f7886-5ebb-4244-a7c2-04fe8b838ed3/file/55f3b5a7-4861-4dbf-9a2c-4dfccc127e91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F2c%2F92%2F832c92912c5d4e3f8a03aa22d0725ab0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb5e300e-42da-45d0-92b7-c1ea0dd31a21/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a89f7886-5ebb-4244-a7c2-04fe8b838ed3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x633f2552",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.055, -75.01, 40.012, 39.992)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-x633f2552"
+}

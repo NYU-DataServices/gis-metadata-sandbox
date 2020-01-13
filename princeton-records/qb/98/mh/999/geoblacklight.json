@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures. Indexed. Inset map: State of Mexico and surrounding country.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qb98mh999",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Chicago : Rand McNally & Co., 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads,Mexico,Maps",
+    "Mexico,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of Mexico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7974782\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16412bb8-b09f-4b40-ba34-754cbe925e0d/file/be78f857-9ac8-41e6-81cd-e43130631381\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16412bb8-b09f-4b40-ba34-754cbe925e0d/file/15d8f7fd-5485-4085-8de2-4315e6fce616\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2Fc7%2F91%2F79c7915cbc4b48afb7484b0938113c59%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/611687e9-c179-45e1-b90c-ef8a96ddd9db/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-16412bb8-b09f-4b40-ba34-754cbe925e0d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qb98mh999",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-117.5096, -85.012, 33.7574, 14.01)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-qb98mh999"
+}

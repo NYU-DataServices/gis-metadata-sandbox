@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows names of landholders and locations of old roads and buildings. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b840v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1867] (N[ew] Y[ork] : A. Brown, Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the \"Murray Hill Farm,\" \"Ogden Place Farm,\" Lawrence & Astor, Wiswall & Price, Corporation, Wm. Wright, John Taylor and other property",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6237421\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20426ad3-2c03-4381-aca1-31ce291a37f6/file/c9572e94-c50c-4c2c-8afa-6071f41f8212\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20426ad3-2c03-4381-aca1-31ce291a37f6/file/359a64e9-b427-4e82-912a-9b2060eed4e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Fd4%2F1c%2Fb5d41cbc256949aa8564ca0d0ef73b4e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/62e2378a-1575-49e2-aaa3-da3678ac2037/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-20426ad3-2c03-4381-aca1-31ce291a37f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b840v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.990073, -73.967682, 40.76385, 40.73976)",
+  "solr_year_i": 1867.0,
+  "uuid": "princeton-4b29b840v"
+}

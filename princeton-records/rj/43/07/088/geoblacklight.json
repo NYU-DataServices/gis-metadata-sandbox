@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Includes text on dangerous shoals. Depths shown by soundings. At head of title: (C no. 3). Historic Maps copies 2-3 have ms. annotations in pencil.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rj4307088",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : United States Coast Survey], 1850.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Atlantic Coast (Del.),Maps",
+    "Atlantic Coast (Md.),Maps",
+    "North Atlantic Ocean,Navigation",
+    "Coasts,Delaware,Maps",
+    "Coasts,Maryland,Maps"
+  ],
+  "dc_title_s": "Preliminary sketch showing the soundings off the sea coast of Delaware and Maryland (copy 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7682582\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a1c4f2f7-1d79-487a-bd5b-921ec608eb9f/file/bbcb0452-2434-43a7-a671-89e671a495a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a1c4f2f7-1d79-487a-bd5b-921ec608eb9f/file/514f7103-c2d3-4382-8c23-7588efc26130\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2F38%2F2c%2Fb8382cb5c75248a6a4d500bf27f8928d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bc047734-9e19-4f03-aa39-2b2e671b777a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a1c4f2f7-1d79-487a-bd5b-921ec608eb9f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rj4307088",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.1666666667, -74.75, 38.75, 38.0833333333)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-rj4307088"
+}

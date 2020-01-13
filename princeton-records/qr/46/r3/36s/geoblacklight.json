@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Depths shown by soundings and isolines. In upper margin: Geological Survey of New Jersey. Atlas sheet No. 13 (Barnegat).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qr46r336s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton] : The Survey, 1891, c1886 ([N.Y.] : Julius Bien & Co. Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the vicinity of Barnegat Bay, with the greater part of Ocean County from original surveys and levelings excepting the shore-lines of Barnegat Bay which are principally from the plane-table sheets of the U.S. Coast and Geodetic Survey : based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8311891\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e99da23c-7fa4-4c32-9303-2e2020a488b0/file/81b032ef-a3e7-441e-ab1f-0169c7c7f3e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e99da23c-7fa4-4c32-9303-2e2020a488b0/file/ddf0c842-5f7a-4767-8d30-30ee8f978979\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2Faf%2F11%2Fd1af1111cc7747efafd204e1a9e16130%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cce061bb-684d-47fb-b135-f5bfe40651e1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e99da23c-7fa4-4c32-9303-2e2020a488b0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qr46r336s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.416809, -74.000015, 40.120944, 39.633523)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-qr46r336s"
+}

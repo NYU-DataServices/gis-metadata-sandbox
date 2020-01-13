@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"November 1917.\" Includes location map, key, specials index and text. \"2135.\" Sheet 4 shows Stratford.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz17x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917, c1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Laurel Springs,Maps",
+    "Real property,New Jersey,Stratford,Maps",
+    "Laurel Springs (N.J.),Maps",
+    "Stratford (N.J.),Maps"
+  ],
+  "dc_title_s": "Laurel Springs, Camden County, New Jersey : including Stratford (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5401640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7103e6b-880b-4a9a-8995-8089e802df49/file/5d8ed7d1-c5f6-44c5-9391-5208117f509f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7103e6b-880b-4a9a-8995-8089e802df49/file/3e82f47b-7e5f-4d93-bd45-db08af966c20\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2F30%2Fea%2Fe330eaecf88846e2a33dc82db4400c52%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3bd6ce11-a477-4373-a5d6-b8f476df4c44/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b7103e6b-880b-4a9a-8995-8089e802df49",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz17x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.007, -75.0015, 39.826, 39.8213)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-6d56zz17x"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 5 (Southwestern Red Sandstone) (1895) New Jersey Geological Survey Relief shown by 20 ft.( in the northwest) and 10 ft (in the southeast portion) contour intervals and spot heights. \"From original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey.\" In upper margin: Geological Survey of New Jersey. Atlas sheet no. 5",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365676n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mines and mineral resources",
+    "Quarries and quarrying",
+    "Hunterdon County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the vicinity of Flemington from Somerville and Princeton westward to the Delaware",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449146\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fad864b7-30e4-4c70-89ae-18a3e0e8ab81/file/baabdd49-c700-4e27-b2e9-f32d0e8b2c1d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca1a98d2-a847-428d-a221-4c6dc80eef54/file/775d9c54-18b2-4b7a-81fe-397aef745873\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca1a98d2-a847-428d-a221-4c6dc80eef54/file/63158f24-4cae-4d3c-8fe8-a9a4cc03f599\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Fdc%2F20%2F5ddc20860a2341bf9fea513b7fd35794%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2196d781-f501-4f78-af53-ed8973ef9ed0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca1a98d2-a847-428d-a221-4c6dc80eef54",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365676n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.06666666666666, -74.61666666666666, 40.71666666666667, 40.2)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-ff365676n"
+}

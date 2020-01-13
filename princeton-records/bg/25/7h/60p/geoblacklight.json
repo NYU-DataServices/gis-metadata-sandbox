@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Covers Newark region and adjacent part of New York City. Relief shown by contours and spot heights. Includes notes. Historic Maps copy 2 imperfect: upper portion of sheet 2 torn; sheet 1 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h60p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton?] : Geological Survey of New Jersey, 1882 (Julius Bien, lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Newark Region (N.J.),Maps",
+    "Newark Metropolitan Area (N.J.),Maps",
+    "New Jersey,Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "A topographical map of a part of northern New Jersey [sheet 2, east part]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8293050\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa4fb9fc-3d2f-4e17-ba51-6d5134dd7011/file/2ce0617a-4355-410d-9b95-3d4fa0cd2268\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa4fb9fc-3d2f-4e17-ba51-6d5134dd7011/file/1d4b10f0-424b-4450-98ec-703a72e81d1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F07%2F27%2Fa707270dda08401388af27e67dc321ee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/223dcf18-5c27-4d41-8679-ec85c2488b27/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fa4fb9fc-3d2f-4e17-ba51-6d5134dd7011",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h60p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.55, -73.8833333333, 40.9666666667, 40.4666666667)",
+  "solr_year_i": 1882.0,
+  "uuid": "princeton-bg257h60p"
+}

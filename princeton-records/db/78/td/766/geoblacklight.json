@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Chester. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1894. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/db78td766",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Chester (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania-Delaware-New Jersey: Chester Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867500\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b00823b-b253-4852-a126-70d09091f347/file/15c7b611-2b14-4e95-b4f2-5f415dfd7127\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a06363d2-a76f-4604-84f3-5335542f2d11/file/53b0a609-316c-44a3-9561-bc13f95fccbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a06363d2-a76f-4604-84f3-5335542f2d11/file/06430677-3841-4170-9a00-596787a6dacb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F21%2Fc5%2Fa521c5dcf7a045e68d2cce7ea8cf4211%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d3140509-2336-4f1b-884e-acf8aa53d6dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a06363d2-a76f-4604-84f3-5335542f2d11",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-db78td766",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 40.0, 39.75)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-db78td766"
+}

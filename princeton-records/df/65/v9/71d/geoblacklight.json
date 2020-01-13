@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J. coast vol 1.\" North oriented toward upper right. Sheets 82-84 inclusive of vol. 1 of New Jersey coast map series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/df65v971d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rumson,Maps",
+    "Real property,New Jersey,Shrewsbury (Township),Maps",
+    "Rumson (N.J.),Maps",
+    "Shrewsbury (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Rumson Road, Shrewsbury Township (Sheet 82)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4834667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46bc8077-3dc7-4138-96f9-0e73302aa52e/file/8c37e3da-5674-4b3a-8908-ab891b6db59d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46bc8077-3dc7-4138-96f9-0e73302aa52e/file/58ef2b4d-d63e-46b9-be72-d3110d5491dd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F26%2F53%2F612653c46ddd4a599c0ccfbd5bd351aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a35caad0-5303-47ba-abd8-58e6092608ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-46bc8077-3dc7-4138-96f9-0e73302aa52e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-df65v971d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.074905, -74.040653, 40.338267, 40.311532)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-df65v971d"
+}

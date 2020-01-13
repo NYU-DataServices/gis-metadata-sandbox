@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Tanganyika. Department of Lands & Surveys"
+  ],
+  "dc_description_s": "Relief shown by contours. Original map is filed in the Map/Geospatial Center, a map reproduction is included in companion volume. \"Administrative boundaries revised to May, 1950.\" \"C.B.H. 26164, 24874.\" Include index to gazetteer reference, and diagram showing the magnetic variation 1947. This topographic map shows the territorial boundaries, provincial and district administrative divisions, railways, two classes of roads, and aeronautical information.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj96p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Dar-es-Salaam : Dept. of Lands and Surveys, 1950.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Tanzania,Maps",
+    "Great Britain,Colonies",
+    "Tanzania,Maps",
+    "Rwanda,Maps",
+    "Burundi,Maps",
+    "Tanzania,Administrative and political divisions,Maps",
+    "Africa, West,Maps"
+  ],
+  "dc_title_s": "Tanganyika",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9200597\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7f788bf-26e5-4b36-8b34-6ff0f48d4229/file/33a21869-4f0e-4eb7-813a-e348b31645b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7f788bf-26e5-4b36-8b34-6ff0f48d4229/file/df417879-bb96-43f5-99bf-3da9e672b798\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2Fc5%2F5d%2F99c55d777fec45949f6b7449530ef2a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33a4c9d6-3219-48bc-a696-64770e320f52/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Tanzania"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7f788bf-26e5-4b36-8b34-6ff0f48d4229",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj96p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.000833, 40.469167, -1.02, -11.771111)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-2801pj96p"
+}

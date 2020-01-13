@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1910.\" Includes key and text. \"2625.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xk81jn49m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Old Bridge,Maps",
+    "Old Bridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Old Bridge, Middlesex County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5532132\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ff23032-8751-4c9d-b1bb-7570b4321ffe/file/0fa94d26-00f3-4389-b2d1-77a6e9bb6e3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ff23032-8751-4c9d-b1bb-7570b4321ffe/file/3d46ec6b-6edb-4b3e-8dea-ebc4739e3110\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2F70%2Fc3%2F9070c3670e0e432bbb9f4c47320beb66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1de182a2-1fa9-4be5-a2c8-72e5efdc561b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3ff23032-8751-4c9d-b1bb-7570b4321ffe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xk81jn49m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.37302869, -74.3574217153, 40.4205217939, 40.4115806156)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-xk81jn49m"
+}

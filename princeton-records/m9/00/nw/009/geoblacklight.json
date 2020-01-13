@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bosnia and Herzogovina with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m900nw009",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina, 1997 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d1c36f8-92dc-4c13-9ff4-3861d4993380/file/277599ec-ed9a-499b-9b2a-36593a53384e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f104bce-2bf2-41aa-a5ab-3aea961425e2/file/8e0c8472-0533-404a-8e3d-50c133cbc7bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f104bce-2bf2-41aa-a5ab-3aea961425e2/file/08d6c6b1-4b8a-496a-9462-835ac95207a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F4d%2F62%2Fd04d62e01ead432783e8aab4fbd4e6de%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/601f23dc-5b60-437f-8f35-14af4174a007/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Herzegovina",
+    "Europe",
+    "Balkans",
+    "Bosnia"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9f104bce-2bf2-41aa-a5ab-3aea961425e2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nw009",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 20.0, 45.0, 42.0)",
+  "solr_year_i": 1997.0,
+  "uuid": "princeton-m900nw009"
+}

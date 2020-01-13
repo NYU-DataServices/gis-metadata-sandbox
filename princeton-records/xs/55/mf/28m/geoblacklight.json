@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1923.\" Includes location map, key, key map, streets and specials index, and text. \"1055.\" Title from index sheet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xs55mf28m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Salem,Maps",
+    "Real property,New Jersey,Quinton,Maps",
+    "Real property,New Jersey,Alloway,Maps",
+    "Salem (N.J.),Maps",
+    "Quinton (N.J.),Maps",
+    "Alloway (N.J.),Maps"
+  ],
+  "dc_title_s": "Salem, Salem County, New Jersey : including Quinton, Alloway, Pennsville, Fort Elfsborg, Hancocks Bridge & Claysville (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596177\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94588920-2e1c-48d4-b550-2a52a234bcd9/file/c71be4b9-9752-4862-8800-607ed49d36a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94588920-2e1c-48d4-b550-2a52a234bcd9/file/dbeb83d6-1b0b-496a-8311-2c97f10fb990\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F5d%2Ff1%2F1d5df1be90e14c0d91e573a060b780b6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40a174e6-8fa7-481f-8c87-c411392cc3a1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-94588920-2e1c-48d4-b550-2a52a234bcd9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xs55mf28m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-xs55mf28m"
+}

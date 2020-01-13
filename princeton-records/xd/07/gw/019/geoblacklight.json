@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb. 1885.\" Includes key, key map and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gw019",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Belvidere,Maps",
+    "Belvidere (N.J.),Maps"
+  ],
+  "dc_title_s": "Belvidere, N. J. (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5634370\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5578823f-6dae-41cc-bc70-cbc9a36d9f63/file/97419e49-ea0d-4917-9c2a-c01b733325fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5578823f-6dae-41cc-bc70-cbc9a36d9f63/file/333e9cc1-7bbb-47a7-a077-c3ed80bc37a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2F71%2F5a%2F8d715add3e4a4445bacce5c30960bbfa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cc32ed43-5894-42e3-8f3a-94db1e365741/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5578823f-6dae-41cc-bc70-cbc9a36d9f63",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gw019",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-xd07gw019"
+}

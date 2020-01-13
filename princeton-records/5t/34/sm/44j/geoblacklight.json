@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -17.166667. South Decimal Degree -17.333333. East Decimal Degree -68.750000. West Decimal Degree -69.000000. Alternate title: Cerro Pirapi, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sm44j",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1966.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Cerro Pirapi, hoja 5842 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840945\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9821c92d-04be-4f65-ad49-836a3a3f2c6e/file/d05c3be5-e088-49a0-b5d8-506350622be6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9821c92d-04be-4f65-ad49-836a3a3f2c6e/file/f85d8488-5834-41e8-9e12-ffcb2d8e0b16\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F94%2F13%2F509413e00831433c8839113e3861bd12%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f633da4e-c25d-448f-ba29-828fc5af90ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9821c92d-04be-4f65-ad49-836a3a3f2c6e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sm44j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.0, -68.75, -17.166667, -17.333333)",
+  "solr_year_i": 1966.0,
+  "uuid": "princeton-5t34sm44j"
+}

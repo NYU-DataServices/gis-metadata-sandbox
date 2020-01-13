@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bolivia with relief, shown at a 1:3,250,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/02870x479",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "Administrative and Political Boundaries",
+    "Vegetation",
+    "Railroads",
+    "Transportation",
+    "Population",
+    "Roads"
+  ],
+  "dc_title_s": "Bolivia, 1968 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec4a1e85-a4d1-49c4-b258-f6e472c7f2bf/file/bbf4f90d-cbf7-4b2d-b897-c3e5ef8f92a0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2aeaa733-e9fd-4309-89a5-67d0a9867043/file/bb5377a1-c491-4b69-bb76-69e64d159f7b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2aeaa733-e9fd-4309-89a5-67d0a9867043/file/bb672c34-f89d-437a-a88c-88a8f97aa5e8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F26%2F98%2F822698503a024e5ba47d662096fe5aeb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/45bdeb53-4854-4aae-b039-7ea14693723b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bolivia",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2aeaa733-e9fd-4309-89a5-67d0a9867043",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-02870x479",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.0, -58.0, -10.0, -23.0)",
+  "solr_year_i": 1968.0,
+  "uuid": "princeton-02870x479"
+}

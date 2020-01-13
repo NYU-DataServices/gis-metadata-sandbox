@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April, 1916.\" Includes location map, key, key map, streets and specials index, and text. \"1229.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418q541",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westfield,Maps",
+    "Real property,New Jersey,Garwood,Maps",
+    "Westfield (N.J.),Maps",
+    "Garwood (N.J. : Borough),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Westfield, Union County, New Jersey : including the Borough of Garwood (Sheet 23)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5631467\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b556b38-4274-42fa-a712-ffeb2d01ef69/file/565d7476-bacd-4cea-a892-27759c5a3271\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b556b38-4274-42fa-a712-ffeb2d01ef69/file/525da109-de80-4449-92b7-95d158aee924\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/71%2F91%2Fb7%2F7191b7d97ba64624a100ce02aea4e6fe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b48e6f1-77a9-40e1-9478-4eb11dffb3ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9b556b38-4274-42fa-a712-ffeb2d01ef69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418q541",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-p8418q541"
+}

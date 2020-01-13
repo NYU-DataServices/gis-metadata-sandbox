@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Clarke, W. B."
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes index to points of interest, and profile: A comparison of the principal modern buldings in Rome.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bs79j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published under the superintendence of the Society for the Diffusion of Useful Knowledge : Baldwin & Cradock, 1830.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rome (Italy),Maps"
+  ],
+  "dc_title_s": "Plan of modern Rome [copy 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8749639\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcece0b0-9953-4905-806a-74ce95134afa/file/fe905496-249e-4184-8be2-d87e1da2dfda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcece0b0-9953-4905-806a-74ce95134afa/file/914482e3-7c4a-4361-bc30-65e119f3d1b2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2F62%2F91%2Fa06291c2631c4ccb8fc43e7230d8de1f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/651326a4-9bfb-45ef-b7d4-719a085005a8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bcece0b0-9953-4905-806a-74ce95134afa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bs79j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)",
+  "solr_year_i": 1830.0,
+  "uuid": "princeton-1544bs79j"
+}

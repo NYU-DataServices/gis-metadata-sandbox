@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is an azimuthal equal projection map of the Arctic region, shown at a 1:39,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs41w",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Arctic region, 2002",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e5193750-8309-4ce9-b781-57c859c0c323/file/862ef7b5-7929-42c5-b6f6-7dcd6b0d3349\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc1ef56b-d0b9-4521-ab9c-28217bf03c05/file/1c4d76f6-ab06-46fb-b877-1fd1ca799221\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc1ef56b-d0b9-4521-ab9c-28217bf03c05/file/ddd1dadb-931c-4e6c-9af5-585d0b0ff2a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2Fad%2Fa2%2F72ada230f52f4a75a6dd3e6e75b7ba0e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75e3a8f7-76c3-4145-b236-db97522e460b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Arctic region",
+    "Arctic"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cc1ef56b-d0b9-4521-ab9c-28217bf03c05",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs41w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 50.0)",
+  "solr_year_i": 2002.0,
+  "uuid": "princeton-n870zs41w"
+}

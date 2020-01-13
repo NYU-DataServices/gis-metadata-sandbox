@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1901.\" Includes key, key map, streets and specials index, and text. \"5234.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pp989",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901, c1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Butler,Maps",
+    "Real property,New Jersey,Bloomingdale,Maps",
+    "Butler (N.J.),Maps",
+    "Bloomingdale (N.J.),Maps"
+  ],
+  "dc_title_s": "Butler, Morris Co., and Bloomingdale, Passaic Co., N. J. (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5550631\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72089a86-b7d9-4f0c-8f17-3995a4525d80/file/078fda63-146a-429f-8ccb-e24a36ec0c58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72089a86-b7d9-4f0c-8f17-3995a4525d80/file/2a8e3047-17ec-4250-bfbc-0d11c70c4b0d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2F54%2F4a%2F4c544a2194534b8d8c61ef8a2b378328%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/76be309b-af05-4448-89d6-824373ad7496/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-72089a86-b7d9-4f0c-8f17-3995a4525d80",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pp989",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.363116, -74.300322, 41.068396, 40.998442)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-tt44pp989"
+}

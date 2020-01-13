@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1881. Revised in 1903. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3n204090n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hopatcong, Lake (N.J. : Lake),Maps"
+  ],
+  "dc_title_s": "New Jersey: Lake Hopatcong Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831653\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6cb7fc9-d132-4f63-b487-b0c3a97ef02b/file/74fcb129-f5b1-4d77-acb2-ec1c0309be25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6cb7fc9-d132-4f63-b487-b0c3a97ef02b/file/1bbedb05-7541-4e5b-8ade-bb0d89aee358\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Fd6%2F99%2Fc8d69983f1014940b5e3375b0aef9c02%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/665702b9-e175-482b-8e6b-481cbcc79bb2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f6cb7fc9-d132-4f63-b487-b0c3a97ef02b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3n204090n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.0, 40.75)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-3n204090n"
+}

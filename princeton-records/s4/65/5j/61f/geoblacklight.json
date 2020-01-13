@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1900.\" Includes key, streets and specials index, and text. \"4199.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s4655j61f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clayton,Maps",
+    "Clayton (N.J.),Maps"
+  ],
+  "dc_title_s": "Clayton, Gloucester Co., N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5479343\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/abfdc524-7571-4503-a48e-7345d43f884e/file/addf6240-cdf9-4f9a-a9bf-1f5b1a4c0b57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/abfdc524-7571-4503-a48e-7345d43f884e/file/ffe0eefb-5e37-46e2-8d98-c59936e2a8b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F4e%2F2d%2F364e2d976a434f2d9fa5c0f4538c0412%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8890e77e-6bb9-4061-882d-67fc44a845f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-abfdc524-7571-4503-a48e-7345d43f884e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s4655j61f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.120892, -75.031768, 39.679689, 39.640417)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-s4655j61f"
+}

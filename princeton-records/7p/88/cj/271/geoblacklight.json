@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 44 Taroudant. Polyconic projection. Northwest Africa and North Sahara zone grids. Relief shown by 100 foot contour intervals. Compiled from Service Geographique du Maroc 1:100,000, 1931 to 1940. Road classifications corrected from Army Map Service road map Northwest Africa, 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88cj271",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Taroudant, sheet 44. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831027\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e373777-3c49-4cba-a7ed-c3722d3dcb8a/file/73c2aae9-8521-41b2-a039-b9b709dd3778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69cf509d-90a4-4338-a518-235856f77304/file/ea597a48-a0ca-4d8a-bf58-1242976e0b60\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69cf509d-90a4-4338-a518-235856f77304/file/79a46ff5-677f-4d38-9bf2-109bc0302a7d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2F24%2Ffd%2Ff224fd94a9dc4aae8e64a1aeb9a2ec91%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/da58f27d-7a92-4914-a52f-de820e89e854/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-69cf509d-90a4-4338-a518-235856f77304",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88cj271",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.0, -8.5, 30.5, 30.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-7p88cj271"
+}

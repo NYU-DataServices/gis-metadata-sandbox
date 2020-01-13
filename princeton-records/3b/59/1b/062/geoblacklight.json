@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Annual Report of the State Geologist 1893 Geological Survey of New Jersey Companion text: New Jersey Geological Survey. Annual Report of the State Geologist for the year 1893 / John C. Smock. 457p.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591b062",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Drift",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Map showing the distribution of intra-morainic and extra-morainic glacial drift",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449136\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0aae1c72-b131-4b00-a8da-ebb49a908c6c/file/e5de8a4d-9a22-49de-9548-939809eb276e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f6f303b-246f-4247-80a8-263d9340a724/file/ff75b47d-ee28-4935-a903-3b7efeca1f48\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f6f303b-246f-4247-80a8-263d9340a724/file/58178498-76c6-42d2-975e-25a4a987255f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F5a%2F67%2Fce5a67d734bc4378b5e26b4f229bd955%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c784ebaf-0026-4d75-9e8c-3f0bb3e123e0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9f6f303b-246f-4247-80a8-263d9340a724",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591b062",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-3b591b062"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1904. Surveyed in cooperation of the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ht24wk90p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Brier Hill (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: St. Lawrence County Brier Hill Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867003\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dbbe9c97-2927-4e34-88f5-15d41bdf7f06/file/9a0a5823-d57d-484e-9b09-e61aacfb0af9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/732eeb81-39ae-4b05-b00f-d701418176a8/file/1ded7458-d7b4-4d73-ad4b-2d608bf1cecc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/732eeb81-39ae-4b05-b00f-d701418176a8/file/5fd2ab68-a341-47ca-b03a-88d494b2cb28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2Ffe%2F28%2F07fe28f2dae749679b1b603afe5483ed%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c241b011-17dc-408b-8381-952470cade07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-732eeb81-39ae-4b05-b00f-d701418176a8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ht24wk90p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 44.75, 44.5)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-ht24wk90p"
+}

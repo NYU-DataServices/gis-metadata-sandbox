@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also gives the names of adjoining landholders. Oriented with north to the upper right. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g9916",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1868] (N[ew] Y[ork] : T. Bonar, Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bayard, Nicholas,Homes and haunts,New York (State),New York,Maps",
+    "Bayard, Stephen, 1700-1757,Homes and haunts,Nwe York (State),New York,Maps",
+    "Dyckman, John,Homes and haunts,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the West Bayard Farm : the property of Nicholas & Stephen Bayard and the John Dyckman dcd. property as surveyed and laid out into lots in the year 1788 by Casimir Th. Goerck, City Surveyor",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6177327\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ab6edf7-90a7-426b-b08f-447cfa418a5d/file/d2a8f8a5-b548-4c1e-8a7a-4212292d59d6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ab6edf7-90a7-426b-b08f-447cfa418a5d/file/fd234ae2-c7d4-47f5-ab6f-bee32ca2b756\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2F69%2F3e%2Ff9693edcadc84f74b94f44fdf75b1b0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/281f9855-e39d-46c1-829f-b06c7b5bb160/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4ab6edf7-90a7-426b-b08f-447cfa418a5d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g9916",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.009012, -73.995805, 40.730504, 40.718312)",
+  "solr_year_i": 1868.0,
+  "uuid": "princeton-1j92g9916"
+}

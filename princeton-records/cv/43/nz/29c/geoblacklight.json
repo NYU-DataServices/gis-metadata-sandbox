@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Ominato, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 50 meter contour intervals and spot elevations. Depth shown by fathoms. In upper left margin \"Japan city plans 1:12,500\". Includes \"Glossary\". Inset: Location map (1:312,500).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43nz29c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Ominato Naval Base, Aomori Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830431\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/54d63585-6968-477e-8386-f5715698c68f/file/6093f68c-68c9-4af3-8f4f-3cf52ae195c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2bd6db1-50a1-4fc7-a253-37ae678d2850/file/7275e2e2-93a1-42b8-965d-7d3542d42856\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2bd6db1-50a1-4fc7-a253-37ae678d2850/file/5e822be2-3057-4dea-851c-61427e98fcd6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6d%2F6f%2F7a%2F6d6f7a66203849dcafd52514eb4baeae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30a8fa7d-9e36-42d6-9cd6-cfbb3cf33c47/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f2bd6db1-50a1-4fc7-a253-37ae678d2850",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43nz29c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(141.11666666666667, 141.21666666666667, 41.3, 41.21666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-cv43nz29c"
+}

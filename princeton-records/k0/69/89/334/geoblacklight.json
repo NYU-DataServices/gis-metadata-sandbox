@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hondius, Hendrik, 1597-1651"
+  ],
+  "dc_description_s": "Relief shown pictorially. From: Mercator's Atlas. [Amsterdam : Jan Jansson, 1634] Matches Burden's description of version with Dutch text; pagination 379 8.T; from the Atlas of 1634. Includes ill. of ships and sea monsters, and insets showing \"Polus Arcticus\" region and \"Terra Australis incognita.\" Dutch text on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k06989334",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam : Jan Jansson, 1634]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "America,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "America noviter delineata",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4729715\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/d3328172-0094-456a-a418-2dbb7c58dff7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/a662e1fc-0595-417c-86fc-2322fd8048fd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2Fbd%2Fb7%2Ff7bdb73503dd42dbba1aef67ee2455ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c10ae6e-b795-4732-ad9a-2c2218728292/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1634"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ce9d7c7-0094-46ab-b00e-843ad4ac0ece",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k06989334",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-173.5, 0.12, 90.0, -90.0)",
+  "solr_year_i": 1634.0,
+  "uuid": "princeton-k06989334"
+}

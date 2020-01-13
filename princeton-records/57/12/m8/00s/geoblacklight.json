@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Yung-Chia. In upper left margin: China city plans 1:12,500. Polyconic projection. Relief shown by 20 meter contour intervals and spot elevations. Depth shown by fathom. Pinyin name for this city: Wenzhou. Place names transcribed according to the modified Wade-Giles system. With Chinese-English glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m800s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Yung-chia (Wenchow), China, Chekiang Province",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830410\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/206e195d-7025-40e1-a9d7-617b7ab442d0/file/1032f0cf-bd28-4d5f-9d54-ea47be546446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/697f553b-2837-457e-8bea-64596c569ecc/file/27547522-3e75-4a42-b08a-b7ad5a6babf6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/697f553b-2837-457e-8bea-64596c569ecc/file/967772da-3a11-4dde-ac28-e579f94e74fa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2Fcc%2F36%2F9fcc36e1286d4c3d9ae8df0fc4444f45%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f0ae099-9604-44e7-b137-ccf218a0a99f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-697f553b-2837-457e-8bea-64596c569ecc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m800s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(120.61666666666666, 120.68333333333334, 28.05, 28.0)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-5712m800s"
+}

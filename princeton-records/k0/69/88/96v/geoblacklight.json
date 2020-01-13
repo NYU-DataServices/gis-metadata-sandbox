@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Nogata. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698896v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Nogata, Japan, Fukuoka-ken, Kyushu. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449983\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/227c4f64-7748-4fc3-8dd9-ba21b9287aad/file/3c60b33a-69c5-47db-9d8f-18f6c3dcde8a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b2cdffc-72f1-461d-8211-553cd78e1378/file/f13bf5f4-bcf9-4218-8084-f3ca4cdd1138\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b2cdffc-72f1-461d-8211-553cd78e1378/file/cadff5af-5c82-43c7-b0f3-701bdaf7760e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2F03%2F83%2F1f038314846940f5bbe53db04c05d7a0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fc5c252c-0a0c-442f-b634-f1a1c70d3cca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6b2cdffc-72f1-461d-8211-553cd78e1378",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698896v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(130.71666666666667, 130.73333333333332, 33.75, 33.733333333333334)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-k0698896v"
+}

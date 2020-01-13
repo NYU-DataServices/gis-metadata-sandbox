@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by contours and spot heights. Depths shown by soundings and isolines. Includes key. In upper margin: Restricted. Grid provisional.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085n51d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : War Office, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Piraeus (Greece),Maps"
+  ],
+  "dc_title_s": "Town plan of Piraievs (Piraeus)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8815220\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6be37122-0588-4428-acff-710e5cc1fb86/file/9a25ca1b-0c79-41ae-83bd-95d2f859f9e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6be37122-0588-4428-acff-710e5cc1fb86/file/00479c31-de4d-43fa-8a44-ada958369187\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2F4a%2F5f%2F124a5f1d556e45689a871fcd0659edbe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/145012f2-f8fd-4e38-a0ea-51aac6165230/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6be37122-0588-4428-acff-710e5cc1fb86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085n51d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.600125, 23.700203, 37.98347, 37.925132)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-jq085n51d"
+}

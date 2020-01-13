@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "S.N.I. North Decimal Degree 38.733333. South Decimal Degree 38.700000. East Decimal Degree -9.116667. West Decimal Degree -9.200000. With index of important places in Portugese, French, and English. On verso: tourist information in Portugese, French, and English.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s248w",
+  "dc_language_s": "Portuguese",
+  "dc_publisher_s": "Lisbon : [s.n.], 1950[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tourist maps",
+    "City blocks",
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Lisboa/Lisbonne/Lisbon",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816914\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/085322f6-e25e-4b25-91ae-5dbb31dc77b9/file/a49e8319-4fab-4ecd-921d-e5fe1d932924\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/085322f6-e25e-4b25-91ae-5dbb31dc77b9/file/cc95678c-5a9b-4a17-bf5a-a791c40cd4a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ca%2F06%2F45%2Fca06459ab0514063997b40181449fbaa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6bf82c59-adff-4395-92aa-e1d0a329aa9e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-085322f6-e25e-4b25-91ae-5dbb31dc77b9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s248w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.2, -9.116667, 38.733333, 38.7)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-hd76s248w"
+}

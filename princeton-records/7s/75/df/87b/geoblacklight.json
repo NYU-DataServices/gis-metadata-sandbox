@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Raimondi, Antonio, 1826-1890"
+  ],
+  "dc_description_s": "Author's route shown in red. Relief shown by hachures and spot heights. From: Journal of the Royal Geographical Society of London. Vol. 38 (1868), pp. 413-29; held in Firestone Library. Call number: G7 .J687 v.38 1868",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75df87b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : published for the Journal of the Royal Geographical Society, by J. Murray, Albemarle Street, 1868.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Peru,Discovery and exploration,Maps",
+    "Rivers,Peru",
+    "Mantaro River (Peru),Maps",
+    "Apuri\u0301mac River (Peru),Maps"
+  ],
+  "dc_title_s": "Map showing the junction of the Rivers Mantaro and Apurimac to accompany the paper by Professor A. Raimondi",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7620068\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cb7caec-cc86-4928-936e-7bd17da44f60/file/02d39280-8463-4c6e-a72b-64b8475dbf85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cb7caec-cc86-4928-936e-7bd17da44f60/file/96515a0a-d5a5-48fe-ba95-91d84d13fa62\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1c%2F73%2Fde%2F1c73de68c7d4435da72a4493e1d016f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/117b01e4-1b22-4f9d-8e94-b5a751a52b95/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5cb7caec-cc86-4928-936e-7bd17da44f60",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75df87b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.666667, -72.333333, -11.45, -12.833333)",
+  "solr_year_i": 1868.0,
+  "uuid": "princeton-7s75df87b"
+}

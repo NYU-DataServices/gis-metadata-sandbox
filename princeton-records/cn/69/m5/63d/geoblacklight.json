@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1915.\" Includes location map, key, streets and specials index, and text. \"551.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cn69m563d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Gloucester City,Maps",
+    "Gloucester City (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Gloucester City, Camden Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5391376\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/945b1f41-fd05-4b08-9287-5b50c5a4a22e/file/86243216-d9a0-411a-8fbc-8e4e8805e65c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/945b1f41-fd05-4b08-9287-5b50c5a4a22e/file/0338348a-6cb0-4e65-8d1d-8f81e5e95b36\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F4b%2F44%2F084b449a0a3747e7bd178342abb0dcef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f2e4ce01-9ece-4fca-8def-57daf83b5c5e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-945b1f41-fd05-4b08-9287-5b50c5a4a22e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m563d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.13, -75.1258, 39.8946, 39.8897)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-cn69m563d"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour intervals. Triangulation and topography by C.C. Vermeule. Surveyed in 1885-86. Revised in 1903. Verso: legend and explanatory notes: \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p0968669",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Somerville Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Somerville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865937\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c91c84bb-7060-4298-ae2f-397422a16ce1/file/9ca3d0c5-7a1a-492a-a98c-a5d00ff448f7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2030ba8f-bc70-4136-a6cd-29dc8da81c06/file/f4aba0fc-8797-4820-a323-b7e54ab71670\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2030ba8f-bc70-4136-a6cd-29dc8da81c06/file/9478eea7-bb2a-430b-9910-beca12250160\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2Fed%2F76%2Fc1ed7694976940e186954687cf8dc505%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40f1dae8-2689-4819-805e-1f0f6e086ca7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2030ba8f-bc70-4136-a6cd-29dc8da81c06",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p0968669",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 40.75, 40.5)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-0p0968669"
+}

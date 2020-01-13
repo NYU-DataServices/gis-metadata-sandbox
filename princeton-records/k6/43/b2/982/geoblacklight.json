@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France North Decimal Degree 47.6807 South Decimal Degree 47.3207 East Decimal Degree 0.2055 West Decimal Degree -0.6467 Photocopy. Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b2982",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Angers",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518472\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c31d2196-cf9e-4dac-8b7a-fabc7180e195/file/978d2d7e-6658-4b1a-9d4b-adcfc33241dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c31d2196-cf9e-4dac-8b7a-fabc7180e195/file/5a16acc1-364b-43bd-8bec-3c239076d166\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2F51%2F03%2F4b510369cfec4f8a8fe67013394a8873%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/baf45998-f004-4d0a-b7c1-b954f8cc22b7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c31d2196-cf9e-4dac-8b7a-fabc7180e195",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b2982",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.6467, 0.2055, 47.6807, 47.3207)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-k643b2982"
+}

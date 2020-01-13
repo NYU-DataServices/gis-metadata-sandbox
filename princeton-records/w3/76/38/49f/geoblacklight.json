@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Sosnowiec, Poland, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763849f",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Poland 1:100,000. A.M.S M651. Sosnowiec, sheet S-13.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ae369e7d-5313-43b9-99dd-2da36a8525df/file/e527209d-e3d0-46b9-bff8-af26aa48f2a7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a10ec179-822c-41aa-9685-d4c78ea4348a/file/83f2335a-0847-46b3-ae24-3328f3a8f119\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a10ec179-822c-41aa-9685-d4c78ea4348a/file/9fa11a52-dbc5-4d65-a268-61543728c82a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2F21%2Fff%2F5f21ff02b7c24243bdef02fb75b5030e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea93ffb7-9afd-4fc0-8170-ca8536fc0a7e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "G6521.C2.s100.A7M3 S-13",
+    "Sossnowitz",
+    "Sosnowiec",
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a10ec179-822c-41aa-9685-d4c78ea4348a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763849f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.3333, 19.3333, 50.75, 50.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-w3763849f"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Donnet, Alexis"
+  ],
+  "dc_description_s": "In upper margin : Atlas des de\u0301partemens de la France. Re\u0301gion du Nord. N\u00b0 72. Includes: Statistique ge\u0301ne\u0301rale du de\u0301partement; Statistique spe\u0301ciale de Paris. Includes 2 views of Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j6731614g",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : chez Binet, editeur, rue Aubry le Boucher No. 34, [1841]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps",
+    "Seine (France),Maps"
+  ],
+  "dc_title_s": "De\u0301partement de la Seine : environs de Paris",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6070975\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ecb87c04-3f18-4601-937a-1a803bd211ea/file/ae4c3369-f5ea-44e5-809c-8b1c7b205f23\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ecb87c04-3f18-4601-937a-1a803bd211ea/file/a42a307f-b4dd-4c58-ab36-bab9d9e45337\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F82%2Fe9%2Fa582e9a80ad247ff8eab557f8a4c3b87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2e38961f-2870-41df-ba72-5fae4aa5b778/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ecb87c04-3f18-4601-937a-1a803bd211ea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j6731614g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.034775, 2.649666, 49.009149, 48.720966)",
+  "solr_year_i": 1841.0,
+  "uuid": "princeton-j6731614g"
+}

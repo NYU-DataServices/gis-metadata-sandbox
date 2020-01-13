@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Kiepert, Heinrich, 1818-1899"
+  ],
+  "dc_description_s": "Relief shown by shading and gradient tints. Includes 2 inset maps: Politische U\u0308bersicht -- Europa\u0308ische La\u0308nder in demselben Massstabe zur Vergleichung der Gro\u0308ssenverha\u0308ltnisse. Principal meridians: Greenwich, Ferro, and Paris. Wall map, with cloth loops for hanging.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k930c048v",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Verlag von Dietrich Reimer, 1874 (Berlin : Geogr. lith. Inst. v. J. Sulzer)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "South America,Maps"
+  ],
+  "dc_title_s": "Su\u0308d-America im Massstabe von 1:8,000,000",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6443540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/936ce8c4-8272-44e1-a708-b12bfd536755/file/a72a4c42-f573-4fec-904b-a650e6418c3d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/936ce8c4-8272-44e1-a708-b12bfd536755/file/be4f66a2-c717-4aea-aefd-c2df0e9593f7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/89%2F94%2Fe5%2F8994e52e73304a8ca589262ae5e93cbc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e316a67f-b211-4de7-a88b-a67b62a72325/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-936ce8c4-8272-44e1-a708-b12bfd536755",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k930c048v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-110.9, -34.0, 18.7, -56.6)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-k930c048v"
+}

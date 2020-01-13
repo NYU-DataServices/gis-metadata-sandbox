@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1910.\" Includes key and text. \"#3073.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55z9921",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hamburg,Maps",
+    "Hamburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Hamburg, Sussex County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607436\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59d66db3-0eb2-4a67-b041-4fe650737bfa/file/2e61ebb3-315b-465f-94bb-36481a6d7a8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59d66db3-0eb2-4a67-b041-4fe650737bfa/file/dc06cf7a-0859-47da-a89c-7f2e1a189c3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2Ff2%2F8f%2Fd1f28f20ad7047c28794a41e257a72d8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41ef823f-28ed-4314-a13a-bbb1837def72/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59d66db3-0eb2-4a67-b041-4fe650737bfa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55z9921",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-rf55z9921"
+}

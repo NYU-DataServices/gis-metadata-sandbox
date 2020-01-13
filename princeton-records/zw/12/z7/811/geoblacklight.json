@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Carey, Mathew, 1760-1839"
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridians: Beijing and London. In upper right-hand corner: 52. From: Carey's general atlas, improved and enlarged. Philadelphia : M. Carey, 1814.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z7811",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia : M. Carey, 1814]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps",
+    "Korea,Maps"
+  ],
+  "dc_title_s": "China, divided into its great provinces : according to the best authorities",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7705242\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9993443e-9bb5-4465-83a7-d21a50511283/file/03fc59a4-bd18-41c2-8601-e2d22d429318\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9993443e-9bb5-4465-83a7-d21a50511283/file/f1d793e0-a315-420a-9c7e-b17ef569ca2c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2Ff8%2F04%2Fc0f804fd8e394263a9d883f146b78ed6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/958a2ef4-61ef-4aea-9f71-e502e6e97f90/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9993443e-9bb5-4465-83a7-d21a50511283",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z7811",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(89.01, 135.01, 44.02, 17.51)",
+  "solr_year_i": 1814.0,
+  "uuid": "princeton-zw12z7811"
+}

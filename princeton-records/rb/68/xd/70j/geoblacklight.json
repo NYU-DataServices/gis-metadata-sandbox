@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 19 to 45 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 19. \"N.J.C.M. vol. 2.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xd70j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Asbury Park,Maps",
+    "Real propery,New Jersey,West Asbury Park,Maps",
+    "Asbury Park (N.J.),Maps",
+    "West Asbury Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Asbury Park and West Asbury Park (Sheet 44)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792514\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/23430144-9ea9-497a-a07c-d46e9b41be65/file/2cd9c38b-9083-49e3-9c03-1a7b512a4c22\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/23430144-9ea9-497a-a07c-d46e9b41be65/file/73d8ef53-82a1-4864-a1d7-f4b0419b3778\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F38%2F57%2Fb1385701f4884293836d68e9eb8af426%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f44ba55-eda8-4c4e-a082-497be0a16996/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-23430144-9ea9-497a-a07c-d46e9b41be65",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xd70j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-rb68xd70j"
+}

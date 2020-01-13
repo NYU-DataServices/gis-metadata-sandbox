@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Norie, J. W. (John William), 1772-1843"
+  ],
+  "dc_description_s": "World map intended for navigators to use to plot the track of their ships. Relief shown by hachures. \"Additions to 1839.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s258b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : J.W. Norie], 1833.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts",
+    "Plotting charts",
+    "World maps"
+  ],
+  "dc_title_s": "A general chart for the purpose of laying down a ship's track on her voyage from England to the East or West Indies or the Pacific Ocean",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7425180\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b1f2c2a-6f1c-4bca-947a-20d2ae3620b5/file/6e1f5ac5-6657-4bc1-94c2-243b668255b5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b1f2c2a-6f1c-4bca-947a-20d2ae3620b5/file/3f18cbbd-e349-459e-beb9-f868a4d3dd1a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F16%2F28%2Ff416285278ce46a181f6349cdd61512b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/415d6c79-9d7f-42d8-8084-316d1a01cfab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1833"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4b1f2c2a-6f1c-4bca-947a-20d2ae3620b5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s258b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 56.0, -65.0)",
+  "solr_year_i": 1833.0,
+  "uuid": "princeton-hd76s258b"
+}

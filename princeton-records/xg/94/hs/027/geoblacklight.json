@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Saxton, Christopher, 1542?-"
+  ],
+  "dc_description_s": "Imprint derived from the atlas in which this state of the map was first issued. Differs from earlier state by the addition of a plate number, sometime between 1610 and 1622 : numbered 8. Shows county boundaries, rivers, woods, parks and settlements. Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hs027",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[London : George Bishop and John Norton, ca. 1620]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Berkshire (England),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Comitatus Bercheri\u00e6 vulgo Barkshyre : qui olim sedes Atrebatum",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7288721\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a85f434a-ead2-4743-b5ad-487e2c847789/file/c6da964a-5607-4c5c-a88d-f500b0555aea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a85f434a-ead2-4743-b5ad-487e2c847789/file/6de70b6a-8a9f-4c35-8a96-6c6b24b1912a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2Fd1%2F20%2Fadd120fecee04a7e93acb7feb0be0ca8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/36409cd3-1e44-4aca-97db-6c7f6144e805/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1620"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a85f434a-ead2-4743-b5ad-487e2c847789",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hs027",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.727276, -0.574913, 51.771208, 51.350097)",
+  "solr_year_i": 1620.0,
+  "uuid": "princeton-xg94hs027"
+}

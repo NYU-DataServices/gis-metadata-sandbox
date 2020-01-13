@@ -1,0 +1,53 @@
+{
+  "dc_creator_sm": [
+    "Tardieu, P. F. (Pierre Franc\u0327ois), 1757-1822"
+  ],
+  "dc_description_s": "No relief shown. Publisher and place of publication from labels pasted on versos. Historic Maps copy has label on verso: J. Goujon, marchand de cartes, Rue du Bac, no. 6, a\u0300 Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1831cn43h",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Chles. Picquet, 1814.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Post roads,France,Maps",
+    "Post roads,Europe,Maps",
+    "Post roads,Germany,Maps",
+    "Post roads,Great Britain,Maps",
+    "Post roads,Italy,Maps",
+    "Post roads,Spain,Maps",
+    "France,Maps",
+    "Europe,Maps",
+    "Germany,Maps",
+    "Great Britain,Maps",
+    "Italy,Maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Carte des routes de postes de l\u2019Empire Franc\u00b8ais, du Royaume d\u2019Italie et de la Confe\u00b4de\u00b4ration du Rhin [sheet 4]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7198244\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f006ac1e-cfd9-43bb-a102-5ea86fde347a/file/9b7fe0c1-0eb9-4fb8-9689-7970b9e8d4ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f006ac1e-cfd9-43bb-a102-5ea86fde347a/file/c258d25f-b50e-433e-8b39-e5d50f139ccb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b4%2Fbf%2F64%2Fb4bf64fede3b488e85cba260cec98ba9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2484fb6f-b6ad-48a9-9aca-c6e8ec116150/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France",
+    "Spain",
+    "Germany",
+    "Italy",
+    "Great Britain"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f006ac1e-cfd9-43bb-a102-5ea86fde347a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1831cn43h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.5117461, 10.4955731, 49.7913277, 47.5324787)",
+  "solr_year_i": 1814.0,
+  "uuid": "princeton-1831cn43h"
+}

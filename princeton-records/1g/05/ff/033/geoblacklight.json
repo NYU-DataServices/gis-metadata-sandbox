@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Oslo reguleringsvesen. Generalplanavdelingen"
+  ],
+  "dc_description_s": "Density of population shown by dots. Shows pre- and post-1948 city limits. Map shows inner districts data. ?.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05ff033",
+  "dc_language_s": "Norwegian",
+  "dc_publisher_s": "Oslo : Oslo reguleringsvesen, 1951.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Population density",
+    "Population",
+    "City planning,Norway,Oslo,Maps",
+    "Land use,Norway,Oslo,Maps",
+    "Oslo (Norway),Population,Maps",
+    "Norway - Cities (A-Z),Maps"
+  ],
+  "dc_title_s": "[Oslo] folkemengdens fordeling pr. 1-10-1948",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6817081\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93ae7114-9165-4bb5-9452-e7784d83ff48/file/c924cbd9-e334-45c6-8a47-025d816fae36\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93ae7114-9165-4bb5-9452-e7784d83ff48/file/bbb71806-d6d5-46e0-b815-a191936aa133\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F55%2F80%2F0c5580e38f41415890426adbd2ab25b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d336b071-e6b6-4b1e-b238-778c030e69cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-93ae7114-9165-4bb5-9452-e7784d83ff48",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05ff033",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.625, 10.793889, 59.958611, 59.897222)",
+  "solr_year_i": 1951.0,
+  "uuid": "princeton-1g05ff033"
+}

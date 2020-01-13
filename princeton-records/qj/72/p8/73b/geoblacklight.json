@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Mar. 1896.\" Includes key and text. \"311.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p873b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Englewood, Bergen Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246288\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8041baa7-99ad-4e5e-abea-ff9fbf763285/file/2cd4e0cf-0a9d-4f58-841a-82f52db6b1c6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8041baa7-99ad-4e5e-abea-ff9fbf763285/file/b4d94d38-ff7d-4f5c-88ab-1eca282dcde4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F84%2F71%2Fa784713514a34c0788cebb3b237b95fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94f4da3b-9c63-4fa0-8db1-1fd9e94b6bb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8041baa7-99ad-4e5e-abea-ff9fbf763285",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p873b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-qj72p873b"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 21, 30-42, 52-54 of Palisades, N.J. series. Sheets 30-32 show Fairview and part of Cliffside Park, sheets 33-42 show Cliffside Park, sheets 52-54 show Fort Lee and part of Cliffside Park.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv935443m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bergen County,Fairview,Maps",
+    "Real property,New Jersey,Cliffside Park,Maps",
+    "Real property,New Jersey,Fort Lee,Maps",
+    "Fairview (N.J.),Maps",
+    "Cliffside Park (N.J.),Maps",
+    "Fort Lee (N.J.),Maps"
+  ],
+  "dc_title_s": "Fairview, Cliffside Park and Ridgefield, Bergen County, New Jersey (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5238441\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ec3c82ec-8b12-43a0-be8e-8af9c5fbc70d/file/85d283f6-39b3-4eef-98aa-013a3a3e08d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ec3c82ec-8b12-43a0-be8e-8af9c5fbc70d/file/2e686ce9-d58a-4cb6-b551-5791d3905e30\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2F0a%2F67%2F390a67b53f244b1b8181db85635a4098%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3a55f358-9d8b-49b6-a1d8-e699a17a2d43/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ec3c82ec-8b12-43a0-be8e-8af9c5fbc70d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv935443m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034, -73.976, 40.847, 40.806)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-nv935443m"
+}

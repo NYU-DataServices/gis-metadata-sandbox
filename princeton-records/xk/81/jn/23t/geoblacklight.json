@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Pinkerton, John, 1758-1826"
+  ],
+  "dc_description_s": "Relief shown by hachures. At head of map: Pinkerton's modern atlas.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xk81jn23t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by Cadell & Davies ... ; Longman, Hurst, Rees, Orme & Brown ... , 1813.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa, West,Maps"
+  ],
+  "dc_title_s": "Western Africa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4793259\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e26ff028-efbf-4f0e-912d-7ce97f13f269/file/a69fbcc1-d693-4c94-a443-a73a1fb11e1f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e26ff028-efbf-4f0e-912d-7ce97f13f269/file/b8443559-95ad-41ae-8cd8-9e106f447ab4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/10%2F18%2F89%2F101889508e2944ada018aa171cece731%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/89b550de-f4f1-43f3-9b97-bda9cb75bfd1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa, West"
+  ],
+  "dct_temporal_sm": [
+    "1813"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e26ff028-efbf-4f0e-912d-7ce97f13f269",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xk81jn23t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-18.0, 1.76, 18.01, 4.0)",
+  "solr_year_i": 1813.0,
+  "uuid": "princeton-xk81jn23t"
+}

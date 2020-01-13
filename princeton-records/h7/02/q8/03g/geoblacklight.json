@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q803g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Chesterfield (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Chesterfield sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837218\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fbce6bbf-31a4-4010-b80a-4e63ab62cae9/file/946494d0-e57a-4809-81ab-4d8a4e3a67d9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a75bc7c-578b-4a7f-8cd5-901f34b04573/file/42f5657d-5da1-4f6e-9161-9bfdf3eb092e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a75bc7c-578b-4a7f-8cd5-901f34b04573/file/fc6c25f0-9ab2-4c54-8e30-05a9257b2087\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2Ffc%2Fc2%2F5bfcc2c892e94e4993ec851a2dbb242c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/95104ef2-50f5-46c1-9002-c3c8c1a3e816/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1a75bc7c-578b-4a7f-8cd5-901f34b04573",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q803g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -72.75, 42.5, 42.25)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-h702q803g"
+}

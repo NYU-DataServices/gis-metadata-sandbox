@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Corning, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1912. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pr70m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Corning (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Steuben County) Corning Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867725\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0737948-33e5-4739-96a3-c5e8dc0eccea/file/16768a82-6f08-4ddd-9b2b-c8197f74d9e8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5411ad49-35dc-4582-8ead-e8cf337f2b95/file/1ab91230-d2d5-4346-b4bf-183288d0803a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5411ad49-35dc-4582-8ead-e8cf337f2b95/file/95b6121f-1ca0-4381-b487-dab1d48394d7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/87%2Fc3%2F34%2F87c33400724a478f95a369f8dd8a7fc5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d28779ce-1f60-41ee-a281-7a68a7217ee2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5411ad49-35dc-4582-8ead-e8cf337f2b95",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pr70m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.25, -77.0, 42.25, 42.0)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-mc87pr70m"
+}

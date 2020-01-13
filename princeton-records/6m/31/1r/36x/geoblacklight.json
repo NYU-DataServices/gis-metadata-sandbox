@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, key, streets and specials index, key map, and text. \"4526.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6m311r36x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Jersey City,Maps",
+    "Hudson County (N.J.),Maps",
+    "Jersey City (N.J.)"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey, volume 9 : Jersey City (Sheet 64)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5502334\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c7338dc-ad84-4b2f-b8fe-fcf655be644d/file/5ed54566-669a-48a2-bf43-e2d6c946853a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c7338dc-ad84-4b2f-b8fe-fcf655be644d/file/9c438355-747f-4434-a7d2-0fb23e3eb785\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2F6e%2F6e%2F286e6ef75f6641e686e177d85c23d9f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f3f9d41-f65e-47eb-8765-59f4128b45e8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c7338dc-ad84-4b2f-b8fe-fcf655be644d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6m311r36x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-6m311r36x"
+}

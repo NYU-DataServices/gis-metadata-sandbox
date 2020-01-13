@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Girard, X. (Xavier)"
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes index of street names.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k494j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A\u0300 Paris : Chez J. Goujon e\u0301diteur-proprie\u0301taire, rue du Bac, No. 6, pre\u0300s de le Pont Royal, 1820, corrige\u0301 et augmente\u0301 en Octobre 1822, et Janvier 1823.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Plan de la ville de Paris, divise\u0301 en 12 arrondissemens, et 48 quartiers : indiquant tous les changemens faits & proje\u0301te\u0301s",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6056452\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b1437252-3355-47e0-95bb-c63234726b2a/file/e22261e3-c0a2-4f9e-97d4-2977056d4fd7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1437252-3355-47e0-95bb-c63234726b2a/file/fe936a33-040f-4415-86b2-249aad8e32dd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F5f%2F50%2Fe85f50c6a3bf44d4926a4872613ce254%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb11fa5f-581e-4b68-bb98-ba841ad000c9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b1437252-3355-47e0-95bb-c63234726b2a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k494j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.254287, 2.408439, 48.88776, 48.813943)",
+  "solr_year_i": 1820.0,
+  "uuid": "princeton-td96k494j"
+}

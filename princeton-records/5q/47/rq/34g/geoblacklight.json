@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 2. United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4234. On upper left margin: France. Map was copied from a French map dated 1938.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq34g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "France,Maps"
+  ],
+  "dc_title_s": "Town plan of Vichy. G.S.G.S. 4234",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820823\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9bc8ebc0-2705-4040-a69f-7f54c5005674/file/0967e89f-facf-45bf-a4ff-5746091f1e9e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d513ecf-3490-43d0-b17b-5ef1ed4bd80e/file/9f182605-023f-4408-93d8-c1591977999b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d513ecf-3490-43d0-b17b-5ef1ed4bd80e/file/74e2329a-d438-4398-89fa-4e397908ce29\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F25%2Fa5%2F0c25a576786244e4aa94d33bdf8858a0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/887076dd-20e6-4a58-bc9a-c4e0859e15c9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d513ecf-3490-43d0-b17b-5ef1ed4bd80e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq34g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.4333333333333336, 3.4833333333333334, 46.15, 46.11666666666667)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-5q47rq34g"
+}

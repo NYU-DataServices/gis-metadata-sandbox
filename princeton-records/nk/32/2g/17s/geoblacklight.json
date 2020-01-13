@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States. Dept. of Commerce and Labor. Bureau of Statistics"
+  ],
+  "dc_description_s": "\"Vessel routes shown upon the high seas represent the tracks usually followed by the various steamship lines passing between the ports indicated.\" \"Distances are given in nautical miles.\" World map showing transportation routes, with chart giving \"Distances from New York, New Orleans, San Francisco, and Port Townsend to the principal ports of the world and the principal cities of the United States.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322g17s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Dept. of Commerce and Labor, Bureau of Statistics], 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation,Maps",
+    "Steamboat lines,Maps",
+    "Shipping,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Principal transportation routes of the world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4561295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c98c779f-e83a-4e51-9a27-ba3ed984b550/file/8a88cdac-cb52-479a-8e37-d7622301590b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c98c779f-e83a-4e51-9a27-ba3ed984b550/file/8e16e118-fa58-4f99-af62-4c50e6ded546\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2Fe8%2F51%2F1fe8512e32c64b099627e14abd82699a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3a8be700-4a83-4f86-89dd-2177180ddfaa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c98c779f-e83a-4e51-9a27-ba3ed984b550",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322g17s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 73.0, -60.0)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-nk322g17s"
+}

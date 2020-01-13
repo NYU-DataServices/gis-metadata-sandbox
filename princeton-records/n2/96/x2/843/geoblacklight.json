@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "LaRiccia, Michael"
+  ],
+  "dc_description_s": "In upper left-hand corner: Artworks presents Art all day Trenton. Title from verso. Index to public art map on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n296x2843",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Artworks, 2012.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Trenton (N.J.),Maps"
+  ],
+  "dc_title_s": "Trenton public art map",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7698479\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce04a5b0-c51d-45e0-b575-56cdc5afc68e/file/026b0809-9761-45d6-abe7-3447d8d327c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce04a5b0-c51d-45e0-b575-56cdc5afc68e/file/89147794-ae8c-41be-b9e9-9c08362bb7a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F79%2F36%2F027936c5e2fa45af8422892c7ea7b7a6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fdca8bf3-89a5-4e61-8498-3d42e027009a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ce04a5b0-c51d-45e0-b575-56cdc5afc68e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n296x2843",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.8195815, -74.7289039, 40.248298, 40.1838339)",
+  "solr_year_i": 2012.0,
+  "uuid": "princeton-n296x2843"
+}

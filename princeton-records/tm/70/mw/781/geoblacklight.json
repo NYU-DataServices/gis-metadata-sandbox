@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886-7. Surveyed in cooperation with the state of Massachusetts. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mw781",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Massachusetts: Yarmouth sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837357\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6e2e5b5-9e59-4ddf-904e-06dce9e7dda5/file/7152c547-de9c-4fcd-b662-c72f4ed505a5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e6efdd5-b87f-4e28-80f4-98f0c6883745/file/6b8c6364-e8e7-4a01-b8bf-a9f8d9acb3b7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e6efdd5-b87f-4e28-80f4-98f0c6883745/file/b6e0ef05-29bf-4090-a8b4-6f2063cf3d8f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2Ff4%2Fd1%2F0ff4d12057d24ad2b1b342a3826e9e54%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab974ed4-395e-44ab-8816-c87e8642a06f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1e6efdd5-b87f-4e28-80f4-98f0c6883745",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mw781",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.25, -70.0, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-tm70mw781"
+}

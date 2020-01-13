@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
+  ],
+  "dc_description_s": "Depths shown by isolines and soundings. Relief shown by hachures and spot heights. \"J. & C. Walker Sculpt.\"--Lower right margin. \"Published according to Act of Parliament ... 4th Octr. 1847.\" \"Soundings in fathoms.\" Prime meridian: Greenwich. Includes 3 profiles: Porto Santo -- Dezerta Grande -- Madeira. \"1831\"--Lower right margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343v76b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published ... at the Hydrographic Office of the Admiralty, 1847.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Madeira Islands,Maps",
+    "North Atlantic Ocean,Navigation"
+  ],
+  "dc_title_s": "The islands of Madeira : Porto Santo and Dezertas",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6994978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5e3afdb-7c76-4c2c-a86f-2cb9f36afb4f/file/c30cde6d-e995-44ac-b51e-624f19cf6957\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5e3afdb-7c76-4c2c-a86f-2cb9f36afb4f/file/732cca20-7e9b-4009-8c21-e9f79490df70\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2Fcc%2F38%2F7acc38eced0e4f71a4fcffd885868564%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/844ff7e7-8aa4-4c6e-9133-f2d71e83fbe7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Madeira Islands",
+    "North Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d5e3afdb-7c76-4c2c-a86f-2cb9f36afb4f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343v76b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-17.510122, -15.853671, 33.327039, 32.204619)",
+  "solr_year_i": 1847.0,
+  "uuid": "princeton-jh343v76b"
+}

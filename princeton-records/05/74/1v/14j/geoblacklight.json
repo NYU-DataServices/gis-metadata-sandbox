@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Razetti, Ricardo"
+  ],
+  "dc_description_s": "Relief shown by hachures. Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/05741v14j",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[Caracas] : Lit. y Tip. del Comercio, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Caracas (Venezuela),Maps"
+  ],
+  "dc_title_s": "Plano de Caracas, 1911",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6552321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f0c9751-2fe1-4170-b3b3-79955ac2fe61/file/73cd6fe5-0bd0-4198-96da-01b33fb3dfb5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f0c9751-2fe1-4170-b3b3-79955ac2fe61/file/49d90259-1589-4341-8bcd-03ccca0c3f0d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F69%2F8b%2Fed698b7f7ccb4ef38ee3efca445a35ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d91c38d-2476-4594-bdbf-892b53a50d2f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Venezuela"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f0c9751-2fe1-4170-b3b3-79955ac2fe61",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-05741v14j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-66.976535, -66.860835, 10.554408, 10.404178)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-05741v14j"
+}

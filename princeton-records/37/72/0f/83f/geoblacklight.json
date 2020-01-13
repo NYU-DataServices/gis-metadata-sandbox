@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1904.\" Includes key and text. \"7279.\" North oriented toward upper leftt.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/37720f83f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Helmetta,Maps",
+    "Helmetta (N.J.),Maps"
+  ],
+  "dc_title_s": "Helmetta, Middlesex Co., New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5330154\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a50c0793-60c6-4a45-8ba7-4643ccb51f3a/file/5f6f3060-63da-41ae-8ac4-6e5b95d74d9f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a50c0793-60c6-4a45-8ba7-4643ccb51f3a/file/fd1161a0-a6b3-4ece-a48a-dab84c38967e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2F4d%2Fa6%2F9c4da69cd2f04f698374d80abc9f5f8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9d9b97a7-7ae2-46e3-a21f-7972e8273763/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a50c0793-60c6-4a45-8ba7-4643ccb51f3a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-37720f83f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.438595, -74.409816, 40.38641, 40.366424)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-37720f83f"
+}

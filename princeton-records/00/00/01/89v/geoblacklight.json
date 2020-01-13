@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -20.666667. South Decimal Degree -20.833333. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: San Pedro de Quemez, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/00000189v",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1972.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: San Pedro de Quemez, hoja 5931 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841280\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a38a49a0-9197-4ec7-bd45-f2281d337c5e/file/49b0ec92-1af8-4669-912e-08e1c6d6169a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a38a49a0-9197-4ec7-bd45-f2281d337c5e/file/708ad84b-4aaa-46a8-967a-a675f31117d2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F46%2Fe2%2F3246e28b334145899e921976d865d822%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0f8ff84d-d1e6-45bb-b23d-92f1fb2ded33/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a38a49a0-9197-4ec7-bd45-f2281d337c5e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-00000189v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -20.666667, -20.833333)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-00000189v"
+}

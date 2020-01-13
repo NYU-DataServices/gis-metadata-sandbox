@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: West Chester, PA.-DEL. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1901 in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096865t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "West Chester (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania-Delaware: West Chester Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868115\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b07d22a-ebe7-4822-b930-325efd8155c0/file/a65fface-be5c-4435-99ae-9e891c61c4d4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b31365b-9396-4c73-9b21-c5a297e532de/file/d073943c-2388-468a-909f-b8e55222fb9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b31365b-9396-4c73-9b21-c5a297e532de/file/05164fc6-21b7-4ff9-bce0-1fdc1d1fb345\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d6%2Fbc%2F91%2Fd6bc91c15b304bef98c84d7b104ea17a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/206db54a-0f01-4641-adfb-3407514a04cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1b31365b-9396-4c73-9b21-c5a297e532de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096865t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 40.0, 39.75)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-0p096865t"
+}

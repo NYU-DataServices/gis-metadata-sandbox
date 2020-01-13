@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Vitoria city plan. Copied from Spain 1:50,000 map 112 Europe B 24 MG-33 and Vitoria Ciy G 24-1920-6. Projection approximate.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p0968340",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Vitoria city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816891\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4cc3f5b1-a45e-4ca5-be30-a5fea7c363c1/file/bb863523-eb26-4905-af0e-948a30325b00\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4b9d6b1-d376-426c-b872-ca0b5ba9c643/file/9a0b65ca-04c8-4d41-9b8b-bbd6b083eafd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4b9d6b1-d376-426c-b872-ca0b5ba9c643/file/81df48cc-57dc-47eb-b614-d1f8efa89f4f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F85%2F83%2Fbc8583ae30f74d789c720ba1dc8d6205%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52794f84-fe13-4fa2-ad25-568a0620eefd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4b9d6b1-d376-426c-b872-ca0b5ba9c643",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p0968340",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.7, -2.65, 42.86666666666667, 42.833333333333336)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-0p0968340"
+}

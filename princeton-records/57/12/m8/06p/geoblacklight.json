@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Canaseraga. Relief shown by 20 feet contour interval. Surveyed in 1913-1914. Surveyed in cooperation with the State of New York. Triangulation by W.T. Griswold. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m806p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Canaseraga (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Canaseraga Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866632\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/35942e7e-ce17-4792-b912-c42c7f2ec008/file/fe460575-4109-48d8-a8f5-9bd1780541c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5c5a5b1-90ea-4ad0-b20e-1681bd1ff021/file/ef926fb3-3409-4b22-9706-209aaaa0d3a5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5c5a5b1-90ea-4ad0-b20e-1681bd1ff021/file/ae2f0a94-1a66-44cd-b899-af49828d3c42\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F1e%2F8f%2F331e8f1e90cc4479b4bccad57eaef381%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c06a0af-f79a-461b-b4e1-c8d0f24c39ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a5c5a5b1-90ea-4ad0-b20e-1681bd1ff021",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m806p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 42.5, 42.25)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-5712m806p"
+}

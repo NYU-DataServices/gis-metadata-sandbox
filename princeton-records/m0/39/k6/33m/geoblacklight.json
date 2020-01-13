@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternte title: Vlaseniva.Transverse Mercator projection. Relief shown by 20 meter contour intervals, with 10 meter supplementary contour intervals, and spot elevations. \"Map information as of 1995.\" \"Coordinate conversion WGS 84 to European 1950.\" This sheet falls within NL 34-10, 1501A, 1:250,000 and 2883II, M709, 1:50,000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k633m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Fairfax, VA : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Bosnia and Herzegovina,Maps"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina city graphic 1:10,000. Vlasenica. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449386\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6215ea90-36f5-47c8-9435-d2f92400ff00/file/54ba69c6-7a5e-45fd-ada2-6fa57e037d8d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/889905e7-b348-4185-b623-9e7f51be6747/file/ba091333-f24d-43fd-aa4c-fccaf7f90f97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/889905e7-b348-4185-b623-9e7f51be6747/file/3329507d-f81b-451d-9354-11856a79cd76\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2F73%2Ffb%2F6c73fb6475d540498bd5c5d5d8c84675%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2176f1af-dd67-4c56-af9e-78c5a448df67/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-889905e7-b348-4185-b623-9e7f51be6747",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k633m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.916666666666668, 18.966666666666665, 44.2, 44.15)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-m039k633m"
+}

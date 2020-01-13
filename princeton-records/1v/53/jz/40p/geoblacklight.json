@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour interval. Triangulation by U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53jz40p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cape May sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Cape May sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831138\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3589ed85-3802-4644-9146-4d5754a54657/file/e766849e-bc7f-4a3b-ae01-2bbc95da8c2d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9401a710-0821-422a-a810-ecd79e4e77b7/file/5a12ded7-3723-4030-8bca-edb44b005d4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9401a710-0821-422a-a810-ecd79e4e77b7/file/21103c9d-c382-4994-aac6-a76738082e3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/59%2Fb7%2Fcc%2F59b7cc2b71314905b07615c4ba9911a1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d5f6325-f8f8-4935-b74b-5784cc7dd119/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9401a710-0821-422a-a810-ecd79e4e77b7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53jz40p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 39.0, 38.75)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-1v53jz40p"
+}

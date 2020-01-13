@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Guatemala. Instituto Geografico Nacional. North Decimal Degree 15.500000. South Decimal Degree 15.3333. East Decimal Degree -91.5000. West Decimal Degree -91.7500. Alternate title: Mapa geologico = Geologic map: San Sebastian Huehuetenango, Guatemala. Universal transverse Mercator projection. Relief shown by 20 m. with supplementary 10 m. contour interval and spot heights. \"El levantamiento geologico se efectuo en 1967, dentro de un programa colaborativo entre la Universidad de Texas, Estados Unidos de America y el Instituto Geografico Nacional; como tema para una tesis doctoral.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz116",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Guatemala : Instituto Geogra\u0301fico Nacional, 1972.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Guatemala,Maps"
+  ],
+  "dc_title_s": "Mapa geologico de Guatemala = Geological map of Guatemala. San Sebastian Huehuetenango, hoja 1862 II G",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838937\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58c0b87a-94c5-4458-8408-6b79709c7cc4/file/d66941e0-9c01-45d9-a230-b326eecfe75f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58c0b87a-94c5-4458-8408-6b79709c7cc4/file/763d7f47-e305-40d2-a25d-7882af923cd5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F45%2F19%2F9b4519be926c411fa93d58c6b14c4ade%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/49d74fe7-06ac-4bdb-9c8e-e9f68b3eebfc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-58c0b87a-94c5-4458-8408-6b79709c7cc4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz116",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-91.75, -91.5, 15.5, 15.3333)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-bz60cz116"
+}

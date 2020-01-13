@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Higashi-iwase, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth in fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\". Inset: Location map (1:312,500).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s161785p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Higashi-iwase, Toyama Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449935\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b8c053f-8c91-4685-9677-a0d942a1cf81/file/20373510-8e0f-4c71-a996-873923f4fca0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d76b54ee-3cea-45f0-b4c3-c7ae59008f99/file/47be3bd8-45cf-4329-ab82-b48825ab4e21\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d76b54ee-3cea-45f0-b4c3-c7ae59008f99/file/666331d6-4ff7-426d-9fa0-c868e3890b1a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F05%2F37%2F09053748b3794920b24a5e661bdf8ace%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85cfa7f9-7af1-48ac-9d2c-767094204507/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d76b54ee-3cea-45f0-b4c3-c7ae59008f99",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s161785p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(137.18333333333334, 137.23333333333332, 36.766666666666666, 36.71666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-9s161785p"
+}

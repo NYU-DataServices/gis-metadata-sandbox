@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheet 31 has caption title: Guttenberg & North Bergen. Historic Maps copy has sheets 26 and 30--36 of Hudson County, vol. 8A series, showing Guttenberg and North Bergen.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj139399v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,North Bergen,Maps",
+    "Real property,New Jersey,Guttenberg,Maps",
+    "North Bergen (N.J.),Maps",
+    "Guttenberg (N.J.),Maps"
+  ],
+  "dc_title_s": "North Bergen & Guttenberg (Sheet 36)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5497356\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b87945c0-3978-4672-abf5-56d5d0f09c93/file/26a69411-592b-4638-a7ed-26dd6914f3c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b87945c0-3978-4672-abf5-56d5d0f09c93/file/b9581bd0-485b-4139-a628-5d1b38ded9e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/88%2F44%2F1e%2F88441eb6f9fc4374bddd13fe4232848a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/612bbcd5-b48a-4575-b099-e5938405cd5c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b87945c0-3978-4672-abf5-56d5d0f09c93",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj139399v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-sj139399v"
+}

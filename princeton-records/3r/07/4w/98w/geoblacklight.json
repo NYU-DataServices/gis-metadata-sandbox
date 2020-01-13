@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1886.\" Includes key and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3r074w98w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paulsboro,Maps",
+    "Paulsboro (N.J.),Maps"
+  ],
+  "dc_title_s": "Paulsboro, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482390\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b83903d-337a-4355-beee-e9b8d67cd096/file/4309d783-f280-468e-b56f-dd5ed975610a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b83903d-337a-4355-beee-e9b8d67cd096/file/c5346dce-ed7a-452e-be17-7155174d478c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2F80%2Fe6%2Ffd80e66d4c7c44dfbc9e56297cbd08c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9bf2fc43-a5b2-44c9-81ee-52fcce6a34ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1b83903d-337a-4355-beee-e9b8d67cd096",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074w98w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-3r074w98w"
+}

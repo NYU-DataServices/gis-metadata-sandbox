@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Set covers eastern China, Korea and adjacent parts of Mongolia. Some sheets in German and Chinese. Various issues of some sheets. Relief shown by shading and spot heights. Geographic coverage complete in 22 sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z316q412h",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Ko\u0308nigl. Preuss. Landes-Aufnahme, 1901-",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps",
+    "Korea,Maps"
+  ],
+  "dc_title_s": "Karte von Ost-China [Mukden]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7768571\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27fef37e-fa00-43fd-8233-9b5f3fed134e/file/76ee376f-15a0-4949-b986-dfcbf012398d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27fef37e-fa00-43fd-8233-9b5f3fed134e/file/3ddbdeb9-23c5-43bc-89b9-619297f523ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F48%2F9a%2F0f489a37fc0e49009eaaba26e7248570%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b8575da-d21d-4802-935a-1ff05ea4e2b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27fef37e-fa00-43fd-8233-9b5f3fed134e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z316q412h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-z316q412h"
+}

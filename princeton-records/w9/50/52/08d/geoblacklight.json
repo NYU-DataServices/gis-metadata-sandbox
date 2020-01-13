@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Northampton, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1884-5 in cooperation with the state of Massachusetts. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w9505208d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Northampton (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Northampton sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837483\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fd15b061-97f0-4c68-a358-0f60e65f8e6f/file/03a387a2-f558-4e71-9acd-dd8dfa854c62\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/283d5514-8026-4b5d-951a-3aab592d311b/file/31389c2a-7eb4-4e04-bf39-c418a863e067\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/283d5514-8026-4b5d-951a-3aab592d311b/file/1d4b5af3-cff4-4150-bd2a-d974fcc22c99\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F65%2Fa1%2Ff865a1e86b3b4aeeb91a6530b1d7559c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/baf00750-a234-453f-b67a-6d8334469d81/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-283d5514-8026-4b5d-951a-3aab592d311b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w9505208d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 42.5, 42.25)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-w9505208d"
+}

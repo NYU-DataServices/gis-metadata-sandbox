@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Cerruti, Agostino"
+  ],
+  "dc_description_s": "Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386m75x",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Rome] : Dato in luce da Domenico de Rossi dalle sue stampe in Roma alla Pace ... , l'Anno 1703.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Po River (Italy),Maps,Early works to 1800",
+    "Italy,Maps,Early works to 1800",
+    "Lombardy (Italy),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Corso del Po per la Lombardia dalle sue fonti sino al mare co[n] fiumi, che in esso scaricano, con gli stati de\u0300 principi aggiacenti e confinanti, e con le strade prinicpali",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7994276\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7ce784d-dace-4ce8-ae06-2494d2894609/file/31f49fc0-9ec9-4adc-bce2-2b4255719d26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7ce784d-dace-4ce8-ae06-2494d2894609/file/c8c0d5e8-2436-4462-bb52-56328be2b0a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/01%2F06%2F0c%2F01060c105ee84d9a815715a7059af6b2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3443f632-473a-4375-b77f-1eb2058143ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1703"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7ce784d-dace-4ce8-ae06-2494d2894609",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386m75x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.0, 13.4876, 46.0001, 43.3335)",
+  "solr_year_i": 1703.0,
+  "uuid": "princeton-bc386m75x"
+}

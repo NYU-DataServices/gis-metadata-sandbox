@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1900.\" Includes key and text. \"4318.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182n30s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Egypt,Maps",
+    "New Egypt (N.J.),Maps"
+  ],
+  "dc_title_s": "New Egypt, Ocean Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574060\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f68b2be-06b9-4dc4-9409-79007af23d24/file/f1f63322-36ea-4218-956a-d138f6194c17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f68b2be-06b9-4dc4-9409-79007af23d24/file/a72c68cf-7c4b-461b-b744-249a97245b25\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2Fcd%2F9f%2F18cd9f0b165a4ebbbf5fe0f26fb1e453%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/207c9de9-010e-433c-82cf-176a0f6d9895/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f68b2be-06b9-4dc4-9409-79007af23d24",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182n30s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.550709, -74.510709, 40.087614, 40.047613)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-6q182n30s"
+}

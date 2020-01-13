@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 [Great Britain. War Office. General Staff. Geographical Section. Provisional G.S.G.S. no. 4380] United States. Army Map Service. Provisional G.S.G.S. no. 4380 United States. Army. Corps of Engineers \"Copied from Italian H. O. chart, 1:7,500, no. 148, 1938.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1z40kv593",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Italy 1:7,500. Chioggia city plan.Provisional G.S.G.S. 4380",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449444\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/deb01fef-2526-41ec-8295-1a4791b65a26/file/3d5b9dd9-5962-49e8-abf5-11c29c6910fe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21429888-113d-4352-97d2-3ae7a9d1834c/file/f0fc52b9-b105-4444-917f-b4a40f6a2246\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21429888-113d-4352-97d2-3ae7a9d1834c/file/27f6e179-bbcd-48a8-aceb-0ec449497a8d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F59%2Ff6%2F9359f68c5b454dad946246b5c1e3653c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28b2035a-747e-4831-97e4-cbad52f19a22/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-21429888-113d-4352-97d2-3ae7a9d1834c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1z40kv593",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.266666666666667, 12.333333333333334, 45.25, 45.21666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-1z40kv593"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bertius, Petrus, 1565-1629"
+  ],
+  "dc_description_s": "From: P. Bertii tabularum geographicarum contractarum, 1616, p. 82. On verso: Latin text, entitled: P. Bertii tabularum geographicarum contractarum. Liber tertius, in quo terra subaustralis. Hemispherical map centred on the South Pole. \"Shows 'Magallanica sive Terra Australis Incognita' practically joined to New Guinea, with Beach Provincia, Psittacorum Regio, Promontorium terrae australis and Terra del fuogo all joined together in one vast continent\"--Tooley.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8p58pg32z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Amsterdam : J. Hondius, 1616]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Antarctica,Maps,Early works to 1800",
+    "Southern Hemisphere,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Descriptio terr\u00e6 subaustralis",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5983074\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c890766-b77a-48e5-b267-09cfe516d387/file/5bc256a2-5483-470e-94d6-b5f0c89c8534\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c890766-b77a-48e5-b267-09cfe516d387/file/83740aaa-8df4-4cd8-bbe3-cc3a1faf1882\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F6a%2F18%2F336a18bc17024b87a64601a23e39d313%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc125355-6a2b-4797-8c11-814de751fdec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Antarctic Ocean; Antarctica",
+    "Australia"
+  ],
+  "dct_temporal_sm": [
+    "1616"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7c890766-b77a-48e5-b267-09cfe516d387",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8p58pg32z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, -7.5, -90.0)",
+  "solr_year_i": 1616.0,
+  "uuid": "princeton-8p58pg32z"
+}

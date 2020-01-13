@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Greece showing borders from 1832 to 1915. Includes inset of Cyprus.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53k042f",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[S.l. : s.n., 1915?] (Caire : Lithogr. O. Mourafetli)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Greece,Territorial expansion,Maps"
+  ],
+  "dc_title_s": "Le Developpement territorial de la Gre\u0300ce",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6563450\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b7a2d0f-715d-4ec8-a5a4-ab75383f4f62/file/4dccd480-b626-4761-a46a-62d32b08a64b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b7a2d0f-715d-4ec8-a5a4-ab75383f4f62/file/cdee766e-0321-4d56-a777-7fdb34b27b07\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2F12%2F3f%2F4e123fc096ca4ff8b87fdeb8bae98aad%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dcebfca4-324e-495d-a675-d2989e6e9fe6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b7a2d0f-715d-4ec8-a5a4-ab75383f4f62",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53k042f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(19.05, 30.38, 42.5, 34.67)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-1v53k042f"
+}

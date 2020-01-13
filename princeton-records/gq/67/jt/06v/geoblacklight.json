@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Great Britain. Ordnance Survey of England. Great Britain. Geological Survey of England and Wales. Sheet 12 solid. Geological Survey of Great Britain. North Decimal Degree 55.166700. South Decimal Degree 55.0000. East Decimal Degree -2.4833. West Decimal Degree -2.9167. In upper left margin: Ordnance Survey of Great Britain. Relief shown by contour interval and spot heights.Transverse Mercator projection. National grid system. \"Original geological survey on the six-inch scale by J. C. Ward, D. Burns, J. G. Goodchild, H. Miller, and C. T. Clough. Published, hand coloured, on the one-inch scale on Old series sheet 106 NW in 1889. Resurveyed on the six-inch scale by J. B. W. Day, R. H. Price, D. H. Land, D. a. C. Mills, T. Eastwood and F. M. Trotter in 1927-1927 and 1952-1959.\" \"Based on the Seventh series one-inch map, part of sheet 76 dated 1955.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67jt06v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Southampton : Director General, Ordnance Survey, 1969.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Shields (Geology)",
+    "Cross section",
+    "England,Maps"
+  ],
+  "dc_title_s": "[Geological Survey of England and Wales : one inch to the mile map. New Series.] Bewcastle, solid, sheet 12.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867896\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5215c565-4981-457d-8e70-1aaf04319db7/file/51a823f6-baaf-4752-9c71-b8aa64a8d113\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5215c565-4981-457d-8e70-1aaf04319db7/file/c1f6b79e-a042-41d3-a479-903ee11aeeb2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2F4f%2F1d%2Fa94f1d18e56942c4bb5a0758606cdf9a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/36a7fa51-acb5-4c6f-99d4-a0e996571ac0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5215c565-4981-457d-8e70-1aaf04319db7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67jt06v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.9167, -2.4833, 55.1667, 55.0)",
+  "solr_year_i": 1969.0,
+  "uuid": "princeton-gq67jt06v"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "US Census Bureau, Geography Division"
+  ],
+  "dc_description_s": "Voting districts in Washington based on the US decennial Census of 2010. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/1n79h780f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Washington voting districts from 2010 Census",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47793fff-5bdd-4575-9d89-b775c67e35e4/file/ffec2f47-782b-41b1-bad8-fa7e4d86a565\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/721ccf77-d76e-407d-a8c6-ae6840dc4a02/file/ac5a3df3-088f-4014-ba7f-1027904db1f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/721ccf77-d76e-407d-a8c6-ae6840dc4a02/file/0e4caa6f-1ed2-46cd-952c-fbceb82da469\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-721ccf77-d76e-407d-a8c6-ae6840dc4a02",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h780f",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-124.848974, -116.91558, 49.002494, 45.543541)",
+  "solr_year_i": 2010.0,
+  "uuid": "princeton-1n79h780f"
+}

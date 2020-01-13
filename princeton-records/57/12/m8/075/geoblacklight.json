@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1914.\" \"7036.\" Includes location map, key, specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m8075",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Cresskill,Maps",
+    "Cresskill (N.J.),Maps"
+  ],
+  "dc_title_s": "Cresskill, Bergen County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5240684\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1ceb909-3c36-4a79-bd33-50a54b450347/file/39e7096c-f9ce-460e-9477-f24c89c789d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1ceb909-3c36-4a79-bd33-50a54b450347/file/cbcd386d-d0f0-4cce-9e85-9cc93e82b1c3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2Ff8%2Ffa%2Fa0f8fadb0d2741b79f70a6bdec82b5c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6c9d7ad-e528-45bb-958e-a338494fb8a8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1ceb909-3c36-4a79-bd33-50a54b450347",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m8075",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.98, -73.935, 40.955, 40.926)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-5712m8075"
+}

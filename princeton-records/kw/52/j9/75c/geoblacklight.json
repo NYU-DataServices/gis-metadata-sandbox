@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Amiens in a series of maps of Belgium and NE France, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kw52j975c",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Belgium & N.E. France 1:100,000. G.S.G.S. 4336 (A.M.S. M603). Amiens. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9947b032-164f-4cc8-9d2c-5e2815b075b3/file/5466acd4-1e8e-4b08-8ce4-551bc7882eee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/910d80f0-d536-4cf6-97c7-3311841b4590/file/978e2659-f6a2-4e6e-a440-d8c9bbcfa81a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/910d80f0-d536-4cf6-97c7-3311841b4590/file/bc8f98fa-eb33-4299-8bd1-454eab142866\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F70%2Fe0%2F7c70e0a0b2c942b28623e708a4f30caf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0799264c-f119-4995-ae74-8bac739da40e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium",
+    "G6011.C2.s100.W303",
+    "Amiens",
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-910d80f0-d536-4cf6-97c7-3311841b4590",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kw52j975c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.0, 3.0, 50.0, 49.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-kw52j975c"
+}

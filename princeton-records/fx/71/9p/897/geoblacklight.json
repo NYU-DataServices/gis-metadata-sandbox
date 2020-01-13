@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Ratzer, Bernard"
+  ],
+  "dc_description_s": "Shows ward boundaries, streets, buildings, and names of some property owners. Covers lower Manhattan. Relief shown by hachures. Facsimile. \"Survey'd in 1767.\" In lower margin: For D.T. Valentine's manual, 1854. Includes index to points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fx719p897",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Common Council, 1854] (New York : Lith. G. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps,Early works to 1800,Facsimiles",
+    "New York (N.Y.),Maps,Early works to 1800,Facsimiles"
+  ],
+  "dc_title_s": "To His Excellency Sr. Henry Moore, Bart. capitain general and governour in chief in & over the province of New-York and the territories depending thereon in America Chancellor & Vice Admiral of the same : this plan of the city of New York is most humbly inscribed[map]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6175067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49a41339-d760-4a57-a045-c31094e139cc/file/482857d8-f70a-40a0-a8d0-7acc1cf31819\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49a41339-d760-4a57-a045-c31094e139cc/file/9390aa48-1afa-4191-9f04-48bec0ab021e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2F78%2F5c%2F0e785c8d609342bea5ca832ab12ec247%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f6305a1-6547-4cca-91d8-caf23e1c8cff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-49a41339-d760-4a57-a045-c31094e139cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fx719p897",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019591, -73.970861, 40.733573, 40.699485)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-fx719p897"
+}

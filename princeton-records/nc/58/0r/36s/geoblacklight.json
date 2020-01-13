@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Robert Sayer and John Bennett (Firm)"
+  ],
+  "dc_description_s": "\"Longitude west from London.\" \"Published as the Act directs 10 June 1775.\" Relief shown pictorially. Shows county boundaries. Appears in Thomas Jefferys' The American atlas. 1775.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580r36s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London, Printed for Robt. Sayer & J. Bennett, 1775.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Pennsylvania,Maps,Early works to 1800",
+    "Pennsylvania,Administrative and political divisions,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A map of Pennsylvania exhibiting not only the improved parts of that Province, but also its extensive frontiers: Laid down from actual surveys and chiefly from the late map of W. Scull published in 1770; and humbly inscribed to the Honourable ...",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7120258\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50adf8d6-737d-4bf5-aceb-918358f24a1b/file/0b64835d-d03f-475c-8e35-5674c63b7022\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50adf8d6-737d-4bf5-aceb-918358f24a1b/file/0aa3ef27-ddc7-440c-8866-87c57cbc3362\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F0b%2Fea%2F2b0bea3b5de54654b7f51f599a5c3013%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7de35a42-6aac-4487-9a1d-28a04029bff8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-50adf8d6-737d-4bf5-aceb-918358f24a1b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580r36s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)",
+  "solr_year_i": 1775.0,
+  "uuid": "princeton-nc580r36s"
+}

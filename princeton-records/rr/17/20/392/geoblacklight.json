@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 83 and 85-86 of Passaic, N.J. series, headed: New sheet, Aug. 1918; and sheet 95, headed Add'l. sheet, Aug. 1918.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rr1720392",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Passaic (N.J.),Maps"
+  ],
+  "dc_title_s": "Passaic, N.J. (Sheet 86)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5589706\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31141bcc-b653-4d09-84f9-41a5e7525723/file/241aec2b-3c79-4bc1-9cd9-da91a697e752\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31141bcc-b653-4d09-84f9-41a5e7525723/file/813c5ec4-f522-4834-aec0-0c85b4fd0357\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2Fad%2F7f%2F0aad7f20ae30418ba950c4230aa967a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7023fac-44b0-4968-a13a-41572352b6f2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-31141bcc-b653-4d09-84f9-41a5e7525723",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rr1720392",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-rr1720392"
+}

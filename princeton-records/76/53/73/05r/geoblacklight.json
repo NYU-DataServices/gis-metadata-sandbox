@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"4268.\" Historic Maps copy has \"Burlington\" corrected in ms. to \"Camden.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537305r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Camden,Maps",
+    "Camden (N.J.),Maps"
+  ],
+  "dc_title_s": "Camden, Burlington County, New Jersey (Sheet 17)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355769\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63b2a0c4-daf1-40d9-a0df-87d7d5737f3b/file/17dd0adc-2c48-49b1-94b8-e7f2c7c319c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63b2a0c4-daf1-40d9-a0df-87d7d5737f3b/file/34e931e3-c62c-46bc-84fb-64f8cde414f1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/87%2F75%2Ff4%2F8775f488ae5543059fa06578cccb554a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f6b108f6-a713-4d01-8964-2d3ea29dff5c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-63b2a0c4-daf1-40d9-a0df-87d7d5737f3b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537305r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.128, -75.072, 39.969, 39.9)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-76537305r"
+}

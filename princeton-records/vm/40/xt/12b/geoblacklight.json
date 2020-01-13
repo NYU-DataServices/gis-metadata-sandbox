@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.750000. South Decimal Degree 40.625000. East Decimal Degree -74.125000. West Decimal Degree -74.250000. Alternate title: Elizabeth, N.J.--N.Y. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curves and surroundings in feet- datum is mean low water. Shoreline shown represents the approximate line of mean high water. The mean range of tide is approximately 4.8 feet. \"Mapped, edited, and published by the United States Geological Survey. Revised in cooperation with New York Department of Transportation. Control by USGS, USC&GS, and New Jersey Geodetic Survey. Planimetry by photogrammetric methods and from USC&GS Charts T-5106, T-5110, T-5111, T-5332, T-5468, and T-5469. Topography by photogrammetic methods from aerial photographs taken 1953 and planetable surveys 1955. Revised from aerial photographs taken 1966. Field checked 1967.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt12b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Elizabeth (N.J.),Maps"
+  ],
+  "dc_title_s": "Elizabeth Quadrangle, New Jersey--New York. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844980\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f1ef4b1-cb75-4107-b1c0-e83e03c8fcde/file/6845170c-90de-4e6a-91ae-f1d320e24923\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/236380f8-eff8-41f3-839d-3b809638f2de/file/d4dc5a7b-730a-4a5f-9a09-adeee49443ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/236380f8-eff8-41f3-839d-3b809638f2de/file/2013b47b-4606-496b-a9b1-41be65fdea18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2Fca%2F20%2Ff4ca2059dcca4cc6a1e8e784896c9e72%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b5e30b3-2ebe-4d71-b427-1f6950c93e22/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-236380f8-eff8-41f3-839d-3b809638f2de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt12b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 40.75, 40.625)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-vm40xt12b"
+}

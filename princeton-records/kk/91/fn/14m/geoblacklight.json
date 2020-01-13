@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Mount Holly Alternate title: Mount Holly sheet. \"Surveyed in 1885. Resurveyed in 1899. Relief shown by contours and spot elevation.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kk91fn14m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mount Holly (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Mount Holly",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6523201\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0796acde-36c9-49fa-908d-9d354966e9c5/file/a5e994d8-abed-4ee8-8975-0bece00d508d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c475587-7620-4632-b152-6a517ed69018/file/7af1a3e4-ea0e-4cee-acae-8ba0ae98f3b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c475587-7620-4632-b152-6a517ed69018/file/20a2d2d2-28ef-475c-a22e-e584b3c06811\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2Fca%2F2c%2F00ca2c8ea9584f2098cb7110c55470c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/df0e74a5-e178-4522-8b3b-6f5863bbc1b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c475587-7620-4632-b152-6a517ed69018",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kk91fn14m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.98333333333333, -74.76666666666667, 40.0, 39.88333333333333)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-kk91fn14m"
+}

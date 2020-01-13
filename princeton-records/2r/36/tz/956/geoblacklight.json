@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of the vicinity of Ogdensburg (Brier Hill, Ogdensburg and Red Mills quadrangles). / H. P. Cushing. Albany: New York State Museum. Bulletin 191, 1916. 64p. 2 figures. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36tz956",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Brier Hill (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Brier Hill, Ogdensburg and Red Mills quadrangles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515133\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/50e9538b-fa3f-41e6-b60b-99e84e63c340/file/df1c9bfd-c102-41ef-9163-b97728c20b64\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6dd20493-6ec6-46a9-8e2e-ba2e35ac7a6b/file/ede9d7e4-cdb3-439e-b435-06c23f49034f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6dd20493-6ec6-46a9-8e2e-ba2e35ac7a6b/file/02e6762f-93d9-4f3e-9ab1-4b7cd7cb4259\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3a%2F7a%2F61%2F3a7a61594c0640778f96c9ce6394d767%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5e6507f7-0d53-40c3-8255-e5ac81a76037/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6dd20493-6ec6-46a9-8e2e-ba2e35ac7a6b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36tz956",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.8, -75.25, 44.86666666666667, 44.5)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-2r36tz956"
+}

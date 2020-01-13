@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cc08hh039",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "15 Minute Quadrangle Map",
+    "Elevation",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "New Jersey, Vineland Quadrangle (1905)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9e73018-cea9-4006-9bd6-dcc3e7fce0c5/file/e2811112-cfec-4535-b105-250de94080dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c7134c7-6b7b-4a7b-9413-95581286596c/file/d082e37b-bf72-45bc-99ab-2b6da5316f4d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c7134c7-6b7b-4a7b-9413-95581286596c/file/30fc63c2-544c-4d17-8d3c-12a0a12b21a6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2Fa7%2Fc5%2Feda7c53244494e87be3f1c67e09f86df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/648c8d2a-62b8-4271-bb32-de88093dd378/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cumberland County",
+    "Greenwich",
+    "Delaware Bay",
+    "Millville",
+    "Fairfield",
+    "Lawrence",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2c7134c7-6b7b-4a7b-9413-95581286596c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cc08hh039",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.0, 39.5, 39.0)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-cc08hh039"
+}

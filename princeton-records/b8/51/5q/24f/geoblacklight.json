@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree -18.166667. South Decimal Degree -18.333333. East Decimal Degree -69.000000. West Decimal Degree -69.150000. Alternate title: Cerro Quisi Quisini, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a list of abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q24f",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1969.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Cerro Quisi Quisini, hoja 5739 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840807\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/83af37fe-5bb0-4fb1-a6a8-60a0186630ee/file/f4716149-588a-40f8-9d3f-d4290bc914b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83af37fe-5bb0-4fb1-a6a8-60a0186630ee/file/86f806bf-ac0e-42ff-a494-a7a8bfa0b5f3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2Fc6%2Fb0%2Fbcc6b05620724d70b580a3bedd72aaf2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d57d6fa8-d0a9-4df9-8bec-fd7cf3efd132/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-83af37fe-5bb0-4fb1-a6a8-60a0186630ee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q24f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.15, -69.0, -18.166667, -18.333333)",
+  "solr_year_i": 1969.0,
+  "uuid": "princeton-b8515q24f"
+}

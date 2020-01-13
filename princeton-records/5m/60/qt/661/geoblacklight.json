@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Asia, shown at a 1:50,000,000 scale. The map was created for use by Department of Defense by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt661",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "802382 (R01813) 5-95",
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Asia (1995).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47e8b36d-243f-4eba-8047-18b3c1c7c71e/file/93e023a5-5895-424e-8b17-d1a1c594d0b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7cc89bc-e09c-4409-a9fa-fc11ef15c283/file/7a0008a4-2585-4677-9ecd-decee8b79bf5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7cc89bc-e09c-4409-a9fa-fc11ef15c283/file/e042a475-24d6-468b-bd50-a667f467afcf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2Fe6%2Fdc%2F85e6dcbbb0294fe9a13a5148a78e143a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6601e253-02ad-4b12-a1c2-dd472bb619ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Middle East",
+    "Asia",
+    "Far East",
+    "South Asia"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7cc89bc-e09c-4409-a9fa-fc11ef15c283",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt661",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.0, 180.0, 90.0, -10.0)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-5m60qt661"
+}

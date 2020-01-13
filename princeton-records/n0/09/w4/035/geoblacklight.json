@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Glacial geology of the Saratoga Quadrangle / James H. Stoller. Albany : New York State Museum. Bulletin 183, 1916. 49p. 12 pls. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n009w4035",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Saratoga (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Saratoga Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515134\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4dc0a68f-2bd1-46af-9b70-8884c2962ffc/file/e83c2246-53a6-4db0-ae8d-73cc7bd33e8f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be12fd47-e8ec-411d-8cd8-482b5d5755c1/file/42ec3f64-2bdb-4141-a6fc-c80f89336f11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be12fd47-e8ec-411d-8cd8-482b5d5755c1/file/85e3bccc-48f1-4252-8a01-43ac3b802a62\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2Fcd%2Fbe%2F0dcdbe00f78b43c2b96b4493f67c4c49%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/040be9e1-fb49-4bcf-b0f7-629c8009b025/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-be12fd47-e8ec-411d-8cd8-482b5d5755c1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n009w4035",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 43.25, 43.0)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-n009w4035"
+}

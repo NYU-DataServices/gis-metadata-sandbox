@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: St. Lawrence sheet. Map is 22 sheets stored in box on top of New York map cases. Black and white.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b271s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Saint Lawrence (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: St. Lawrence sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866457\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/97806043-c3f1-44c6-af60-f14bfec844f2/file/8e4fc502-8661-42cb-b488-53dcbbc99dcd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a70cea20-21fe-4f9e-b99b-5a1dbc7942f8/file/658f08ad-5749-46b4-b9f6-33814471b1af\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a70cea20-21fe-4f9e-b99b-5a1dbc7942f8/file/59f58a74-0d8d-498d-8c67-241459c0b860\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2Fce%2Fb6%2F83ceb6d1af15419bbe268eee7eae75e1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2ddc84a4-bd77-4a2e-b81a-f2b8d3624a72/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a70cea20-21fe-4f9e-b99b-5a1dbc7942f8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b271s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -74.83333333333333, 45.0, 43.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-k643b271s"
+}

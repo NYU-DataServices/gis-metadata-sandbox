@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Esri"
+  ],
+  "dc_description_s": "U.S. Counties (Generalized) represents the counties of the United States in the 50 states and the District of Columbia.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/rj430833m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Esri",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Society",
+    "Boundaries",
+    "Farming"
+  ],
+  "dc_title_s": "U.S. Counties (Generalized)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2676e506-79d0-4ed3-830b-023aa63a47f1/file/fd026a5b-2e34-4fff-b85e-72fe88c9ad22\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9dee1aff-0c17-4d6b-909e-a80736a2b9ac/file/3383d3e7-c5a8-4f8e-bdcd-602b0fbc2957\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9dee1aff-0c17-4d6b-909e-a80736a2b9ac/file/799f9620-0438-4626-bf08-259c6b93ab5e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Counties",
+    "Counties"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-9dee1aff-0c17-4d6b-909e-a80736a2b9ac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rj430833m",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-178.217598, -66.969271, 71.406235, 18.921786)",
+  "solr_year_i": 2002.0,
+  "uuid": "princeton-rj430833m"
+}

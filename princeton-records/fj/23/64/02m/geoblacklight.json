@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. \"N.J.C.M. vol. 4.\" Historic Maps copy has sheets 1 and 4-25 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fj236402m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Cape May,Maps",
+    "Real property,New Jersey,South Cape May,Maps",
+    "Real property,New Jersey,West Cape May,Maps",
+    "Cape May (N.J.),Maps",
+    "South Cape May (N.J. : Borough),Maps",
+    "West Cape May (N.J.),Maps"
+  ],
+  "dc_title_s": "Cape May City : including Cape May Point, South Cape May and West Cape May, Cape May County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5321092\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5146ccee-181d-4c92-8d16-4eeffce0abc2/file/3c4bd6fa-6732-473f-947a-837e4f13caa8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5146ccee-181d-4c92-8d16-4eeffce0abc2/file/94b057d3-fb45-43c9-a133-098e3eeac724\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/de%2F0c%2F04%2Fde0c0471fca8477c95c0d1341262a0d2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70af389e-2630-48f2-bc77-73d08f4baa6e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5146ccee-181d-4c92-8d16-4eeffce0abc2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fj236402m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.938801, -74.871605, 38.950125, 38.928588)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-fj236402m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"5659.\" Includes location map, key, key map, streets and specials index and text. \"December 1922.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/70795980p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922, c1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beach Haven,Maps",
+    "Beach Haven (N.J.),Maps"
+  ],
+  "dc_title_s": "Beach Haven, Ocean County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6430218-fe16-48c4-9107-ef989ac0fac5/file/0e09d9ba-5d2e-484a-9f60-c8b44988caef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6430218-fe16-48c4-9107-ef989ac0fac5/file/8a953df4-28a9-4dfc-ac2f-6e226f99f80a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/54%2F3a%2F22%2F543a22f80bb2412ba00d7ea2193fbf42%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4aa9ce90-6c36-4087-84fc-4259e517208e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f6430218-fe16-48c4-9107-ef989ac0fac5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-70795980p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-70795980p"
+}

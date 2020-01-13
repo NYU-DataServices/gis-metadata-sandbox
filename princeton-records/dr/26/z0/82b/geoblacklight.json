@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Smith, Edwin"
+  ],
+  "dc_description_s": "\"New York April 24th 1835.\" Shows Randel's Island, Town of Harlem, Harlem River, East River, and vicinity. Relief of Randel's Island shown by hachures. Oriented with north to the upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dr26z082b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : [s.n.], 1835.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Randalls Island (N.Y.),Maps",
+    "Harlem (New York, N.Y.),Maps",
+    "Harlem River (N.Y.),Maps",
+    "East River (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of Randel's Island and vicinity",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206598\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16cf5b3a-b569-44a5-b97b-b3f9d427bbd6/file/ce5b0e8e-037f-4eab-b81e-4a18d4dc0944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16cf5b3a-b569-44a5-b97b-b3f9d427bbd6/file/d0eb27ad-6475-482b-b41b-4ec4f50983d4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F91%2Fbf%2Fa791bf4e9d6c4d5ea5cecd634e6ce9f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f46bf98-a668-4c94-b46b-80295ffd7bf0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-16cf5b3a-b569-44a5-b97b-b3f9d427bbd6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dr26z082b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.945621, -73.89601, 40.803495, 40.778412)",
+  "solr_year_i": 1835.0,
+  "uuid": "princeton-dr26z082b"
+}

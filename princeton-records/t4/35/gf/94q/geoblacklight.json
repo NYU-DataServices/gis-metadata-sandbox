@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1891.\" Includes key, streets and specials index, and text. \"4663.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t435gf94q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Vineland,Maps",
+    "Vineland (N.J.),Maps"
+  ],
+  "dc_title_s": "Vineland, Cumberland Co., N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5417397\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f2fef3f-d4a9-438e-9305-d25de2e75d02/file/fc19f188-ff01-4ce0-8f2f-ca273cc1f22a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f2fef3f-d4a9-438e-9305-d25de2e75d02/file/5eb785ee-597a-4f94-ad79-afcc1524006f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fe%2F09%2F1f%2Ffe091f5bce39450688fe8ce46e8f42c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90063585-1bab-4040-88b0-b08a11b46b81/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f2fef3f-d4a9-438e-9305-d25de2e75d02",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t435gf94q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-t435gf94q"
+}

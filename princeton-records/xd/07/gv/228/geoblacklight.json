@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Sheets 99-126 of Atlantic City, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gv228",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ventnor City,1921",
+    "Real property,New Jersey,Margate City,1921",
+    "Real property,New Jersey,Longport,1921",
+    "Ventnor City (N.J.),Maps",
+    "Margate City (N.J.),Maps",
+    "Longport (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Ventnor, Margate City and Longport, New Jersey (Sheet 102)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5221935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67e5f825-b7d3-4d13-aafd-29cc5de887da/file/d5953bff-f9cc-42e1-888f-315b6faada81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67e5f825-b7d3-4d13-aafd-29cc5de887da/file/c52974d6-bec5-4dc2-8658-e9e043bbb49f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2F41%2Ff6%2Fa941f6c8826f434199ae3b992f95c756%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47246905-2269-414e-976b-9a47ea0327b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-67e5f825-b7d3-4d13-aafd-29cc5de887da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gv228",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.538, -74.464, 39.357, 39.303)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-xd07gv228"
+}

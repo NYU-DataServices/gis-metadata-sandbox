@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1885.\" Includes key and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km353",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Flemington,Maps",
+    "Flemington (N.J.),Maps"
+  ],
+  "dc_title_s": "Flemington, N.J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4780986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92af0aec-a10d-4c97-a8ad-a3257ccb4a3b/file/c9f3d871-6218-4a9f-beab-1e0ba803506f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92af0aec-a10d-4c97-a8ad-a3257ccb4a3b/file/ed8ccaf2-7555-471a-ba74-86d967367efe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2Faa%2F77%2F4caa7738466d43959210085b01d4411d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3b349e7d-32fa-4be8-9b29-7619ca793576/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-92af0aec-a10d-4c97-a8ad-a3257ccb4a3b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km353",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.869, -74.851, 40.519, 40.498)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-q811km353"
+}

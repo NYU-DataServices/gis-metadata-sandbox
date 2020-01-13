@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie. East View Cartographic. [Soviet Union. Sovetskaia Armiia. General'nyi shtab]. Title from disc: Dandong. At head of title: China 1:10,000. Russian city plan. Gauss-Krugger/Pulkovo 1942/Krassovsky projection. 1 computer optical disc, 4 3/4 in. Raster. Format: Tiff.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m3464",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "[Moscow?] : Sovetskaia Armiia General'nyi shtab, 1975.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Kitai provintsiia Liaonin. Koreia provintsiia Pkhenan-Pukto. Dan'dun (An'dun) i Sinyichzhu (K-51-141). Sheet 1",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830159\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77db5d43-6942-4021-8dc1-09c810862a9e/file/cb2db858-7392-41d5-b472-a21162da9d03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77db5d43-6942-4021-8dc1-09c810862a9e/file/a6c88d79-9009-4c13-b5c0-54315fe71909\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/25%2F77%2Fd7%2F2577d741b5864a7d83682532c2ce6fad%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c1b45fcf-faa2-4c76-a2e1-959715858ae2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1975"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77db5d43-6942-4021-8dc1-09c810862a9e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m3464",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(124.31666666666666, 124.45, 40.166666666666664, 40.05)",
+  "solr_year_i": 1975.0,
+  "uuid": "princeton-m326m3464"
+}

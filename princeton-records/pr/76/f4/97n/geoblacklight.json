@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1884.\" Includes key and text. North oriented towards left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pr76f497n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1884, c1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Englewood, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246082\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d9db83d-33fc-487d-9523-5d9bdf80bdf8/file/6c29d94c-efe6-42a2-885b-8cb33e9c7d12\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d9db83d-33fc-487d-9523-5d9bdf80bdf8/file/f43dac18-07e3-45c3-bb60-8c7221b78b4b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F71%2Fb7%2Fe571b767e0544fa29d2df624a2f43ae0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01a2fb77-69c6-4b62-a7f3-19d31adbdf8d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9d9db83d-33fc-487d-9523-5d9bdf80bdf8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pr76f497n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-pr76f497n"
+}

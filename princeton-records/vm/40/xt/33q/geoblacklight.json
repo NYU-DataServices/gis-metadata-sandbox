@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Tisza-Fured in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt33q",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Tisza-Fured. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1dfb50df-9d9f-4436-8c9c-519e7d90da47/file/77f6fde3-80bc-44d7-b259-996d869dbf59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/acae64a4-f508-4748-9f98-f8b10580ce59/file/b3a93c26-eea2-4764-a64d-2052cbfeecd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/acae64a4-f508-4748-9f98-f8b10580ce59/file/d9c35e6b-2eb0-4e8d-a841-17f26d4f5266\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7f%2F1f%2F86%2F7f1f868edba04b1ebc4dc68aca414df8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd09cd48-4f96-43b0-b71c-912483a2ce60/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Europe",
+    "Tisza-Fured",
+    "G6031.C2.s100.A7M3",
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-acae64a4-f508-4748-9f98-f8b10580ce59",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt33q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.3333, 21.3333, 47.75, 47.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-vm40xt33q"
+}

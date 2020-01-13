@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1938. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763859w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey,",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Mifflinburg Quadrangle. 15-minute series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868043\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67fe379d-ce6f-446b-a29f-d8e06fe5be66/file/80864aaf-8818-4330-942a-31543b27edda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67fe379d-ce6f-446b-a29f-d8e06fe5be66/file/252289cb-fe79-4e37-a54a-8fdca8b29d95\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2F9b%2F3f%2F849b3fb0ef3b45e3af2f045908c3dff5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/36ac4efb-b20c-4f7c-9fe3-3206f845b784/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-67fe379d-ce6f-446b-a29f-d8e06fe5be66",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763859w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.25, -77.0, 41.0, 40.75)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-w3763859w"
+}

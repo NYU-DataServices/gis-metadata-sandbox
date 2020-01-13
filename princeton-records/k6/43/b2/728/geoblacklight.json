@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geologic reconnaissance of the northern coast ranges and Klamath Mountains, California, with a summary of mineral resources / William P. Irwin. San Francisco, [CA]: California Division of Mines. Bulletin 179. 1960. 80p. Map is plate 1 from California Division of Mines Bulletin 179.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b2728",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Sacramento] : [California Division of Mines and Geology], 1960.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Bathymetric maps",
+    "CA, northwest,Maps"
+  ],
+  "dc_title_s": "Geologic map of northwestern California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6815414\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e3c5926-f28f-4738-85bf-aaa01ceb8600/file/87e51ef5-742a-4014-845b-ad3d0343aa2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3403bf09-c7ff-4d85-bc88-50a3e0aad213/file/04826bd6-2099-4615-be60-85daf21e2c95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3403bf09-c7ff-4d85-bc88-50a3e0aad213/file/e90e293e-a2fd-4906-b606-4a9922cf00ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/10%2Fee%2F2d%2F10ee2d95abf04c8681b7284c03f3c1b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d91b7f2-30c5-4452-8b21-3b477c274c94/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3403bf09-c7ff-4d85-bc88-50a3e0aad213",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b2728",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.03333333333333, -122.3, 42.0, 38.36666666666667)",
+  "solr_year_i": 1960.0,
+  "uuid": "princeton-k643b2728"
+}

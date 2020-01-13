@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Lynch, H. F. B. (Harry Finnis Blosse), 1862-1913"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Also covers Azerbaijan, southern Georgia, and northeastern Turkey. In right lower margin: Stanford's Geographical Establishment. \"The Russian area based upon the Russian Official Survey (5 versts = 1 inch); the Turkish area upon Mr. Lynch's surveys and notes, the map of the Turco-Prussian Frontier made by Russian & English officers in 1849-1855, and much new material hitherto unpublished.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04ds222",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Edward Stanford, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Azerbaijan,Maps",
+    "Armenia,Maps",
+    "Georgia (Republic),Maps",
+    "Turkey,Maps"
+  ],
+  "dc_title_s": "Map of Armenia and adjacent countries",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8238989\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/148c133e-d9e9-4680-805f-f889e8258e82/file/f5b99810-08e2-44d7-93b3-36bc7568e45c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/148c133e-d9e9-4680-805f-f889e8258e82/file/fa02a4fa-633f-4da4-91db-d32817a9c790\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2Fd8%2Fb8%2F40d8b8d5af6346df8822ab291076f063%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bca27326-fbf4-4b7f-9b8d-289b969798e6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Armenia (Republic)",
+    "Iran",
+    "Turkey",
+    "Azerbaijan",
+    "Georgia (Republic)"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-148c133e-d9e9-4680-805f-f889e8258e82",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04ds222",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(38.17, 50.01, 42.18, 37.15)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-kh04ds222"
+}

@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Antwerp in a series of maps of Belgium and NE France, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290b77k",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Belgium & N.E. France 1:100,000. G.S.G.S. 4336 (A.M.S. M603). Antwerp.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/144f1fbc-eea5-48c5-8349-0f5b23796ae5/file/0c29848d-ab15-429c-b2d6-a3305c1629b2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6465a2b7-2dae-4d22-ae94-fd18fd6b9fa8/file/8634e102-f0ba-4269-a1fe-3258e0669903\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6465a2b7-2dae-4d22-ae94-fd18fd6b9fa8/file/4b1b31b9-ee11-422a-af1c-77b8de0fbb6b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2F58%2Ff2%2Fda58f25bddd54984ab32fbe87f89733a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/63d512d0-9f79-4e72-8b3f-66d8dd91db95/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Antwerp",
+    "Belgium",
+    "G6011.C2.s100.W303",
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6465a2b7-2dae-4d22-ae94-fd18fd6b9fa8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290b77k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.0, 5.0, 51.5, 51.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-9p290b77k"
+}

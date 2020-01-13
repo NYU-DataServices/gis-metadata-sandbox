@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Batangas. In upper left margin: Philippine Islands city plans. Depths shown by soundings in feet. Copied from U.S.C. & G.S. chart 4257.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20st913",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bathymetric maps",
+    "Batangas (Philippines),Maps"
+  ],
+  "dc_title_s": "Batangas, Philippine Islands, Batangas Province. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830999\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/69c8b8b3-34f9-4e6c-be1f-23c70f426374/file/e63a37a4-950a-4a30-99b6-1f42d8c09728\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22cf2c63-3824-44ea-a694-7b32720f4b83/file/766ef58b-f8bc-4d53-97ba-279ddd99afa1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22cf2c63-3824-44ea-a694-7b32720f4b83/file/86c4d294-b706-439a-aeb1-7ce6eb8b9a8c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/aa%2F37%2Fd9%2Faa37d9fb9b9142d7a13b6422bb44e58b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c6ecad1-3f3e-4504-8d83-674cfb7f5cd8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-22cf2c63-3824-44ea-a694-7b32720f4b83",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20st913",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(121.03333333333333, 121.05, 13.766666666666667, 13.733333333333333)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-qz20st913"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Leard, John, marine surveyor"
+  ],
+  "dc_description_s": "Shows Portland Bight, formerly Old Harbour Bay. Relief shown by hachures; depths shown by soundings. Includes 3 views of landscape features, lettered for reference. \"457.\" In upper left-hand corner: Hydrographical Office. Historic Maps copy has label on verso: West Indies. Old Harbor, Long's Wharf, Salt River, Peake Bay, and Walker Bay Anchorages. 457.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3r074x406",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Published according to Act of Parliament by Capt. Hurd RN, Hydrographer to the Admiralty, 7th. Novr. 1815.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Jamaica,Portland Bight",
+    "Portland Bight (Jamaica),Maps"
+  ],
+  "dc_title_s": "The anchoring places at Old Harbour, Long's Wharf, Salt River, Peake Bay and Walker's Bay [map]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6872115\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ec5c674-c241-4172-b1bf-ddd9d35fe19d/file/bd161cba-8936-4b7a-8cea-464f7675dd11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ec5c674-c241-4172-b1bf-ddd9d35fe19d/file/f7849b65-ec39-405b-a782-a6f79926e317\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2Fac%2Fd2%2Fe1acd294fc5c49668df49ea321109275%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ff6bdb4-5b1f-4ef1-bb3a-8b1060268309/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Jamaica"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3ec5c674-c241-4172-b1bf-ddd9d35fe19d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074x406",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.216751, -76.984579, 17.921064, 17.700264)",
+  "solr_year_i": 1815.0,
+  "uuid": "princeton-3r074x406"
+}

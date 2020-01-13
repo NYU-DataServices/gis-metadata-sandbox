@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 \"Copied from a French map 1:6,500, city plan of Metz 1922\". Some buildings are shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4f16c441j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Metz (France),Maps"
+  ],
+  "dc_title_s": "France 1:7,500. Metz. A.M.S. M961",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449396\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22b7ee28-4b19-4fd4-8df9-eb44e0be5b28/file/aee68960-4109-48d7-94be-338baca14a39\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53d48c53-9656-46d0-b22e-f67aa7be36b9/file/910142b2-ce96-4e2d-89dc-8926998bb160\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53d48c53-9656-46d0-b22e-f67aa7be36b9/file/5875ed65-0c22-462b-8bdd-870a53870037\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F9c%2Fb5%2F869cb5c3f66a458a8a9fc531acb6fd83%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1575d225-ace9-4269-9df8-72b08f837422/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-53d48c53-9656-46d0-b22e-f67aa7be36b9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4f16c441j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.15, 6.183333333333334, 49.11666666666667, 49.083333333333336)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-4f16c441j"
+}

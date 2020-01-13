@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Iloilo. In uper left margin: Philippine Islands city plans. Copied from U.S.C.&G.S. chart 4448. Depthsshown by [fathoms?].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j67315320",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bathymetric maps",
+    "Iloilo,Maps"
+  ],
+  "dc_title_s": "Iloilo, Philippine Islands, chartered city of Iloilo. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831004\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3fdedcb-0433-4d7f-8aea-a740f66e610d/file/dc4fd135-be24-4914-9445-b9a794552a98\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b34d37e-ab7b-4f72-b040-551d67ad40cc/file/5d7b20b3-743a-4622-ba60-78f935b0d6b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b34d37e-ab7b-4f72-b040-551d67ad40cc/file/32cb7003-f854-43bd-a6e0-5f7fbe6ece8c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F1c%2F66%2F0f1c667edd7d4652b77a105d0c1e1697%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/db922b31-c4e2-4cbf-ae83-595746decf3d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b34d37e-ab7b-4f72-b040-551d67ad40cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j67315320",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(122.56666666666666, 122.58333333333333, 10.7, 10.683333333333334)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-j67315320"
+}

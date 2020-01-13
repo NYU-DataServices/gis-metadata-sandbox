@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Map of the Chinese province Kuang-tung showing province and district boundaries, transportation, communications, water features and populated places. \"Provisional.\" \"Geographical Section, General Staff, No.2200.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225d56h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : War Office, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Guangdong Sheng (China),Maps"
+  ],
+  "dc_title_s": "Province of Kuang-tung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7711428\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1bf8c3e6-6382-4389-80eb-f95937b1a474/file/127b8ae2-daef-443c-9ed2-a69a97c7f9b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1bf8c3e6-6382-4389-80eb-f95937b1a474/file/0ca55341-45d5-4ce0-a19f-0fd112d8d836\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2F5f%2F28%2F1e5f28a4277b484f88a6ca636e25b4cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/55372505-e862-4fdf-9b2a-f7537908c6ec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Guangdong Sheng (China)"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1bf8c3e6-6382-4389-80eb-f95937b1a474",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225d56h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(111.02, 117.96, 26.01, 20.01)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-0k225d56h"
+}

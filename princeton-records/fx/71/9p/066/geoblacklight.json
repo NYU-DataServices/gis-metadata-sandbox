@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1910.\" Includes key, streets and specials index, and text. \"No. 3066.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fx719p066",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Allentown,Maps",
+    "Allentown (N.J.),Maps"
+  ],
+  "dc_title_s": "Allentown, Monmouth County, New Jersey (Index Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792909\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e3be928-4ac4-41fe-8fe1-f955e05b17c4/file/f2dcc4cc-c501-4861-aa55-c86fb97e0bd4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e3be928-4ac4-41fe-8fe1-f955e05b17c4/file/b64295ce-5322-4899-b71d-2d56957e7ee4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F7d%2F6a%2Fff7d6a12fd8d4713ac669419b1f3eba9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9928276-321f-47f1-840f-49973c030ca7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4e3be928-4ac4-41fe-8fe1-f955e05b17c4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fx719p066",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.599, -74.576, 40.185, 40.172)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-fx719p066"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Society for the Diffusion of Useful Knowledge (Great Britain)"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Published May 1841, by the Society for the Diffusion of Useful Knowledge.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j3860947n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : The Society, 1841.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hamburg (Germany),Maps"
+  ],
+  "dc_title_s": "Hamburg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7648608\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/70b37954-db11-477e-8400-83641daaf7eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/c8912fad-5352-4093-8707-17bcc3ed1855\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2F89%2F3f%2F55893f3898ba4d13bed4d53e6daaec57%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33f9c6ff-4546-4f95-8696-d8f1f96d82d5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-baf5963b-fc84-414e-a979-a1be3a1a1e0c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j3860947n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.962546, 10.029237, 53.566875, 53.533474)",
+  "solr_year_i": 1841.0,
+  "uuid": "princeton-j3860947n"
+}

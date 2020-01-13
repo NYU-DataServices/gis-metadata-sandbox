@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Oriented with the north to the upper right. \"7910.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225c62m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Moorestown,Maps",
+    "Moorestown (N.J.),Maps"
+  ],
+  "dc_title_s": "Moorestown, Burlington Co., New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5130100\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f0f1b14-b33b-4fb6-8e7c-f22d340aa1af/file/511680f3-d479-4bb4-97e1-fc8a3bd5f4dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f0f1b14-b33b-4fb6-8e7c-f22d340aa1af/file/0b63d87b-f9ab-4fc6-9139-2fb7a7eeba55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2Fd1%2F07%2F07d107b280514e1e805a7dfb4cd8b502%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a0395a57-85a2-467f-98d6-96d9b13c0581/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5f0f1b14-b33b-4fb6-8e7c-f22d340aa1af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225c62m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.006, -74.884, 40.014, 39.937)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-0k225c62m"
+}

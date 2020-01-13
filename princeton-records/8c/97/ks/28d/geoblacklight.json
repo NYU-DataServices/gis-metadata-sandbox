@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -11.166667. South Decimal Degree -11.333333. East Decimal Degree -68.750000. West Decimal Degree -69.000000. Alternate title: Comunidad Avemanu, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks28d",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1986.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Comunidad Avemanu, hoja 5860 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841076\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9864df15-e78d-4f18-877d-de79475f6044/file/0c6bde5d-ddd6-4201-a1c7-b1b8090ef395\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9864df15-e78d-4f18-877d-de79475f6044/file/9f4d2a35-3cdc-40a8-8a18-4100125bb863\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Ff0%2Fbd%2F8bf0bdeebc7e4377a24f71dfbbdede0e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4140c2a3-f7d5-4782-a07d-f1842b7c82e2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9864df15-e78d-4f18-877d-de79475f6044",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks28d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.0, -68.75, -11.166667, -11.333333)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-8c97ks28d"
+}

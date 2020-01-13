@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "George Philip & Son"
+  ],
+  "dc_description_s": "Relief shown by hachures. Insets: South Africa -- Northern Natal. Historic Maps copy is unfolded and mounted on cloth.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv935469d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : George Philip & Son, [1899?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "South African War, 1899-1902,Maps",
+    "Free State (South Africa),Maps",
+    "Transvaal (South Africa),Maps"
+  ],
+  "dc_title_s": "The \"Daily mail\" Map of the Boer Republics",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4646943\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b079a573-71c7-49ed-b230-64dfb6b597cd/file/b5600ba4-1e46-41a1-864b-f23d62c8d79f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b079a573-71c7-49ed-b230-64dfb6b597cd/file/16dc7654-e15c-4653-b468-18e56c7077aa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F9c%2Fe9%2F7a9ce9831f2f4fb883864cd9faf0fe16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/08ad6cf4-8bad-49d9-b59a-8ce2b0638444/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b079a573-71c7-49ed-b230-64dfb6b597cd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv935469d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.75, 33.27, -21.75, -30.84)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-nv935469d"
+}

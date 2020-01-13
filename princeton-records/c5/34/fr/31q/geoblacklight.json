@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes text: Note sur l'Archipel des Iles du Cap-Vert -- Suite de la note sur l'Egypte -- Note sur la Se\u0301ne\u0301gambie & la Guine\u0301e. From: Atlas universel de ge\u0301ographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fr31q",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cape Verde,Maps"
+  ],
+  "dc_title_s": "I\u0302les du Cap Vert",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5740211\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/85161f66-f160-411d-bcff-72b1edb777ff/file/b601e569-90cd-4dc7-9389-20e7e87749cf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/85161f66-f160-411d-bcff-72b1edb777ff/file/b89ea0b6-9d06-4f5d-8ea1-d4c6d09cbb8a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/87%2F29%2Fdb%2F8729dbce37a843a3bdb58167741b9e17%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a9eff6c9-66ff-4869-9d7f-bcd6d4786e12/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cabo Verde"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-85161f66-f160-411d-bcff-72b1edb777ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fr31q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-25.5731, -22.4548, 17.4071, 14.6066)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-c534fr31q"
+}

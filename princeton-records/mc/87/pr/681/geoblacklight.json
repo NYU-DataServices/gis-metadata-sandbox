@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jany. 1923.\" Includes location map, key, streets and specials index, and text. \"5719\". Historic Maps copy has sheets 1-20 of Gloucester City series; sheets 21-23, showing Highland Park and Center Township, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pr681",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Gloucester City,Maps",
+    "Gloucester City (N.J.),Maps"
+  ],
+  "dc_title_s": "Gloucester City, including Highland Park and part of Center Township, Camden County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5391388\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13ddaf88-12f6-48c1-81fd-a6b49ee441e5/file/f5f1873e-f154-45e6-80f8-aa543c2376c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13ddaf88-12f6-48c1-81fd-a6b49ee441e5/file/d68915d4-487a-4e0e-9d8d-f78852e85cea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2Fe1%2Fd9%2F99e1d940dce8475c8a6e5a3718916f2b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/24e0ca83-738b-4400-8294-b8cf4bb29760/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-13ddaf88-12f6-48c1-81fd-a6b49ee441e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pr681",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.1192, -75.1119, 39.8943, 39.886)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-mc87pr681"
+}

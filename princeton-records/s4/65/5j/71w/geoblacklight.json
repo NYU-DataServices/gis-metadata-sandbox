@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, correction record, and text. Preliminary sheet [4] has title: Map of congested district of Perth Amboy, N.J. \"6644.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s4655j71w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Perth Amboy,Maps",
+    "Perth Amboy (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Perth Amboy, New Jersey (Sheet 59)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5534290\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/499d2029-1485-4c06-ae5d-97fda7b578ab/file/0d97af81-81c4-46f5-956c-6fc52cf9252f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/499d2029-1485-4c06-ae5d-97fda7b578ab/file/33f48a27-d239-43cd-9625-13b1dcce8ef4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Ff2%2Fd6%2Fe8f2d6dd17e4414da33ced910d892fc6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/417ac9a4-7c2f-43e2-ad18-a6ad9762481b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-499d2029-1485-4c06-ae5d-97fda7b578ab",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s4655j71w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-s4655j71w"
+}

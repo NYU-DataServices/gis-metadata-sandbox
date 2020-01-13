@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Shows the buildings and professors' houses of the College of New Jersey, now Princeton University.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jg81m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Princeton, N.J.? : s.n.., 1882]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton University,Maps",
+    "Princeton, N.J.,Maps"
+  ],
+  "dc_title_s": "Map of the grounds of the College of New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5465178\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d855d11a-b73b-4eac-9316-e69603de0821/file/fc37cb71-b616-4f9f-a959-9d5b4c0faac8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d855d11a-b73b-4eac-9316-e69603de0821/file/0d8d2968-f12c-4ece-9b1b-a5d3c1f3b5f5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2F1b%2F9e%2Fc31b9ed904d846f297a5c53ce1f26c75%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19602223-63e9-4176-a4f6-f25f1a841efb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1882"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d855d11a-b73b-4eac-9316-e69603de0821",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jg81m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.666796, -74.654222, 40.351777, 40.341801)",
+  "solr_year_i": 1882.0,
+  "uuid": "princeton-5138jg81m"
+}

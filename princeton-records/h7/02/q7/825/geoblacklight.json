@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Burma. The map was created by the Central Intelligence Agency. At the date of publication, Myanmar had not been recognized by the US Government as the English conventional name.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q7825",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Burma, 1996",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b4af14ee-2091-463d-ba2b-699998a844c5/file/34cac642-1d0e-458f-9e52-85b6fffdc228\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d3be03c-0358-4529-8575-c891817f164d/file/9207f007-467c-4ef5-be7e-46226ee363a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d3be03c-0358-4529-8575-c891817f164d/file/0fdf037f-a0f9-482d-831f-983ae91598a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/31%2F70%2F2d%2F31702d5763e64faf9900ec6cc91e410b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/92631c91-7d0c-40ba-ab83-58b58f88d9ad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Burma",
+    "South East Asia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3d3be03c-0358-4529-8575-c891817f164d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q7825",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(90.0, 102.0, 24.0, 12.0)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-h702q7825"
+}

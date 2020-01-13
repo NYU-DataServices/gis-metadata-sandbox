@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "De Mayne, Anthony"
+  ],
+  "dc_description_s": "Shows the coastline of Man of War Cay and part of Great Abaco Island in the Bahamas. Relief shown by hachures; depths shown by soundings.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wq27t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published according to Act of Parliament, at the Hydrographical Office of the Admiralty, 10th. Novr. 1830.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Bahamas,Abaco",
+    "Nautical charts,Bahamas,Man of War Cay",
+    "Abaco (Bahamas),Maps",
+    "Man of War Cay (Bahamas),Maps"
+  ],
+  "dc_title_s": "Man of War Cay anchorage",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6862552\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3de18724-1d1f-48aa-9d18-2207771da6f3/file/655529a0-7897-4f27-885c-7eff27590e2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3de18724-1d1f-48aa-9d18-2207771da6f3/file/89895d4a-53ed-4935-9a0e-81eb456e180c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F04%2Fb4%2F1b04b4be45174201a799423552251f8b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a94dfe7e-b8d7-441d-ae9f-3c3c45841acd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bahamas"
+  ],
+  "dct_temporal_sm": [
+    "1830"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3de18724-1d1f-48aa-9d18-2207771da6f3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wq27t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.095962, -76.94181, 26.666807, 26.529353)",
+  "solr_year_i": 1830.0,
+  "uuid": "princeton-9c67wq27t"
+}

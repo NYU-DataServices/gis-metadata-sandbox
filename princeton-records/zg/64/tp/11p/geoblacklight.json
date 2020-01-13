@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1899.\" Includes key, key map, streets and specials index, and text. \"2778.\" Historic Maps copy has stamp of Map Division, Library of Congress, dated Mar. 31, 1899.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zg64tp11p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1899.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Passaic (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Passaic, Passaic Co., New Jersey (Sheet 25)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5578693\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/011d661e-58f2-4f4b-9837-0630d6143782/file/d893d19a-87ad-43dd-8aaf-a4b4d2905c84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/011d661e-58f2-4f4b-9837-0630d6143782/file/6f690f5d-d6ec-463a-a179-1c973e3e2cc1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F68%2F63%2Fa768636f3162462a8fcc3319361a6828%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4dc0bc41-e79f-4857-b4df-a4e427a9534a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-011d661e-58f2-4f4b-9837-0630d6143782",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zg64tp11p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-zg64tp11p"
+}

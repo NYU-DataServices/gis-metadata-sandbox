@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, key map, key, streets and specials index, and text. \"613.\" Historic Maps has title sheet for series (vol. 1-5) at Bib 5054240.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322g33r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume three (Sheet 43)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5464733\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffe1c7ad-f35f-42da-84c7-c389b82129e5/file/8a66d1a8-7767-47a1-84e9-19daa2b5337a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffe1c7ad-f35f-42da-84c7-c389b82129e5/file/2d05991d-cfcf-4bf6-acc8-0bcae85b9cf2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2Ff1%2Faa%2Fecf1aa2af15e4c6e9b4b4ab20bff1fa3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c2808a7e-1771-451b-add3-b65672b11ab0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ffe1c7ad-f35f-42da-84c7-c389b82129e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322g33r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-nk322g33r"
+}

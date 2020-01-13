@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Cornell, Samuel C."
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Entered according to an Act of Congress in the year 1851 by L. Van Derveer ... \" Wall map. Insets: Plan of Flemington -- Plan of Lambert-ville, Hunterdon County, New Jersey. Includes views of the State Capitol, Trenton and County buildings; shows names of property owners.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gf06g512b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia] : Van Derveer & Cornell, 1851.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hunterdon County,Maps",
+    "Hunterdon County ( N.J.),Maps"
+  ],
+  "dc_title_s": "Map of Hunterdon County, New Jersey : entirely from original surveys",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6782124\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a002cad-be22-40de-9884-eafe5c3a7902/file/3640f05b-4427-4cb0-b959-3cfb53b0b021\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a002cad-be22-40de-9884-eafe5c3a7902/file/a6f1c456-406b-4574-8ab1-edcb9e100ee5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2F46%2F6d%2F8b466d2c6f204d2885073f6aa906b611%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6c50f7ef-c8f3-401b-b748-72aabd606fdf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0a002cad-be22-40de-9884-eafe5c3a7902",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gf06g512b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.204506, -74.70369, 40.789085, 40.336655)",
+  "solr_year_i": 1851.0,
+  "uuid": "princeton-gf06g512b"
+}

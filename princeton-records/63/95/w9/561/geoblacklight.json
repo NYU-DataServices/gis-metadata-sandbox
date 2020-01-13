@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bevan, John (Surveyor)"
+  ],
+  "dc_description_s": "Includes names of property owners, list of subscribers and views of buildings. \"Entered according to Act of Congress in the year 1851 by John Bevan ... \"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6395w9561",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Jersey City : John Bevan, 1852, c1851 (N.Y. : Lith. of Sarony & Co.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Princeton,Maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of Princeton, Mercer County, New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7095312\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a23508-b8af-4b92-a8b7-ed95e166d8aa/file/61eacd50-0a54-49d3-9f57-3c95579bf4d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a23508-b8af-4b92-a8b7-ed95e166d8aa/file/f92f362d-a67b-46c8-82f2-8aecaff2a37b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2Fcd%2Fed%2F6bcdededb08346da8c9c879660a64022%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05833ecf-f38e-4cd0-a11c-ded8835e287c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1a23508-b8af-4b92-a8b7-ed95e166d8aa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6395w9561",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
+  "solr_year_i": 1852.0,
+  "uuid": "princeton-6395w9561"
+}

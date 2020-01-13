@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Oriented with the north towards the upper right. \"May 1890.\" Includes key, key sheet, streets and specials index, and text. \"3790.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zw368",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morristown,Maps",
+    "Morristown (N.J.),Maps"
+  ],
+  "dc_title_s": "Morristown, Morris Co., New Jersey (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5562463\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/895b6891-40af-4169-816a-414185c96b6a/file/49ed8462-cd6d-4eb4-aa34-c2107bfaf693\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/895b6891-40af-4169-816a-414185c96b6a/file/29517db4-1783-4844-9bc5-ad1c1cbd9de4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F28%2F7a%2Ff8287ada75f24ab9a69f3118747d9b51%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3b65740d-74c3-404e-97ac-bc86a66d950d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-895b6891-40af-4169-816a-414185c96b6a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zw368",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-dv13zw368"
+}

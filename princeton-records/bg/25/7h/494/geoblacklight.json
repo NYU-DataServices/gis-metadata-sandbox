@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Goerck, Casimir Th., -1798"
+  ],
+  "dc_description_s": "Cadastral map showing property lot numbers and dimensions, sold and leased lots, and names of property owners. Covers the area later bounded by 23rd and 93rd Streets, 1st and 8th Avenues, Manhattan. Facsimile of ms. map. \"March 5th, 1796.\" \"This map copied on a reduced scale by the kind permission of R.T. Haws, Esqr., comptroller, city of New-York by George Hayward, 1861.\" \"Lith. for D.T. Valentine's Manual for 1861 by Geo. Hayward.\" Oriented with north toward the upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h494",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Common Council, 1861] (New York : Geo. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps, Manuscript,Early works to 1800,Facsimiles",
+    "Landowners,New York (State),New York,Maps, Manuscript,Early works to 1800,Facsimiles",
+    "Manhattan (New York, N.Y.),Maps, Manuscript,Early works to 1800,Facsimiles"
+  ],
+  "dc_title_s": "A map of the common lands between the three and six mile stones, belonging to the corporation of the city of New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6169643\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba4301fb-cc60-43d7-838a-6ea524205faf/file/6c35326e-22ef-4447-b7ca-e0dcc1f65697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba4301fb-cc60-43d7-838a-6ea524205faf/file/ba72ec66-980e-41d9-b09c-bfcacb1231a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fe5%2F09%2F47e509f8fa82468bbdd6f804122578c6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8cbcebc-c82b-4ec0-ac00-3b74b30d6059/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ba4301fb-cc60-43d7-838a-6ea524205faf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h494",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019748, -73.928424, 40.79621, 40.699649)",
+  "solr_year_i": 1861.0,
+  "uuid": "princeton-bg257h494"
+}

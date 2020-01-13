@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1898 in cooperation with the State of New York. Triangulation by U.S. Lake Survey. Verso: Description of the topogaphic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v692t7649",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Macedon Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867917\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e13eec16-9770-4bf7-81c1-ffa7ab263b0c/file/bfce5b3c-282a-45a7-b7bb-a2ed1e33dd6c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4cb7fb9c-179d-4983-a91f-efe148036e4a/file/ec7957ba-fa08-41f4-86cc-d7cba32a87a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cb7fb9c-179d-4983-a91f-efe148036e4a/file/89efe79d-bf98-432d-bf5e-36802ba20141\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F3f%2Fff%2F0f3fffb6b629433cb3d3e3ff6040c724%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c8f799c-a129-4481-84a8-27bdac5ec057/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4cb7fb9c-179d-4983-a91f-efe148036e4a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v692t7649",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 43.25, 43.0)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-v692t7649"
+}

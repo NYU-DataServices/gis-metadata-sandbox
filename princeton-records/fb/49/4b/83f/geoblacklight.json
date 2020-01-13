@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Gadsden, James, 1788-1858"
+  ],
+  "dc_description_s": "\"From the original map by G. Hayward, 120 Water St. N.Y. for D.T. Valentine's Manual, 1856.\" Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fb494b83f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Common Council, 1856] (N[ew Y[ork] : G. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),History,Revolution, 1775-1783,Maps,Facsimiles",
+    "Fort Greene (New York, N.Y.),Maps,Facsimiles",
+    "Fortification,New York (State),New York,Maps,Facsimiles"
+  ],
+  "dc_title_s": "Plan of Fort Green, and line of intrenchments, from the Wallabout to Gowanus Creek : with a topographical sketch of the country",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6338677\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6d06896-a9e1-4f75-ae6e-9b51e5a29d33/file/af4b7ed0-078d-4f6f-866c-753bf01fd007\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6d06896-a9e1-4f75-ae6e-9b51e5a29d33/file/15375e0e-5f2e-4496-96f5-70283d226808\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/11%2F1f%2Fd3%2F111fd304b1214934bcc64418a80c4aab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbf3acea-e36b-4505-8b0a-96dc68ac168a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e6d06896-a9e1-4f75-ae6e-9b51e5a29d33",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fb494b83f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.981377, -73.968163, 40.698254, 40.681969)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-fb494b83f"
+}

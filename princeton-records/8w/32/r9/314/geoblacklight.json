@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hills, John (Surveyor)"
+  ],
+  "dc_description_s": "Relief shown by hachures. Facsimile. \"Copy of the original map presented by John Lozier, Esqr. to the Corporation of New York.\" \"Lith. for D.T. Valentine's Manual, 1857, by G. Hayward ...\" Oriented with north to the upper right. Includes \"Reference\" key.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r9314",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : New York Common Council, 1857] (N[ew] Y[ork] : G. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps,Early works to 1800,Facsimiles",
+    "Manhattan (New York, N.Y.),Administrative and political divisions,Maps,Early works to 1800,Facsimiles"
+  ],
+  "dc_title_s": "To his Excellency George Clinton Esqr., Captain General and Governur in Chief of the State of New-York and the territories depending thereon, Chancellor and Vice Admiral of the same...",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6168454\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdae188f-54a0-4ae7-a277-d44799cae900/file/689b4d4b-1242-4e8f-b743-b0f61a516d66\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdae188f-54a0-4ae7-a277-d44799cae900/file/0dbc5608-f219-49db-8626-cde70a6f40e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/98%2F08%2F87%2F9808870f9404462cb59ff71816bd874e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78e65605-f5dd-4def-91ae-b8c8fc3df518/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bdae188f-54a0-4ae7-a277-d44799cae900",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r9314",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019555, -73.970889, 40.739191, 40.699493)",
+  "solr_year_i": 1857.0,
+  "uuid": "princeton-8w32r9314"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Mu\u0308nster, Sebastian, 1489-1552"
+  ],
+  "dc_description_s": "Map of Regensburg; relief shown pictorially. Title in upper margin: Contrafehtung der Statt Regenspurg. Cap. ccclvv.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wj40v",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Basel : Sebastian Henricpetri, 1588]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Regensburg (Germany),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Regenspurg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6032938\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5104d83b-8673-460d-b96a-7d009d9996d3/file/db197cdf-30e8-4624-977b-c68646c21e1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5104d83b-8673-460d-b96a-7d009d9996d3/file/330abc98-b906-4ea4-8819-c61387b2ef91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F18%2Fb3%2F8618b3b216cb40cb98609429b9869fc4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06e753d4-f640-47e1-94bf-6e5bf837730b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1588"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5104d83b-8673-460d-b96a-7d009d9996d3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wj40v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.029075, 12.191607, 49.076416, 48.966747)",
+  "solr_year_i": 1588.0,
+  "uuid": "princeton-r781wj40v"
+}

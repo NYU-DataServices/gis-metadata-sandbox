@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sep. 1886.\" Includes key and text. North oriented toward upper left. Historic Maps copy has stamp of Map Division, Library of Congress, dated Oct. 14, 1886.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w95052607",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Chester,Maps",
+    "Chester (N.J.),Maps"
+  ],
+  "dc_title_s": "Chester, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5552412\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9acde55f-6d2e-46d6-bb8c-31dc943d0617/file/62946ad8-bddf-40db-a29b-bafccd0221bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9acde55f-6d2e-46d6-bb8c-31dc943d0617/file/98b58c30-1dca-4496-9325-cca2516fbe9f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b7%2F98%2F67%2Fb79867ef11684103b2f8dbf611771d2f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f81d4c6-7815-4249-a38c-e03b01accecf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9acde55f-6d2e-46d6-bb8c-31dc943d0617",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w95052607",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.710382, -74.669689, 40.795033, 40.777834)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-w95052607"
+}

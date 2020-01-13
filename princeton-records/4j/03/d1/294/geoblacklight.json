@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1890. Triangulation by U.S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1294",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Connecticut: Middletown sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868159\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1925d64e-b08a-4aa6-b03e-d68addf6d9b9/file/8875a854-0f10-4f7e-a4cf-4f93badb87fa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baa8b30b-8915-4914-a8f7-9bae91fbb718/file/910c45d3-23b8-4049-af12-203d7baaea99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baa8b30b-8915-4914-a8f7-9bae91fbb718/file/81631f08-1a28-418a-84d0-478243a27295\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3f%2F3c%2F7c%2F3f3c7c79358c4928917fa89ec2ff5b91%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2f65e4f0-e9f2-42f5-bddf-18053ac94cb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-baa8b30b-8915-4914-a8f7-9bae91fbb718",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1294",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-4j03d1294"
+}

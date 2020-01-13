@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Includes names of some modern land owners. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67jt60n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1872]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Roads,New York (State),New York,Maps",
+    "Commons,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the common lands from 26th Street to 43rd Street : showing the old streets and plots as surveyed and mapped in 1796 by Cassimer T.H. Goerck, City Surveyor, and the distance between those old streets and our present streets",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6247728\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7eb8ae63-bc0b-47a7-af18-33e1e8fc47bc/file/43ef10e0-78a6-45b3-a9c9-1cae02a4a9b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7eb8ae63-bc0b-47a7-af18-33e1e8fc47bc/file/a49d74b2-94bb-4c53-a97c-ff7f62deff61\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2F68%2F32%2F4868321ed5ea4300a90be44f1d6e7ed7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31a651b3-a2c4-4eff-abd3-8b99f2262fb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7eb8ae63-bc0b-47a7-af18-33e1e8fc47bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67jt60n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.990302, -73.967965, 40.764668, 40.737586)",
+  "solr_year_i": 1872.0,
+  "uuid": "princeton-gq67jt60n"
+}

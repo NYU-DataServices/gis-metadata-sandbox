@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Relief shown pictorially. Massstab in graph. Form (Scala Milliarium). Has an elaborate title cartouche, as well as additional cartouches to the right: Incerti sitvs loca, and the bottom right: Incongnit\u00e6 positionis popvli. Shows administrative boundaries, cities, towns, geographical features, forests, etc. Prime meridian: Ferro.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz79r",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam] : [Pierre Mortier], [1705].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cisalpine Republic,Maps,Early works to 1800",
+    "Italy,Maps,Early works to 1800",
+    "Lombardy (Italy),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Italia Gallica sive Gallia Cisalpina",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7993617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffe730b4-6348-4c57-b4fc-c318c8673b0d/file/dcbc0a79-5d4b-4aac-9f42-392f1c48be6f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffe730b4-6348-4c57-b4fc-c318c8673b0d/file/81980da2-281f-40d7-982c-be6a5a931603\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2F48%2Fe0%2F2748e02791d34d0183cf70bb1fcdfb82%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c079e8a-de12-402c-9d52-fce9184f5610/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ffe730b4-6348-4c57-b4fc-c318c8673b0d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz79r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.3428, 13.5834, 46.6354, 43.6339)",
+  "solr_year_i": 1705.0,
+  "uuid": "princeton-bz60cz79r"
+}

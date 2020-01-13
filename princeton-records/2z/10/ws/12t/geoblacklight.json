@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Miller, J. Davis"
+  ],
+  "dc_description_s": "Includes views of Glasgow Cathedral, Glasgow Bridge, Royal Exchange, New Post Office, and Queen's Statue. From: Miller's new and complete illustrated guide through Glasgow ... Glasgow : J. Davis Miller, [1865].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10ws12t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Glasgow] : J. Davis Miller, [1865]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Glasgow (Scotland),Maps"
+  ],
+  "dc_title_s": "New pictorial map of Glasgow",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5156177\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4fb1db6-100f-4521-9504-052d0d6666ee/file/6ae64a83-c875-4fd2-be53-0a1aaaa28807\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4fb1db6-100f-4521-9504-052d0d6666ee/file/590faae7-dd63-406f-a085-1a928214e80b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F65%2Ffb%2F4a65fb7d6c7b48029e5c5c272e7b11b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c19f50fe-fd99-45ec-9dae-a3d2d9bb2f4c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Scotland"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4fb1db6-100f-4521-9504-052d0d6666ee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10ws12t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.316752, -4.200194, 55.887683, 55.833445)",
+  "solr_year_i": 1865.0,
+  "uuid": "princeton-2z10ws12t"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.500000. South Decimal Degree 39.375000. East Decimal Degree -75.250000. West Decimal Degree -75.375000. Alternate title: Shiloh, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Shoreline shown represents the approximate line of mean high water. The mean range of tide is approximately 6 feet. \"Mapped by the United States Coast and Geodetic Survey; Edited and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1946. Topography by plane-table methods 1947.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9306t0884",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1947.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Shiloh Quadrangle, New Jersey. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845034\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9e7f731-7b64-482e-82f9-e6493823411c/file/cc87956c-8b10-4282-a3db-a5ddaa1acebb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e6c6833-e963-43ac-9dfd-8fce22cbe1c3/file/6befd083-363d-4701-9b8a-a61aba51d801\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e6c6833-e963-43ac-9dfd-8fce22cbe1c3/file/94501481-b3be-4d34-8699-2e972ee0f530\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1c%2Fc4%2F35%2F1cc4351423a44694ac7e8db2c1966642%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f514cca5-8f04-4b44-b6b5-3807474b904e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e6c6833-e963-43ac-9dfd-8fce22cbe1c3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9306t0884",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.375, -75.25, 39.5, 39.375)",
+  "solr_year_i": 1947.0,
+  "uuid": "princeton-9306t0884"
+}

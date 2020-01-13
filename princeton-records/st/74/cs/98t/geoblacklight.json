@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Naymiller, F."
+  ],
+  "dc_description_s": "Relief shown by hachures. Outline color. Indexed for political divisions.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs98t",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano : presso l'Editore Antonio Vallardi, C.S. Marg. N. 10, 1862.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Carta dell' Italia con le nuove divisioni",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8048763\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f531eedf-a293-428c-b34d-a881aff33e35/file/06ef3877-954c-4da4-986d-de104653689a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f531eedf-a293-428c-b34d-a881aff33e35/file/b80cd922-0b64-4afe-871b-146524a1b1f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2F56%2F21%2F1a5621d8d383472e8e21247610d92f7a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1163689d-1e9f-4719-a83f-e52edec4f30d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f531eedf-a293-428c-b34d-a881aff33e35",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs98t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.02, 19.0, 47.4, 35.77)",
+  "solr_year_i": 1862.0,
+  "uuid": "princeton-st74cs98t"
+}

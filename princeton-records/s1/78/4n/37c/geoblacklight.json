@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Maurice Cove. Relief shown by 10 feet countour intervals. Triangulation and topography by C. Vermeule. Surveyed in 1886. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784n37c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Maurice Cove Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Maurice Cove sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831663\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64ca6210-160d-451b-b003-235430dbe0e2/file/a6eff972-235f-44d2-b471-b814a3ca3b32\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9de28bad-8422-4a42-aed0-d34b34c081f0/file/a1177d6c-eca0-41d4-b895-3eba75aee414\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9de28bad-8422-4a42-aed0-d34b34c081f0/file/8489309a-956a-476b-a831-bd2788255188\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2Fff%2F9f%2Fe3ff9fac1cd744cea9f069ae34690354%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04f7f6b6-22f8-4686-861b-aef8fd69930b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9de28bad-8422-4a42-aed0-d34b34c081f0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784n37c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 39.25, 39.0)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-s1784n37c"
+}

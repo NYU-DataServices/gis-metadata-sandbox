@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1903.\" \"6109.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/44558g40g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Metuchen,Maps",
+    "Metuchen (N.J.),Maps"
+  ],
+  "dc_title_s": "Metuchen, Middlesex Co., New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527131\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11961463-07a2-4057-a3a4-35b2221e4138/file/b29d92a4-a326-4ec6-bd14-b879e1809621\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11961463-07a2-4057-a3a4-35b2221e4138/file/03daf697-1814-4786-9a35-198cf6652df2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2F5a%2F73%2F0e5a7331032a4a709a613a5d3d5ac1e9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/277515df-26c7-4155-8ec4-d00ef090ffd9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-11961463-07a2-4057-a3a4-35b2221e4138",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-44558g40g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-44558g40g"
+}

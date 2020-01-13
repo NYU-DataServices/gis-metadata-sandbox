@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Czech Republic. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gt54kp52c",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Czech Republic. (1994).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8cef958d-6c1b-4431-9a27-ddf4a403b34f/file/354d0e9d-568c-4ff4-bf28-c53f7adef849\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe7442f1-cf3d-4916-b1e8-bea925262591/file/e5472fda-daa8-41b3-bef4-c92dbaa83089\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe7442f1-cf3d-4916-b1e8-bea925262591/file/6c6a373e-6720-4e05-8dd2-c477b37490f5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2Fde%2Fa0%2Fc4dea051c2c44b72b318da30df28ce62%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/777d199f-4bd7-4fb5-bd05-7a31d21391bb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Eastern Europe",
+    "Czech Repulic",
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe7442f1-cf3d-4916-b1e8-bea925262591",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gt54kp52c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.0, 19.0, 52.0, 47.0)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-gt54kp52c"
+}

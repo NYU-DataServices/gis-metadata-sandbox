@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Moll, Herman, d. 1732"
+  ],
+  "dc_description_s": "Relief shown pictorially and by soundings. A scale of 20 leagues. In upper right-hand margin: page 447, V. 2. Probably issued in: Atlas minor ... / Herman Moll. London : Printed by T. Bowles & J. Bowles, [1745?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj24k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : T. Bowles & J. Bowles, ca. 1745]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Chile,Early works to 1800",
+    "Nautical charts,Argentina,Early works to 1800",
+    "Chile,Maps,Early works to 1800",
+    "Argentina,Maps,Early works to 1800",
+    "Magellan, Strait of (Chile and Argentina),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A chart of the Streights of Magellan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5214290\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef12006c-d92b-422a-9b5b-c3add2fb0cd7/file/0b17b362-3742-4f10-aedf-70b73f83ccdd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef12006c-d92b-422a-9b5b-c3add2fb0cd7/file/2fb341c9-eb4b-4862-878c-6cd6f54573e7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F27%2F2d%2Fa5272dc7f87c40458999a9d5a8a023c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68e129a3-a794-4f68-bbd4-cfce8ea851f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Chile",
+    "Argentina"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ef12006c-d92b-422a-9b5b-c3add2fb0cd7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj24k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.51, -68.0, -51.43, -54.93)",
+  "solr_year_i": 1745.0,
+  "uuid": "princeton-2801pj24k"
+}

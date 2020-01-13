@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Sangerhausen and environs in the German state of Saxony-Anhalt. Relief shown by shading.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qv40n",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wu\u0308rzburg ; Wien : Verlag von Leo Woerl, [1892]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Sangerhausen (Germany),Maps",
+    "Saxony-Anhalt (Germany),Maps"
+  ],
+  "dc_title_s": "Sangerhausen und Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7395914\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6a6b653-14c3-4a48-af18-9602d9c6a9da/file/2f56d119-cc99-4c9e-ab95-4e3e0e998843\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6a6b653-14c3-4a48-af18-9602d9c6a9da/file/d9299c1d-fe4f-4284-84f9-0b7242f41d03\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2Fb2%2Fb7%2Facb2b797b53c4e95b5baf1d8c13f9c6f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/458482f1-b1d1-4ede-8547-a2883e63c95a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e6a6b653-14c3-4a48-af18-9602d9c6a9da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qv40n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.646037, 11.500224, 51.700098, 51.354288)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-5m60qv40n"
+}

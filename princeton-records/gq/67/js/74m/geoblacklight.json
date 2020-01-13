@@ -1,0 +1,50 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67js74m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Elevation",
+    "Roads"
+  ],
+  "dc_title_s": "Whiting Quadrangle, New Jersey, 7.5 minute series (topographic) (1957)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ac77e7e4-a417-4995-aad9-b4ed0b5d5370/file/37a81c2c-c068-4804-8af1-172404b3a0ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae5eb720-77f5-4af2-b682-0d3e2c9dd650/file/e5f4d6c5-f685-434a-b846-dba657456a5a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae5eb720-77f5-4af2-b682-0d3e2c9dd650/file/66526101-efaf-4b71-a61f-be668438822f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6e%2F2c%2Fd7%2F6e2cd78f6963463280b0a3f1fb414d37%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4ff77913-a1e0-47f0-8627-da21cde6cdca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Woodland",
+    "Whiting",
+    "Lacey",
+    "Manchester",
+    "Burlington County",
+    "New Jersey",
+    "Ocean County",
+    "Pemberton"
+  ],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae5eb720-77f5-4af2-b682-0d3e2c9dd650",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67js74m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 40.0, 39.875)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-gq67js74m"
+}

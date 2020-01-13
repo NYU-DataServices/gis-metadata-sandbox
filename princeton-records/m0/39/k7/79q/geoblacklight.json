@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map shows district boundaries, water routes, and government stations. \"137,1926A.110.750.6.25.\" Original map is filed in the Map and Geospatial Information Center. A map reproduction is attached to companion volume. Crown copyright reserved.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k779q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1926.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies",
+    "Zambia,Maps"
+  ],
+  "dc_title_s": "Northern Rhodesia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10039948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/faa2fe4a-f3a5-43c2-a634-f12b85ae812c/file/37332215-58ee-4ed5-a717-1b7f3d93bf05\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/faa2fe4a-f3a5-43c2-a634-f12b85ae812c/file/9acf0584-bfa2-43d0-8db2-7685392c8080\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F32%2Ff2%2Fce32f294511441609d33582caac76a82%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eaba2376-09b5-45f8-b588-7566fd04bbeb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-faa2fe4a-f3a5-43c2-a634-f12b85ae812c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k779q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(22.0, 35.976389, -8.2075, -18.506667)",
+  "solr_year_i": 1926.0,
+  "uuid": "princeton-m039k779q"
+}

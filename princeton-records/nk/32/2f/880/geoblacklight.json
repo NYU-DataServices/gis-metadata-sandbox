@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1888-89 and 1897 in cooperation with the State of New York. Partial revision of shore line in 1924. Triangulation by the U.S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322f880",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Harlem (N.Y.),Maps"
+  ],
+  "dc_title_s": "New Jersey-New York: Harlem Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867854\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/67c1b1c9-73dc-4d92-b40a-16372f8a1730/file/806fd8e8-2650-44be-ae8d-9c892944bbdf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d78c2aa-4f3b-417f-96ab-6e14c2e17d2e/file/0b21ab03-7c6b-4dad-9271-a000a2922697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d78c2aa-4f3b-417f-96ab-6e14c2e17d2e/file/ebd7f3be-11a9-41a2-924d-a06e943096ca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6a%2F84%2F08%2F6a8408a2ce0a4827bbfe1b4b5c356540%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3191aed9-9a2b-4223-9ab5-e347ae52431a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3d78c2aa-4f3b-417f-96ab-6e14c2e17d2e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322f880",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 41.0, 40.75)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-nk322f880"
+}

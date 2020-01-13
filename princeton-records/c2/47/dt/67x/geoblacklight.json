@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Livingston Manor, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1920-1921. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c247dt67x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Livingston Manor Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867362\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d1599617-5c5b-465f-895e-a2f90cf25083/file/279f1be0-16bc-4de2-85cf-7374ae5462e5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bf60351-4cb9-4720-af86-e85e88cf5d3a/file/249d8138-c7f8-498e-8d7a-deb92197ec7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bf60351-4cb9-4720-af86-e85e88cf5d3a/file/8ec01e6e-a600-4fc2-ac4e-918f433a2429\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F9c%2F1c%2Fe19c1c76042c4012b0ffa72eef37ba46%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/69eb7d69-a9d5-4a3f-b2fb-6086ce2d06ee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2bf60351-4cb9-4720-af86-e85e88cf5d3a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c247dt67x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 42.0, 41.75)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-c247dt67x"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Sacketts Harbor. Relief shown by 20 feet contour interval. Surveyed in 1893. Triangulation and Coast Line by U.S. Lake Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c1990",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Sacketts Harbor (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Jefferson Co.) Sacketts Harbor Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868383\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5d90db4b-4b7b-412a-9c20-479154340530/file/98756d11-78d6-4c9a-9c05-b11cfc5a735c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4817ce97-a306-4c83-84f1-8297c445dca2/file/0dd0144b-17e7-4781-bea0-6d02f7a64d79\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4817ce97-a306-4c83-84f1-8297c445dca2/file/ed95b25e-9ed1-4943-b282-0b8b2040f10c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ca%2Fbf%2Ffc%2Fcabffcfb68764106837653130bcece5f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6cf39b16-4a4a-4a47-88b9-3b3dd3857bb6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4817ce97-a306-4c83-84f1-8297c445dca2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c1990",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 44.0, 43.75)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-bv73c1990"
+}

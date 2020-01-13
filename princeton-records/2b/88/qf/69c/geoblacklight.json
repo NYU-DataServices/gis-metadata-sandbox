@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Fraser, James, 1793-1863"
+  ],
+  "dc_description_s": "Relief shown by spot heights. Originally issued folded in covers 21 x 13 cm.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2b88qf69c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Dublin : James McGlashan, 50 Upper Sackville St, 1851.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads,Ireland,Maps",
+    "Ireland,Maps"
+  ],
+  "dc_title_s": "Fraser's travelling map of Ireland shewing all the towns, lakes, rivers, roads and railways, with the distances marked between all the towns, railway stations, and other important places",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7785265\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/c321aab6-e200-4512-b59f-ae0a6cf22ab4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/aabe693a-4f70-4cae-ad84-dff45fc9786c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2F11%2Fcb%2F2711cb482ffd4205b2068661f110dc17%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0c69c42-835d-49bc-b215-45d4d1458e56/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c2fa243c-9854-4b08-98c5-8b418d00c7a7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2b88qf69c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.5001, -5.0124, 55.5084, 51.2533)",
+  "solr_year_i": 1851.0,
+  "uuid": "princeton-2b88qf69c"
+}

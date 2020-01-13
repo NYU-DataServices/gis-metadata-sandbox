@@ -1,0 +1,50 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rn087",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "15 Minute Quadrangle Map",
+    "Elevation",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "New Jersey, Greenwood Lake Sheet (1913)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16093640-ae4f-4d53-82a6-a9ca124e006e/file/628f8840-fc3c-4c7f-ab4f-7b0e75874596\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc0816a5-86ca-49c2-91a5-b8a0ed2fd82f/file/4220a69f-22fb-41b2-8bca-7c34650c1131\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc0816a5-86ca-49c2-91a5-b8a0ed2fd82f/file/707c121d-07af-46df-9867-266e4cfac7e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F37%2F4a%2F7c374a72d6ef4586ad340de82d17cb7c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/99eb205e-d9fe-4053-a43d-15ea7c0e30f5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Sussex County",
+    "Orange County, NY",
+    "Vernon",
+    "Warwick, NY",
+    "West Milford",
+    "New Jersey",
+    "Pompton Lakes",
+    "Passaic County"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc0816a5-86ca-49c2-91a5-b8a0ed2fd82f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rn087",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-d504rn087"
+}

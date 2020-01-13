@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Graty, Alfredo Marbais du."
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88cj994",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[Brussels] : Establecimiento geografico de Bruselas formado por Ph. Vander Maelen, 1861.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paraguay,Maps"
+  ],
+  "dc_title_s": "Mapa de la Repu\u0301blica del Paraguay",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/3528944\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/cb32e829-ad5f-47b5-9299-f16087194520\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/61b22051-feff-4245-babf-f80859ab999f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2F67%2F6c%2Ff1676cfa58f44ac0ad640722597341ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e07884d-911d-41a2-9359-1fe78e283c03/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Paraguay"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-79b9ac43-9ebe-422a-837f-179183b8a9e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88cj994",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-60.01, -52.01, -19.01, -28.0)",
+  "solr_year_i": 1861.0,
+  "uuid": "princeton-7p88cj994"
+}

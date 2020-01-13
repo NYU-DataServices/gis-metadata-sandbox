@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Woodstock, VT. Polyconic projection. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1910-1911.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/th83m0957",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1958 reprint.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Woodstock (Vt.),Maps"
+  ],
+  "dc_title_s": "Vermont: Woodstock Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838780\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8de13956-5196-4433-ae9c-e63e775c40a8/file/691e52bf-655c-4372-99e0-5769cb502889\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37bb72ee-da79-4601-80d8-0c8adfc75595/file/d8abf230-b238-4c79-bc7d-91921d100ab7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37bb72ee-da79-4601-80d8-0c8adfc75595/file/9db40e76-3da1-435f-8d9e-90e18858b539\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F38%2Fb5%2F2038b56154d54779a3b6a8dad43fbdfe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dbe02f75-1f19-4e6a-b14c-e2030b03b812/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-37bb72ee-da79-4601-80d8-0c8adfc75595",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-th83m0957",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 43.75, 43.5)",
+  "solr_year_i": 1958.0,
+  "uuid": "princeton-th83m0957"
+}

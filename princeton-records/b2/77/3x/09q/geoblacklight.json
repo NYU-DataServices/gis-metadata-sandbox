@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 United States. Army Map Service [Great Britain. War Office. General Staff. Geographical Section.] Provisional G. S. G. S. 4275 [i.e. 4274] \"Copied from Isis Report, 1:7,500, no.9, Sousse, 1941\". \"Grid and projection approximate\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x09q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coal",
+    "Petroleum",
+    "Tunisia,Maps"
+  ],
+  "dc_title_s": "Tunisia 1:7.500. Sousse city plan. G.S.G.S. 4275",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449537\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cba41e7f-39a0-43bf-81fd-38f1f6b839ab/file/33aaf845-ea7f-4387-8570-ae88235681d9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0db8ec89-67ab-44b2-9a6a-7777cb7cb6e7/file/ae6f9a44-0fda-4b96-a249-6e5a9d3fd73e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0db8ec89-67ab-44b2-9a6a-7777cb7cb6e7/file/06d229a1-cc5e-4b45-8170-2cfa082a7bb4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F51%2F1b%2F0b511b587ad64895b21aa0856b077c47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/764d28dd-12a0-4ed3-9cbd-53aff3bf49dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0db8ec89-67ab-44b2-9a6a-7777cb7cb6e7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x09q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.616666666666667, 10.65, 35.833333333333336, 35.81666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-b2773x09q"
+}

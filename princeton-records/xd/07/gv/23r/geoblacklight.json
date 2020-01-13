@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Sunamachi. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". In upper right \"Tokyo and environs, sheet 13\". Includes \"Glossary\". \"Reproduced from compilation manuscript by overprints\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gv23r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Sunamachi,Maps"
+  ],
+  "dc_title_s": "Sunamachi, Japan: Honshu",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450040\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b78fee41-b77b-44d9-aa65-ed195cd459e6/file/f26aa192-c7cd-4589-b8cf-d5d267a5806a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36f0ce89-ed07-422d-8b0c-4e9cac027839/file/b1780506-fd45-46c5-982b-f25832304bbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36f0ce89-ed07-422d-8b0c-4e9cac027839/file/047ced60-2b6d-4d2c-9d5d-49738c1a6f88\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2F2b%2F04%2Fb52b049a70a0447c9d74feecfa3a775b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f6ce5cbc-a2b8-4e71-ba6e-f203b4d8cba2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-36f0ce89-ed07-422d-8b0c-4e9cac027839",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gv23r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(139.8, 139.91666666666666, 35.68333333333333, 35.6)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-xd07gv23r"
+}

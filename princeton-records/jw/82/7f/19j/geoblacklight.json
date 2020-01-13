@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Lindau am Bodensee in the German state of Bavaria. In lower margin: Woerl's Reisehandbu\u0308cher. Indexed for points of interest. From: Fu\u0308hrer durch Lindau im Bodensee und Umgebung : mit Plan der Stadt / herausgegeben von Leo Woerl. Leipzig : Woerl's Reisebu\u0308cherverlag, [1898]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jw827f19j",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig : Woerl's Reisehandbu\u0308cherverlag, 1898]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Lindau (Bavaria, Germany),Maps"
+  ],
+  "dc_title_s": "Lindau",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7525264\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d89d10eb-202c-4fc2-b67e-f845eab1c749/file/1a4ebc98-4bc4-4818-9b6c-293f32471391\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d89d10eb-202c-4fc2-b67e-f845eab1c749/file/1dfc2782-094c-4c91-a90c-9bb069ad49e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2Ff9%2F13%2F86f9138b809145cb9e9690de6b28b8c3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b0d8a70-341b-4ad0-b02f-5276c217700c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d89d10eb-202c-4fc2-b67e-f845eab1c749",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jw827f19j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.6750237935, 9.6919109815, 47.5500163836, 47.5419343707)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-jw827f19j"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1912.\" Includes key, streets and specials index, and text. \"5100.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x63h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Cedarville,Maps",
+    "Cedarville (N.J.),Maps"
+  ],
+  "dc_title_s": "Cedarville, Cumberland County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416163\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64a96868-ebf8-4c55-9648-9a4e9a11b05b/file/6159afb2-6225-435b-adc3-de3f702b8824\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64a96868-ebf8-4c55-9648-9a4e9a11b05b/file/8dd5fec1-cf75-476a-a771-303fd59f275a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2F4f%2Fe9%2F444fe94bde914ee1b16dda4efb7f5187%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c79a606-1418-4e9d-9f89-c5f6da7e36b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-64a96868-ebf8-4c55-9648-9a4e9a11b05b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x63h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.219631, -75.179631, 39.352615, 39.312615)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-b2773x63h"
+}

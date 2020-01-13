@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"9172.\" Historic Maps copy has sheets 1-3, 5-9, 16, 18-20, 23, 26-28, 37-43, and 45-67 of Essex Co., vol. 2 series; sheets 4, 10-15, 17, 21-22, 24-25, 29-36 and 44, showing Glen Ridge, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t722hb75x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bloomfield,Maps",
+    "Bloomfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey (Sheet 41)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5419098\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ae1c88c-5962-4962-ad36-5816bf902606/file/958918fe-af1d-4edd-ab25-e4a5dcc5ee8a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ae1c88c-5962-4962-ad36-5816bf902606/file/0cbc4bed-17af-4024-b1c9-50cb7ed6c5a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2F4b%2Fd7%2F844bd7735155450b9786175f36c4d753%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d947d6fc-e61f-41ed-9211-8c50a39f5b7b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3ae1c88c-5962-4962-ad36-5816bf902606",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t722hb75x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-t722hb75x"
+}

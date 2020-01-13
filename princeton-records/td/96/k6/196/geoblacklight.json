@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Saxton, Christopher, 1542?-"
+  ],
+  "dc_description_s": "Imprint derived from the atlas in which this state of the map was first issued. Shows county boundaries, rivers, woods, parks and settlements. Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k6196",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[London : George Bishop and John Norton, 1607]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cheshire (England),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Cestri\u00e6 : comitatus (Romanis legionibus et colonijs olim insignis) vera et absoluta descriptio (Romanis legionibus et colonijs olim insignis)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273681\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5947ebc3-6891-42f9-bb82-ce65d13ec152/file/5e79dbd4-4b17-4478-a568-56045e9053c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5947ebc3-6891-42f9-bb82-ce65d13ec152/file/02e32651-414d-49fe-a745-5210b8dccc51\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/37%2Fb2%2F22%2F37b222f48b6e4ef38e11e6118e655faa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7e3e6a6b-bd51-44f8-b1f8-9d0e3dce05ca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1607"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5947ebc3-6891-42f9-bb82-ce65d13ec152",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k6196",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.128278, -1.9747939, 53.4809136, 52.9471496)",
+  "solr_year_i": 1607.0,
+  "uuid": "princeton-td96k6196"
+}

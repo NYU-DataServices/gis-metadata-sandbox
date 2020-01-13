@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Rhinebeck, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1933-1934. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f733p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1939.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Rhinebeck (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Rhinebeck Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868372\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b187b0a3-a89f-4633-8a7a-9a2745b4c2f5/file/3661bf4d-8e97-45b4-9bff-8ff63dbe45a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/540b1ff2-19d6-4c92-9194-3bad6316b56b/file/46701bc0-3b61-4af8-be35-ad4fda327d9f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/540b1ff2-19d6-4c92-9194-3bad6316b56b/file/336a09c5-d95c-4e50-b46c-88204e4f07c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2Fb5%2Fdc%2F74b5dc7227dc4b1585fe3b226d5987a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1cdc146-391f-4687-a147-34781c75e6b4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-540b1ff2-19d6-4c92-9194-3bad6316b56b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f733p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 42.0, 41.75)",
+  "solr_year_i": 1939.0,
+  "uuid": "princeton-gb19f733p"
+}

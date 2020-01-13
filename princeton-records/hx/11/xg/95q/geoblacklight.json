@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1884.\" Includes key and text. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hx11xg95q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1884, c1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Carlstadt (N.J.),Maps"
+  ],
+  "dc_title_s": "Carlstadt, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5228837\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e311ecb5-2b71-48bd-88fa-0cc6b6f2e622/file/bd5256f8-d615-4b73-8541-32a8229b5d5f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e311ecb5-2b71-48bd-88fa-0cc6b6f2e622/file/f7800095-fc4f-49a7-8833-424fb8720338\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Fc7%2F69%2Fbfc769e9afcf498d8f89916e6ebf7101%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/72773879-9f66-440b-bd5c-4b5b18e9db68/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e311ecb5-2b71-48bd-88fa-0cc6b6f2e622",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hx11xg95q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.103, -74.031, 40.85, 40.807)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-hx11xg95q"
+}

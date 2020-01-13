@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Sinovir in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b266r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Sinovir. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/55e04281-3f92-4583-be61-21449eb84100/file/599747d1-a90a-4efa-b068-6d015586f75b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a279e2c7-2f7b-4cd1-a01c-e4f6fc4b793b/file/f026a4c2-b79a-4478-bba5-220295b057d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a279e2c7-2f7b-4cd1-a01c-e4f6fc4b793b/file/c331624a-7204-4c9c-befd-15c7e672a463\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F1a%2Fd0%2F791ad00684f248aa9eab840788036cb4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/96433ec9-faa1-47f1-84cc-d341abd4f9a2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Europe",
+    "Poland",
+    "G6031.C2.s100.A7M3",
+    "Sinovir"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a279e2c7-2f7b-4cd1-a01c-e4f6fc4b793b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b266r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.3333, 24.3333, 48.75, 48.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-k643b266r"
+}

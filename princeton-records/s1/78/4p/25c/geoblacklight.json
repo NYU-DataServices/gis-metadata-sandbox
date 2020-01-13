@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Kra\u0308uter, E."
+  ],
+  "dc_description_s": "Map of Heidelberg and environs in the German state of Baden-Wu\u0308rttemberg. From: A guide to Heidelberg and its environs ... Heidelberg : Ernst Mohr, 1871.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784p25c",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Heidelberg] : Verlag v. E. Mohr, [1871] (Heidelberg : Steindr. v. H. Herbst)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Baden-Wur\u0308ttemberg (Germany),Maps",
+    "Heidelberg (Germany),Maps"
+  ],
+  "dc_title_s": "Fu\u0308hrer im Wald der Stadt Heidelberg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7391999\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a71b190c-27bf-47eb-b495-5635ddd7799e/file/3d2ba07e-f1f3-4ee1-ae41-b8455378485d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a71b190c-27bf-47eb-b495-5635ddd7799e/file/c0f8cd52-7eff-4bbf-93f0-e710c8f2ca11\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F5a%2Fa2%2F215aa2d12eb746d3b82266d6a7b22668%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c7d9b07-ccbc-42de-ad0d-3d0708e758ae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a71b190c-27bf-47eb-b495-5635ddd7799e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784p25c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.666791, 8.791932, 49.42101, 49.362575)",
+  "solr_year_i": 1871.0,
+  "uuid": "princeton-s1784p25c"
+}

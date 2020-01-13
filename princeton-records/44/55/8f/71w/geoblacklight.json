@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson",
+    "Kummel, Henry Barnard"
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/44558f71w",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "New Jersey. Department of Conservation and Development. Division of Geology and Waters",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Railroad Stations",
+    "Bathymetry"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 28.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8f436ce-2c78-4a66-90cf-320996e089aa/file/f63753f7-c405-421b-9d2c-567ec9df9e09\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3899a743-a850-4c37-81da-ec7c702940f5/file/dd6fb8db-091b-4869-a0a3-5e18c96ff16b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3899a743-a850-4c37-81da-ec7c702940f5/file/cc2b9315-f689-44ef-8344-b3e4d36b6b9e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Fa3%2F6c%2F19a36c5237f44c19894e78b53ce78d49%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e06b740-1d4d-42d4-8a92-8481e6ee13a9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Somerset",
+    "Monmouth",
+    "Burlington",
+    "Mercer",
+    "Middlesex",
+    "MC  G3811.C2.s63.N4J4 no.28 (1917)",
+    "New Jersey",
+    "Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3899a743-a850-4c37-81da-ec7c702940f5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-44558f71w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.7667, -74.3333, 40.4667, 40.0)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-44558f71w"
+}

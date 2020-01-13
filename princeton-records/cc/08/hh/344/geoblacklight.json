@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Winfield, N.Y. Relief shown by 20 feet contour interval. Surveyed in 1904-1905. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cc08hh344",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Winfield (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Winfield Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868439\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/367765ec-6433-43e5-8a78-82822dbdc32f/file/a06cf30d-18e3-41f2-bdd1-8600b9b934a7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/709b5fb1-04a6-49e4-b520-462361b80ce2/file/8bc51dd7-c940-4d68-b01d-6bd92fe69084\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/709b5fb1-04a6-49e4-b520-462361b80ce2/file/d3aad55b-8861-4064-9ead-0f298e94a2c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2Fdc%2F85%2F5bdc85feb410406aa638debff66984d1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/223f3869-f21b-4494-a3cb-cd61ad04a11a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-709b5fb1-04a6-49e4-b520-462361b80ce2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cc08hh344",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 43.0, 42.75)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-cc08hh344"
+}

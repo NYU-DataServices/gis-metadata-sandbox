@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Uniontown, PA. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1899 in cooperation with the State of Pennsylvania. Culture revised 1931 by J. H. Wilke and C. S. Wells. Verso: The topographic maps of The United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816p05g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1939.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Uniontown (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: (Fayette County) Uniontown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868102\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80407ead-e111-4688-b1fe-a319398be114/file/360b164e-6f5f-449e-917f-2295e33e9bcb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49f3ceca-f8f8-4e1c-a53f-5305b4393039/file/05a17fb8-f885-47a2-a815-f87b34743eeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49f3ceca-f8f8-4e1c-a53f-5305b4393039/file/87f6429f-95d6-4ba2-9897-775e368a6b6f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2F5c%2Fee%2F945cee37b2a04c55ba0f8850a79d5757%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ee2e384a-326c-4d0e-b3fe-eebfdb52b061/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-49f3ceca-f8f8-4e1c-a53f-5305b4393039",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816p05g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.75, -79.5, 40.0, 39.75)",
+  "solr_year_i": 1939.0,
+  "uuid": "princeton-3x816p05g"
+}

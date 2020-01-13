@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Title taken from sheet 1 of 1927 map. Sheet 1 has title: Insurance maps of Princeton, Mercer Co., New Jersey. \"Jany. 1918.\" Includes location map, key, streets and specials index, and text. Oriented with the north to the upper right. \"2192\". MAP copies 2 and 3: Bound into one volume, copy 2 probably for Walter B. Howe, Inc.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t722hb462",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Princeton,Maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Princeton, Mercer County, New Jersey (Sheet 12 1918)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4266885\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b18b5ca-a6de-4d3d-9ee8-b81eb058dc60/file/88e5f271-ed3e-4278-a446-9e8c9a50d564\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b18b5ca-a6de-4d3d-9ee8-b81eb058dc60/file/c64b1c28-9329-435f-9587-69876c08892f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F64%2Fbd%2F9f64bd9f1ca0449cab4183553fc7d1d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab44e963-d60b-43c5-b953-051904cae184/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b18b5ca-a6de-4d3d-9ee8-b81eb058dc60",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t722hb462",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-t722hb462"
+}

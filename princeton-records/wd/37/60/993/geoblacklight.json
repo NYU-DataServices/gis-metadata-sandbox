@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Army. Office of the Chief of Engineers"
+  ],
+  "dc_description_s": "Shows railroads, trails and routes. Relief shown by hachures. At head of title: War Department. Includes list of authorities. Western sheet published in 1877.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wd3760993",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Published by authority of the Hon. the Secretary of War, Office of the Chief of Engineers, U.S. Army, 1876.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rivers,West (U.S.),Maps",
+    "Yellowstone River Watershed,Maps",
+    "Missouri River Watershed,Maps"
+  ],
+  "dc_title_s": "Map of the Yellowstone and Missouri Rivers and their tributaries (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5818556\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae3bfe03-c7c5-44ac-8ae2-d44b7886ca7c/file/83a99718-0efd-4b95-9ed1-34a677d0fb31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae3bfe03-c7c5-44ac-8ae2-d44b7886ca7c/file/c5e2236b-d5f6-4055-9fdc-b98ffa088e28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2Fc4%2F90%2F0ac490662768416a9b63b0406e781c90%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cc9bcdc7-af3c-4073-b748-1e05311180f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae3bfe03-c7c5-44ac-8ae2-d44b7886ca7c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wd3760993",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-114.0161, -98.009, 49.0163, 42.0003)",
+  "solr_year_i": 1876.0,
+  "uuid": "princeton-wd3760993"
+}

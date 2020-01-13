@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Raymond and May Associates.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1z40kv682",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Hamburg] : Ray Media Enterprises, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "City planning",
+    "Princeton (N.J. : Borough),Maps"
+  ],
+  "dc_title_s": "Borough of Princeton, N.J. master plan, June 1967",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514444\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc0b3bf4-95e5-4793-ba5a-9a7c18a96806/file/20eb1648-4681-43fd-9ccc-af14e892a19a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc0b3bf4-95e5-4793-ba5a-9a7c18a96806/file/aedf4dcc-04a9-4390-8c5d-923e04ec4e1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2Fef%2F40%2F44ef404c92fe49e6b2f9413167caafc6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef8f05d3-c59c-46a5-a0c8-4888f15763fb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fc0b3bf4-95e5-4793-ba5a-9a7c18a96806",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1z40kv682",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68333333333334, -74.61666666666666, 40.36666666666667, 40.333333333333336)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-1z40kv682"
+}

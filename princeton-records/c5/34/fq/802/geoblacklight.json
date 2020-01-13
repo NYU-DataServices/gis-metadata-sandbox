@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -21.000000. South Decimal Degree -21.166667. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Estancia Laguna Verde, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fq802",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1970.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Estancia Laguna Verde, hoja 5930 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841277\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1d4ee5c-bf49-4b5c-ab85-61e34df90971/file/efc6bf29-0d22-40a3-a44a-c96ee91d3b28\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1d4ee5c-bf49-4b5c-ab85-61e34df90971/file/f11119bb-141d-4e05-9d11-22f56fdda4d5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f0%2F4c%2Faf%2Ff04caf1473f0480a9209acd905ae81fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bdf6f9a1-6731-4bdd-947f-978a0078132d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1d4ee5c-bf49-4b5c-ab85-61e34df90971",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fq802",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -21.0, -21.166667)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-c534fq802"
+}

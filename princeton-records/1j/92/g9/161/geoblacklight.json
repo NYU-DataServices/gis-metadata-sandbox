@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Berlin, N.Y.-MASS.-VT. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in cooperation with the States of Massachusstts and New York. 1885-88. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g9161",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Berlin sheet (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-Massachusetts-Vermont: Berlin sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866986\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16bc30b5-1d09-44a0-bab6-885aa5f08110/file/a1c12526-e01d-4218-8ba8-04318011a54c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef5bf864-bf65-4b23-84f8-506bda7e28bd/file/47285bb8-44f1-4ccc-97f0-855537181ed5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef5bf864-bf65-4b23-84f8-506bda7e28bd/file/d2291f13-b4d3-4161-b81a-c96b2bc20a23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d7%2F53%2Fee%2Fd753eededc3a44da9b61d328660c6d67%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/98abc9b3-c042-4474-abf0-cee71a02fac0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ef5bf864-bf65-4b23-84f8-506bda7e28bd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g9161",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 42.75, 42.5)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-1j92g9161"
+}

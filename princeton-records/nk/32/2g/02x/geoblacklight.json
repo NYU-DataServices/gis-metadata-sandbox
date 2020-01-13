@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 27 (1913) New Jersey Geological Survey Relief shown by 10 ft. contour interval and spot heights. Inset: map continuation, Trenton area. Title was not given. Region covered: vicinity of Trenton. Original survey 1885, principal features revised 1913.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322g02x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mercer County (N.J.),Maps"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 27.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6519628\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de0a2999-df83-4f17-80d1-45eaf08adc81/file/aa742612-daef-498c-a240-76fe81ba4605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ce1e45c-1347-46d2-8c16-aed46aebd64f/file/5c29f23d-3429-4888-adac-4cefeac06c3b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ce1e45c-1347-46d2-8c16-aed46aebd64f/file/9be38480-c3f8-48c9-82b8-0891798aaa6e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F69%2Fa5%2F3669a54c072a4c19aa7edb79661f3832%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/92e3253a-03d7-437f-8aae-fab619d1352c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3ce1e45c-1347-46d2-8c16-aed46aebd64f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322g02x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.2, -74.76666666666667, 40.46666666666667, 40.0)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-nk322g02x"
+}

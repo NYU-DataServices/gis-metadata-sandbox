@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Yule, Henry, Sir, 1820-1889"
+  ],
+  "dc_description_s": "Title given by cataloger. Shaded areas indicate deranged [inaccurate] portions of original map. Rivers, lakes, and settlements are shown. Shows longitude west from Peking [Beijing] and east from Greenwich. From: Journal of the Royal Geographical Society of London. Vol. 42 (1872), pp. 438-513; held in Firestone Library. Call number: G7 .J687 v.42 1872",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xv086",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : published for the Journal of the Royal Geographical Society, by J. Murray, Albemarle Street, 1872.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asia, Central,Historical geography,Maps",
+    "Cartography",
+    "Asia, Central,Maps",
+    "Amu Darya,Maps"
+  ],
+  "dc_title_s": "Extracts from the Chinese map of the Upper Oxus",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7623526\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6fc92ee-2dbe-42f8-9d9f-e165fb23f8c6/file/a315fd17-46cf-4049-a4c4-66c4fecd5272\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6fc92ee-2dbe-42f8-9d9f-e165fb23f8c6/file/47898d8a-d825-401a-92fd-3fb11792f21b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F02%2Ffc%2F8a02fc866d03430a8e998512040bc9ad%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f3a7b84-c27d-4008-9d66-34018041dffd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia, Central"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e6fc92ee-2dbe-42f8-9d9f-e165fb23f8c6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xv086",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(59.0, 78.0, 40.0, 30.0)",
+  "solr_year_i": 1872.0,
+  "uuid": "princeton-vm40xv086"
+}

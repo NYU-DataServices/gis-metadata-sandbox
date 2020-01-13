@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"December 1922.\" Includes location map, key, streets and specials index and text. \"5597.\" Historic Maps copy has sheets 1-6, 9 and 11, showing Laurel Springs, and sheet 10, showing Stratford; sheets 7-8, showing Laurel Springs Manor, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5h73px77b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Laurel Springs,Maps",
+    "Real property,New Jersey,Stratford,Maps",
+    "Laurel Springs (N.J.),Maps",
+    "Stratford (N.J.),Maps"
+  ],
+  "dc_title_s": "Laurel Springs, Camden County, New Jersey : including Laurel Springs Manor & Stratford (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5402215\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b50cc601-b6d5-4496-bfde-ae5f442cb73e/file/e0b9ae7b-75f3-4ec6-bce2-43b6ac61303b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b50cc601-b6d5-4496-bfde-ae5f442cb73e/file/bea2b1af-ef03-492a-b349-8df5ac2e75a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2F6e%2Fb9%2F976eb9cb2a4747bc906d9a63452c1c3f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e75e1d42-0d3c-429a-b829-f7976d3e65f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b50cc601-b6d5-4496-bfde-ae5f442cb73e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5h73px77b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0181, -74.9943, 39.8391, 39.8072)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-5h73px77b"
+}

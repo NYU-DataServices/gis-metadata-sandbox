@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes contour map, key, streets and specials index, and text. \"5285.\" Contour map sheet has title: Contour map of Newark, New Jersey, showing the distributing reservoirs of the city water works and the districts supplied by each. Sheets 201-273 of: Insurance maps of Newark, New Jersey, vol. 1-4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128c875",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume three (Sheet 244)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5453371\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1bc7505a-279a-4d93-b810-e2a8b6c69501/file/d5e1c626-d3f9-464a-8105-4277fa93e5fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1bc7505a-279a-4d93-b810-e2a8b6c69501/file/8bc40b2f-751f-4dc4-b25f-62488b7036b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2F5c%2Fc1%2Fec5cc1a592154e57941805ed8b3333ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3191318d-e49b-4403-b682-2ebf76f3bbde/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1bc7505a-279a-4d93-b810-e2a8b6c69501",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128c875",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-bk128c875"
+}

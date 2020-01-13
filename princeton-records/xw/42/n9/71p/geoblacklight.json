@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "1 sheet cut in 2 for encapsulation. Pennsylvania Geological Survey. Map 1(1931) U.S.G.S.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n971p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1931.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Pennsylvania,Maps"
+  ],
+  "dc_title_s": "Geologic map of Pennsylvania (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514572\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41097bdd-47b8-4e58-a68f-23a822dedb48/file/8186caf7-29c2-4ced-81bb-8f1e1b94a9cb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41097bdd-47b8-4e58-a68f-23a822dedb48/file/dd0750a4-988b-43c8-8412-204850a886e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ea%2Fc0%2Fa8%2Feac0a8f863994caf99a3ebdfefccc020%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/992a7485-0a8e-4b70-ad89-d03acfb73c6c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41097bdd-47b8-4e58-a68f-23a822dedb48",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n971p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.51666666666667, -74.68333333333334, 42.266666666666666, 39.71666666666667)",
+  "solr_year_i": 1931.0,
+  "uuid": "princeton-xw42n971p"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"5191.\" \"Sept. 1912.\" The present town of Carteret was originally created as the borough of Roosevelt in 1906, from portions of Woodbridge Township. The name was changed to Carteret in 1922.--cf. Wikipedia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r207tr46p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carteret,Maps",
+    "Carteret (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Roosevelt, Middlesex County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5535278\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53caee2a-6b70-470b-a81a-1bf8e5bc19ec/file/73912345-014e-4c6f-a7a7-e53a8d1b455e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53caee2a-6b70-470b-a81a-1bf8e5bc19ec/file/354ec3ca-c842-46bb-81c5-ee54d3f5474a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2Fdf%2Ffb%2F43dffb81695146a7869a5463a6f2b30b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a0907474-6ca0-452e-8ef0-1b697304585c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-53caee2a-6b70-470b-a81a-1bf8e5bc19ec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r207tr46p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.489187, -74.455331, 40.235864, 40.207333)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-r207tr46p"
+}

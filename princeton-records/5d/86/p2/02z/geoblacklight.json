@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Adirondack sheet. Map is 22 sheets stored in box on top of New York map cases. Geology shown by coloring.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p202z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Albany, NY] : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Saint Lawrence (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: St. Lawrence sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867633\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9117746b-c8e7-4582-9c8b-d1f33dc930a4/file/1f15e482-c97c-46af-a465-6d90658dcd95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9117746b-c8e7-4582-9c8b-d1f33dc930a4/file/b0860ad1-4e45-41ec-aa26-0fd6496bfc36\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F07%2Ffc%2F6207fcc60c444c52ad7f5d420cd5df24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c2b73892-b426-4e3d-a4ae-81991c3e3419/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9117746b-c8e7-4582-9c8b-d1f33dc930a4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p202z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -74.83333333333333, 45.0, 43.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-5d86p202z"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1889.\" Includes key, streets and specials index, and text. North oriented toward upper left. \"3251.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bn28x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Red Bank,Maps",
+    "Red Bank (N.J.),Maps"
+  ],
+  "dc_title_s": "Red Bank, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827166\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3c6bcb0-e7c3-4f5f-bd4b-0be5e1f554ad/file/afce3dd6-c2bf-4312-9a82-fa87341830e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3c6bcb0-e7c3-4f5f-bd4b-0be5e1f554ad/file/6de5f60d-3208-4e8a-befd-48f12d786018\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/89%2Fab%2F75%2F89ab75d4c1e34189aba47b4cec3f23a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c040471f-e0b5-4f7f-9ac8-dfd4b2f5e0d8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f3c6bcb0-e7c3-4f5f-bd4b-0be5e1f554ad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bn28x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-7m01bn28x"
+}

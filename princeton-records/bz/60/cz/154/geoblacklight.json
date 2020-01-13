@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1921.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3821.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz154",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Real property,New Jersey,Edgewater Park,Maps",
+    "Beverly (N.J.),Maps",
+    "Edgewater Park (N.J. : Township)),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington County, New Jersey : including Edgewater Park and Perkins (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4be5c40-18a3-4f47-8d8d-040ede667776/file/9767e0ff-ac04-4353-bb91-47116484a04c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4be5c40-18a3-4f47-8d8d-040ede667776/file/d03b55f3-c08c-47c9-88be-fc0e606504a1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5c%2F13%2F26%2F5c13269cdd664c3e9fe3e8a30fbf7e09%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/048f925b-1aad-41b5-84c0-cfcd50974b92/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f4be5c40-18a3-4f47-8d8d-040ede667776",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz154",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-bz60cz154"
+}

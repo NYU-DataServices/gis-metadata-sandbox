@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Lambertville. In upper margin: Topography. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1887-88. Verso: legend and explanatory notes, \"The topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8623j0216",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Lambertville Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey-Pennsylvania: Lambertville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831657\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/51623dfd-5c1f-47d2-8da6-f64013314d70/file/1d0c7c02-7ca0-4f92-b999-f4e6cdf6bf81\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afad1dd9-97f8-4aad-8044-dbe0004db194/file/70cdff48-ec80-4b56-a4d6-00a29c9b6b51\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afad1dd9-97f8-4aad-8044-dbe0004db194/file/cc01507c-3057-44a0-88b5-adeb27fc0730\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fe%2Fc4%2F58%2Ffec4585f977c4fa59c7e63c22005b927%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/23385a09-a4af-4f9c-be42-e4a1862fa423/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-afad1dd9-97f8-4aad-8044-dbe0004db194",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8623j0216",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 40.5, 40.25)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-8623j0216"
+}

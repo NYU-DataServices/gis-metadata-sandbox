@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"3850.\" \"New Jersey coast map.\" Sheet 20; from the New Jersey coast map series. Includes key and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g2008",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Avon-by-the-Sea,Maps",
+    "Avon-by-the-Sea (N.J.),Maps"
+  ],
+  "dc_title_s": "Avon-by-the-Sea, Monmouth Co., N. J. (Sheet 20)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1c9cb6f-1541-4c4c-befc-2ffb0fb8d71b/file/6346a309-8443-465b-8b9f-f8b0ecf66f30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1c9cb6f-1541-4c4c-befc-2ffb0fb8d71b/file/4f079e56-e90c-4342-8634-715cee11a976\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F47%2Fa2%2F1447a28b8fa946f59022b07da365481a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/98173316-7593-48fb-bee9-7cd5c61fa669/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e1c9cb6f-1541-4c4c-befc-2ffb0fb8d71b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g2008",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.026, -74.007, 40.197, 40.186)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-pv63g2008"
+}

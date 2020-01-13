@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Skaneateles Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s165x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Contour",
+    "historical maps",
+    "Boundaries",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "New York: Skaneateles Quadrangle 15 minute series, 1942 reprint",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b888df67-a916-40a3-a9cd-ad315fc6e755/file/b2d81f43-d778-4901-a9f3-7484a64cfa16\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/78bc71cb-b28b-4a63-aba8-2fc4abd0a7f0/file/48993fd6-7249-4a63-81e5-7ee9e0d56673\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/78bc71cb-b28b-4a63-aba8-2fc4abd0a7f0/file/49e9cbbd-acc5-449e-bf2d-d85ca9ca57e8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2Fff%2F9e%2Ffbff9e908c7f476dac082572b7bdc7aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb75e258-d5c4-4d41-9b85-2c8d6517e8d2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "Skaneateles",
+    "Cayuga County",
+    "MC  G3801.C2.s62.U5G4 Skaneateles (1942)",
+    "Onondaga County",
+    "Cortaland County",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-78bc71cb-b28b-4a63-aba8-2fc4abd0a7f0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s165x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -76.25, 43.0, 42.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-hd76s165x"
+}

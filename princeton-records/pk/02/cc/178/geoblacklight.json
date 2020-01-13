@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Also shows research stations and the countries operating them. Includes index to \"Stations in the Antarctic Peninsula area.\" \"700682 (543459) 1-84.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc178",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency, 1984]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Antarctica,Maps",
+    "Research,Antarctica,Maps",
+    "Research,Antarctica,Antarctic Peninsula,Maps"
+  ],
+  "dc_title_s": "Antarctic region.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273473\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/81bb01d8-5b4b-49be-87b9-38573ca90814/file/62f0df84-3c22-47e8-95a9-edda3e86cbb1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/81bb01d8-5b4b-49be-87b9-38573ca90814/file/26deb0a2-1056-429f-98d9-2f28b44ec7d4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2F2b%2Fc3%2Fe22bc36db8544476be207cd1de3526ec%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/843ee21b-5ce1-4e30-aea7-89e8d0c39697/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Antarctic Ocean; Antarctica"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-81bb01d8-5b4b-49be-87b9-38573ca90814",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc178",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, -50.0, -90.0)",
+  "solr_year_i": 1984.0,
+  "uuid": "princeton-pk02cc178"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Sincerbeaux, C.harles S."
+  ],
+  "dc_description_s": "Map shows radius distance in miles. C. S. Sincerbeaux, Princeton Class of 1902.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mx04c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Princeton, NJ] : William L. Ulyat, Realtor, 1928.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J. : Borough),Maps",
+    "Princeton (N.J.),Maps",
+    "Princeton (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Map of Princeton, N.J. and vicinity : made for William L. Ulyat, Realtor, publisher of the Princeton Directory",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514404\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b9ffc6a-53ca-4a6a-90d9-bf35002e7948/file/b90564eb-62b8-4719-bfe9-2c24ce3ac9c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b9ffc6a-53ca-4a6a-90d9-bf35002e7948/file/16727c70-65fd-4586-9c50-2f7edbdd02ea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F87%2F63%2F0287638b3daa4a2d91d16d168c100c8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03d0cc9a-a0ce-4142-9cc0-98670ffd1694/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b9ffc6a-53ca-4a6a-90d9-bf35002e7948",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mx04c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.683334, -74.616666, 40.35, 40.333336)",
+  "solr_year_i": 1928.0,
+  "uuid": "princeton-tm70mx04c"
+}

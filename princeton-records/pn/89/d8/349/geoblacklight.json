@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title, Nihama. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 20 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\", and \"Key to installations: Sumitomo chemical plant\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89d8349",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Niihama, Ehime Prefecture, Shikoku, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449980\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/27a116f6-3ba1-43f5-abd2-c2a2c869e57d/file/f4a2d4cf-66dc-432c-9d89-f9ea509d103f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/059d3616-f809-4075-bad3-18c7dbad4dd2/file/f6276012-f55c-471a-b73f-6e90a5d8d016\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/059d3616-f809-4075-bad3-18c7dbad4dd2/file/f399b405-6a30-4d70-bf87-dd21c7e079d8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2F8f%2Ff4%2F648ff4f38fd64fe88e10bbdd0310d3ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1eac1beb-0959-4a6e-b8fd-95b319eea83f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-059d3616-f809-4075-bad3-18c7dbad4dd2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89d8349",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(133.23333333333332, 133.31666666666666, 34.0, 33.916666666666664)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-pn89d8349"
+}

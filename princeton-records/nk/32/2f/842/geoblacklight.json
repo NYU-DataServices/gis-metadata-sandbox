@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Annual Report of the State Geologist 1892 Geological Survey of New Jersey Companion text: New Jersey Geological Survey. Annual Report of the State Geologist for the Year 1892 / John C. Smock. 367p. Map shows watersheds in use on the Atlantic slope, and available for supplying norhteastearn cities; pumping stations are located. Based on the triangulation of the U.S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322f842",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Water-supply",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "A map of New Jersey to accompany the Annual report of the state geologist for 1891",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448895\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0d13f86-41e0-4036-98ba-5aa33a184e92/file/f3a6858a-81cf-4ad4-99dc-2de353eb3be7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c433f1d-7b45-4edb-b9a6-f4cf6cb7283d/file/7713d0ed-762e-476c-9e7c-6ad115c4bc3c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c433f1d-7b45-4edb-b9a6-f4cf6cb7283d/file/8d3c79ce-265c-4a67-81e5-ef0606af61b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d6%2Fda%2Fae%2Fd6daae8694954560aea359bb61423d88%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cdc6fffc-28cd-4ad4-be09-fcbc95971cb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9c433f1d-7b45-4edb-b9a6-f4cf6cb7283d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322f842",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-nk322f842"
+}

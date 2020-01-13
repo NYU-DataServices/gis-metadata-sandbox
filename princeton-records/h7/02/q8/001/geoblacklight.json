@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Belchertown. Relief shown by 20 feet contour interval and spot heights. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Surveyed in 1885 and 1887. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q8001",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Belchertown (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Belchertown sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837205\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e6f7100-8c86-48d6-98d9-0a8d8fb5ad51/file/5c1a573f-da9b-4563-b040-8ed0c0fb3164\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9ac673a-1131-409f-8f45-7659765cedd8/file/d1bfb078-3678-465f-b34e-068452be9697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9ac673a-1131-409f-8f45-7659765cedd8/file/43bf2c26-1a39-41ba-a9b2-6b5d4dea80af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2F51%2F56%2F125156fc336e4a4998115bdb7ee8fa0a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0e27edc-042c-415b-a579-6a290e255050/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b9ac673a-1131-409f-8f45-7659765cedd8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q8001",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.5, -72.25, 42.5, 42.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-h702q8001"
+}

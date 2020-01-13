@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Piseco Lake, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1902-1904. Surveyed in cooperation with the State of New York. Entirely within the Adirondack Park. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f462700s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Piseco Lake (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Piseco Lake Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868162\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/788de4ab-6cf4-482e-bffa-108bfe41fd4e/file/00fd8237-980f-4329-b4c4-f60720b74a21\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c07ec574-08e1-48df-af14-e44eb239ce9d/file/d6c43170-0bb1-4eb5-9471-d099bf2fd36b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c07ec574-08e1-48df-af14-e44eb239ce9d/file/8a936635-9474-4c3b-b5c3-cc634ff02a55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8c%2Ff3%2F60%2F8cf360c0be8c412e86801e8378529db3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b528fe5-0ae7-4169-b3f2-64fc90b7e3d7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c07ec574-08e1-48df-af14-e44eb239ce9d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f462700s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 43.5, 43.25)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-3f462700s"
+}

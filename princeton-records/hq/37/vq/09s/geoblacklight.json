@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 40-43 inclusive; issued in New Jersey coast map series. Includes text. North oriented toward lower right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hq37vq09s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Monmouth Beach,Maps",
+    "Monmouth Beach (N.J.),Maps"
+  ],
+  "dc_title_s": "Monmouth Beach, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825992\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e44d71e-85dc-457c-bede-27259288462c/file/48795244-129a-4aa8-ae83-9a96a7eda254\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e44d71e-85dc-457c-bede-27259288462c/file/550620d2-5113-437d-bcc0-01de4e98360e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2Fee%2F87%2Fd8ee87ef076c4e6fa4845e02910a4423%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2458b42-d84b-4ad3-8823-4d490413e138/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4e44d71e-85dc-457c-bede-27259288462c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hq37vq09s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.999, -73.972, 40.346, 40.322)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-hq37vq09s"
+}

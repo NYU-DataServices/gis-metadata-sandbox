@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inset maps of the Los Angeles-Ventura area (1:500,000) and Bakersfield area(1:106,600). Shows sedimentary basins, oil, gas and geothermal fields, pipelines, shipping lanes, tanker ports, refineries and various power plants. With list of \"Abbreviations\" In lower left corner: \"S-2.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0r967555t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Sacramento] : [California Division of Oil and Gas], 1980.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Power resources",
+    "Gas pipelines",
+    "Geothermal resources",
+    "Petroleum",
+    "California,Maps"
+  ],
+  "dc_title_s": "Energy map of California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6458258\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3486fb5-8c01-4c4a-b661-975bcdff0997/file/008db67c-5a6f-4510-9355-ff1451c5fcb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3486fb5-8c01-4c4a-b661-975bcdff0997/file/e4b8c54e-e09c-4d1e-b94d-c9840eef34cd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F03%2Fd7%2Ff303d7c7752341c58e1c39a23a867f62%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28d2b431-4ff5-4ca0-95da-09390b326160/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d3486fb5-8c01-4c4a-b661-975bcdff0997",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0r967555t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.41666666666667, -114.11666666666666, 42.0, 32.53333333333333)",
+  "solr_year_i": 1980.0,
+  "uuid": "princeton-0r967555t"
+}

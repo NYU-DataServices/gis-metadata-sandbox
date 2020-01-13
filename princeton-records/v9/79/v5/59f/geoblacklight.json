@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "France. Arme\u0301e. Service ge\u0301ographique"
+  ],
+  "dc_description_s": "Map of western Heilongjiang Province centering on the city of Harbin. Relief shown by shading and spot heights. In upper margin: Asie 1,000,000e. Flle. 48N 126E. Includes index to adjoining sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v559f",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris?] : Service ge\u0301ographique de l'Arme\u0301e, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbin (China),Maps",
+    "Heilongjiang Sheng (China),Maps"
+  ],
+  "dc_title_s": "Kharbin",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7752723\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42855f72-a7c1-464f-a604-f2a87b83684b/file/6af694c6-21c9-473b-a8d1-c05713fc9036\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42855f72-a7c1-464f-a604-f2a87b83684b/file/ded585c8-b5cd-47a6-83a1-3c869003b30e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2F26%2F9e%2F9a269e1f8f78424689fef365f01c2b32%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c78b1328-f6dd-42d1-9cb0-7e15c26478bc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-42855f72-a7c1-464f-a604-f2a87b83684b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v559f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(121.3994, 128.3836, 48.0042, 44.0122)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-v979v559f"
+}

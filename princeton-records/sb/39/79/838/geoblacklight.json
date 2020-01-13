@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"2042.\" Historic Maps copy includes sheets 1-11 and 13-15, covering Garfield; sheets 16-63 foldered separately. Historic Maps copy imperfect: sheet 12 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sb3979838",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Garfield,Maps",
+    "Garfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Garfield, New Jersey : Lodi, Wallington, Rutherford, Carlstadt, Woodridge, Moonachie, Hasbrouck Heights and Rochelle Park (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5261465\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e1d71ca-8afc-42fa-affc-0831abcd3be8/file/9f70f51e-1fdf-4ac2-9078-4770f9486b8a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e1d71ca-8afc-42fa-affc-0831abcd3be8/file/405d5aee-306d-49f5-970e-1ec2eed18851\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2Fa3%2F44%2F4ea3449e405b417985b7b7fa72916f6d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0db4d826-ad3f-47fa-8cb6-c6c9beadf539/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4e1d71ca-8afc-42fa-affc-0831abcd3be8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sb3979838",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.131, -74.031, 40.92, 40.789)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-sb3979838"
+}

@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n935t",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Elevation",
+    "Roads"
+  ],
+  "dc_title_s": "West Creek Quadrangle, New Jersey, 7.5 minute series (topographic) (1951)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d250feb7-206c-48a2-92fc-9df0438d99a0/file/0d2dd0b5-e994-4fbe-8bd4-e06bd542fc40\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b3f6b670-665c-4ab4-a2d6-360f01309b3c/file/07947a1f-bce7-4c3f-8401-3053f464bb92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b3f6b670-665c-4ab4-a2d6-360f01309b3c/file/f9dc370d-2d1d-492f-844a-345494b6c45f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2Ff2%2F79%2Ffcf2790f04fb4defb25f311e80d76d1b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03882c1e-2fef-44ba-8b1c-4d2465245e0c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Little Egg Harbor",
+    "Stafford",
+    "West Creek",
+    "New Jersey",
+    "Ocean County",
+    "Barnegat"
+  ],
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b3f6b670-665c-4ab4-a2d6-360f01309b3c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n935t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.375, -74.25, 39.75, 39.625)",
+  "solr_year_i": 1951.0,
+  "uuid": "princeton-xw42n935t"
+}

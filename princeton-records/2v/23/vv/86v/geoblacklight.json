@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Maebashi. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2v23vv86v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Maebashi, Gunma Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449961\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b5818e1-5162-47ec-bcb6-bcfde18f061e/file/776fb10d-96f8-4fe9-a63d-52b580a96d11\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcd82edc-30c2-4354-8b17-f02e22d3c94a/file/f78ab1e9-01fc-4837-a5ad-fd907caf707c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcd82edc-30c2-4354-8b17-f02e22d3c94a/file/fe81e372-39c2-45d6-b9c1-39588d3efe9a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/35%2F12%2F90%2F351290fcc1a949148204cb81fdde707b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/518e0e6e-b540-445a-9703-a698ebb2ec70/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dcd82edc-30c2-4354-8b17-f02e22d3c94a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2v23vv86v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(139.05, 139.1, 36.416666666666664, 36.36666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-2v23vv86v"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, reference key, streets and principal specials index, index map, and text. \"Entered according to act of Congress in the year of 1873 by Spielmann & Brush ... Entered according to act of Congress in the year of 1887 by Chas. B. Brush ... Entered according to act of Congress in the year of 1891 by Sanborn-Perris Map Co. Limited ... \" Vol. 7 covers Hoboken, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55z9743",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Hoboken,Maps",
+    "Hudson County (N.J.),Maps",
+    "Hoboken (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 7 (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5498156\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/47c14446-0bb8-44f4-9d6d-132bcdac3cd7/file/54df4595-189f-4489-a38d-7da33cfdac63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/47c14446-0bb8-44f4-9d6d-132bcdac3cd7/file/647eb724-2d3e-4f47-8440-df412bc1aa22\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2F94%2F40%2F059440c92bd84b61b9689f1149e5eb08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c4219afc-5470-4c0d-ad66-b622fbd6eabf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-47c14446-0bb8-44f4-9d6d-132bcdac3cd7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55z9743",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-rf55z9743"
+}

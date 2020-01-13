@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Ticonderoga, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1894 in cooperation with the State of New York. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3n204074p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York-Vermont: Ticonderoga Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867377\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e21e6d3-0428-4af8-bf2f-1aad60d676ce/file/210c27c6-3100-4f35-8c9d-2b1cbaa7f99c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f4311e5-8f76-4d61-ac1c-df4bfffacf03/file/86b3c24f-a4b4-4938-af73-c1097f270572\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f4311e5-8f76-4d61-ac1c-df4bfffacf03/file/ab1833ca-61a1-4e01-bfab-a48f73755436\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2F0b%2Ffb%2Fc40bfbb20a99409891fb407367fa49cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7a27e62d-82be-42a3-a745-6575a2d3d477/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f4311e5-8f76-4d61-ac1c-df4bfffacf03",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3n204074p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 44.0, 43.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-3n204074p"
+}

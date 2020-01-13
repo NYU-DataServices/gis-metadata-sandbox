@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Office of Strategic Services. Research and Analysis Branch \"Based on a Japanese map of 1935 with additions from other sources.\" Map: \"No. 3799--R & A, OSS; 29 July 1944.\" Relief shown by hachures. With a Japanase - English glossary",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xp68kh92t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Office of Strategic Services, Branch of Research and Analysis, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Roads",
+    "Railroads",
+    "Transportation",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "City plan of Kobe",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449972\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0f2d5f7-0a00-41e6-912c-7fe081d12980/file/5533e1dd-08d9-432e-8c16-fdc6c17515de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/79ed43cb-7e2b-47df-a232-f2f583ddcb70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/b4179810-fe55-42dd-8786-bc1b1c2dcd18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F63%2Fbf%2Fdf63bfd6ab004027a45320fe130f9790%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f7c0792-bb05-4bc9-b132-10b62cbf5c82/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c20deae7-2ddf-4a66-b866-aafa74713f20",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xp68kh92t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(135.1, 135.21666666666667, 34.7, 34.6)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-xp68kh92t"
+}

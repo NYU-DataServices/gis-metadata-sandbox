@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by hachures. At top of map: Tav. 7. Inset shows islands south and east of Tierra del Fuego.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p2676x990",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Italy : s.n., ca. 1800]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "South America,Maps"
+  ],
+  "dc_title_s": "America Meridionale",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6463695\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3781284-1cba-4f1f-8490-55e482bf4abe/file/2631d5a2-8673-48a4-9e9c-ee4722b249f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3781284-1cba-4f1f-8490-55e482bf4abe/file/74d6a984-2392-4d6f-8263-ebc852157dba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2Ff5%2F98%2F0bf5985ae6a74f46bd73d48cdc7f5321%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7818d2d8-6621-4d21-ab4f-916253f6be32/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1800"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c3781284-1cba-4f1f-8490-55e482bf4abe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p2676x990",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-86.0, -30.0, 13.0, -56.0)",
+  "solr_year_i": 1800.0,
+  "uuid": "princeton-p2676x990"
+}

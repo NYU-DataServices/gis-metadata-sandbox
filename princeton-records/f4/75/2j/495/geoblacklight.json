@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1923.\" Includes location map, streets and specials index, key and text. \"5828.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f4752j495",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Oradell,Maps",
+    "Oradell (N.J.),Maps"
+  ],
+  "dc_title_s": "Oradell, Bergen County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274345\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6a6b63f-603b-4d0d-8bc7-f7fc6921c0e4/file/a87f3454-c88e-49ce-be19-45e60c08ae67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6a6b63f-603b-4d0d-8bc7-f7fc6921c0e4/file/608bce92-6870-4fb0-bce8-f67ce112f6ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F5c%2F9b%2F505c9bad0ce04a21a8e1565ff33f9f28%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d57a2aaf-ff58-4969-aab6-909ded58e6dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b6a6b63f-603b-4d0d-8bc7-f7fc6921c0e4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f4752j495",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.052, -74.002, 40.972, 40.94)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-f4752j495"
+}

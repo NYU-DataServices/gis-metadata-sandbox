@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Tanner, Benjamin, 1775-1848"
+  ],
+  "dc_description_s": "Map of the Balkan Peninsula and Turkey; relief shown by hachures. Probably issued in: The general atlas for Carey's edition of Guthrie's Geography improved. Philadelphia : Mathew Carey, [18--?] The first edition was published in 1795, with later editons until 1818. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mk74v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia? : Mathew Carey?, between 1795 and 1818]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Balkan Peninsula,Maps",
+    "Turkey,Maps"
+  ],
+  "dc_title_s": "Environs of Constantinople",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4952174\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bab8558f-ea1e-48d4-8fa2-1db7b68c16a3/file/d866276a-4e4a-44bc-939c-c74744a3b5ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bab8558f-ea1e-48d4-8fa2-1db7b68c16a3/file/c7894ab4-2b4b-41d1-9a49-74c05632ecb9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2Fac%2F9c%2F9eac9cfc71be447abf3a98c07980a06a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f9612fc4-c851-4e6f-9973-1dcfaf8105aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Balkan Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bab8558f-ea1e-48d4-8fa2-1db7b68c16a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mk74v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.011, 43.0049, 46.5958, 34.5056)",
+  "solr_year_i": 1795.0,
+  "uuid": "princeton-gx41mk74v"
+}

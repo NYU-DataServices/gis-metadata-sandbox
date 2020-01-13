@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bayerisches Landesvermessungsamt"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. \"Revidirt 1887. Nachtra\u0308ge 1904, 11.\" In upper right hand corner: 47. Includes guide to adjoining maps.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q524jr31z",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Munich] : Topograph. Zweigstelle d. B. Landesvermessungsamts, [1911]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Dietfurt an der Altmu\u0308hl(Germany),Maps"
+  ],
+  "dc_title_s": "Dietfurt (ost) 1877",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7423802\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a71153a-c93d-4bed-81ba-7dbd9d5a6930/file/307b7e77-1343-423c-b0d1-1669ff8476e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a71153a-c93d-4bed-81ba-7dbd9d5a6930/file/5eeb14ae-f5cc-4c27-99ad-1d2c2b7993bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F51%2F9f%2F0f519f9831d244138cb188925d9b890b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/245370a1-c5f0-4a2c-9bd7-e1efff3a9f82/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany (West)"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2a71153a-c93d-4bed-81ba-7dbd9d5a6930",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q524jr31z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.595928, 11.88346, 49.137501, 48.908426)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-q524jr31z"
+}

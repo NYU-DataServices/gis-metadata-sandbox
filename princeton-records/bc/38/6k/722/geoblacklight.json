@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Ceska Trebova in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386k722",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Ceska Trebova. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/21975479-ba76-41bd-8d43-6c3c49a4e084/file/356e9b46-fc9a-438c-937d-fe628a8bf332\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06dff443-96ba-416c-9418-7b63b2aace5f/file/d91ff513-f9ce-4b1a-b0c3-32226df591ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06dff443-96ba-416c-9418-7b63b2aace5f/file/c6085737-6d03-4462-9b6c-63cea12c5a5e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F97%2Fb5%2Fff97b524929c4a5cb805428603e5eba0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af5799ad-c348-4eaf-ab3b-e24a62679ca9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "G6031.C2.s100.A7M3",
+    "Central Europe",
+    "Ceska Trebova",
+    "Czechoslovakia"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06dff443-96ba-416c-9418-7b63b2aace5f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386k722",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(16.3333, 17.3333, 50.25, 49.75)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-bc386k722"
+}

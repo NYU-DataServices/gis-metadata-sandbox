@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings and stippling. Includes notes and tables of data.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d209n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington] : Coast Survey Office, 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,New York Metropolitan Area,Maps",
+    "New York Harbor (N.Y. and N.J.),Maps"
+  ],
+  "dc_title_s": "New York bay and harbor, New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6245882\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da1c3676-6a4a-4501-8739-c24111226bdc/file/ef3e3b9e-2bbf-44dc-bbc4-1441cef68a67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da1c3676-6a4a-4501-8739-c24111226bdc/file/42f7477e-ef30-459c-ae10-9d915dddd672\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F0d%2F42%2Fe80d4276c352406896077a5d925f772d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a7d0ee4d-edce-491c-8014-98f8194dcaab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-da1c3676-6a4a-4501-8739-c24111226bdc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d209n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.300125, -73.683346, 40.916737, 40.366801)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-4j03d209n"
+}

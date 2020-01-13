@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"December 1915.\" Includes location map, key, key map, streets and specials index, and text. \"1030.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w1922",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915, c1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westville,Maps",
+    "Real property,New Jersey,Newbold,Maps",
+    "Real property,New Jersey,National Park,Maps",
+    "Westville (N.J.),Maps",
+    "Newbold (N.J.),Maps",
+    "National Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Westville, Gloucester County, New Jersey : including Newbold and National Park (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5489098\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0927392b-2e6b-4974-817b-14d363a74fac/file/fc6a5819-c7b0-4631-86ea-81fcb07b036d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0927392b-2e6b-4974-817b-14d363a74fac/file/4920e93f-7d38-43af-9ef9-0e15322547bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2F2d%2F9f%2F4b2d9f3c49b046b383695a6647a3e558%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/23d55b0d-337b-4edf-b94e-49edf5178151/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0927392b-2e6b-4974-817b-14d363a74fac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w1922",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-vd66w1922"
+}

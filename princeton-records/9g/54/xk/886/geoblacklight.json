@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1895.\" Includes key, key map and text. \"121.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9g54xk886",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895, c1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bound Brook,Maps",
+    "Bound Brook (N.J.),Maps"
+  ],
+  "dc_title_s": "Bound Brook, Somerset Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5600864\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72325b79-a8c0-481c-bc66-d590de8f67e1/file/424e9e0f-d82b-42ee-9642-93fd46cf95cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72325b79-a8c0-481c-bc66-d590de8f67e1/file/4f3f461e-9fdc-49ad-bb84-14cc093e5d9b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2F7c%2Fc3%2F727cc3b7b0df4b878a811ad8e7e90880%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3cb03b2a-85c8-4d15-b41b-0a8f2c020b79/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-72325b79-a8c0-481c-bc66-d590de8f67e1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9g54xk886",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-9g54xk886"
+}

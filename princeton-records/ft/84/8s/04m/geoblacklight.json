@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886-7 in cooperation with the states of Mass. And Conn. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ft848s04m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Granville (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts-Conn.: Granville sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837158\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e05313d-f7d7-4567-89ec-b7895662b01e/file/489f5b2d-993f-426d-81a7-ac17b9b87b89\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e293501e-6d6d-4d94-869a-1af195a5d8c9/file/55a604c2-c7c7-492a-90be-c4146c4a60e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e293501e-6d6d-4d94-869a-1af195a5d8c9/file/ed53efb4-c078-4684-8afa-ff5b8a72906d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2F3e%2Fbd%2Fe63ebddf4b6942aba33b56aa21b13811%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b200899b-87f4-4fb4-ae0c-84d1032eb137/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e293501e-6d6d-4d94-869a-1af195a5d8c9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ft848s04m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -72.75, 42.25, 42.0)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-ft848s04m"
+}

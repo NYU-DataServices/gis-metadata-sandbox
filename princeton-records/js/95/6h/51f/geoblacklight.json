@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb. 1885.\" Includes key and text. Oriented with the north to the upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/js956h51f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hightstown,Maps",
+    "Hightstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Hightstown, N.J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a82fd65-836d-4833-8902-c1122b27ae4d/file/149140dd-ed05-4292-90f4-1d2e478e6b0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a82fd65-836d-4833-8902-c1122b27ae4d/file/03ff5e42-037c-4084-b99a-0f829ccd22e5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F25%2Fe7%2F4725e72276f445cebaa09a4650e6c6f7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48023698-ff9f-4ff1-99a6-eb310eacfd91/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4a82fd65-836d-4833-8902-c1122b27ae4d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-js956h51f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-js956h51f"
+}

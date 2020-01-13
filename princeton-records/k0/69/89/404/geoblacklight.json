@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb. 1896.\" Includes key and text. \"259\". North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k06989404",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ridgewood,Maps",
+    "Ridgewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Ridgewood, Bergen Co., N. J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5289015\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c999fea9-d7c1-4064-aaec-a1978bc1c362/file/cda68eb4-2275-49f8-bfbc-3df552484ed7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c999fea9-d7c1-4064-aaec-a1978bc1c362/file/ffc8b408-7d9d-467a-91a3-1f7f81fda3db\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2F8e%2Fd0%2F9d8ed08e9e8a455f9a8270697ed12365%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/abd1dacf-d1f0-4f86-80a0-ee710f94fd0b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c999fea9-d7c1-4064-aaec-a1978bc1c362",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k06989404",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.149088, -74.077559, 41.007844, 40.955272)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-k06989404"
+}

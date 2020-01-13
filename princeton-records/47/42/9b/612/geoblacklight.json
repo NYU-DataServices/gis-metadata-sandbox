@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, streets and specials index, and text. \"September 1919.\" \"2815.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/47429b612",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westmont,Maps",
+    "Westmont (N.J.),Maps"
+  ],
+  "dc_title_s": "Westmont, Camden County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409689\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ed798ad-3250-432f-aa01-b8ab298b20b0/file/9506fa8e-08ed-4bf9-bba0-1d1aee7e56d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ed798ad-3250-432f-aa01-b8ab298b20b0/file/8f0b1fd7-c703-41f0-948f-2b56f6ed8201\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2F7f%2Fd4%2F647fd401de514087a93068210c159cb1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2dc5ca9f-f5ce-4ce5-9dea-d7660593118a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4ed798ad-3250-432f-aa01-b8ab298b20b0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-47429b612",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-47429b612"
+}

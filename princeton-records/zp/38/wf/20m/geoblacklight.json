@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf20m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Yosemite National Park (Calif.),Maps"
+  ],
+  "dc_title_s": "Topographical map of Yosemite National Park, California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6815917\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89a14940-f13f-49e4-b581-bd6b14a51e9d/file/39999049-4e77-4ea4-b1c7-10573a975743\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce65266a-7e3f-4ead-9742-02fe268fb43d/file/e64d8f57-8430-4b39-9424-35f4c369a96e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce65266a-7e3f-4ead-9742-02fe268fb43d/file/5a31ab6b-96b4-4f55-99f1-3f4aa3ce5319\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2Fc0%2Fd4%2Fcec0d43b4ddd4c7b8d2ee640eb9c18e4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70843cc5-26cd-4cac-8c3e-cd52ae851513/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ce65266a-7e3f-4ead-9742-02fe268fb43d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf20m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-120.0, -119.0, 38.25, 37.5)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-zp38wf20m"
+}

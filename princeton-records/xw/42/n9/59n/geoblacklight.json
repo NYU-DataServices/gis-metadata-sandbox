@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Burgos city plan. Copied from Spain 1:50,000, map 200, 1939. Projection approximate.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n959n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Burgos city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816688\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c43a060c-fb08-495a-873f-a944915b7964/file/cd9fb343-94e3-46c5-bd20-6839ffbd9cdf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45aabaef-25d1-4ad9-8592-e7f5d1a412cf/file/4e02a112-d754-444c-af9d-e21b08f8cec2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45aabaef-25d1-4ad9-8592-e7f5d1a412cf/file/b21af636-b1a5-4b74-be33-f6ad933a9b57\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F67%2F45%2Fdf67459c4418493aa2a1acf5bdcf8efc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/306265af-dc98-4bcc-933b-e157490063d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-45aabaef-25d1-4ad9-8592-e7f5d1a412cf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n959n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.7333333333333334, -3.6666666666666665, 42.36666666666667, 42.333333333333336)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-xw42n959n"
+}

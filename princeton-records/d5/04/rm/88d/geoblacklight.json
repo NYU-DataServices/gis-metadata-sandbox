@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA. Foxburg. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1905-1907. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rm88d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Foxburg Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868245\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1e50ebc2-4de3-437b-a8fa-9f88ed488d73/file/abf42bff-80bc-4b54-b034-ee4b0f6c7f4a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/568ac5a7-471b-47a2-9046-040cfd2f78f5/file/263f1db8-607d-4ca4-b726-4e897549c74f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/568ac5a7-471b-47a2-9046-040cfd2f78f5/file/bda22721-f640-4db8-b65e-bab6ef017f1e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2F15%2F25%2Ff515250d0e354d7b8053e9a68a46f725%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f55f8824-aa86-4aac-8aa0-9951278f3cce/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-568ac5a7-471b-47a2-9046-040cfd2f78f5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rm88d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.75, -79.5, 41.25, 41.0)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-d504rm88d"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of military regions in China. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x920fz300",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Military",
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "China military regions, 1984",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f2bbc6f2-b9e7-4f34-bc78-addefc4d2090/file/1838e6ff-7890-4a4b-a05c-14fc41a29942\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3095d40-2384-4f23-8c62-097507953483/file/7ccbb82a-b9b0-405e-baeb-e1810ee10c84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3095d40-2384-4f23-8c62-097507953483/file/35f5f10e-35ae-4399-8758-990bd8ea2bf1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2F1d%2F63%2F941d634bcdfd4c9aa5392157774c289c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cddeec7e-20f3-4e97-b34b-b71b580ff128/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3095d40-2384-4f23-8c62-097507953483",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x920fz300",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(75.0, 127.0, 50.0, 20.0)",
+  "solr_year_i": 1984.0,
+  "uuid": "princeton-x920fz300"
+}

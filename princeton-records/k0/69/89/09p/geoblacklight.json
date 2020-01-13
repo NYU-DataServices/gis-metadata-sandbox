@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Morrisville. Relief shown by 20 feet contour interval. Surveyed in 1899 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698909p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morrisville (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Morrisville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868012\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/87b80210-6a76-4ea2-aebb-2c1d809cd216/file/f85a3fd0-9149-40b3-9cb9-d2678eadea05\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edc67c87-2c54-4a12-ba23-aa3f98ee71ab/file/6017ae83-2293-4917-bf4f-98389073f41d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edc67c87-2c54-4a12-ba23-aa3f98ee71ab/file/67f62f9f-ab00-4d0c-99af-f1d86feed59b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2Fc1%2F62%2F94c1626f837e412d97dc337acc851d7f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c4b70f37-0a94-4ef2-bab6-d79f03206807/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-edc67c87-2c54-4a12-ba23-aa3f98ee71ab",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698909p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 43.0, 42.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-k0698909p"
+}

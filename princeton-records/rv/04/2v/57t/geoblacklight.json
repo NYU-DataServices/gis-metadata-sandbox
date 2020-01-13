@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Glacial geology of the Catskills / John Lyon Rich. New York. State Museum. Bulletin 299; 1935. 180p. 1 pl. Relief shown by form lines. Map is plate 2 accompanied by plate 1: Map of glacial geology of the Catskill Mountains.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042v57t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1930.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Glaciology",
+    "Glacial epoch",
+    "Catskill Mountains (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the Catskill Mountain region showing positions of the ice front during the glacial retreat",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866454\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3681af4d-2836-49d2-8c5d-1a50cfc1fd4f/file/872cb89d-ef39-4512-b826-92dfda90f8f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0c88ecf-7127-4435-a4c9-6a87cd4ec2ef/file/61a52e54-f57e-4dbd-9345-8710482a6421\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0c88ecf-7127-4435-a4c9-6a87cd4ec2ef/file/f2ce5773-28be-4d1e-8742-4c4780e395ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2F41%2F38%2Fd1413862510b4948bcd0b93783983ebf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4085072-92e2-4f52-a51f-81ddfe621242/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d0c88ecf-7127-4435-a4c9-6a87cd4ec2ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042v57t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.93333333333334, -74.0, 42.55, 41.583333333333336)",
+  "solr_year_i": 1930.0,
+  "uuid": "princeton-rv042v57t"
+}

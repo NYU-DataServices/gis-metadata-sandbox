@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "National Geographic Society (U.S.). Cartographic Division"
+  ],
+  "dc_description_s": "Relief shown by shading. Also covers Wales. \"Supplement to the National Geographic, October 1979, page 442A, vol. 156, no. 4--British Isles.\" Includes text, historical notes, and col. ill. Insets: England in the Eighth century.--Henry II's empires 1154-1189.--Shetland Islands (Zetland). On verso: British Isles.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h545",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington : The Society, 1979.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,History,Medieval period, 1066-1485,Maps",
+    "British Isles,Maps"
+  ],
+  "dc_title_s": "Medieval England",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7174947\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e8e87fbb-27c7-4d56-952c-083493135591/file/82137b3f-a055-4458-a175-9b75122e2776\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8e87fbb-27c7-4d56-952c-083493135591/file/e4663dc9-b5d0-4d23-9579-725540d992c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2F14%2F23%2Fbf1423fa2bae43a0852c44c59a0e624c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/049a7cd7-ac87-4887-8587-fcad4d60af59/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e8e87fbb-27c7-4d56-952c-083493135591",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h545",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.802222, 1.883889, 56.405278, 48.881111)",
+  "solr_year_i": 1979.0,
+  "uuid": "princeton-bg257h545"
+}

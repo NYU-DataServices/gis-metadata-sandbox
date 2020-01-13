@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Long Island sheet. Map is 22 sheets stored in box on top of New York map cases. Inset: Long Island. Sections, Mt. Psigah North to Benson, New York-New Jersey State Line. Geology shown by coloring.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4f16c463d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Albany, NY] : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Long Island (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: Long Island sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0bcac10-80e6-4e29-ac04-11498050b04e/file/316f4582-8c8a-4c5d-9371-8f29e76c0a02\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0bcac10-80e6-4e29-ac04-11498050b04e/file/c0659732-6f65-4992-8454-3b3a7a6bc064\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F24%2F45%2F2e244562687c47fe831aac2977cd9e35%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4542fcdb-d4f4-4f6c-8899-470334eb298e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e0bcac10-80e6-4e29-ac04-11498050b04e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4f16c463d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.16666666666667, -76.5, 42.0, 40.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-4f16c463d"
+}

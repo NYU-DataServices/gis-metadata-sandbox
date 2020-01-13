@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1908.\" Includes key, streets and specials index, and text. \"196.\" Title from index sheet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w66345524",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Burlington,Maps",
+    "Burlington (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Burlington, Burlington County, New Jersey (Sheet 17)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5054114\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/524a8568-3308-4125-8e10-a5290908458b/file/917bf3e7-8b70-4e87-a995-53e5846d004f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/524a8568-3308-4125-8e10-a5290908458b/file/e372d33e-adbc-4eb0-82c1-2372229b2561\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F57%2Fe0%2Fa757e09ba3044b26b23f1d38b88e36c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3cc475dc-34c5-485d-a584-655606ce8adc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-524a8568-3308-4125-8e10-a5290908458b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w66345524",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-w66345524"
+}

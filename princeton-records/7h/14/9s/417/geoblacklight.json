@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Lathrop, J. M. (James M.)"
+  ],
+  "dc_description_s": "In upper margin: Plate 23. From: Atlas of the City of Trenton and Borough of Princeton, Mercer County, New Jersey / compiled and drawn from official records, private plans and actual surveys by and under the direct management and supervision of J.M. Lathrop, C.E. Philadelphia : A.H. Mueller, 1905. Map shows Princeton Borough north, south and east to the borough line and west to Washington St.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7h149s417",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia : A.H. Mueller, 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton University,Maps",
+    "Real property,New Jersey,Princeton,Maps",
+    "Princeton, N.J.,Maps"
+  ],
+  "dc_title_s": "Part of Princeton",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6862452\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edb6acd7-c559-463a-8ebf-11919e10a3ad/file/4aaca057-4059-4f6a-9048-678bc378871f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edb6acd7-c559-463a-8ebf-11919e10a3ad/file/2a93ec62-2ae5-4246-b975-c27310ffbaeb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2Fbf%2Fb7%2Ff2bfb76cc7f14d4e819892b8d4c37c0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/22abed73-f6e9-4126-a111-88d933a5c5a5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-edb6acd7-c559-463a-8ebf-11919e10a3ad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7h149s417",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-7h149s417"
+}

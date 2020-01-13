@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by hachures. Inset: Plan de Constantinople (scale [ca. 1:50,000]). Publication date suggested by advertisements on verso of map. Historic Maps copy originally folded in paper wrapper 18 x 12 cm.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz54j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Vienne : Chez Artaria & Co., [1859]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Danube River,Maps",
+    "Danube River Valley,Maps",
+    "Balkan Peninsula,Maps",
+    "Istanbul (Turkey),Maps"
+  ],
+  "dc_title_s": "Carte du cours du Danube depuis Ulm jusqua\u0301 son embouchure dans la Mer noire, ou, Guide de voyage a\u0300 Constantinople sur le Danube : avec indication de tout ce qui a rapport a\u0300 la navigation des pyroscaphes sur cette route",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5145246\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0c2f9ad4-b281-48c6-a6ff-e99ccb2db804/file/c9840abd-3336-43ae-8f9a-77d05f424e2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0c2f9ad4-b281-48c6-a6ff-e99ccb2db804/file/ea8fdd03-5e96-40f8-9410-4d38cedd9896\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2Ffb%2F5b%2F0cfb5be6495c45d093d54e98dd8f433f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7a90aa4-93a8-4965-903d-1103fa300f3f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Danube River",
+    "Balkan Peninsula",
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0c2f9ad4-b281-48c6-a6ff-e99ccb2db804",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz54j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.72, 31.03, 49.51, 39.75)",
+  "solr_year_i": 1859.0,
+  "uuid": "princeton-qv33rz54j"
+}

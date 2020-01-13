@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1922.\" Includes location map, key, streets and specials index, and text. \"5470.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j96022314",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Haddon Heights,Maps",
+    "Haddon Heights (N.J.),Maps"
+  ],
+  "dc_title_s": "Haddon Heights, Camden County, New Jersey (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5392071\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/344e92c9-5dce-42f2-bd52-524220e6c4e3/file/a8bb407a-2c9c-4d5e-90e1-8a2b7ef0ac64\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/344e92c9-5dce-42f2-bd52-524220e6c4e3/file/ed492ff1-3542-42ff-ad95-268a4ad9dfa6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/35%2Fd0%2Fcd%2F35d0cdd5ac274a4988a377ac54b2d058%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bc6a695e-285a-44e3-b275-75511c0ea2f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-344e92c9-5dce-42f2-bd52-524220e6c4e3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j96022314",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.08, -75.0456, 39.8928, 39.872)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-j96022314"
+}

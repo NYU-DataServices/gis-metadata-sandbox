@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bj75f",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "15 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "New Jersey, Raritan Quadrangle (1917)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/183a1c02-8893-48de-accc-4b2590bf68bc/file/52758430-8905-4aba-9f20-fd0be99f4369\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fab54cbc-a521-48ba-8512-2a2753017612/file/60d14570-fabe-49ec-8f49-8992339af9f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fab54cbc-a521-48ba-8512-2a2753017612/file/f6257065-1a98-4d12-8a0b-02b9bda77778\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2F1b%2Fe7%2F051be78ebe634534afe0b1f415542101%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19e24b1b-3678-4346-8e84-2fdcbb315897/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Washington",
+    "Rockawax",
+    "Somerset/Hunterdon County",
+    "High Bridge",
+    "New Jersey",
+    "Port Oram",
+    "Raritan"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fab54cbc-a521-48ba-8512-2a2753017612",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bj75f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.5, 41.0, 40.5)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-g158bj75f"
+}

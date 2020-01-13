@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Universal Transverse Mercator Grid, International Spheroid Zone 30. Relief shown by 10 m contour interval and spot heights. This set is coordinated with the following: Belgium & N.E. France 1:100,000 (G.S.G.S. 4336) Central Europe 1:100,000 (G.S.G.S. 4416) and Italy 1:100,000 (G.S.G.S. 4164). Purple numbered Grid is Lambert Zone I This map is part of a set of 136 sheets, some sheets were reissued by U.S. Army Map Service (A.M.S. M661). Largely based, directly or through reduction, on France 1:50,000 (G.S.G.S. 4250).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gf06g539m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Southampton] : Ordnance Survey, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "France,Maps",
+    "Chausey Islands (France),Maps"
+  ],
+  "dc_title_s": "France, scale 1:100,000",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867655\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7a78543-f9ad-4b66-a5ee-ddc34ce7cc58/file/9d56f548-0307-4078-927f-a8d93c17172d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7a78543-f9ad-4b66-a5ee-ddc34ce7cc58/file/232f1948-8829-4a86-80fd-2559dfae405a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2Fcd%2Fa7%2F90cda7eb674440e2baf54e1da53e3034%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75f8fd6b-9b89-438d-9f72-c92bedb48a86/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7a78543-f9ad-4b66-a5ee-ddc34ce7cc58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gf06g539m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.45, -1.583333, 49.3, 48.7167)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-gf06g539m"
+}

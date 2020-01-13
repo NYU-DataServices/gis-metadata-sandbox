@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1913.\" Includes location map, streets and specials index, key and text. \"6101.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fj2364014",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Tenafly,Maps",
+    "Tenafly (N.J.),Maps"
+  ],
+  "dc_title_s": "Tenafly, Bergen County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5314336\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77b80b98-9585-47b3-8180-2c9016536ad3/file/0a07dc42-9cab-4c7f-b383-42e9a2564577\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77b80b98-9585-47b3-8180-2c9016536ad3/file/1d25cc50-7087-4223-b60a-42f25216ca55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F49%2Fc6%2F8049c602e46e4fb381c9f8f5e924317a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0e808e52-29d0-4db5-b016-dff0023f8db2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77b80b98-9585-47b3-8180-2c9016536ad3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fj2364014",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.984433, -73.927389, 40.937905, 40.899757)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-fj2364014"
+}

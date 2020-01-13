@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1912.\" Includes key, streets and specials index, and text. \"5195.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pc289m00m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbine,Maps",
+    "Woodbine (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbine, Cape May County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5332788\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e97f0d60-9fac-42c9-8862-e05600cc6679/file/c02e508a-d0ea-44cf-9db2-b7737917fe0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e97f0d60-9fac-42c9-8862-e05600cc6679/file/5a30c311-0b4c-4b1c-93d6-6d628c888c36\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2Fa3%2Fe1%2F9ca3e1c82b1e4cf9ace4614ea3f48165%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb8ff747-d592-42a3-9272-fcf239146665/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e97f0d60-9fac-42c9-8862-e05600cc6679",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pc289m00m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.848383, -74.766362, 39.256833, 39.203307)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-pc289m00m"
+}

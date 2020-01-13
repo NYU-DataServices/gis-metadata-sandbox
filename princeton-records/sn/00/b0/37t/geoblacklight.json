@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Belmont, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1923. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sn00b037t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1925.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Belmont (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Allegany County) Belmont Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866844\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc390907-dac6-4c34-a854-471a6fe0fd27/file/1b4b3145-2e9f-412e-b421-57e136350b7f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2525c974-e523-4fd2-b277-da757d0a6df9/file/f2075409-c6e0-4bbc-ab59-9965e9669b45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2525c974-e523-4fd2-b277-da757d0a6df9/file/f5cae5ed-a682-460c-8b67-ede4f52b1829\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2Fe7%2Fcd%2F08e7cd34fe64488a9277e1932a5d2985%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7e63868-fc86-4929-9d56-00c864f54849/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2525c974-e523-4fd2-b277-da757d0a6df9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sn00b037t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.25, -78.0, 42.25, 42.0)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-sn00b037t"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Santa Clara, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1921. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322f92j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Santa Clara (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Franklin County) Santa Clara Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868392\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8db5794c-4bb5-4d5f-89c2-3bdaaca60686/file/5d2e4395-aef6-49eb-a046-3501e128af84\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7c62041-eea6-40af-befb-cb8c1f015b8e/file/dcc20fd0-a1a2-48d2-88f5-316f39105736\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7c62041-eea6-40af-befb-cb8c1f015b8e/file/d425ff77-1a56-485d-b54e-2590a19d72a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F39%2Fe9%2F7a39e9f8de10462f88f909ebba39becb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/582a838a-6e47-4a0a-9a26-3203bab95948/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7c62041-eea6-40af-befb-cb8c1f015b8e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322f92j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 44.75, 44.5)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-nk322f92j"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Princeton Borough and Township. Blue line copy.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9g54xk51g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Princeton, N.J. : Princeton University, Bureau of Urban Research, 1777[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Population",
+    "Princeton (N.J. : Borough),Maps"
+  ],
+  "dc_title_s": "Princeton Borough and Township, Mercer County, New Jersey extent of community 1777 A.D. (info. available for Borough only).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514390\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea403196-9015-4268-8664-66a8a91e3209/file/7fccc58f-0379-47a1-823b-6ad75fbb610c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea403196-9015-4268-8664-66a8a91e3209/file/d7d70fe7-d021-4bf6-a8dd-ddcb845c6a82\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2Fbc%2F17%2Fd1bc171281fe45b4acc78cc55615a4d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbacf798-4441-46cb-95e5-fcdce113018d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ea403196-9015-4268-8664-66a8a91e3209",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9g54xk51g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68333333333334, -74.61666666666666, 40.36666666666667, 40.333333333333336)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-9g54xk51g"
+}

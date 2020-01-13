@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1892.\" Includes key, specials index, and text. \"5689.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43nz708",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bordentown,Maps",
+    "Bordentown (N.J.),Maps"
+  ],
+  "dc_title_s": "Bordentown, Burlington Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5028102\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/908aad05-8c2b-4846-9d5d-1a8115fd0e29/file/d31250b2-4f58-47f5-bc6a-bb7c8336df68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/908aad05-8c2b-4846-9d5d-1a8115fd0e29/file/32b71ae8-d7c5-4f0f-8d4b-b0d61a3591a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/88%2F24%2F55%2F882455cac59b402eaae24d42846d0d0b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4020ab8c-ed90-4f8a-84b0-aa3a53d21398/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-908aad05-8c2b-4846-9d5d-1a8115fd0e29",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43nz708",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-cv43nz708"
+}

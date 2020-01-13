@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 2. United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 3831. World polyconic grid. Relief shown by 10 metres (accentuated every 50 m.) contour intervals and spot elevations. Pinyin name for this city: Nanjing.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7w62f970q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "China 1:25,000. Nanking. G.S.G.S. 3831",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830378\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ce7aab02-fe03-4c45-a0e7-b324ae003185/file/0ddceb93-83ae-4fc2-b3ff-87c075621315\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7da52e27-7af7-4507-9d87-7d7607adcfdc/file/7cd5b225-1bac-4159-8e45-c4b934f97271\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7da52e27-7af7-4507-9d87-7d7607adcfdc/file/e74f7a70-f633-4d93-b452-5f6f0906ccae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2F25%2F37%2Ff725371fa8004d199ed5844361e37b1d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2007e04c-58d3-41b3-8881-3b6eb314ebd7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7da52e27-7af7-4507-9d87-7d7607adcfdc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7w62f970q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(118.7, 118.86666666666666, 32.13333333333333, 32.03333333333333)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-7w62f970q"
+}

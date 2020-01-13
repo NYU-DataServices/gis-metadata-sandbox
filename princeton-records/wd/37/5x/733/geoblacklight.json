@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Mortier, Pierre"
+  ],
+  "dc_description_s": "Map of the coast of North Africa; relief shown by bathymetric soundings. From: Suite du Neptune franc\u0326ois ... Amsterdam : Pierre Mortier, 1700. Insets: Le de\u0301troit de Gibraltar -- Alger -- Tripoli.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wd375x733",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Amsterdam : Chez Pierre Mortier ... , [1700]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,Africa, North,Maps,Early works to 1800",
+    "Coasts,Africa, Northwest,Maps,Early works to 1800",
+    "Nautical charts,Early works to 1800",
+    "Africa, North,Maps",
+    "Mediterranean Sea,Maps"
+  ],
+  "dc_title_s": "Carte des costes de l'Afrique sur la Mer Mediterrane\u0301e, et le detroit de Gibraltar, les i\u0302les de Madere et des Canaries, iusques a\u0300 Tungarral",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4640729\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/316ad7b5-8c2f-4c1e-9818-a3799f600fb8/file/fa512a5b-4629-4380-bb72-249c1eb483a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48061f99-c2d6-4992-9640-26fcfb8d67fc/file/1fb289a3-7002-4a8a-9740-100ee954df8a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48061f99-c2d6-4992-9640-26fcfb8d67fc/file/e22f80bf-b60f-4a4b-8e83-cfed7e543843\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/87%2F67%2Fc0%2F8767c0dba1054ddc9bb6b4f94b8254eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f5855a7-cc5f-4464-b2ce-5cdcafa705e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa, North",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-48061f99-c2d6-4992-9640-26fcfb8d67fc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wd375x733",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-18.77, 37.44, 42.39, 26.84)",
+  "solr_year_i": 1700.0,
+  "uuid": "princeton-wd375x733"
+}

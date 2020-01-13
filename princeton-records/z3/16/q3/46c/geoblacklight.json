@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. United States. Defense Mapping Agency. North Decimal Degree -12.000000. South Decimal Degree -12.166667. East Decimal Degree -68.5000000. West Decimal Degree -68.750000. Alternate title: 5857 I, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z316q346c",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1979.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: 5857 I, hoja 5857 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840971\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f08c428-993c-49d6-aca9-4bca110690d0/file/2e74a030-5ff7-435a-ac2b-1a80c2b5450c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f08c428-993c-49d6-aca9-4bca110690d0/file/72b89e74-0fa6-4a81-86d9-e8cdce9a63b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2F5f%2Fe5%2F4b5fe5150fbc44978ae48638ab16a326%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64474c16-9d86-4d0c-a433-2c93a5286db2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1f08c428-993c-49d6-aca9-4bca110690d0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z316q346c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -12.0, -12.166667)",
+  "solr_year_i": 1979.0,
+  "uuid": "princeton-z316q346c"
+}

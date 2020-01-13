@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -14.333300. South Decimal Degree -14.5000. East Decimal Degree -67.7500. West Decimal Degree -68.0000. Alternate title: Santa Rosa, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kk91fn41h",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Santa Rosa, hoja 6050 IV. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839604\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9aad712c-4687-48c1-8b6d-ae0f740c5fdb/file/87b56bee-164a-40b7-aece-9b3d6554e3c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9aad712c-4687-48c1-8b6d-ae0f740c5fdb/file/93ba6be5-c2c9-41d9-8774-a59c2304f44e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2F1a%2F5c%2Ff21a5c6f6d814e0f886928f0db4bb21e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d063e66-a6be-4100-bd84-468ebf59d4b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9aad712c-4687-48c1-8b6d-ae0f740c5fdb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kk91fn41h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.0, -67.75, -14.3333, -14.5)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-kk91fn41h"
+}

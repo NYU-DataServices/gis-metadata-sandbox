@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Department of Environmental Protection. Division of Coastal Resources. In lower right margin: Ocean City, N.J. Mapped by the Army Map Service, edited and published by the Geological Survey. \"This map is for visual purposes, for detailed analysis refer to the original sources.\" Blue line copy. This map is sheet 14 of a set of nineteen sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h341g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Department of Environmental Protection, 1981.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Shorelines",
+    "Geomorphology",
+    "NJ, shoreline,Maps"
+  ],
+  "dc_title_s": "Historical shoreline changes in New Jersey 1835-1972. 14) Ocean City Quadrangle, New Jersey. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866437\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1890d51-8635-4bf2-b83e-b054cdd6cf42/file/571f0015-98d8-4c11-80d4-7ab23ddce474\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ca05db2-be4b-41df-9098-3504ff74844b/file/1d1bbecb-0ab1-4ce9-a3ae-95910edaa4b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ca05db2-be4b-41df-9098-3504ff74844b/file/7893e7e1-0fd2-4015-8fc8-a8be76033ea0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e7%2F16%2Ff0%2Fe716f0de815d4d86896a6379c7503203%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b604571-42eb-414d-94d3-ff52fa9b65fb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ca05db2-be4b-41df-9098-3504ff74844b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h341g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.61666666666666, -74.5, 39.36666666666667, 39.25)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-8336h341g"
+}

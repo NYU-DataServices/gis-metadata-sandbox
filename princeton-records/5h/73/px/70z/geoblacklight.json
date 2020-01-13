@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Mar. 1889.\" Includes key and text. \"3265.\" North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5h73px70z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Manasquan,Maps",
+    "Manasquan (N.J.),Maps"
+  ],
+  "dc_title_s": "Manasquan, N.J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4809897\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc04616e-de43-4ca6-9e0d-696823b94a88/file/86455111-a602-4d1d-b75b-c19604bf5c6a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc04616e-de43-4ca6-9e0d-696823b94a88/file/80408695-306e-4805-8326-755f9a9ffcec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2Fbe%2Fed%2Fbdbeed8ed45a48d58d9ef38f967a95f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/44f433b7-5771-4e67-9c7f-e0ac9b202817/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc04616e-de43-4ca6-9e0d-696823b94a88",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5h73px70z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.062, -74.031, 40.133, 40.103)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-5h73px70z"
+}

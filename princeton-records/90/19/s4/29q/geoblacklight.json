@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "City of New York. Department of City Planning.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9019s429q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : [s.n.], 1988[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Urban development",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Urban development of the city of New York, 1625-1988",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515185\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a1e6a771-e277-4016-bcf4-2f008408791c/file/f4f2a15a-5f10-4812-9d24-c8680e724875\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a1e6a771-e277-4016-bcf4-2f008408791c/file/fb5d0171-1bdb-4de6-83e0-69ee17dbeff5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2F5e%2F40%2Fb35e40a448ac429d85c6441cdc81550f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8e3f4949-989f-46bd-8187-7278cd9b5d45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a1e6a771-e277-4016-bcf4-2f008408791c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9019s429q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -73.68333333333334, 41.1, 40.483333333333334)",
+  "solr_year_i": 1988.0,
+  "uuid": "princeton-9019s429q"
+}

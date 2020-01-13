@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Kummerly & Frey. Swizterland. Katasteramt der Stadt Solothurn. Herausgegeben im November 1950. Erstellt vom Katasteramt der Stadt Solothrun und Kummerly & Frey, Bern. Street and building index.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gh93h139n",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1950.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City blocks",
+    "Switzerland,Maps"
+  ],
+  "dc_title_s": "Offizieller Verkehrsplan der Stadt Solothurn.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866936\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a645609a-5826-429a-8ab1-34f399b21cfe/file/6e5d8cb5-ab36-422b-85c3-c24c01b8163e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a645609a-5826-429a-8ab1-34f399b21cfe/file/c69a49df-cce3-413a-ba8a-25b1adc9e768\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2F05%2Fc7%2Fad05c7d4f08a4a9a9be53efd8257562b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b3ddc0e0-949b-4b79-b270-b62c339f6ae3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a645609a-5826-429a-8ab1-34f399b21cfe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gh93h139n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.5, 7.55, 47.233333333333334, 47.18333333333333)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-gh93h139n"
+}

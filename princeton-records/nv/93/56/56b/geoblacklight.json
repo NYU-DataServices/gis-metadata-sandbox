@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Dripps, M. (Matthew)"
+  ],
+  "dc_description_s": "Depths shown on plate no. 2 by soundings. \"Prepared by M. Dripps for Valentine's Manuel [sic] of the Corporation of the city of New York.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv935656b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York?] : M. Dripps, 1860.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brooklyn (New York, N.Y.),Maps",
+    "Hoboken (N.J.),Maps",
+    "Hudson City (N.J.),Maps",
+    "Jersey City (N.J.),Maps",
+    "New York Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "Map of the five cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945026\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d786ba39-0e41-4c2b-bbf3-c03d36d49cfd/file/743fd087-493f-4bf9-aaf3-6f496cc3d20b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d786ba39-0e41-4c2b-bbf3-c03d36d49cfd/file/684b3ccb-d55f-4068-b38f-f7f35150dbc5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F25%2F9f%2Fe8259f568ac44edab9b890b43dda0871%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd581cdd-7287-4d6a-8256-5d67c8dd2c17/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d786ba39-0e41-4c2b-bbf3-c03d36d49cfd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv935656b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.101822, -73.850166, 40.883496, 40.700249)",
+  "solr_year_i": 1860.0,
+  "uuid": "princeton-nv935656b"
+}

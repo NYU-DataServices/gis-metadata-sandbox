@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"December 1922.\" Includes text. \"5597.\" North oriented towards upper left. Historic Maps copy has sheets 7-8 of Laurel Springs, N.J. series, showing Laurel Springs Manor.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz07g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Laurel Springs Manor,Maps",
+    "Laurel Springs Manor (N.J.),Maps"
+  ],
+  "dc_title_s": "Laurel Springs Manor (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5402260\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/012a7e4d-bbd7-495b-85d1-79e377270688/file/74e14322-9e4a-4598-b168-38c2bdfafc91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/012a7e4d-bbd7-495b-85d1-79e377270688/file/e7e0c655-f271-4d4a-b5be-20b3f820058f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/be%2F97%2Fa1%2Fbe97a189548f4ff686497a00c2165d45%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73b11519-7121-4d40-82ff-28e7b2b6ec8e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-012a7e4d-bbd7-495b-85d1-79e377270688",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz07g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-6d56zz07g"
+}

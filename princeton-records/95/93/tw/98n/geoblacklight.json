@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheet 58; issued in New Jersey coast map series. \"New Jersey coast map.\" \"3858.\" Includes text. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9593tw98n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Loch Arbour,Maps",
+    "Loch Arbour (N.J.),Maps"
+  ],
+  "dc_title_s": "Loch Arbour, Monmouth Co., N.J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4809592\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1af9c405-6908-4f5a-8fd5-f997a4dfae03/file/064aec20-2ba9-4bf7-bd50-abdf3895e2cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1af9c405-6908-4f5a-8fd5-f997a4dfae03/file/a272b727-ed52-4b37-8ae9-9d229695e1dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F6f%2F0f%2F476f0fa61ea74d5999cc25761ae94802%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c6b5cfc-97d6-4a4a-9549-8eeddbed376d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1af9c405-6908-4f5a-8fd5-f997a4dfae03",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9593tw98n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.377517, -74.280592, 40.818416, 40.757596)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-9593tw98n"
+}

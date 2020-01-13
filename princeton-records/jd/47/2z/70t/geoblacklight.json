@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1885.\" Includes key, key map, specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jd472z70t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Somerville,Maps",
+    "Somerville (N.J.),Maps"
+  ],
+  "dc_title_s": "Somerville, N. J. (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5605370\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1f276b3-b019-4980-96d3-6fd3f2614d38/file/00d33e3d-42ff-4a1d-b71d-e3f47f37f98b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1f276b3-b019-4980-96d3-6fd3f2614d38/file/c83aa09f-4507-448d-ad27-59c3430c6828\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F36%2Ff2%2F0036f28dd05444968aa1ddb0aa16a849%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5462369-734a-46c6-8cff-30975f6b11e3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e1f276b3-b019-4980-96d3-6fd3f2614d38",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jd472z70t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-jd472z70t"
+}

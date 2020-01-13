@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "State of California. Department of Natural Resources. Division of Mines. Map has other sections: Sheet no. I. Northern section -- Sheet no. II. Central section -- Sheet no. III. Southwest coast section -- Sheet no. V. East-central section -- Sheet no. VI. Southern section. Ancillary maps: Map of California showing average annual precipitation; Index map showing topographic quadrangles of California published by the U.S. Geological Survey; Indecx map to principal sources of geologic data to Jan. 1938.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg23q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[San Francisco, CA] : State of California, Department of Natural Resources, Division of Mines, 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "California,Maps"
+  ],
+  "dc_title_s": "Geologic map of California. Sheet no. IV: Geologic legend",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867824\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0178063f-7a83-4fb5-b3cd-54b2d28d42d7/file/333de7f1-6249-4a9d-8b7e-8f71aa7f4d63\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/38d50db7-ce7e-4f04-a94c-dd50f55121eb/file/913f9612-906b-416a-9efd-e70e5ee3c7be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/38d50db7-ce7e-4f04-a94c-dd50f55121eb/file/ec1b9d0d-f4b1-4686-b9f6-6208e3ecaf6e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F99%2F60%2F79996057f9c845c69c99dde2e0aace76%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3416f64e-0124-4d5b-a8f3-82d9334c1230/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-38d50db7-ce7e-4f04-a94c-dd50f55121eb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg23q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.41666666666667, -114.11666666666666, 42.0, 32.53333333333333)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-9k41zg23q"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Taiwan, in the Republic of China. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x5675",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Roads",
+    "Transportation"
+  ],
+  "dc_title_s": "Taiwan, Republic of China. (1977). ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/921894b8-5e9b-4a87-bb9d-cc84bcc49637/file/f96aec80-edf2-4bf3-a802-35b31c366748\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7d29420e-47b7-470f-9803-bac6f212a073/file/c36299c0-8378-447f-a745-e3256a75a7d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d29420e-47b7-470f-9803-bac6f212a073/file/9e55c857-cc73-41cb-9d1e-ef63977717c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2F08%2Ffe%2F9908fecaec9c489f93c0742704b334d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/789c2fad-a23d-429b-8bec-ff2244b9bd77/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia",
+    "China",
+    "Taiwan"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7d29420e-47b7-470f-9803-bac6f212a073",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x5675",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(118.0, 122.0, 26.0, 22.0)",
+  "solr_year_i": 1977.0,
+  "uuid": "princeton-6682x5675"
+}

@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Szombathely in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53jz720",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Szombathely. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5fc22e5-00f5-426a-9c25-66cc786ba019/file/f905eb94-a94d-40ff-af9e-fe30315d213a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ade48fa2-6d7d-4421-a44d-2d940b654875/file/d250bb1c-c34d-4655-be14-e096005a3be8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ade48fa2-6d7d-4421-a44d-2d940b654875/file/53dc0978-039c-43b6-922f-ef0efdae4040\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F3b%2F0c%2F2f3b0c690ca54057a52ad4afb5103597%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/432f7c49-705d-46e6-9a70-4b3a45eae459/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Europe",
+    "Szombathely",
+    "G6031.C2.s100.A7M3",
+    "Austria",
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ade48fa2-6d7d-4421-a44d-2d940b654875",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53jz720",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(16.3333, 17.3333, 47.5, 47.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-1v53jz720"
+}

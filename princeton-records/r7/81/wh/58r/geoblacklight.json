@@ -1,0 +1,52 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wh58r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Woodmansie Quadrangle, New Jersey, 7.5 minute series (topographic) (1957)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e0c6d9f-4727-4aec-aaf1-533110af36a1/file/e09445d8-e8ef-40ae-aa43-6316560daf97\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e971d7a-6f26-4945-b779-0079e90f428c/file/5a8876f3-25a6-4f9e-a1dd-7b9378456baa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e971d7a-6f26-4945-b779-0079e90f428c/file/84907c31-9feb-44c8-87d0-d4ba85f8b605\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2Fe0%2F1b%2Fa9e01bc4c8df4e80807697128e9b590e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bdce7b36-4504-4a70-8532-c2bd5c3b96ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Barnegat",
+    "Washington",
+    "Little Egg Harbor",
+    "Lacey",
+    "Woodland",
+    "Bass River",
+    "Burlington County",
+    "Ocean County",
+    "Woodmansie",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7e971d7a-6f26-4945-b779-0079e90f428c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wh58r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 39.875, 39.75)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-r781wh58r"
+}

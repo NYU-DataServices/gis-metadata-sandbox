@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Petroleum Publishing Co."
+  ],
+  "dc_description_s": "\"Base map and drafting by E.C. Jacobson, Maps, Tulsa.\" \"Supplement to the Oil and Gas Journal, issue of June 5, 1941.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182n63k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Tulsa [Okla.] : Petroleum Publishing Company, c1941.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Gas fields,United States,Maps",
+    "Oil fields,United States,Maps"
+  ],
+  "dc_title_s": "The Oil and Gas Journal's map of oil and gas fields",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246876\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2961b704-7581-49ae-9700-550c45ec0c66/file/9a559d6e-e818-4709-8bbc-715a2ffe66c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2961b704-7581-49ae-9700-550c45ec0c66/file/2bbed06a-3cbf-4a6c-883d-a6ea7c781ac9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2F2d%2F39%2Ff22d396138554ffe833e4735e39bd70b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e2031e1-af93-46fa-b618-82562fdb6fc2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2961b704-7581-49ae-9700-550c45ec0c66",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182n63k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-128.72, -66.24, 50.99, 25.78)",
+  "solr_year_i": 1941.0,
+  "uuid": "princeton-6q182n63k"
+}

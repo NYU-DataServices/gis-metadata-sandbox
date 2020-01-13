@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1912.\" Includes key, streets and specials index, and text. North oriented towards upper right. \"4535.\" At head of sheet 4: At Annandale, 2 miles N.E. of Clinton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6m311r00p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clinton,Maps",
+    "Real property,New Jersey,Annandale,Maps",
+    "Clinton (N.J.),Maps",
+    "Annandale (N.J.),Maps"
+  ],
+  "dc_title_s": "Clinton, Hunterdon County, New Jersey : including Annandale (Index Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4786631\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d035ed1d-8516-4f3b-80a4-3e91d8654757/file/0f804baf-d4fb-42b3-bfdd-0f40fee60cd2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d035ed1d-8516-4f3b-80a4-3e91d8654757/file/82de934e-5038-4768-8388-c4bb8174e44e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2F3f%2Feb%2F193feb35e480470688749800b4d60a8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52d3f6b2-52ad-47f5-9a9b-cf89aa2b71b8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d035ed1d-8516-4f3b-80a4-3e91d8654757",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6m311r00p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931, -74.787, 40.693, 40.574)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-6m311r00p"
+}

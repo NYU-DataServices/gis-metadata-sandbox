@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, reference key, streets and principal specials index, index map (on double sheet), and text. \"Entered according to act of Congress in the year of 1873 by Spielmann & Brush ... Entered according to act of Congress in the year of 1896 by Sanborn-Perris Map Co. Limited ... \" Vol. 6 covers Jersey City, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763884t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Jersey City,Maps",
+    "Hudson County (N.J.),Maps",
+    "Jersey City (N.J.)"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 6 (Sheet 137)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5498806\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8ea7bc1-b6e2-4389-a6e2-9045c688a562/file/63d60aca-40b0-49b2-bdcf-ea12aac7a130\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8ea7bc1-b6e2-4389-a6e2-9045c688a562/file/37d7508c-6924-4316-a847-5de31d62e036\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F49%2Fbc%2Fb149bc0c2404483096fe40aa68bf6810%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b80a792-c051-4388-a661-87bb6b07d7d1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a8ea7bc1-b6e2-4389-a6e2-9045c688a562",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763884t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-w3763884t"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1905.\" Includes key, key map, streets and specials index, and text. \"8338.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr560",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Swedesboro,Maps",
+    "Swedesboro (N.J.),Maps"
+  ],
+  "dc_title_s": "Swedesboro, Gloucester Co., New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5488014\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b3474064-e13a-4989-9cfa-726ea84ef457/file/b771a0b9-e943-427e-bbfd-335afea52136\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b3474064-e13a-4989-9cfa-726ea84ef457/file/cd789a17-9530-4b19-91f2-5496fe0a45ef\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2Ffe%2F21%2Faffe218b13194fbe99b3ebc84fda2ab7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4e3ab3e-4010-4a80-928a-c04472698ba2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b3474064-e13a-4989-9cfa-726ea84ef457",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr560",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.320089, -75.301528, 39.755706, 39.732229)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-xg94hr560"
+}

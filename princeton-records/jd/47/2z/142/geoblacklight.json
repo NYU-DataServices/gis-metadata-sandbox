@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 64 Tagant. Polyconic projection. North Sahara zone grid. Relief shown by 100 foot contour intervals. Compiled from Service Geographique du Maroc 1:100,000, 1938. Road classifications corrected from Army Map Service road map Northwest Africa, 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jd472z142",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Tagant, sheet 64. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831038\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed7df590-4111-4e9c-92a7-851e19766067/file/b18d0d1f-4991-4e7b-a034-4385262a16d5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2913660-72ce-41ef-9039-aec762345d44/file/9f674513-8903-446b-9016-c99930d5b20e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2913660-72ce-41ef-9039-aec762345d44/file/ce268918-4477-4165-866d-fbded6aabeec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c7%2F9b%2Fd3%2Fc79bd37e183c4283a83a288d00679416%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8dd479c6-2948-42eb-89c1-521677d2cb2d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d2913660-72ce-41ef-9039-aec762345d44",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jd472z142",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, -9.5, 29.5, 29.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-jd472z142"
+}

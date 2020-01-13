@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. \"Map information as of 1993.\" \"WGS 84.\" \"Grid--1,000 meter UTM zone 34.\" \"Printed by NIMA.\" \"This sheet falls within NK 34-5, 1501A 1:250,000 and 3280 III, M709, 1:50,000.\" Includes location map, Index to streets, glossary, and guide to numbered features. \"NSN 7643014033664\" \"NIMA Ref. No M903XPRISTINA\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tw574",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Defense Mapping Agency, 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Pris\u030ctina (Serbia),Maps",
+    "Pris\u030ctina (Serbia),Maps, Topographic"
+  ],
+  "dc_title_s": "Serbia city graphic 1:20,000 : Pris\u030ctina",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5700059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/418a1139-1973-478f-9a80-1c767290d189/file/68239ad7-e1d6-45c5-9e70-7ec12cb41cd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/418a1139-1973-478f-9a80-1c767290d189/file/071c87a3-2b1f-4c03-9039-d01d8e3c7a32\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F66%2F73%2Fd96673753d0045f1807374782bc16db9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c180d914-59bb-4759-9f2d-e0b330f7f219/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Serbia and Montenegro; Yugoslavia",
+    "Kosovo"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-418a1139-1973-478f-9a80-1c767290d189",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tw574",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(21.0, 21.2, 42.708333, 42.558333)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-hm50tw574"
+}

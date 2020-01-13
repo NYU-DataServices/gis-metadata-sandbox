@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map and text. \"N.J.C.M. vol. 3.\" Sheets 61-67 of vol. 3, New Jersey coast map series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ns0648207",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Seaside Park,Maps",
+    "Seaside Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Side Park, Ocean County, New Jersey (Sheet 63)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574580\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ac36bd2-09cd-423c-a93f-39183ff201f7/file/6c5ce1fe-1d28-4f6b-a4c2-68b86f804f14\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ac36bd2-09cd-423c-a93f-39183ff201f7/file/c42c6b68-e74e-4521-986d-cbfbe8244ef6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F8e%2Fed%2Ff88eedebcddd4361bbe0b5ce76a4871d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4d05ef33-fa2d-4a6e-b060-f9d15ef39f08/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ac36bd2-09cd-423c-a93f-39183ff201f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ns0648207",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.085809, -74.070891, 39.937538, 39.912738)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-ns0648207"
+}

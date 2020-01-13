@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1915.\" Includes location map, key, streets and specials index, and text. \"441.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs83n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pitman,Maps",
+    "Pitman (N.J.),Maps"
+  ],
+  "dc_title_s": "Pitman, Gloucester County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5485193\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fce39c0c-ffbb-4dc0-bf0a-e2b4592baf61/file/bd94a72c-f32a-4388-82c1-1851f9939706\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fce39c0c-ffbb-4dc0-bf0a-e2b4592baf61/file/32869bcc-75c6-4dbc-83e0-26a657443187\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ca%2F00%2F25%2Fca00256547b6461ba7a596ad175442e8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/adf5495c-daf3-46ee-983d-6d01cbbde4d6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fce39c0c-ffbb-4dc0-bf0a-e2b4592baf61",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs83n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.15006, -75.113469, 39.749441, 39.717914)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-n870zs83n"
+}

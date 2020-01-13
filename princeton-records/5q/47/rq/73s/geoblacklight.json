@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Preliminary sheet [1] has title: Map of congested district of Orange, N.J. Historic Maps copy has sheets 54 and 61-121 of Orange and W. Orange, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq73s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange (Sheet 113)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5468557\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe9eac31-cffe-41bd-b536-ebc66860153e/file/5402e5de-1a0b-4972-b34d-cf755b60d283\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe9eac31-cffe-41bd-b536-ebc66860153e/file/e1be7043-7aad-4b47-8ec0-4d9df51cb134\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2Fb7%2F87%2F90b78722dac047b5827511f50bedb0af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1160373c-c6f4-4f2c-8ed3-808a45f5c62e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe9eac31-cffe-41bd-b536-ebc66860153e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq73s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-5q47rq73s"
+}

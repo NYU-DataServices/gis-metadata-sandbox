@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown pictorially. Oriented toward the southwest. Anonymous map probably printed in Venice or Rome between 1570 and 1580. Cf. Tooley, R.V. Maps in Italian atlases of the sixteenth century in Imago mundo v. 3 (1939), p. 45, no. 557.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz119",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Rome or Venice : s.n., between 1570 and 1580]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tunisia,Maps",
+    "Tunis (Tunisia),Maps"
+  ],
+  "dc_title_s": "Pianta del forto novo de Tunisi",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4632801\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bee32c08-861e-4323-bc4e-13175441d544/file/10eef5e4-7b2d-454c-b25a-f4672461241d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aed0e45e-a748-42f0-947a-37453ba4dd02/file/20c4a18e-4006-4efe-84bc-c433e7a221f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aed0e45e-a748-42f0-947a-37453ba4dd02/file/637e810e-2131-4ad9-b653-ec7ee69d3671\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2Faa%2F7c%2Fc0aa7cf29d0d4308a2937a5bb3813869%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/213f3fac-0d93-4fa6-8beb-d7c8e9f4752d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Tunisia"
+  ],
+  "dct_temporal_sm": [
+    "1570"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aed0e45e-a748-42f0-947a-37453ba4dd02",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz119",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.147886, 10.198526, 36.816357, 36.786255)",
+  "solr_year_i": 1570.0,
+  "uuid": "princeton-qv33rz119"
+}

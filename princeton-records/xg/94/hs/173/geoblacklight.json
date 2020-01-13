@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Nigeria. Survey Department"
+  ],
+  "dc_description_s": "Relief shown by contours and gradient tints Original map is filed in the Map/Geospatial Center, a map reproduction is included in companion volume. \"1750/65/2-55\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hs173",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lagos : Federal Survey Department, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies",
+    "Nigeria,Maps",
+    "Africa, West,Maps",
+    "Cameroon,Maps"
+  ],
+  "dc_title_s": "Cameroons under United Kingdom Trusteeship",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9187139\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95402edd-52b6-4667-9ec4-b445d69e3460/file/67610ce7-027a-4cea-b4ea-df8885d84eaa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95402edd-52b6-4667-9ec4-b445d69e3460/file/c0c763ed-4097-45e6-aceb-9d0de53796f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2Fb7%2Fca%2Fb6b7ca54762e4686b5095de34141ac33%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc71284a-3011-4675-826d-84d155f1a314/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Nigeria",
+    "Africa, West"
+  ],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-95402edd-52b6-4667-9ec4-b445d69e3460",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hs173",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.526667, 14.511944, 12.583333, 3.75)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-xg94hs173"
+}

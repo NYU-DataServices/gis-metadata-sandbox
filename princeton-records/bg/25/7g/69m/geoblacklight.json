@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Adam and Charles Black (Firm)"
+  ],
+  "dc_description_s": "World map with distances by sea from England to various points; relief shown pictorially. In margin: II. Plate II from: General atlas of the world ... / engraved on steel ... by Sidney Hall, William Hughes ... &c. New edition. Edinburgh : Adam and Charles Black ... , 1854.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257g69m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "The world, on Mercator's projection",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4538368\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fe6baca9-486f-4f51-8700-17c34635b3f8/file/2cf96f5b-b877-4331-8476-4b62ea4cd481\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ef22906-3058-4fa9-b114-184fe01a4483/file/07af1247-3e05-48ae-99fe-7c78adff1995\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ef22906-3058-4fa9-b114-184fe01a4483/file/63bbd9b4-71b4-4365-adbb-1b34ff77bc14\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dd%2Fa1%2F40%2Fdda140d873e04f4f8402cbcc085050db%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab5b33db-13cf-432b-b35c-e8e219cc57fa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ef22906-3058-4fa9-b114-184fe01a4483",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257g69m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -60.0)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-bg257g69m"
+}

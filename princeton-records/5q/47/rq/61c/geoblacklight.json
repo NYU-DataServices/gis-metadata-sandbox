@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "Nautical chart of South Atlantic Ocean with portions of South America and Southern Africa; relief shown pictorially. In lower right-hand magin: Zusatz zum 1 Bande, 2e. Karte. Probably issued in: Allgemeine Historie der Reisen zu Wasser und Lande ... Leipzig : Bey Arkstee und Merkus, 1747-1774.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq61c",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig? : Bey Arkstee und Merkus?, 1747?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,South Atlantic Ocean,Early works to 1800",
+    "South Atlantic Ocean,Maps,Early works to 1800",
+    "South America,Maps,Early works to 1800",
+    "Africa, Southern,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Karte von dem Mittaeglichen Meere : zu der allgemeinen Historie der Reise-beschreibungen [map]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825255\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9dd75a26-de08-41f1-aa35-8d6f151d304e/file/e1ac64f4-ea2b-4fb6-9443-88aac07c312d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9dd75a26-de08-41f1-aa35-8d6f151d304e/file/e31919fa-a9c5-4bdc-91f5-6fd42985a604\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2Fd8%2F81%2F30d88155ce71492aaedde43546c963dd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c27d97f-0324-411f-9e69-664f56b77e70/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South Atlantic Ocean",
+    "South America",
+    "Africa, Southern"
+  ],
+  "dct_temporal_sm": [
+    "1747"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9dd75a26-de08-41f1-aa35-8d6f151d304e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq61c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.67, 22.54, 2.0, -56.51)",
+  "solr_year_i": 1747.0,
+  "uuid": "princeton-5q47rq61c"
+}

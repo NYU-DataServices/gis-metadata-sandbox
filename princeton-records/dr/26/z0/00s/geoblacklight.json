@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Russia (Federation). Geberal'nyi shtab. Voenno-topograficheskoe upravlenie. East View Cartographic. [Soviet Union. Sovetskaia Armiia. General'nyi shtab]. Title from disc: Handan. At head of title: China 1:10,000 Russian city plan. Gauss-Krugger/Pulkovo 1942/Krassovsky projection. 1 computer optical disc, 4 3/4 in. Raster. Format: Tiff.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dr26z000s",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "[Moscow?] : Sovetskaia Armiia General'nyi shtab, 1978.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Kitai provintsiia Kebei Khan'dan' (J-50-121, 122)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830161\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/11ddc79b-cb79-4276-8723-0ccb0c5efecc/file/4e27ed9d-2d43-4fc1-b57b-66c52ff6b4d1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ac4ff4f-6b7b-4ba8-a482-545f49b66558/file/86c5f79d-5a0a-43f0-826d-0d034c89d2c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ac4ff4f-6b7b-4ba8-a482-545f49b66558/file/5b3316d2-4a49-42eb-94d8-676c8e40da62\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2Fa2%2Fb2%2F75a2b22e10974c0a920f857e39a60dff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f3006a43-266e-4c5c-a95c-b11dd25ccf5e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ac4ff4f-6b7b-4ba8-a482-545f49b66558",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dr26z000s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(114.41666666666667, 114.53333333333333, 36.666666666666664, 36.56666666666667)",
+  "solr_year_i": 1978.0,
+  "uuid": "princeton-dr26z000s"
+}

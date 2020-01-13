@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225c77g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co. Limited, 1896, c1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Atlantic City, New Jersey (Sheet 27)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5167649\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c158a2d9-c173-477e-9db9-72edae9a4a2e/file/66a75c93-deae-45a7-a54b-b69b17bc2daf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c158a2d9-c173-477e-9db9-72edae9a4a2e/file/936825b1-e8a5-4302-883a-2da8b8ebc973\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F00%2Fc5%2F2e00c5b9ae444b28ad69c450f117ff8d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7363b370-5e50-40e0-9e7f-cc4dc7977b59/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c158a2d9-c173-477e-9db9-72edae9a4a2e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225c77g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-0k225c77g"
+}

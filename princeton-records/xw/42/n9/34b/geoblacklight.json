@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Seaford, Del.-MD. Polyconic projection. Relief shown by 10 feet contour interval and spot heights. Surveyed in 1902 and 1911-1912. Surveyed in cooperation with the State of Maryland. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n934b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Delaware - Maryland: Seaford Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868529\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8f69792d-b904-407d-858e-144bb863f521/file/f0022c03-ccbf-4bc8-992c-4709dce6d596\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27b70405-c6cf-492a-ba1f-10bb503ca266/file/c8ca8587-9330-49f2-9833-085e935764ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27b70405-c6cf-492a-ba1f-10bb503ca266/file/e8fb28f2-a7be-41e0-bade-849c6be542eb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F90%2Fd4%2F5a90d4179aa9484e99adcb50487ebbf3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb234fdd-3148-46fa-ba76-23476aa3cdbb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27b70405-c6cf-492a-ba1f-10bb503ca266",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n934b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 38.75, 38.5)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-xw42n934b"
+}

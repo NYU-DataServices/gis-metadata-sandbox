@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Lu\u0308beck in the German state of Schleswig-Holstein. Street index on verso. Probably issued in: Illustrierter Fu\u0308hrer durch Lu\u0308beck und Umgebung : nebst Ausflu\u0308gen in die holsteinische Schweiz : mit Illustrationen, Plan der Stadt une einer Karte der Umgebung / herausgegeben von Leo Woerl.. Leipzig : Woerl's Reisebu\u0308cherverlag, [1903?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rr1721919",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1903?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lu\u0308beck (Germany),Maps",
+    "Schleswig-Holstein (Germany),Maps"
+  ],
+  "dc_title_s": "Lu\u00a8beck",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7524934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41d7fd8c-b2b2-443a-a30f-20574198341a/file/5f9d9655-4824-4ca6-a3dd-3a0ef54776ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41d7fd8c-b2b2-443a-a30f-20574198341a/file/bf9478a4-e4b9-4f58-afd2-f0b0bb4170bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F56%2Fc9%2Ff856c9b3063f451ab9a3ce073bf3d2f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a0e7d191-0002-4e47-ae9b-6beedfd0b604/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41d7fd8c-b2b2-443a-a30f-20574198341a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rr1721919",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.5247384, 10.8447384, 54.0264436, 53.7064436)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-rr1721919"
+}

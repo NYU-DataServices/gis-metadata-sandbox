@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "\"From the original map by G. Hayward for D.T. Valentine's Manual, 1856.\" Relief shown by form lines and hachures. North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n009w471b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Common Council, c 1856] ([New York] : G. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),History,War of 1812,Maps,Facsimiles",
+    "Morningside Heights (New York, N.Y.),Maps,Facsimiles",
+    "Fortification,New York (State),New York,Maps,Facsimiles"
+  ],
+  "dc_title_s": "Map of Harlem Heights and plain, 1814",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6334755\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d9569e6-4ca3-489f-a217-2fada55569d7/file/0674d36d-5e89-4856-9158-3a55773a3e96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d9569e6-4ca3-489f-a217-2fada55569d7/file/52fac8ed-045f-42e3-82c7-daa8ecf04015\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2Fc3%2F21%2F21c321f48a6745418a9da5945d8144eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b53e6df-e23a-4e76-83b1-2b3111b1dd40/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0d9569e6-4ca3-489f-a217-2fada55569d7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n009w471b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.976894, -73.921962, 40.816758, 40.798048)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-n009w471b"
+}

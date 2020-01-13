@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Amsterdam, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Mapped by the Geological Survey 1928 and 1947. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq29f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1949.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Amsterdam (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Amsterdam Quadrangle. 15 minute series.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866526\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5be5b973-1da5-46fd-8c09-d7314b48913f/file/85c5c686-e944-47ac-82a8-392a7c238b39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5be5b973-1da5-46fd-8c09-d7314b48913f/file/ca37b1ec-882e-4e8a-baa2-3ae24d3e13ac\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F02%2F85%2Fbc02854554e343229093b0607af3b64b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1ecc32d-c341-403f-91ea-7df3c8f86c45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5be5b973-1da5-46fd-8c09-d7314b48913f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq29f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 43.0, 42.75)",
+  "solr_year_i": 1949.0,
+  "uuid": "princeton-5q47rq29f"
+}

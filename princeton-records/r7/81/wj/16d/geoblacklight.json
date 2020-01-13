@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1901.\" Includes key, key sheet, streets and specials index, and text. \"5085.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wj16d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morristown,Maps",
+    "Morristown (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Morristown, Morris Co., New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5563714\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a61144de-44b4-42a4-b080-93835fc4bda8/file/e1aeb7a2-6096-40b3-a984-bd83c37c1b43\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a61144de-44b4-42a4-b080-93835fc4bda8/file/4a7a5725-b5a7-4324-927d-a3306f95c8d5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F9c%2Ff0%2Fc09cf0090d1b4e208ff3879686d072ca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e07ac874-ec73-43a0-8dd9-81e528385c9e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a61144de-44b4-42a4-b080-93835fc4bda8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wj16d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-r781wj16d"
+}

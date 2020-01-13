@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Reprinted 1946 Alternate title: Okayama, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mw921",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Okayama, Okayama Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449987\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4e164ef-4bc8-4a13-8d0d-51c13570a431/file/47e0f1a6-ca97-4fa9-9d68-0a9d9b610457\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f725617a-c53b-49d1-b476-b01a299f9bc2/file/7f48a7e6-1f39-4fc9-a2b7-e4d89ac91e9f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f725617a-c53b-49d1-b476-b01a299f9bc2/file/e8df0d53-2b9f-43e6-a48e-8f7ce9381f18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/26%2Fa5%2F76%2F26a5762d1fd44036bb0031061d3b0404%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf0d3f41-d0b2-4e9b-b313-1945c8ea99d8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f725617a-c53b-49d1-b476-b01a299f9bc2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mw921",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(133.91666666666666, 133.96666666666667, 34.7, 34.583333333333336)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-tm70mw921"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Great Britain. War Office. General Staff. Geographical Section. Provisional G.S.G.S. 3980. United States. Army Map Service. Alternate title: 1:100,000 Tripoli. Sheet 1476, Homs. Relief shown by 25 metres and 5 metre (approximate) contour interval and spot heights. Reproduced by Great Britain. Army. Royal Engineers. Field Survey Coy., 512 (A. Fd. Svy) Coy R. E. from Italian 1:100,000 sheet, Homs, published by the Istituto Geografico Militare, 1937. Revised by 512 Fd. Survey Coy. R.E. Jan. 1943. Map is part of a set of 31 sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bn12k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : War Office, 1941.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Libya,Maps"
+  ],
+  "dc_title_s": "Tripoli 1:100,000. Homs. Sheet 1476. Series Provisional G.S.G.S. 3980",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867313\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f426ff7-b1b6-4d1e-b853-9a52a5039902/file/b02fc9c4-c7dc-4fb3-99c3-1bf82e1925ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7d48f11-e3c5-44e8-8ba0-5aa7e89cf009/file/c6ff4b76-f832-4c45-8af2-ca7014711539\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7d48f11-e3c5-44e8-8ba0-5aa7e89cf009/file/cb8d5211-d565-4f0f-a860-61798c88d43f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/70%2F02%2F63%2F700263a969944e739985f816c4879d9d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e7bf007a-1fcd-421b-b88c-eccf725cee29/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b7d48f11-e3c5-44e8-8ba0-5aa7e89cf009",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bn12k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.0, 14.5, 32.666666666666664, 32.333333333333336)",
+  "solr_year_i": 1941.0,
+  "uuid": "princeton-7m01bn12k"
+}

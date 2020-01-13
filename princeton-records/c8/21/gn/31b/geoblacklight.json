@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Erlangen in the German state of Bavaria. In lower left-hand margin: Woerl's Reisehandbu\u0308cher. Probably issued in: Illustrierter Fu\u0308hrer durch Erlangen und Umgebung ... / herausgegeben von Leo Woerl. Leipzig : Verlag von Leo Woerl, 1905. Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gn31b",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wu\u0308rzburg : Kgl. Univers. Druckerei v. H. Stu\u0308rtz, [1905?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Erlangen (Germany),Maps",
+    "Bavaria (Germany),Maps"
+  ],
+  "dc_title_s": "Erlangen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7587997\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30549fcc-ca43-4177-9e84-d800106e0db4/file/41d65bf1-ef44-41c7-8c61-9b163456637e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30549fcc-ca43-4177-9e84-d800106e0db4/file/31a1ee71-0cb2-4583-a6c0-15d82864c381\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2Fb0%2F56%2F2eb056499e3a48c98d015eef8912eb89%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01ba825f-057c-4849-91e4-b01b6e3470e6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-30549fcc-ca43-4177-9e84-d800106e0db4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gn31b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.991908, 11.019545, 49.614115, 49.587692)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-c821gn31b"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Atlantic City. Relief shown by 10 feet contour interval. Triangulation and Coast line by U.S. Coast and Geodetic Survey. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7d278v69z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Atlantic City sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831129\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b627112c-a96d-4568-86c2-48ffb0a891d2/file/a0c32e6d-a7c6-4f56-8792-f686343616f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5edaf659-0a59-47d1-b8b4-c94a1ee98c92/file/c24d526b-2120-4234-969c-2024ff1709ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5edaf659-0a59-47d1-b8b4-c94a1ee98c92/file/a5ba82e7-8965-47d7-aecd-5ab5bd10fbaa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2Fe4%2F90%2F94e49079d0c440de903af1d351cfd937%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7fe61dbe-2ff5-412e-a82b-f76558d300a4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5edaf659-0a59-47d1-b8b4-c94a1ee98c92",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7d278v69z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 39.5, 39.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-7d278v69z"
+}

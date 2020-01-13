@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782"
+  ],
+  "dc_description_s": "Relief shown by hachures. At bottom center: G. De-la-Haye. Beneath cartouche: H. Gravelot, invenit ; DeLafosse, sculpsit. Issued in 4 sheets. Inset: Le Fleuve Saint-Laurent.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544br56s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : Chez l'auteur, 1755.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Canada,Maps,Early works to 1800",
+    "United States,Maps,Early works to 1800",
+    "Saint Lawrence River,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Canada, Louisiane et Terres Angloises",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6774972\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/761e32d8-93ce-47b9-8888-e1065538b936/file/afb16a07-eaed-4630-80d8-c2791da8ca8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/761e32d8-93ce-47b9-8888-e1065538b936/file/28b0c0de-7e63-4b34-997d-3461a6c51bed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2F49%2F22%2Fcc4922ca4b56415c8d3c0101afe4de92%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1a6c47c8-9118-46b0-b404-2fea40f95094/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Canada",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-761e32d8-93ce-47b9-8888-e1065538b936",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544br56s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)",
+  "solr_year_i": 1755.0,
+  "uuid": "princeton-1544br56s"
+}

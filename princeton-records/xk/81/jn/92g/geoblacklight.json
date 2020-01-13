@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "John Murray (Firm)"
+  ],
+  "dc_description_s": "Relief shown by hachures. Indexed to show points of interest. \"The antient monuments and ruins are marked in a deeper tint.\" Originally issued folded in covers 14 x 10 cm.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xk81jn92g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : John Murray, 1856.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rome (Italy),Maps"
+  ],
+  "dc_title_s": "Plan of Rome",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8749611\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/0a6c67c7-1ccc-41b1-b5ca-4bd9bb1add52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/efe1dfea-64fb-47b5-bc0f-f53f4bad8e9f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3e%2F2f%2F93%2F3e2f93afb34c429ca372ff988af85230%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85ecc772-c61b-4088-add0-e2c278c5e85d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0789b643-bf7f-4a84-a245-824869633f69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xk81jn92g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.441645, 12.521038, 41.91408, 41.869914)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-xk81jn92g"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: P'yongang (Heijo), Korea. In upper left margin: Korea city plans 1:12,500. Polyconic projection. Relief shown by 10 meter contour intervals and spot elevation. Depth shown by fathoms. Korean names transcribed according to the McCune-Reischauer system. Japanese forms of Korean names (shown in parentheses) transcribed accorcing to the modified Hepburn (Romaji) System. Inset: Jido navy coal mine region (1:62,500).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r711d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "North Korea,Maps"
+  ],
+  "dc_title_s": "P'yongyang (Heijo), P'yongan-namdo (Heian-nando), Korea. A.M.S. L951",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830548\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e43c83e2-757d-411e-a80e-d25462ca56ce/file/c0ef3d27-67cd-4538-a72e-3dd191fe8059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/613db7e5-eb08-484e-adfd-7b2c770974c3/file/64bbe3f9-77a5-4a9a-bdf0-939e763582e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/613db7e5-eb08-484e-adfd-7b2c770974c3/file/bc770c8e-f637-4f1d-9a3b-f16f703372b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2F57%2F13%2F9c5713854efe4c058f6687709a44453c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/afebd502-964a-431c-af68-6e711f04cc4f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-613db7e5-eb08-484e-adfd-7b2c770974c3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r711d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(125.7, 125.86666666666666, 39.05, 38.96666666666667)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-8w32r711d"
+}

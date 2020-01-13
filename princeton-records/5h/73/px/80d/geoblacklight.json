@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Seismological Society of America U.S.G.S. Stanford Univeristy University of California Carnegie Institution Shows active, probable and dead faults. Compiled from data assembled by the Seismological Society of America in cooperation with the Hydrographic Office, Navy Department, the United States Geological Survey, the Carnegie Institution of Washington, the University of California and Stanford University ; compilation of faults by Bailey Willis and H. O. Wood.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5h73px80d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Faults (Geology)",
+    "California,Maps"
+  ],
+  "dc_title_s": "Fault map of the state of California, compiled from data assembled by the Seismological Society of America. Sheet 2",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6458250\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f79a042e-5ea2-4713-a102-d9417ef09fb1/file/f310a9fb-f82f-47b5-84d3-8c74bc3e79c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f79a042e-5ea2-4713-a102-d9417ef09fb1/file/3765ad2d-b509-4bbe-839c-66e75510cac2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2F93%2Fa8%2Fc193a807cc4d472184060d77f0eff872%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/59bc6d1c-1da4-4ad4-ae00-37d2ab79f600/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f79a042e-5ea2-4713-a102-d9417ef09fb1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5h73px80d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.41666666666667, -114.11666666666666, 42.0, 32.53333333333333)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-5h73px80d"
+}

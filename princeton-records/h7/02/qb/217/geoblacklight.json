@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Seutter, Matthaeus, 1678-1756"
+  ],
+  "dc_description_s": "Relief shown pictorially. Engraved by: Tob. Conr. Lotter. Shows middle Atlantic colonies and badly distorted New England. Probably issued in: Atlas novus, sive, Tabulae geographicae totius orbis.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702qb217",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Augsburg : [s.n., ca. 1760]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Middle Atlantic States,Maps,Early works to 1800",
+    "New England,Maps,Early works to 1800",
+    "New Jersey,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Pensylvania, Nova Jersey et Nova York cum regionibus ad fluvium Delaware in America sitis (map copy 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5939381\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/376a66e5-3f19-4db5-b593-b96cd07f8523/file/696881d3-d5ec-4b37-a58b-de41b3a1332f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/376a66e5-3f19-4db5-b593-b96cd07f8523/file/af869c5b-70db-4271-ae27-5c92e9d9401f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2F44%2Ff0%2F0344f0106ed64071ba471e6d9e805220%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/169da84c-9b09-4502-b23f-f385b64176d1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-376a66e5-3f19-4db5-b593-b96cd07f8523",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702qb217",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.725128, -69.850163, 44.000136, 38.583505)",
+  "solr_year_i": 1760.0,
+  "uuid": "princeton-h702qb217"
+}

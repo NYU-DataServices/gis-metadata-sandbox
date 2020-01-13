@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Greece. Hypourgeion Oikismou kai Anoikodome\u0304seo\u0304s"
+  ],
+  "dc_description_s": "Relief shown by contours. In note: SE\u0304M ... 1945, 1947. Printed on two sheets joined together to form one map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g9884",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "[Place of publication not identified] : Hypourgeion oikismou kai anoikodome\u0304seo\u0304s, 1947.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Greece,Maps",
+    "Athens (Greece),Maps",
+    "Attike\u2019\u2039 (Greece),Maps"
+  ],
+  "dc_title_s": "Lekanopedion Athe\u0304no\u0304n kai Thriasion Pedion",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6817419\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42618b0a-7945-4839-94c9-e94b6da83de3/file/42abd6a6-c23f-4420-9792-513a0848d604\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42618b0a-7945-4839-94c9-e94b6da83de3/file/e3469aa5-98c9-4795-8d41-d2c359e4cf83\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2Fde%2Fb4%2F9cdeb48a2f5947fe953e45c4e88d44ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e8819a1c-599a-4721-a5ef-7cba5eb7f214/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-42618b0a-7945-4839-94c9-e94b6da83de3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g9884",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.53, 23.925833, 38.283333, 37.7725)",
+  "solr_year_i": 1947.0,
+  "uuid": "princeton-1j92g9884"
+}

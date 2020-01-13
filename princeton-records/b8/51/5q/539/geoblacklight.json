@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Mar. 1916.\" Includes location map, key, key map, streets, specials and villas, cottages, &c. index, and text. \"1166.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q539",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lakewood,Maps",
+    "Lakewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Lakewood, Ocean County, New Jersey (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5572437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef5ac4a6-f540-4ad4-8fb7-c99ccace3ba7/file/e3058c9a-801d-4352-855b-ab1299847a67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef5ac4a6-f540-4ad4-8fb7-c99ccace3ba7/file/7614052e-5331-4d45-9f29-a561e10a45ff\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2F07%2F21%2F970721adf5df45918ed21998181151fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b48bcd8-97a4-43e7-82e9-aab1f02cb775/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ef5ac4a6-f540-4ad4-8fb7-c99ccace3ba7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q539",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-b8515q539"
+}

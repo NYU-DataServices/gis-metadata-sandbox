@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.500000. South Decimal Degree -19.666667. East Decimal Degree -68.250000. West Decimal Degree -68.500000. Alternate title: Estancia Hizo, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k372",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1972.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Estancia Hizo, hoja 5935 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841298\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ae1933e-f5ea-40c4-931a-ce3041040131/file/9a844ac5-c1d5-40a7-b766-18aa976d5ab6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ae1933e-f5ea-40c4-931a-ce3041040131/file/4c28ec91-4970-45e9-8f6a-b5bda6d69042\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2F42%2F4d%2F1e424dfe70084a82a00ec9bd32c45208%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05b8826a-4575-4c4b-8d9a-c910449b82c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ae1933e-f5ea-40c4-931a-ce3041040131",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k372",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.5, -68.25, -19.5, -19.666667)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-ng451k372"
+}

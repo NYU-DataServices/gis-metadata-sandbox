@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Burk & McFetridge"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7d278v91f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Phila[delphia] : Burk & McFetridge Co., [ca. 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Istanbul (Turkey),Maps"
+  ],
+  "dc_title_s": "Constantinople",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4952422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ea31185-51c5-4819-8e9d-7db331d50c7b/file/6a46e13e-0661-4d11-8d3f-4e563fbebc74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ea31185-51c5-4819-8e9d-7db331d50c7b/file/cf36bab7-0e7b-4237-bd7a-2fce4bce7ba3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2Fee%2F4b%2Fc6ee4bc45b0e45c38fdecc99a5cc5260%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77a8a583-3ab9-4fcb-a247-50e13beadf05/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7ea31185-51c5-4819-8e9d-7db331d50c7b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7d278v91f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(28.912543, 29.037513, 41.058391, 40.983597)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-7d278v91f"
+}

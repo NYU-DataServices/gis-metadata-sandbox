@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1919.\" Includes key, key map, streets and specials index, and text. Historic Maps copy imperfect: sheet 1 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c2654",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Raritan,Maps",
+    "Raritan (N.J.),Maps"
+  ],
+  "dc_title_s": "Raritan, Somerset County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5605323\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91bc1aa9-e3bc-4272-bd53-23b7bb2e4bcb/file/fcc56257-87e8-46d2-ad53-e0369c5107ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91bc1aa9-e3bc-4272-bd53-23b7bb2e4bcb/file/9175586d-63fb-419c-af81-8ef6c638bce9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2F5a%2Ff5%2Fb35af5dba21f442b9ef24e806f659022%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73e870c6-4d10-46f0-86b6-00a193b2fc2c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-91bc1aa9-e3bc-4272-bd53-23b7bb2e4bcb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c2654",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.662026, -74.623412, 40.586044, 40.556202)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-bv73c2654"
+}

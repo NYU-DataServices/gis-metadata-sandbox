@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Stieler, Adolf, 1775-1836"
+  ],
+  "dc_description_s": "Relief shown by hachures. Inset: Der Helder und Umgebung. Includes key to sheets. Each sheet has paper label on verso with sheet number.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n009w4796",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Gotha : Bei Justus Perthes, 1853.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe, Central,Maps",
+    "Germany,Maps"
+  ],
+  "dc_title_s": "Karte von Deutschland, dem Ko\u00a8nigr. Der Niederlande, dem Kgr. Belgien, der Schweiz, und den angra\u00a8nzenden La\u00a8ndern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Ko\u00a8nigsberg, in XXV Bla\u00a8ttern [Sheet 19 of 20]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7378898\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c8021dd-1590-48c4-9d35-cd28493d2627/file/4bdd62e9-e302-4fe0-906c-b2c7d6451673\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c8021dd-1590-48c4-9d35-cd28493d2627/file/6dbd5d90-5d43-445d-8bfc-bfd60192909c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F61%2F18%2Fe46118b198fc42fba91b6ed1bda9d679%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aef92edc-5d4b-4d52-910f-02a247ba4e57/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany",
+    "Europe, Central"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4c8021dd-1590-48c4-9d35-cd28493d2627",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n009w4796",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.8663425, 24.1458932, 55.0815, 45.4216739)",
+  "solr_year_i": 1853.0,
+  "uuid": "princeton-n009w4796"
+}

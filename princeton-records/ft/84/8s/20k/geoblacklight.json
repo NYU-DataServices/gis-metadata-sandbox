@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Andriveau-Goujon, J."
+  ],
+  "dc_description_s": "This is a scanned map of the ancient world from the Historical Map Collection of Princeton University's Rare Books department.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ft848s20k",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "J. Andriveau-Goujon, Rue du Bac no. 17",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Classical geography",
+    "2nd cent.",
+    "HMC01.4139",
+    "Strabo",
+    "Ptolemy",
+    "World maps",
+    "World map 1850"
+  ],
+  "dc_title_s": "Carte g\u00e9n\u00e9rale du monde ancien : accompagn\u00e9e des syt\u00e8mes g\u00e9ographiques de Strabon et de Ptol\u00e9m\u00e9e / dress\u00e9 d'apr\u00e8s les meilleurs autuers modernes par J. Andriveau-Goujon",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88b95297-3bcf-4040-aa67-36b9c919d236/file/66443ee7-1ad8-49b0-90df-1b689a78054a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8174511-2394-442c-928a-ef29c77f8f9f/file/beca3ec6-5b32-47ea-9549-ea92935d8f7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8174511-2394-442c-928a-ef29c77f8f9f/file/200b35bb-5bae-4fcb-a83e-58b1de1fe8e2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2F9b%2F45%2Fe69b457266db4f308a7765a3ee3142a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8f46d968-5536-471e-87a6-3212e3007d1c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f8174511-2394-442c-928a-ef29c77f8f9f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ft848s20k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-17.9473, 134.3953, 72.6093, -10.9173)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-ft848s20k"
+}

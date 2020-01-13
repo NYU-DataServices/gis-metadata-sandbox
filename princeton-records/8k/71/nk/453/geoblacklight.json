@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Cruz Cano y Olmedilla, Juan de la, -1790"
+  ],
+  "dc_description_s": "Relief shown pictorially and by hachures. In upper margin: N. 113. Includes inset: Karte von Magellanien sammt den Falklands Inseln (scale [ca. 1:4,500,000]). Probably issued in: Allgemeiner grosse Atlas. Wien : P. J. Schalbacher, 1786-1800.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nk453",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Vienna] : Zu finden im eigenen Verlage in Wien, 1787.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Falkland Islands,Maps,Early works to 1800",
+    "Magellan, Strait of (Chile and Argentina),Maps,Early works to 1800",
+    "Tierra del Fuego (Argentina and Chile),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Karte der Magellanischen Strasse",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5853055\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/66af5eff-50b9-425c-b7ea-122998e74bb0/file/c57326fc-ae1e-44a7-8953-6673c56fea82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/66af5eff-50b9-425c-b7ea-122998e74bb0/file/d3fd7d60-72d3-4179-a6db-f1090fc6aaf4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2Faf%2F4d%2F3baf4d8a43024122b787e549da45d6a2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/27eb318a-10e5-49ec-9697-16d03392a90d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Argentina",
+    "Falkland Islands"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-66af5eff-50b9-425c-b7ea-122998e74bb0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nk453",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.76, -57.26, -50.01, -56.0)",
+  "solr_year_i": 1787.0,
+  "uuid": "princeton-8k71nk453"
+}

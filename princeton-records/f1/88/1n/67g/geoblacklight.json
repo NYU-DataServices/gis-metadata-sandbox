@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New York State. Department of Transportation. Explanatory text: 28p. Transverse Mercator projection, (NYTM) grid. Shows administrative divisions and Indian Reservations. Cover title of accompanying gazetteer: Four sheet 1:250,000 scale New York State map gazetteer. One map in four sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f1881n67g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Albany, NY] : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Road maps",
+    "Railroads",
+    "Recreation",
+    "Transportation",
+    "New York,Maps"
+  ],
+  "dc_title_s": "New York State map : four sheet, 1:250,000. Central sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866513\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/946bd739-c0fe-44f4-9e19-5f78be0fe9a4/file/02ba4cfc-425f-44ac-9664-d3d131fe1eb6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ee9bfb9-f0da-448a-a112-c27b139ff801/file/091ad724-f005-4572-bb75-536625d61755\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ee9bfb9-f0da-448a-a112-c27b139ff801/file/da663552-23de-4906-b740-b93db3423c0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ee%2F80%2Fcb%2Fee80cb5466b54ecaa8ca10c7a817bb92%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7b9a8eae-3547-4d77-b0fa-698cc23edad6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ee9bfb9-f0da-448a-a112-c27b139ff801",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f1881n67g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.86666666666666, -76.11666666666666, 43.75, 41.86666666666667)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-f1881n67g"
+}

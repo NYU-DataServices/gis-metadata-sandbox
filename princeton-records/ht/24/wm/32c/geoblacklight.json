@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Herrera y Tordesillas, Antonio de, -1625"
+  ],
+  "dc_description_s": "Map of Central America, the West Indies, and Florida, and vague outline of North American coast. \"2.\" Plate 2 from: Descripcio\u0301n de las Indias Occidentales / de Antonio de Herrera. En Madrid : Por Iuan Flamenco, 1601.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ht24wm32c",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[En Madrid : Por Iuan Flamenco, 1601]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Florida,Maps,Early works to 1800",
+    "Central America,Maps,Early works to 1800",
+    "West Indies,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Descripcio\u0301n de las Yndias del Norte",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4948640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e56ab3e9-55b7-45c7-b1b0-abd3e6281721/file/cd8020f5-065c-4688-bfe0-76c0fb8d4839\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e56ab3e9-55b7-45c7-b1b0-abd3e6281721/file/b49e4648-306c-4d3d-b819-3a1fd0ff1c75\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F2b%2F14%2Fa12b144379304602b5a0b04b4fd32c48%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4d8c46c1-8da8-4cd3-bef6-6690c11b94d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "West Indies",
+    "Central America"
+  ],
+  "dct_temporal_sm": [
+    "1601"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e56ab3e9-55b7-45c7-b1b0-abd3e6281721",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ht24wm32c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-113.8, -58.8, 47.0, 8.0)",
+  "solr_year_i": 1601.0,
+  "uuid": "princeton-ht24wm32c"
+}

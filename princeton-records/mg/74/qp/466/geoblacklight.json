@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"5359.\" \"New sheet, Aug. 1922.\" Sheets 2-3, 10, 24-25, 32, 49-50, and 63-64 of Garfield, N.J. series; sheets 24-25 show Wallington; sheet 32 shows Rutherford; sheets 49-50 shows E. Rutherford and Carlstadt; sheets 63-64 show Rochelle Park.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qp466",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1922, c1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Garfield,Maps",
+    "Real property,New Jersey,Wallington,Maps",
+    "Real property,New Jersey,Rutherford,Maps",
+    "Real property,New Jersey,East Rutherford,Maps",
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Real property,New Jersey,Rochelle Park,Maps",
+    "Garfield (N.J.),Maps",
+    "Wallington (N.J.),Maps",
+    "Rutherford (N.J.),Maps",
+    "East Rutherford (N.J.),Maps",
+    "Carlstadt (N.J.),Maps",
+    "Rochelle Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Garfield, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5658338\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b28a47ca-8ae5-40ea-921f-2d14db982762/file/0da7cdfb-9f76-4d22-bf75-2641d915b0f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b28a47ca-8ae5-40ea-921f-2d14db982762/file/b2c73618-8fbe-4b4f-81e2-e81b2c39f341\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F85%2Ff4%2F6f85f446b8c04c78b744c52b567b9901%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8d427cc9-7bf9-45b0-bfdb-07a71ad756c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b28a47ca-8ae5-40ea-921f-2d14db982762",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qp466",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.129142, -74.091913, 40.893664, 40.861615)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-mg74qp466"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb. 1923.\" Includes text. \"5827.\" North oriented towards upper right. Historic Maps has sheets 2-3 of New Milford, N.J. series, showing River Edge Manor section.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k423",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,River Edge Manor,Maps",
+    "River Edge Manor (N.J.),Maps"
+  ],
+  "dc_title_s": "River Edge Manor section (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5309723\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0116703e-80e5-4f9d-9d17-aa592564cc45/file/b54ae8af-27bc-40f9-bb55-5f4a4c7eee69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0116703e-80e5-4f9d-9d17-aa592564cc45/file/b6e396bb-276d-4962-800e-74ad26f05ecd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2Fc6%2F8c%2F36c68ce769334078ab3b08ca06b02245%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/014bd5ac-6c65-4f8b-9c5c-6d75c51bf53b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0116703e-80e5-4f9d-9d17-aa592564cc45",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k423",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.032876, -74.002567, 40.952098, 40.913351)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-ng451k423"
+}

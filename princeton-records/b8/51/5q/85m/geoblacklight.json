@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Vidal, A. T. E. (Alexander Thomas Emeric), 1792-1863"
+  ],
+  "dc_description_s": "Relief shown by hachures, soundings, and spot heights. At head of title: Azores. Includes 6 cross sections and 6 insets: Caldeira of Graciosa -- [Gomez Bay] -- Praya de Graciosa -- Angra de Terceira -- Praya de Terceira -- [Cabras Islands]. \"1818.\" \"Published according to Act of Parliament at the Hydrographic Office of the Admiralty, July 23rd, 1849.\" North oriented to the upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q85m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published ... at the Hydrographic Office of the Admiralty ; sold by R.B. Bate, agent for the sale of the Admiralty charts, 21 Poultry, 1849.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Graciosa Island (Azores),Maps",
+    "Terceira Island (Azores),Maps"
+  ],
+  "dc_title_s": "Terceira and Graciosa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6992734\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/761a8c39-cb8a-4a2c-8a73-097df51820d3/file/243403b8-fa4c-46d6-a40c-279f6fbee608\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/761a8c39-cb8a-4a2c-8a73-097df51820d3/file/d109f469-085e-4c33-b5d7-c1c7f97d76e7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e9%2Fc0%2Fdc%2Fe9c0dc1c023543e59ad534671408e278%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/22851811-32aa-480f-bfcb-c2ab33967b7e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Azores"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-761a8c39-cb8a-4a2c-8a73-097df51820d3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q85m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-28.208441, -26.850256, 39.125093, 38.516703)",
+  "solr_year_i": 1849.0,
+  "uuid": "princeton-b8515q85m"
+}

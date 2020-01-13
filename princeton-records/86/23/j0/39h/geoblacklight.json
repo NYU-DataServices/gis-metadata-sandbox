@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Middle East and Southwest Asia, shown at a 1:20,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8623j039h",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Southwest Asia, 1986",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f20767b0-d913-4240-a442-e995fc8bab70/file/53070493-5157-4b6b-b1a6-09c5fba3427a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad39a6ea-006e-4b95-82bf-5b8ba89e5aa6/file/71f11820-ae5a-495e-b813-e3a0c416e294\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad39a6ea-006e-4b95-82bf-5b8ba89e5aa6/file/50a45e44-5966-49e4-b3ef-46f8dae48b85\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F4c%2F31%2F334c31c41aed4370a141bfd53a06bef8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9c008f64-301b-4601-961d-70500ecd0e89/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Southwest Asia",
+    "Middle East",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ad39a6ea-006e-4b95-82bf-5b8ba89e5aa6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8623j039h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.0, 70.0, 50.0, 20.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-8623j039h"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Annual Report of the State Geologist 1903 New Jersey Geological Survey Companion text: New Jersey Geological Survey. Annual Report of the State Geologist for the Year 1903 / Henry B. Kummel. 132p. Plate 5. Relief shown by contour interval and spot heighs.\"Shows land submerged Oct. 10, 1903 ... [and] lands which would have been submerged with Controlling Dam.\" At top left margin: Annual report of the State Geologist for 1903. \"Plate V.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt72j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Floods",
+    "Flood control",
+    "Passaic River Valley (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of flooded lands in the Passaic Valley",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448898\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27ccb0d8-c3e2-41b7-834f-7f11c2b1cb2c/file/bc33764d-bdec-4195-bd91-75325b3b017c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27ccb0d8-c3e2-41b7-834f-7f11c2b1cb2c/file/0068fdec-5947-4435-a0d4-f55f33d875e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F5f%2Fea%2Fdf5fea73c38a44ef95238ff79918862a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d5cb5f47-f2b8-4946-85ac-dd5e2bde9a81/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27ccb0d8-c3e2-41b7-834f-7f11c2b1cb2c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt72j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.43333333333334, -74.18333333333334, 40.96666666666667, 40.733333333333334)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-5m60qt72j"
+}

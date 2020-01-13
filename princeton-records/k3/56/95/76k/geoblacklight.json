@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Surveyed in 1886 in cooperation with the state of Massachusetts. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k3569576k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Becket Sheet (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Becket sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837203\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a4861d6e-b17a-48ab-986e-8b6dac43a285/file/d81a8da6-c163-4a9d-82f2-c77770e340b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/117f68ef-1839-443a-8273-4f0fff092cbc/file/bde3d8fe-2ba5-4768-a945-b883b6a4017c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/117f68ef-1839-443a-8273-4f0fff092cbc/file/8b56c675-2963-43ad-8cde-8d2b5e3bffdd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F19%2Ff0%2F3319f09bb72e4db38a133f5a6a186e36%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53215b7f-d793-4568-a183-bdfca8f30fc7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-117f68ef-1839-443a-8273-4f0fff092cbc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k3569576k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.25, -73.0, 42.5, 42.25)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-k3569576k"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Bulgaria. Armii\ufe20a\ufe21. Voennogeografskta Sluzhba B\u02b9lgarskata"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. \"World Geodetic System 1984\", WGS 84\" Map set of 206 sheets, covering Bulgaria.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qb98mg911",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Sofia 1606 (34 General Totleben bulv.) : Military Geographic Service of Bulgarian Armed Forces, 2004-2007.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bulgaria,Maps"
+  ],
+  "dc_title_s": "Bulgaria : 1:50 000",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9642174\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/693236ae-c45b-4aed-b80f-c0410993e8de/file/f5ca70c9-a4ed-4a1b-ae75-7de5d14ac816\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1eb7d5c-6a69-4c5f-b03d-cb3d765bf787/file/c457bebb-876a-4f80-bbee-d807d7c30e13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1eb7d5c-6a69-4c5f-b03d-cb3d765bf787/file/b1eb84d0-caa8-4ab4-b1da-7a0b7eb38d2f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2Fe4%2F8f%2F39e48fcc82ae46cdb21458f9ef6bf87b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/383e4862-c58e-4425-a1d7-4aac8a98011d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bulgaria"
+  ],
+  "dct_temporal_sm": [
+    "1606"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1eb7d5c-6a69-4c5f-b03d-cb3d765bf787",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qb98mg911",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(22.361944, 28.608333, 44.214444, 41.236022)",
+  "solr_year_i": 1606.0,
+  "uuid": "princeton-qb98mg911"
+}

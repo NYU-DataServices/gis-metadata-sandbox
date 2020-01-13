@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards lower left. Historic Maps copy has sheet 17 of Cape May, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb567",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Cape May,Maps",
+    "West Cape May (N.J.),Maps"
+  ],
+  "dc_title_s": "W. Cape May, N.J. (Sheet 17)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5322578\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9de90cee-3daa-40fa-af6d-4f3871caae18/file/f6a121bb-8f62-4d4b-8c2a-fa93c11e9166\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9de90cee-3daa-40fa-af6d-4f3871caae18/file/6fed0038-729d-410a-b989-c3c4fb70e525\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/51%2Fb5%2F81%2F51b581912ae84b48a53364c666eebfc4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cc7036d6-2371-49ba-8505-b73530175682/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9de90cee-3daa-40fa-af6d-4f3871caae18",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb567",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.938801, -74.871605, 38.950125, 38.928588)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-ms35tb567"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 69-70 of Palisades, N.J. series. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cc08hh325",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1911]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Fort Lee,Maps",
+    "Fort Lee (N.J.),Maps"
+  ],
+  "dc_title_s": "Fort Lee (Coytesville) (Sheet 69)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5240669\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5a1a9f0-0688-44b2-8f2f-3f198f307e20/file/9cb66141-63de-4d16-811e-4ee6bb8d3490\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5a1a9f0-0688-44b2-8f2f-3f198f307e20/file/8a66a847-8b0f-4ac3-b2eb-457c58dc1a68\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F66%2F82%2Fe866824ef71c4a7ea1dd286226681cbc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d868cd74-1e68-404c-906d-e7a7800e7364/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f5a1a9f0-0688-44b2-8f2f-3f198f307e20",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cc08hh325",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.969, -73.956, 40.868, 40.86)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-cc08hh325"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 42.0000. South Decimal Degree 41.0000. East Decimal Degree -1.0000. West Decimal Degree -2.0000. Alternate title: Calatayud, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1917-42; Spain 1:200,000, Cuartel General del Generalisimo, 1915-1938 and undated; Spain and Portugal Road Map, 1:400,000, AMS, sheets 42 and 45, Third Edition, 1943; Railways in Spain and Portugal 1:1,500,000, GSGS, 1941, revised and supplemented from Intelligence Reports, 1942-44. Partially revised from aerial photography, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c247dt93b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Calatayud, sheet 30. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841012\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b186026-3ad6-430d-ac94-c8c83d631f51/file/7ec139cc-d32f-47ca-9cf3-fd8e395d307f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b186026-3ad6-430d-ac94-c8c83d631f51/file/6ea7c254-2cd6-4e8b-9f29-a693edd5d708\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2F59%2F13%2F8e591304c6244a618fae52d7c45a286d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e1c9b736-1874-4e3c-ac7e-16200cb96592/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4b186026-3ad6-430d-ac94-c8c83d631f51",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c247dt93b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.0, -1.0, 42.0, 41.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-c247dt93b"
+}

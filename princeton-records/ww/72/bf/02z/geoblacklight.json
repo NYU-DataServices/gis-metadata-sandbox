@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by shading. From: The library atlas of the world. Chicago, New York : Rand McNally & Co., c1913.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ww72bf02z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago : Rand-McNally & Co., c1913]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mexico,Maps"
+  ],
+  "dc_title_s": "Relief map of Mexico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7978273\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/872a2b83-884b-4850-97b1-8679e2fad5e5/file/4ed86797-daa7-4974-a6b4-95aae5b0b954\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/872a2b83-884b-4850-97b1-8679e2fad5e5/file/6e9ff9e4-e7d9-4a7c-8c34-1f5325083010\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a8%2Fe6%2Fff%2Fa8e6ff63a07e48f78040026e32426c1e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a4f7bab-594c-45d6-ae74-ebd7607944a8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-872a2b83-884b-4850-97b1-8679e2fad5e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ww72bf02z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-118.6, -86.49, 32.72, 14.39)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-ww72bf02z"
+}

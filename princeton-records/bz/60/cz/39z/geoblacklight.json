@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 50 and 63-64 show Highland Park. Sheets 50 and 53-55 headed: New sheet, June 1919; sheets 60-64 headed Add'l sheet, June 1919.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz39z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "Real property,New Jersey,Highland Park,Maps",
+    "New Brunswick (N.J.),Maps",
+    "Highland Park (N.J.),Maps"
+  ],
+  "dc_title_s": "New Brunswick, N. J. (Sheet 60)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5547323\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/daa95984-2e13-43e1-9af2-3e96528582e5/file/079f5fc7-be25-4199-8736-b2a9fcb9a015\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/daa95984-2e13-43e1-9af2-3e96528582e5/file/001b6d75-93e0-499b-af00-83f22f861ab1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2F28%2Fad%2Ffb28ad5ad57c447e9eaa50f8e188953d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4bcfb371-f7b3-4dd6-a190-e7f3a9eb6a6d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-daa95984-2e13-43e1-9af2-3e96528582e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz39z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-bz60cz39z"
+}

@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Western sector of the China-India border, shown at a scale of 1:4,000,000. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vx021g77c",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "China-India border: Western sector, 1988",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db9f68e5-2989-4c09-acea-0824af1dcfbc/file/95fb866b-62b8-4f93-b19d-507639e80057\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75d584be-ac5c-47c1-8bbd-db4576f92918/file/ce12e503-1cdd-4039-a064-ee07d7ed6b44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75d584be-ac5c-47c1-8bbd-db4576f92918/file/8a745c5b-2c85-4aa7-acca-18e4afae8b9a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2Fbe%2Faf%2Fc3beaf77908141e28be4571be4056b3b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/478b0572-09b0-4c46-9e48-e5ed32c43ba5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "East Asia",
+    "Asia",
+    "India",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-75d584be-ac5c-47c1-8bbd-db4576f92918",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vx021g77c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(76.0, 82.0, 36.0, 31.0)",
+  "solr_year_i": 1988.0,
+  "uuid": "princeton-vx021g77c"
+}

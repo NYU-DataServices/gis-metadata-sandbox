@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1892.\" Includes key, key map, streets and specials index, and text. \"5083.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xd96b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "New Brunswick, Middlesex County, New Jersey (Sheet 17)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5529635\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9712707-30aa-4a22-8ed3-2f85e64bc640/file/f425ad14-cd0c-42a7-995a-784ad0ae5202\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9712707-30aa-4a22-8ed3-2f85e64bc640/file/67ac7a95-0599-4981-838d-02d2cab566b8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2Fdf%2Fea%2Fd1dfea802b6844859b8b74102ca76e7a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/209f442d-b34b-45fd-aa4e-29f7f59e5f9a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a9712707-30aa-4a22-8ed3-2f85e64bc640",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xd96b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-rb68xd96b"
+}

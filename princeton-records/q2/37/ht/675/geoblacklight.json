@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Marlboro, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886-87 in cooperation with the state of Massachusetts. Triangulation by R. U. Goode. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q237ht675",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Massachusetts: Marlboro sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837240\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0871b5fc-6a8f-456d-a0be-af863b5d10b6/file/88f6d17a-50eb-4620-bea1-35b8a8ad5b6f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99029f4e-ea78-4dcd-bff6-dc1a1366ae97/file/6be11756-489c-475b-87f6-d2c4f52b0fa0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99029f4e-ea78-4dcd-bff6-dc1a1366ae97/file/1fd406a1-3dfe-4e06-813c-38cee6d6f026\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2Fcd%2F5d%2Ffdcd5daeeea34444b9bc11e9c6c6a4d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ffe8287e-ba9e-44e0-92b4-f9e1d8a181f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-99029f4e-ea78-4dcd-bff6-dc1a1366ae97",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q237ht675",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.75, -71.5, 42.5, 42.25)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-q237ht675"
+}

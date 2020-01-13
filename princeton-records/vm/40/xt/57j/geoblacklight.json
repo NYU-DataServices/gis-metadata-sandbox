@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 69-79 of vol. 3 of Essex Co., N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt57j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Verona,Maps",
+    "Verona (N.J.),Maps"
+  ],
+  "dc_title_s": "Verona Township, N. J. (Sheet 78)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5478417\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84bbb2c8-a677-4b80-a810-7627a12a0a36/file/b7550ac2-fa78-4a13-9ef6-60b85b858b34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84bbb2c8-a677-4b80-a810-7627a12a0a36/file/5c296a41-d5b7-4cbc-9b1e-973443f2bcd8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2F51%2Fef%2Fdb51ef7499bb41a197ff29be7c9d74b5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/416ca648-4f58-4e9e-9021-d0d7f6762ac6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-84bbb2c8-a677-4b80-a810-7627a12a0a36",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt57j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.264026, -74.22099, 40.851099, 40.8161)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-vm40xt57j"
+}

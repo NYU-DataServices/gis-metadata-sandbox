@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. In upper margin: Karte von Mesopotamien und Syrien. \"E.\" Includes guide to adjoining maps. \"Nur fu\u0308r den Dienstgebrauch! Nachdruck sowie Benutzung zur Bearbeitung anderer Karten verboten.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2f75rb493",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Kartogr. Abteilung der Kgl. Preuss. Landesaufnahme, Mai 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Jerusalem,Maps",
+    "Israel,Maps",
+    "Jordan,Maps"
+  ],
+  "dc_title_s": "Jerusalem",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7047172\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/733c814e-185c-41f2-801f-dbc2f97087b6/file/f302bbaa-6870-49dc-8e5f-b6fe73228b62\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/733c814e-185c-41f2-801f-dbc2f97087b6/file/31d7f8a2-eea4-479f-a0ef-9b33bc623b47\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F33%2F14%2F6f33144ba9db44949c50d64a85480e38%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ea6b0b1-f0ba-402b-a177-dcd0cadb36df/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Israel",
+    "Jordan"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-733c814e-185c-41f2-801f-dbc2f97087b6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75rb493",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.4257, 36.4307, 32.0057, 30.0049)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-2f75rb493"
+}

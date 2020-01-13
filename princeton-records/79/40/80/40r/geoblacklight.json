@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1903.\" \"6406.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/79408040r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newton,Maps",
+    "Newton (N.J.),Maps"
+  ],
+  "dc_title_s": "Newton, Sussex Co., New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609153\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70db8e9d-a588-44f9-8428-e0840fe1f4fb/file/23fc98f8-6116-497c-aa3a-40f1090afe95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70db8e9d-a588-44f9-8428-e0840fe1f4fb/file/28a89528-2c2d-4670-bc5c-37eb024d9a2f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2F5a%2Fc0%2Ffd5ac0efa86f455b941ead527f978d75%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be079632-e701-43a2-aac2-f79d5eb6956e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-70db8e9d-a588-44f9-8428-e0840fe1f4fb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-79408040r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-79408040r"
+}

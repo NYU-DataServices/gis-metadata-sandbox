@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1886.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3t945s88w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "New Brunswick, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5529597\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff5d5290-4967-4915-986d-b9f4a17325fc/file/3d27bc92-c1a2-480b-b1c5-22f17d46a792\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff5d5290-4967-4915-986d-b9f4a17325fc/file/4480771e-28e5-4ece-aed0-9d5e3fcebed2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F3c%2Fda%2F3b3cda5b1bba468ebc7631934ad685d5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a70e1492-c22e-4695-8c99-702836c144d9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff5d5290-4967-4915-986d-b9f4a17325fc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3t945s88w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-3t945s88w"
+}

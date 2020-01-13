@@ -1,0 +1,57 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/37720f45m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Elevation",
+    "Roads"
+  ],
+  "dc_title_s": "Trenton East Quadrangle, New Jersey - Pennsylvania, 7.5 minute series (topographic) (1957)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f5df7049-d98c-4fa6-a87c-064dca307c90/file/8c43ec94-3fc3-4891-9e94-8f221fb63be4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a69d943-fd93-40e7-bd26-43eee102e920/file/5ccbe3f0-952d-430e-b275-d0cac35444f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a69d943-fd93-40e7-bd26-43eee102e920/file/3918c739-ce69-444f-bf67-a0400f9401c5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F4d%2F15%2F8a4d156697d84ba7a61757831f964db7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/67b1a6b2-c587-4955-9d6c-4d3124d9fed4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mercer County",
+    "Pennsylvania",
+    "Bucks County",
+    "Bordentown",
+    "West Windsor",
+    "Trenton",
+    "Burlington County",
+    "Falls",
+    "Chesterfield",
+    "Lawrence",
+    "Trenton East",
+    "Mansfield",
+    "Fieldsboro",
+    "Hamilton",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6a69d943-fd93-40e7-bd26-43eee102e920",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-37720f45m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.625, 40.25, 40.125)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-37720f45m"
+}

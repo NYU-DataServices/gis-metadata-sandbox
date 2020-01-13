@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Lay, Amos, 1765-1851"
+  ],
+  "dc_description_s": "Shows county and township boundaries. Relief shown pictorially. Prime meridians: New York and Greenwich. Wall map. Inset: East end of Long Island.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3r074x58h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York?] : A. Lay, 1825.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (State),Maps",
+    "Pennsylvania,Maps",
+    "New Jersey,Maps",
+    "New York (State),Administrative and political divisions,Maps",
+    "Pennsylvania,Administrative and political divisions,Maps",
+    "New Jersey,Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Map of the State of New-York with part of the states of Pennsylvania, New-Jersey, &c.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8905302\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7c20329-cb32-45b6-90ac-084b23cef24f/file/7dded2bf-422f-4443-ac20-d330b1f29e96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7c20329-cb32-45b6-90ac-084b23cef24f/file/5d8d85b5-5220-41c3-b18f-5c6f83077008\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/78%2F03%2Fa6%2F7803a676576642db812c9cb0620d870d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8e4553c3-33c6-42a3-9351-dc39b2dc8f86/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "Pennsylvania",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7c20329-cb32-45b6-90ac-084b23cef24f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074x58h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.7619, -71.7956, 45.0159, 40.4774)",
+  "solr_year_i": 1825.0,
+  "uuid": "princeton-3r074x58h"
+}

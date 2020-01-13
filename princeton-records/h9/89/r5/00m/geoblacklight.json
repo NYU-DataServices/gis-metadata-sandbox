@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Pennsylvania Geological Survey (1st survey). Final report 1858. Companion text: Pennsylvania Geological Survey (1st, 1836-41). The geology of Pennsylvania; a government survey / Henry Darwin Rogers. Philadelphia : Pennsylvania Geological Survey. 1858. Final report on the geological survey of the State 1858. vol. 1, 2 and atlas. 1858. 586p(v.1); 1045(v.2). 9pl.(v.1); 23pl. (v.2). Two volumes in three. Another copy of map in atlas with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r500m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : [s.n.], 1858.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Mines and mineral resources",
+    "Geology",
+    "Pennsylvania,Maps"
+  ],
+  "dc_title_s": "Geological map of the State of Pennsylvania, constructed from original surveys made between the years 1836 and 1857 (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514555\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e37d8530-c3fe-4a09-93e2-8fb6b47213f0/file/41402620-334e-40f2-9a6f-55fa07206e40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e37d8530-c3fe-4a09-93e2-8fb6b47213f0/file/33fc3964-ee70-48b5-adf0-0e0060ee24ae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F86%2Fc3%2F3286c3d5772c4552ab321019593cd574%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e0d63640-2781-4ee9-8db7-73bf360a0978/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e37d8530-c3fe-4a09-93e2-8fb6b47213f0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r500m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.51666666666667, -74.68333333333334, 42.266666666666666, 39.71666666666667)",
+  "solr_year_i": 1858.0,
+  "uuid": "princeton-h989r500m"
+}

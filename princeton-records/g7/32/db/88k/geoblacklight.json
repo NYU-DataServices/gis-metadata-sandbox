@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Belgrano, Giovanni Maria"
+  ],
+  "dc_description_s": "Map of Candia (modern Iraklion or He\u0304rakleion), showing the position of the Venetian and Turkish forces in 1668; relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g732db88k",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Venice?: s.n. , ca. 1668]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Crete (Greece),Maps,Early works to 1800",
+    "He\u0304rakleion (Greece),History,Siege, 1648-1669",
+    "He\u0304rakleion (Greece),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Dissegno di Candia : attaccata dal Turco sotto il comando del Primo Visir, et diffesa dall' Eccmo. Sigr Marchese Villa, dal principio del attacco li 24 Maggio 1667, sino li 21 Aprile 1668",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4896703\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0c448b9-4b21-4789-88a8-8f27023eb392/file/553d5223-2b1c-4c73-a53c-077470b5d73a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0c448b9-4b21-4789-88a8-8f27023eb392/file/5079c2eb-1e5c-4b5e-85a2-da4dae28ef3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6a%2F06%2F82%2F6a06825c94854c189b3aae29a45bb1d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5cf15317-c888-451f-96e8-47a3921aa989/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1668"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c0c448b9-4b21-4789-88a8-8f27023eb392",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g732db88k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.104419, 25.158493, 35.354207, 35.316677)",
+  "solr_year_i": 1668.0,
+  "uuid": "princeton-g732db88k"
+}

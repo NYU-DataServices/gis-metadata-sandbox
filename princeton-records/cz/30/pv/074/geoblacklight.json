@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Ramapo Quadrangle in New York and New Jersey shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv074",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "New York-New Jersey: Ramapo Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45293d36-55b4-4ca3-a8f7-0d9d1d305766/file/dcab3f9d-393f-44f3-b76c-506cb4be5d8b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/314b5328-9e01-4945-bc9a-b72c6b0938e0/file/617f9836-faf5-4501-ba8a-10fb3084c000\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/314b5328-9e01-4945-bc9a-b72c6b0938e0/file/5e9646ed-353e-4ecf-b6ce-ff52d2b8e280\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2Fda%2Ffd%2F45dafdd074504e93ae3eeed6593742ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b33cc693-057f-4d6d-8c50-81eeb9525d8f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "Ramapo",
+    "MC G3801.C2.s62.U5G4 Ramapo (1927)",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-314b5328-9e01-4945-bc9a-b72c6b0938e0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv074",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 41.25, 41.0)",
+  "solr_year_i": 1931.0,
+  "uuid": "princeton-cz30pv074"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "No publisher. North Decimal Degree 38.166667. South Decimal Degree 37.794167. East Decimal Degree 23.869722. West Decimal Degree 23.516667. Hand-tinted.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qp52q",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "No place : [s.n.], 19[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Population",
+    "Greece,Maps"
+  ],
+  "dc_title_s": "Population density (Athens)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6817414\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e682620b-37ef-499d-a230-ce1b784db998/file/83b68961-e0e8-403c-b6f1-af219ea8df39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e682620b-37ef-499d-a230-ce1b784db998/file/d69cf149-2aa0-43b5-be09-1cf743269ebb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F69%2F75%2Fb6697506efa244ee96ff059084628947%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c1f9949-e4e0-4b83-b849-7ca472874062/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1666"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e682620b-37ef-499d-a230-ce1b784db998",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qp52q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.516667, 23.869722, 38.166667, 37.794167)",
+  "solr_year_i": 1666.0,
+  "uuid": "princeton-mg74qp52q"
+}

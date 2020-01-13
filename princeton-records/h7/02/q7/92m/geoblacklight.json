@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Princeton University"
+  ],
+  "dc_description_s": "This is a map of the grounds of Princeton University. It has been scanned from the Princeton University Catalogue 1903-1904.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q792m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Princeton University",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Campus",
+    "Streets",
+    "Princeton University"
+  ],
+  "dc_title_s": "Princeton Campus Map 1903-1904",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6c8a36f-c875-4ae4-84d1-5672c049734f/file/2dbf7a96-3140-49f8-86f5-021bb5217db0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09013379-f603-4775-8968-7ff4d28303da/file/505091b8-d7c6-4bf1-b65a-7f5e39d6c542\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09013379-f603-4775-8968-7ff4d28303da/file/2c17ee28-1aea-4f77-b606-aaaa4988d1e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F8e%2F06%2F008e063434064485b145d5f8306ba1b4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e43a5b7-923c-43d6-bdc8-a7f785fd696a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mercer County",
+    "United States",
+    "Princeton",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-09013379-f603-4775-8968-7ff4d28303da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q792m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.6662, -74.64, 40.355, 40.3336)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-h702q792m"
+}

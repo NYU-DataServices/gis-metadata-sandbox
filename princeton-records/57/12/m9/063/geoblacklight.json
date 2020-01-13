@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings and shading. \"Verified by A.A. Humphreys, Lieut. Topl. Engrs. & assistant.\" \"Final reduction for engraving by J.B. Glu\u0308ck draughtsman. Topography engraved by A. Rolle, lettering by J. Knight. Electrotyped by S. Siebert, printed by H. Benner.\"--Lower margin. Latitude and longitude given at New London Light House. Includes tidal chart and text on sailing directions and dangers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m9063",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Depot, 1848.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Connecticut,New London,Maps",
+    "New London Harbor (Conn.),Navigation",
+    "Thames River (Conn.),Navigation",
+    "Long Island Sound (N.Y. and Conn.),Navigation"
+  ],
+  "dc_title_s": "The harbor of New London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7684884\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9caa3547-be87-49db-b171-85c16692706f/file/e7af1a9b-beef-4111-ac84-f71c27bb3dd8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9caa3547-be87-49db-b171-85c16692706f/file/260accdd-831f-4a11-b9fb-7861933a52f7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F2a%2F35%2F9f2a35a228f04e2092e455346b246201%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/00ee713a-2cde-4a15-bddc-8831736c1a99/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9caa3547-be87-49db-b171-85c16692706f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m9063",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.116752, -72.033411, 41.363393, 41.283448)",
+  "solr_year_i": 1848.0,
+  "uuid": "princeton-5712m9063"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Babyon. Relief shown by 20 feet contour interval. Surveyed in 1901 in cooperation with the State of New York. Triangulation and shoreline topography by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2514nm98m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Babylon (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Babylon Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867666\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82a65e67-d574-4a45-862e-70c39022703f/file/b540fc89-5a2b-455a-9d5c-3338f866bb39\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cf1a17e-b9ad-4969-ae9b-7138a65bae2a/file/7bb35670-2fd3-4195-8cef-4d37c52dc813\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cf1a17e-b9ad-4969-ae9b-7138a65bae2a/file/80a396a1-be21-40ce-a8a1-f400bcebb311\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2Fcb%2Fff%2F95cbffea6ced499bae072cf7a1f519e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d6cfa564-6dcc-403c-ac63-39dbfc1e4a9e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2cf1a17e-b9ad-4969-ae9b-7138a65bae2a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2514nm98m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 40.75, 40.5)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-2514nm98m"
+}

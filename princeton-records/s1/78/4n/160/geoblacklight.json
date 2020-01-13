@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of South Asia, shown at a 1:23,650,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784n160",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "South Asia, 1987",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/860e8dbe-6d5f-4154-bad9-fab8c8ef1f97/file/4ae613c1-c855-468e-857d-36c03fb1e778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab78f28e-3736-4838-a59e-459167fc5edf/file/1d54a381-885d-4a30-a50e-48168aaefa5f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab78f28e-3736-4838-a59e-459167fc5edf/file/9e1162b9-be37-4f11-81bd-af06e55788a9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bb%2Fb0%2F45%2Fbbb045a9a50b4c259fb7fa3f281cb9d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3dabd445-c9f7-4631-9420-114678fe4cb8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "India",
+    "Asia",
+    "South Asia"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ab78f28e-3736-4838-a59e-459167fc5edf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784n160",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(60.0, 92.0, 36.0, 8.0)",
+  "solr_year_i": 1987.0,
+  "uuid": "princeton-s1784n160"
+}

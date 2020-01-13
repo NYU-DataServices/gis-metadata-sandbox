@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"343.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qf85nd486",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paterson,Maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps, Paterson, New Jersey : volume three (Sheet 284)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5584087\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f37a254-35a8-4166-9d5b-1fe5c7a44a0e/file/3430366c-ee45-44a1-8428-7592a9b50f15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f37a254-35a8-4166-9d5b-1fe5c7a44a0e/file/eab05aaf-d55b-4e4a-a09b-14cbbe7be495\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Ff4%2F12%2F03f4128e7856494c9a9a4c0d88111865%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/330a9bcf-3b52-402e-9720-197cf18a17a2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4f37a254-35a8-4166-9d5b-1fe5c7a44a0e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qf85nd486",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-qf85nd486"
+}

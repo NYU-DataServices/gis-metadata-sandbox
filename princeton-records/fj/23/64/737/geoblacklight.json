@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Nigeria. Survey Department"
+  ],
+  "dc_description_s": "Original map is filed in the Map/Geospatial Center, a map reproduction is included in companion volume. \"1750/76/1-55\". \"Crown copyright reserved\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fj2364737",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lagos : Survey Department, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Cameroon,Maps",
+    "Administrative and political divisions,Nigeria,Maps",
+    "Great Britain,Colonies",
+    "Cameroon,Maps",
+    "Nigeria,Maps",
+    "Africa, West,Maps"
+  ],
+  "dc_title_s": "Cameroons under United Kingdom Trusteeship : administered as part of the Eastern Provinces of Nigeria",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9187842\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ab23710-f05a-4f39-9670-328fd353b73c/file/c17cc949-6102-4a43-ad7a-79f2e487a38a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ab23710-f05a-4f39-9670-328fd353b73c/file/fa74437a-41b5-43ee-859a-a89e0187e6a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2F74%2Fcd%2F0d74cdb3b6ef45f49cd702ce107e2620%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1bc62c2-2e8e-47c5-8755-0fb21facbcdc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Nigeria"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5ab23710-f05a-4f39-9670-328fd353b73c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fj2364737",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.628611, 11.886111, 7.281389, 3.941667)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-fj2364737"
+}

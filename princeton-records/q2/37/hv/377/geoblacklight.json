@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Valentine, D. T. (David Thomas), 1801-1869"
+  ],
+  "dc_description_s": "Cadastral map showing property lots with dimensions, names of owners, and year of grant (1642-1658), and early roads. Oriented with north toward the upper right. In lower margin: Lith. for D.T. Valentine's Manual, 1857; by Geo. Hayward, 120 Water Street, N.Y.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q237hv377",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Common Council, 1857] (N[ew] Y[ork] : Geo. Hayward)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land grants,New York (State),New York,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the original grants of village lots from the Dutch West India Company to the inhabitants of New-Amsterdam (now New-York) lying below the present line of Wall Street",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6168284\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4dfddb86-4b1d-4be0-8ada-76bd6e21163f/file/0bfc6af0-a4a4-404c-9cb8-3c16bec14d26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4dfddb86-4b1d-4be0-8ada-76bd6e21163f/file/58bbc85b-e0e6-46b0-b583-e49e89ac1c23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2Fd7%2F20%2F9ad7203bc9b5403f9245411fe803125e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0351aa7a-bc2b-46a0-a2c5-a445bdb82197/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4dfddb86-4b1d-4be0-8ada-76bd6e21163f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q237hv377",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.021061, -73.958061, 40.763761, 40.698915)",
+  "solr_year_i": 1857.0,
+  "uuid": "princeton-q237hv377"
+}

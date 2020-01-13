@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 22 (1903) New Jersey Geological Survey Relief shown by 20 ft contour interval. Title is not given. Region covered: eastern Sussex, western Passaic and northern Morris. Original survey 1880 and 1883, principal features revised 1903.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1c18dh54s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mines and mineral resources",
+    "Morris County (N.J.),Maps"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 22.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6519625\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fb131a9b-8e19-412e-8011-076437e54973/file/69320c62-34d7-4a98-b4d2-2f62d159280a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd7036a3-3dff-424c-b9cd-f40df138b7d5/file/580be2f6-98a8-4ccd-939d-5d09838ea377\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd7036a3-3dff-424c-b9cd-f40df138b7d5/file/26696cb9-5286-4672-853e-b4d38a7b13b2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2F3f%2F32%2Fd13f32ffec6340efa66e9ef8bd929bb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5adc82c6-899d-48aa-86a8-0068efb1385e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd7036a3-3dff-424c-b9cd-f40df138b7d5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1c18dh54s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.76666666666667, -74.33333333333333, 41.4, 40.93333333333333)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-1c18dh54s"
+}

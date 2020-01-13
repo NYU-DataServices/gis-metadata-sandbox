@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1902.\" Includes key, streets and specials index, and text. \"5887.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km531",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rutherford,Maps",
+    "Rutherford (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Rutherford, Bergen Co., New Jersey (Sheet 14)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5310848\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f4dea55-df35-43d9-8a38-3fe852568e70/file/2ca21c26-c26c-42ae-a7a9-7c598013076d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f4dea55-df35-43d9-8a38-3fe852568e70/file/15bcd9c1-96c5-414f-af18-91e9914803a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F01%2Fd9%2F6201d9bcac1543528db9469f7cd770b4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/316f973f-9f26-44f6-9bd7-ed8df86671aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f4dea55-df35-43d9-8a38-3fe852568e70",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km531",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.124176, -74.082403, 40.847184, 40.787197)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-q811km531"
+}

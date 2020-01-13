@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Including Buttzville, N.J.\" \"September 1909.\" \"1795.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/47429c460",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Oxford,Maps",
+    "Oxford (N.J.),Maps"
+  ],
+  "dc_title_s": "Oxford, Warren County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5646676\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2c97780-7713-4a26-ad89-b907524cebe9/file/3347d8a6-8386-49e2-b04d-bcfbc11f43a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2c97780-7713-4a26-ad89-b907524cebe9/file/6ad4bcaf-a4f8-45f8-8edf-c61a0735bff6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F73%2F4b%2Fa6734b95097342bfbb2f7c3755ca542f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e780c6fd-4330-40a9-ac13-3582bd85d7de/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c2c97780-7713-4a26-ad89-b907524cebe9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-47429c460",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.009616, -74.969616, 40.823155, 40.783155)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-47429c460"
+}

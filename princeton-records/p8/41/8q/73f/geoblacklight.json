@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Andriveau-Goujon, E. (Euge\u0300ne), 1832-1897"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418q73f",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : E. Andriveau-Goujon, e\u0301diteur, rue du Bac, 4, 1881 (Paris : Impie. Lemercier)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps",
+    "Indochina,Maps",
+    "Japan,Maps",
+    "Malaysia,Maps"
+  ],
+  "dc_title_s": "Carte de l'Asie orientale : comprenant l'Empire Chinois, le Japon, les e\u0301tats de l'Indo-Chine et le grand archipel d'Asie ou Malaisie",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7703740\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/52f5857a-a831-498a-a9b3-1e35adb0b27f/file/ef841ecd-fc2a-4466-ba29-216b1392740f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/52f5857a-a831-498a-a9b3-1e35adb0b27f/file/9deb81a9-48f4-4664-b84f-e3d6309319f5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2F2e%2F97%2Fe22e97cb932f4808a1cb52cac2bdcb05%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b3b7faad-d188-408a-8c25-0380ec4f03b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-52f5857a-a831-498a-a9b3-1e35adb0b27f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418q73f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(70.0, 155.0, 65.0, -15.0)",
+  "solr_year_i": 1881.0,
+  "uuid": "princeton-p8418q73f"
+}

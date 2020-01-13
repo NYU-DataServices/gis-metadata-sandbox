@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"9033.\" Historic Maps copy has title and index sheet for vol. 1 of Essex County series, including index for Nutley and Bellevile.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c247dv084",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Nutley,Maps",
+    "Nutley (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Nutley, Essex County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5467854\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0019867-7f8f-4a0e-ba35-45940210c39d/file/c156f060-5cda-4bc2-bdd3-06a4a3e0abc0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0019867-7f8f-4a0e-ba35-45940210c39d/file/7470d6a8-b04c-4ea9-8ec2-044a1322a683\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/13%2F8e%2Fac%2F138eacdf92c3456b8c93882aa1c973a5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8dbbfda3-aa0d-4f63-983f-94d5930e8545/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c0019867-7f8f-4a0e-ba35-45940210c39d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c247dv084",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.183836, -74.130031, 40.837869, 40.80564)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-c247dv084"
+}

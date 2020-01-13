@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1909.\" Includes key, key map, streets and specials index, and text. \"1717.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jm214r473",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hackettstown,Maps",
+    "Hackettstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Hackettstown, Warren County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5646636\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7c5a668-7494-4018-bb98-19e594c7fdb1/file/12fec68c-4c07-4788-938f-e4fac04353ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7c5a668-7494-4018-bb98-19e594c7fdb1/file/a186cdd9-2262-4c32-ae86-e1c1b462bd7e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6e%2F8d%2F04%2F6e8d04837ef84d92adccde07bb942e72%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c90f059-1060-4edd-80e9-4e13b17368c2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b7c5a668-7494-4018-bb98-19e594c7fdb1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jm214r473",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.850452, -74.801918, 40.88255, 40.828052)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-jm214r473"
+}

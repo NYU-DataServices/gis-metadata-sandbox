@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1886.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3484zj515",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Gloucester City,Maps",
+    "Gloucester City (N.J.),Maps"
+  ],
+  "dc_title_s": "Gloucester, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5365794\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae64795d-a1a4-4f3c-a65c-63f5cc8766ae/file/15c31c14-a19f-4c0b-9252-2240e1a7b031\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae64795d-a1a4-4f3c-a65c-63f5cc8766ae/file/331efa7c-a838-4179-914c-46ed77d4a9ee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F87%2F6a%2F2b876a963d304d01ae9808a379e4944b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0b30d263-a08f-4272-a312-c9e418610a09/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae64795d-a1a4-4f3c-a65c-63f5cc8766ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3484zj515",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.1286, -75.1259, 39.898, 39.8947)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-3484zj515"
+}

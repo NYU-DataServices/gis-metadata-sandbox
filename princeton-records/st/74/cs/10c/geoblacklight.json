@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1913.\" Includes location map, key and text. \"6043.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs10c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Park Ridge,Maps",
+    "Park Ridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Park Ridge, Bergen County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274591\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2175ce55-87e1-4af1-9d9a-07858188a65f/file/b9727ae1-3103-40ed-a860-28c4a7f75f0c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2175ce55-87e1-4af1-9d9a-07858188a65f/file/27dfc03c-e3c5-4242-a521-6e04882e6091\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2Fa4%2F5b%2F48a45b9b6769449192576bf742309c43%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d7b9e15c-225a-4e56-b862-1a5f4b314881/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2175ce55-87e1-4af1-9d9a-07858188a65f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs10c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.07, -74.02, 41.049, 41.02)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-st74cs10c"
+}

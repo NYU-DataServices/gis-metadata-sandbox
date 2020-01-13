@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "Nautical chart of North Atlantic Ocean with portions of North and South America, Southern Europe and West Africa; relief shown pictorially. In lower right-hand corner: Zusatz zum I. Bande, Ie. Karte. Probably issued in: Allgemeine Historie der Reisen zu Wasser und Lande ... Leipzig : Bey Arkstee und Merkus, 1747-1774.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1z40kv714",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig? : Bey Arkstee und Merkus, 1747?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,North Atlantic Ocean,Early works to 1800",
+    "North Atlantic Ocean,Maps,Early works to 1800",
+    "North America,Maps,Early works to 1800",
+    "South America,Maps,Early works to 1800",
+    "Europe, Southern,Maps,Early works to 1800",
+    "Africa, West,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Karte von dem Abendl\u00e6ndischen Ocean : zur allgemeinen Historie der Reise-beschreibungen entworfen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825256\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/7275b145-4bb7-48c3-968d-28e61080bf1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/685ea236-df89-48e0-aa84-c7cf0193a420\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Fc4%2Fd3%2F20c4d3ee107c468ba9ae64d563b315b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2262b383-6a5f-4500-8f19-76215bd1cc72/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North Atlantic Ocean",
+    "Europe, Southern",
+    "Africa, West"
+  ],
+  "dct_temporal_sm": [
+    "1747"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e6e1bdd4-8579-4383-9bde-5c1e0be7e983",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1z40kv714",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.08, 10.01, 53.0, -0.01)",
+  "solr_year_i": 1747.0,
+  "uuid": "princeton-1z40kv714"
+}

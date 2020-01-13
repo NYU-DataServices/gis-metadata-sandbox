@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1887.\" Includes key, streets and specials index, and text. \"2347.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290b903",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1887.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Haddonfield,Maps",
+    "Haddonfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Haddonfield, N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5392482\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8757efd-bc6c-4fb2-9e3a-09448cc13de4/file/d051fbdb-8383-4ad1-ae4d-acd453c5524a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8757efd-bc6c-4fb2-9e3a-09448cc13de4/file/04315718-b37d-4b33-96de-343089a3774e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F33%2Fbe%2F4533beae35294108991495f3f2d425ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33cfae77-ccc2-4a2f-96aa-bdfdf4cb0cee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d8757efd-bc6c-4fb2-9e3a-09448cc13de4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290b903",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0417, -75.0201, 39.9046, 39.891)",
+  "solr_year_i": 1887.0,
+  "uuid": "princeton-9p290b903"
+}

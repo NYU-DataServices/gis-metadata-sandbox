@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1922.\" Includes location map, key, streets and specials index, and text. \"5240.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fj835",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Collingswood,Maps",
+    "Collingswood (N.J.),Maps"
+  ],
+  "dc_title_s": "Collingswood, Camden County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5362814\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/737fa979-ac6f-462f-815b-338d0f9b65d0/file/7ddf9cfc-780f-49fd-9fc6-4afdcef97238\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/737fa979-ac6f-462f-815b-338d0f9b65d0/file/825313c2-422b-42c1-9a56-c0c44ba81fb1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2Fcb%2F38%2F84cb38b695dc4f33bfbd8a8062394094%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ef30296-2944-40d0-8183-f2754e2a4007/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-737fa979-ac6f-462f-815b-338d0f9b65d0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fj835",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.096, -75.056, 39.926, 39.904)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-t148fj835"
+}

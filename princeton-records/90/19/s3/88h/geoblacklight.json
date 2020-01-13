@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Andriveau-Goujon, E. (Euge\u0300ne), 1832-1897"
+  ],
+  "dc_description_s": "\"Atlas universel no. 13.\" World map showing direction of warm and cold ocean currents, based upon the work of the American hygrographer Lt. Matthew Fontaine Maury. E. Andriveau-Goujon was located at rue du Bac 4 from 1876. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9019s388h",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Publie\u0301 par E. Andriveau-Goujon, e\u0301diteur ... , [187-?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean currents,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Courants et mouvements generaux de la mer",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4545538\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28569a31-8cf2-4276-8897-8cba708a2568/file/118dc151-9687-4167-815c-4ed7dcbad472\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9979f1e0-1756-4221-a3b8-7f0f31fec0db/file/791b8e24-3bfb-406b-a1ea-2ba0edcdd530\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9979f1e0-1756-4221-a3b8-7f0f31fec0db/file/4d8b7c6e-dbd3-4c12-a001-df6203194cee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F57%2F30%2Ff35730a667fc453e95c4abce28d1430e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66ba075d-dbba-426e-910d-31cbc4813276/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9979f1e0-1756-4221-a3b8-7f0f31fec0db",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9019s388h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -80.0)",
+  "solr_year_i": 1876.0,
+  "uuid": "princeton-9019s388h"
+}

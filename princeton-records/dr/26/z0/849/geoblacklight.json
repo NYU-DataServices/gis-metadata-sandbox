@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Avec priv. du Roy.\" In upper right-hand margin: 110. Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dr26z0849",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez l'Auteur dans l'Isle du Palais sur le Quay de l'Orloge a la Sphere Royale, 1705.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cumae (Extinct city),Maps,Early works to 1800",
+    "Pozzuoli (Italy),Maps,Early works to 1800",
+    "Pozzuoli Gulf (Italy),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6787504\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/133dd985-dc11-4c97-9689-8cdee2b3af86/file/c0181438-ede4-4553-93a9-353f699d0130\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/133dd985-dc11-4c97-9689-8cdee2b3af86/file/4cdb3dc0-1b9e-41f8-9dd1-c1b68b67fab6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6e%2F0d%2Fb3%2F6e0db385d19c4e09aa35b61945a5efb9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/566fcd6f-fea2-41cb-a2eb-23e37d81fd74/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-133dd985-dc11-4c97-9689-8cdee2b3af86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dr26z0849",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.849453, 14.25526, 40.844913, 40.689941)",
+  "solr_year_i": 1705.0,
+  "uuid": "princeton-dr26z0849"
+}

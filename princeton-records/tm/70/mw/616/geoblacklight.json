@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Catawissa, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1889. Surveyed in cooperation with the state of Pennsylvania. Triangulation by U.S. Coast and Geodetic Survey and S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mw616",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Catawissa (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Catawissa sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867494\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ee93ddc-ad32-40e5-883d-4087f1f24c16/file/86d476cb-f68e-4d5e-942a-6b5396b89d3f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/faa9ec24-0c6f-4bf2-a71b-59a619be9025/file/23c3dc4e-eb9a-4587-aed8-1d8cfa7ac654\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/faa9ec24-0c6f-4bf2-a71b-59a619be9025/file/42e7d524-52a3-42ae-bdaf-a376e0225625\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F48%2F56%2Fa64856737a23483889a8e2f0198968ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ffdd9d85-a20a-44af-8614-7e0a492c38b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-faa9ec24-0c6f-4bf2-a71b-59a619be9025",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mw616",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -76.25, 41.0, 40.75)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-tm70mw616"
+}

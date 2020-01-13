@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Miyakonojo, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vt150k908",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Miyakonojo, Miyazaki Prefecture, Kyushu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449968\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e353ea8-7842-4236-b298-50a6bbd0d528/file/a56bb712-d10d-4379-98e4-807c31ff13dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a0e284d2-6f9d-465d-8ae4-7f5da4a92e7c/file/2cf8db19-c2a2-43b5-a682-03ebd820fc58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a0e284d2-6f9d-465d-8ae4-7f5da4a92e7c/file/97a480ef-f291-47de-89bf-7daeeea114c2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2F81%2F11%2F28811125bae04d5e9f5a7a526db5f788%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b92ec86-7bfe-49d3-814f-d6512255cfa8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a0e284d2-6f9d-465d-8ae4-7f5da4a92e7c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vt150k908",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(131.01666666666668, 131.1, 31.75, 31.7)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-vt150k908"
+}

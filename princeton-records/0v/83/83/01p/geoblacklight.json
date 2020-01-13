@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Pezze, Giuseppe"
+  ],
+  "dc_description_s": "Map of western South America from Colombia to northern Peru; also shows a portion of Central America; relief shown by hachures. In: Storia dell'America / di Guglielmo Robertson ... Milano : Nicolo Bettoni, 1821-1822. Vol. 3.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v838301p",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Milano : N. Bettoni, 1822]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Panama,Maps",
+    "Colombia,Maps",
+    "Ecuador,Maps"
+  ],
+  "dc_title_s": "Carta de' paesi situati sul Mare del Sud da Panama fino a Guajaquil : perche\u0300 serva alla Storia dell' America del Sigr. Robertson",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6556844\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/efb7f4c3-9037-41b2-9d0c-f8f7a9182ba4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/fe55cd0e-7779-43a2-acfd-476375cb3c86\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e0%2Fa4%2F68%2Fe0a468f9db4540928d2536880afea97b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b4ef7a9-49bc-4467-8ce0-16e20c03fded/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Colombia",
+    "Ecuador",
+    "Panama"
+  ],
+  "dct_temporal_sm": [
+    "1822"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c6c15499-8d22-4b0e-bc28-574a805b4ceb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v838301p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-83.05, -72.15, 13.03, -5.17)",
+  "solr_year_i": 1822.0,
+  "uuid": "princeton-0v838301p"
+}

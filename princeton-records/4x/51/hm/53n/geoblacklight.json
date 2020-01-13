@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "U.S. Lake Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures, depths shown by contours and soundings. Prime meridians: Greenwich, Washington. Text headings: Sailing direction -- Notes. Also shows specific points of interest and railways along the shore.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hm53n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington : Survey of the Lakes, 1853.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Erie, Lake,Maps"
+  ],
+  "dc_title_s": "Lake Erie",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7818861\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b429a26-0e46-4cad-a75b-369e90f28522/file/431c77e9-2d6f-48a9-bdd9-174bc044a215\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b429a26-0e46-4cad-a75b-369e90f28522/file/f04c45ad-0f67-4ffa-b186-e2f3eddc3d20\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Ffb%2F3c%2F20fb3c6aafd34f229dbc14c106286dba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66c7ef71-79e3-4b56-b203-d814753a2f15/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0b429a26-0e46-4cad-a75b-369e90f28522",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hm53n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-83.5885, -78.7627, 43.2085, 41.0147)",
+  "solr_year_i": 1853.0,
+  "uuid": "princeton-4x51hm53n"
+}

@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bulgaria. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085m66v",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Bulgaria, 1994",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0e925775-617f-491e-8b4d-d27e96720a79/file/8209a9da-fd65-4d0e-a782-cc4c6ccbbb9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c90aadb-4815-4bdb-9807-658b34fcc6cd/file/3816fdcc-819a-47ba-b8b2-3f61fd150dc2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c90aadb-4815-4bdb-9807-658b34fcc6cd/file/1e35bc7a-317e-49af-9234-3e415679f826\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F89%2Ffb%2Fbd89fb31452643688e181a5f94767dfe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a7fe6562-343d-432a-a801-61d19830249f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Eastern Europe",
+    "Europe",
+    "Bulgaria",
+    "Balkan Region"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7c90aadb-4815-4bdb-9807-658b34fcc6cd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085m66v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(22.0, 29.0, 45.0, 40.0)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-jq085m66v"
+}

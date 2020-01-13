@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Staten Island. In upper margin: Topography; State of New York represented by the state engineer and surveyor. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by U.S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537303s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Staten Island Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey- New York: Staten Island Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831293\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e5e174fe-5d51-4aa7-acd1-14c83ccf30b0/file/766336e1-26a0-416a-9c79-eb2e9c0bda0f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59f2abc7-7e52-4d0f-a8a5-38c4dd52d50a/file/adb23d34-e6c6-4484-8b0b-6eff85055281\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59f2abc7-7e52-4d0f-a8a5-38c4dd52d50a/file/f2716eb3-f705-4db8-9ad6-20234716e81a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ef%2F37%2Fa0%2Fef37a00273ee463bb3b9e1c7a0d04425%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f578738e-4989-472a-b906-7b8c0c7fd9f1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59f2abc7-7e52-4d0f-a8a5-38c4dd52d50a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537303s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.75, 40.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-76537303s"
+}

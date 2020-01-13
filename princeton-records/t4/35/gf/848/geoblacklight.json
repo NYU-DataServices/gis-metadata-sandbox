@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -15.500000. South Decimal Degree -15.6667. East Decimal Degree -67.0000. West Decimal Degree -67.2500. Alternate title: Palos Blancos, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t435gf848",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Palos Blancos, hoja 6147 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73dea15e-bf77-44d5-a4db-6f683710af20/file/2da2596e-7607-43c6-b0c5-24cc35913114\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73dea15e-bf77-44d5-a4db-6f683710af20/file/ee0ae1bc-fb2e-49c3-ae7c-22ddc84fab1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F82%2Fb9%2F0282b960585b4e249c11310e29b45215%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2d846ebd-3f2c-40e1-8693-125bba01bbe6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-73dea15e-bf77-44d5-a4db-6f683710af20",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t435gf848",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.25, -67.0, -15.5, -15.6667)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-t435gf848"
+}

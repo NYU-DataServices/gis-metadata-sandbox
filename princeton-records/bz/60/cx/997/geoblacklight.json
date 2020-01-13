@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Fukushima, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by soundings in meters. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cx997",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Fukushima, Fukushima Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830658\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/270f69a9-7170-4cca-adcd-b2e5fd152abd/file/5d336387-eaaa-4819-9e82-3e3469ba993d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a31812a2-5b2a-4721-b842-02f487bbb1b9/file/6a878f8f-5c92-46ee-948b-f1a479d472bf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a31812a2-5b2a-4721-b842-02f487bbb1b9/file/c786dc91-c544-4101-ae8c-246d7f50b20e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2Fb7%2F08%2Ff1b708c775c44870803d2ec58c35153b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bfc1f6e3-2cef-4e1e-869c-1b94921f26e3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a31812a2-5b2a-4721-b842-02f487bbb1b9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cx997",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(140.45, 140.5, 37.766666666666666, 37.733333333333334)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-bz60cx997"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Maury, Matthew Fontaine, 1806-1873"
+  ],
+  "dc_description_s": "Shows prevailing wind direction by month. \"No. 1. Series C.\" The pilot charts were released as series C a part of Maury's \"Wind and current charts\", series A-F. These charts were designed for sailing ships and recorded wind direction observations made by mariners on previous voyages. For complete discussion, see \"The wind and current chart series produced by Matthew Fontaine Maury,\" by Marc I. Pinsel, in Navigation : Journal of the Institute of Navigation, v. 28, no. 2 (Summer, 1981), p. 123-137. Includes diagrams and notes in map area with signature of M.F. Maury.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b754d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington : National Observatory, 1850.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,South Atlantic Ocean",
+    "Winds,South Atlantic Ocean,Charts, diagrams, etc"
+  ],
+  "dc_title_s": "Pilot chart of the South Atlantic [sheet 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7675223\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbbaa6ba-6e68-4440-bd12-d4287334b4d2/file/e5389e9d-40a2-489d-87b0-5cf0cde30c31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbbaa6ba-6e68-4440-bd12-d4287334b4d2/file/1b5c24b3-f0df-4ab0-802a-d0525fda7a6f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c7%2Fcd%2F3d%2Fc7cd3df440a64b3789c0ad8ad1e1fee4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b176ec46-7c5e-4c96-86cf-dc8b9df6f75a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bbbaa6ba-6e68-4440-bd12-d4287334b4d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b754d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.0, -25.0, -0.0, -70.0)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-br86b754d"
+}

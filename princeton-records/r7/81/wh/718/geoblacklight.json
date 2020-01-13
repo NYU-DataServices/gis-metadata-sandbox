@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Surveyed in 1888-89. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wh718",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Staten Island Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey- New York: Staten Island Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831292\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1e0efba-6501-4db8-857c-b232be53be2f/file/c49e841d-b1fa-4e93-867e-daeb2005d7c4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9e7b831-3856-4986-8dc5-bfcc09ad7c75/file/ef9ba005-af46-4546-a974-4d6706d3c178\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9e7b831-3856-4986-8dc5-bfcc09ad7c75/file/bdc847a0-ba98-4a3d-bc21-8a82f78db3a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2F1d%2Fc7%2F441dc73aef3f47c5b23a88ab3f699e51%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae9831c5-2191-450c-a30b-c683b6cac69b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a9e7b831-3856-4986-8dc5-bfcc09ad7c75",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wh718",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.75, 40.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-r781wh718"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Institut Geographique National. Annexe du Maroc. Relief shown by 2.5 meter contour intervals and spot elevations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d2066",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Rabat : Institut ge\u0301ographique national, Annexe du Maroc, 1953.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cities and towns",
+    "Land use",
+    "Marrakech (Morocco),Maps"
+  ],
+  "dc_title_s": "Plan de Marrakech",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830484\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1a34658-b011-4d01-9df2-bb7636a67cf5/file/5e13f3a7-b322-425f-9f5a-726f9503295c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1a34658-b011-4d01-9df2-bb7636a67cf5/file/78cabe17-777a-4742-a55f-6f1ebb05f0a3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F02%2F78%2F090278a8138f4f83a558ee4f2c9c6147%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2c63473-f81b-4b26-97ae-12e9ee1dd774/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1a34658-b011-4d01-9df2-bb7636a67cf5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d2066",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.05, -7.966666666666667, 31.666666666666668, 31.6)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-4j03d2066"
+}

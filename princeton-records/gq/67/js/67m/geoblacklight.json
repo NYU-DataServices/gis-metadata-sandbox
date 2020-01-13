@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Columbia with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67js67m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Columbia. (1980/relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e3b8de55-9ef8-483d-9c94-4f70408a391d/file/c7e91da8-f598-4a9f-9057-d7d38cdcd095\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b938d53-7635-4ab2-86f9-450d6e224b32/file/d7e9226a-4080-45df-945f-649ed8cc193a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b938d53-7635-4ab2-86f9-450d6e224b32/file/b5a0cd26-fa67-40f5-8c34-8f280687df77\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2Fdd%2Fe4%2F09dde403015c43b59dbd390905c82def%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/79e4f11a-3e07-40cb-8d3d-762d1e18544c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Columbia",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9b938d53-7635-4ab2-86f9-450d6e224b32",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67js67m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.0, -66.0, 13.0, -5.0)",
+  "solr_year_i": 1980.0,
+  "uuid": "princeton-gq67js67m"
+}

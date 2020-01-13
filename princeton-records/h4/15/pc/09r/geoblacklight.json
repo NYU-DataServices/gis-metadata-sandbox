@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Tsuyama, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. Depth shown by meters. In upper left margin \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h415pc09r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Tsuyama, Okayama Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450025\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6d05c77a-6d90-49f3-87f7-459463ff4d66/file/be34e647-6c27-41ea-8167-f775804c027b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/650542a7-c2c8-4d19-a585-cf913ab61149/file/caab67f8-d1ae-4b92-80d6-8a7844a6ff7e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/650542a7-c2c8-4d19-a585-cf913ab61149/file/f456065e-3036-4007-8f96-5b8d90e0a4ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F3a%2Ffc%2F023afc7c07364a72a2d0f249cf9302e5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/37f0846b-1cfe-4224-a969-c279631dd412/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-650542a7-c2c8-4d19-a585-cf913ab61149",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h415pc09r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(133.96666666666667, 134.05, 35.083333333333336, 35.03333333333333)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-h415pc09r"
+}

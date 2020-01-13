@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Tournai in a series of maps of Belgium and NE France, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sf484",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Belgium & N.E. France 1:100,000. G.S.G.S. 4336 (A.M.S. M603). Tournai.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/feab3021-e9cf-42ee-becd-ce7fb1825237/file/23d2bb24-1b26-4f6e-a561-72c21674ec28\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5a034c4-182d-4850-ad7d-91b68343b4d1/file/6426549e-e8cf-4d13-ac77-40b3334661b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5a034c4-182d-4850-ad7d-91b68343b4d1/file/9b053a10-568b-41f9-ab12-6df4321e2ad8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/10%2F5f%2F8e%2F105f8e910d474444a85f67046bd9ee87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78642d48-6b03-4116-a6b7-217056a54723/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium",
+    "G6011.C2.s100.W303",
+    "France",
+    "Tournai"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f5a034c4-182d-4850-ad7d-91b68343b4d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sf484",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.0, 4.0, 51.0, 50.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-mp48sf484"
+}

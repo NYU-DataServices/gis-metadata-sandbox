@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -16.666667. South Decimal Degree -16.833333. East Decimal Degree -68.750000. West Decimal Degree -69.000000. Alternate title: Jesus de Machaca, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ns064789v",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1989.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Jesus de Machaca, hoja 5843 IV. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840950\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5293d861-caab-41f0-8e40-c2fb94b94f6a/file/4f0545d2-26d1-467e-a733-94c1c0d788a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5293d861-caab-41f0-8e40-c2fb94b94f6a/file/f538ab1e-f21a-4ea3-a054-ed93f4df6c1a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d6%2F9d%2F11%2Fd69d114c9f5f4c95822d415e744cf50b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/da8a8013-2967-40ba-84a3-b41dd806eea5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5293d861-caab-41f0-8e40-c2fb94b94f6a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ns064789v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.0, -68.75, -16.666667, -16.833333)",
+  "solr_year_i": 1989.0,
+  "uuid": "princeton-ns064789v"
+}

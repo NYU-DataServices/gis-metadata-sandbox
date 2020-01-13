@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Potsdam, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1905-1906. Surveyed in cooperation with the State of New York. Partly within the Adirondack Park. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz30f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Potsdam (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Potsdam Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868363\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9fad0a2e-4842-4fd0-918a-c3fd99cdb288/file/1a39ed8b-d78e-49ff-9ed8-fd10680e49db\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fa9b823-6e47-4015-86ad-a2047617759d/file/d8cbb0d9-f118-4bd9-8e16-bd028f3d7d58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fa9b823-6e47-4015-86ad-a2047617759d/file/1d4bb47c-f281-4654-803a-88245e218921\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2Fed%2F48%2Ffced48e1649c4b77bb6d892cd186fb09%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/889774b3-de53-4d95-88c1-cb234a0e753a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5fa9b823-6e47-4015-86ad-a2047617759d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz30f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 44.75, 44.5)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-6d56zz30f"
+}

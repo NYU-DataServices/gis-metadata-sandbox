@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Dripps, M. (Matthew)"
+  ],
+  "dc_description_s": "Depths shown on plate no. 2 by soundings. \"Prepared by M. Dripps for Valentine's Manuel [sic] of the Corporation of the city of New York.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j3860b650",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York?] : M. Dripps, 1860.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brooklyn (New York, N.Y.),Maps",
+    "Hoboken (N.J.),Maps",
+    "Hudson City (N.J.),Maps",
+    "Jersey City (N.J.),Maps",
+    "New York Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "Map of the five cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945026\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5d4882e-05a8-4a4b-92c7-2669881ca36e/file/3901f00d-0804-4416-b085-94884bcc30d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5d4882e-05a8-4a4b-92c7-2669881ca36e/file/5ee2b348-9251-4989-b6ca-b717e4b4d3f9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F53%2Fcd%2F2f53cdd9b53148b08a2f39c566049735%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f5dd21db-661a-4d8b-a175-d23af1464fa2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f5d4882e-05a8-4a4b-92c7-2669881ca36e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j3860b650",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.101822, -73.850166, 40.883496, 40.700249)",
+  "solr_year_i": 1860.0,
+  "uuid": "princeton-j3860b650"
+}

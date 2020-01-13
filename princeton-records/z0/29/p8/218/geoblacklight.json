@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "NYC Department of City Planning"
+  ],
+  "dc_description_s": "This dataset represents a compilation of data from various government agencies throughout the City of New York. The underlying geography is derived from the Department of City Planning's COGIS project. Through COGIS, the Department of City Planning is responsible for maintaining the city's base map for all city agencies. The attribute information is the Department of City Planning's PLUTO database application. The attribute data pertains to tax, adminstrative, and locational information related to each lot in New York City.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/z029p8218",
+  "dc_language_s": "English",
+  "dc_publisher_s": "NYC Department of City Planning",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dc_title_s": "Manhattan MapPLUTO (Primary Land Use Tax Lot Output), 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff7b8e00-0dd8-4fcf-b3b2-3782104e337a/file/c96f019c-8a49-410c-86f1-a912fabe209f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0406000a-ec69-4ad4-bf20-be337ec8b2c1/file/4224b42d-f7d3-4fd4-83be-a0b6050776b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0406000a-ec69-4ad4-bf20-be337ec8b2c1/file/1b3c98a2-a34f-4a1a-8d0a-209a55817377\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-0406000a-ec69-4ad4-bf20-be337ec8b2c1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z029p8218",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.047738, -73.906732, 40.879222, 40.683884)",
+  "solr_year_i": 2007.0,
+  "uuid": "princeton-z029p8218"
+}

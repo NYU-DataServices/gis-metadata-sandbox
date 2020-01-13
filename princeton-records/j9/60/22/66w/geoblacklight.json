@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 73-101 of Hudson County, vol. 8 series, showing North Bergen.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j9602266w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,North Bergen,Maps",
+    "North Bergen (N.J.),Maps"
+  ],
+  "dc_title_s": "North Bergen (Sheet 101)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5496693\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3df45f7b-86c7-4d25-8dfd-3ba799c9013a/file/e61991b0-5bc6-4f91-a74d-101b9a3e1b25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3df45f7b-86c7-4d25-8dfd-3ba799c9013a/file/25fb5458-1c1b-4593-b5ac-e96923b4bca4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/25%2Fe3%2F4c%2F25e34cedd83f42c6a3262c9f40bf916e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ce676473-00ae-4c26-a93b-6c03c1366059/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3df45f7b-86c7-4d25-8dfd-3ba799c9013a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j9602266w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-j9602266w"
+}

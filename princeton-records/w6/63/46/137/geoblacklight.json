@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Bad Wildungen and environs in the German state of Hesse. Relief shown by shading. From: Fu\u0308hrer durch Bad Wildungen und Umgebung / herausgegeben von Leo Woerl ... Leipzig : Woerl's Reisebu\u0308cherverlag, 1905.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w66346137",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bad Wildungen (Germany),Maps",
+    "Hesse (Germany),Maps"
+  ],
+  "dc_title_s": "Bad Wildungen und Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7393341\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/070bc71c-3533-4ab7-a1de-f1125c9e6456/file/63ee195e-73ff-4f54-852c-2235efa53579\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/070bc71c-3533-4ab7-a1de-f1125c9e6456/file/30cbcf16-3111-42a3-9f83-ac34c83da523\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2Fff%2F96%2F04ff96438c04418183de5f506c7ee3b5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e77928bd-99b7-42f6-87c5-f7075c55b42c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-070bc71c-3533-4ab7-a1de-f1125c9e6456",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w66346137",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.929311, 9.29598, 51.216683, 51.025215)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-w66346137"
+}

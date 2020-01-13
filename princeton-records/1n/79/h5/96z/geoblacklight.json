@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"9082.\" North oriented towards upper right. Sheets 67-68 show Ventnor; sheet 69 shows Atlantic City; sheet 70 shows Longport.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1n79h596z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906, c1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Real property,New Jersey,Ventnor City,Maps",
+    "Real property,New Jersey,Longport,Maps",
+    "Atlantic City (N.J.),Maps",
+    "Ventnor City (N.J.),Maps",
+    "Longport (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Atlantic City, New Jersey : including Ventnor, South Atlantic City & Longport (Sheet 69)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5170236\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d56f49b8-f7d1-407c-9631-dfb45cf7a26d/file/12339fcd-3dad-44d2-8cc5-624c58749f1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d56f49b8-f7d1-407c-9631-dfb45cf7a26d/file/1a62450f-1668-4abc-99d7-5d840958a68d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/06%2Fdc%2Fc9%2F06dcc938e5544585bb7b76d052f39994%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/49941b63-3a7a-43e4-ba3a-3fd131b00681/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d56f49b8-f7d1-407c-9631-dfb45cf7a26d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h596z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-1n79h596z"
+}

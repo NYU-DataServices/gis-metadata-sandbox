@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Cuba at a scale of 1:1,000,000. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bj94v",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Political and Administrational Boundaries",
+    "Railroads",
+    "Airfield"
+  ],
+  "dc_title_s": "Cuba, 1982",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cff335d6-9972-4b78-b2c1-c428c4583c2d/file/57c58948-6340-4201-81ed-2dd0bda6a50d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09dcf5c9-b11c-4008-b536-af9f66dca1fc/file/0b58d898-048d-4350-99b7-bfcabcee182c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09dcf5c9-b11c-4008-b536-af9f66dca1fc/file/4b6d4472-3697-4e05-8798-a6e2bfd23827\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2F91%2F4d%2Fda914ddc761a4fcaa3cfd0b86af1b0c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64da5f99-5351-493d-bc76-c64f4f6ed8fc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Guantanamo Bay",
+    "Cuba",
+    "Havana",
+    "Caribbean"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-09dcf5c9-b11c-4008-b536-af9f66dca1fc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bj94v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-86.0, -73.0, 25.5, 17.0)",
+  "solr_year_i": 1982.0,
+  "uuid": "princeton-g158bj94v"
+}

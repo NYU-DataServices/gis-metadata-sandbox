@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Union is a former town in Hudson Co., N.J.; in 1925 it merged with West Hoboken to form Union City. cf. Merriam-Webster's geographical dictionary, 3rd ed. Historic Maps copy has sheets 23-35 of Hudson County series, showing Union.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t435gg062",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Union City,Maps",
+    "Union City, N.J.,Maps"
+  ],
+  "dc_title_s": "Town of Union (Sheet 23)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515051\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb73ace5-8c3c-4f50-825b-3c3a4a48948a/file/01585978-4422-41be-8384-16d0f5f558fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb73ace5-8c3c-4f50-825b-3c3a4a48948a/file/1b64f89c-ac4d-4c38-b1a8-6b77b72e957d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2Ffa%2Fad%2F6cfaad40cd0c4c8cb3745d1acba9276c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/12be29ec-e491-4a27-a60b-17b62f7fb279/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb73ace5-8c3c-4f50-825b-3c3a4a48948a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t435gg062",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.312226, -74.222252, 40.722268, 40.670169)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-t435gg062"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Including Delaware & Hazen, N.J. & Riverton, Pa.\" \"June 1915.\" \"624.\" Includes location map, key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d791sj51j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Belvidere,Maps",
+    "Real property,New Jersey,Warren County,Delaware,Maps",
+    "Real property,New Jersey,Hazen,Maps",
+    "Belvidere (N.J.),Maps",
+    "Delaware (Warren County, N.J.),Maps",
+    "Hazen (N.J.),Maps"
+  ],
+  "dc_title_s": "Belvidere, Warren County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5636264\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c40fba7-4367-4bd3-a160-62fe5781e5f7/file/b479e1dc-496e-4bce-ae46-c5b812a57d22\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c40fba7-4367-4bd3-a160-62fe5781e5f7/file/8e4c25f7-ba6f-4a80-8b89-38b324c04da6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F84%2F5c%2F22845c1ab382461f9a61c8c53e6d24e5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d29d669a-a078-466a-9f8f-4d6e5b961029/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c40fba7-4367-4bd3-a160-62fe5781e5f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d791sj51j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.088876, -75.059128, 40.840947, 40.817783)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-d791sj51j"
+}

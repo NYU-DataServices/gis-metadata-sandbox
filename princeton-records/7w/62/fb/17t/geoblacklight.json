@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes contour map, key, streets and specials index, and text. \"5823.\" Contour map sheet has title: Contour map of Newark, New Jersey, showing the distributing reservoirs of the city water works and the districts supplied by each.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7w62fb17t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 42)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5427790\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3df0135-0a0d-4cd0-b397-192e642e35a4/file/a656e113-76b1-439c-9cef-a261a3b9e4c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3df0135-0a0d-4cd0-b397-192e642e35a4/file/ee385d60-df74-4475-a470-7c8cd7b4a9b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2Fb5%2F8c%2F28b58c0d975e44ce9b9dcc160106d7cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0dd2829-2c83-4803-9884-a324c517eaa4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3df0135-0a0d-4cd0-b397-192e642e35a4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7w62fb17t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-7w62fb17t"
+}

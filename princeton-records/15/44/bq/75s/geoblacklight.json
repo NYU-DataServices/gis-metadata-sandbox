@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"November 1922.\" \"5608.\" Includes location map, key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bq75s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dumont,Maps",
+    "Dumont (N.J.),Maps"
+  ],
+  "dc_title_s": "Dumont, Bergen County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5241620\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2dfe0f8-b131-45f9-890d-33f347273def/file/22c14672-15eb-4e3a-ba0e-d733cfb815ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2dfe0f8-b131-45f9-890d-33f347273def/file/9fde3406-7916-47ea-8472-2ea15e552da1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F67%2Fab%2Fb167abfc000a48bd802e39ba403d1bab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1935f9b2-9d24-46f9-bb39-deedd318e492/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d2dfe0f8-b131-45f9-890d-33f347273def",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bq75s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.011, -73.975, 40.955, 40.936)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-1544bq75s"
+}

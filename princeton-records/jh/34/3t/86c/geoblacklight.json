@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Mar. 1901.\" Includes key, streets and specials index, and text. \"4599.\" Historic Maps copy has stamp of Map Division, Library of Congress, dated Mar. 7, 1901.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343t86c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Keyport,Maps",
+    "Keyport (N.J.),Maps"
+  ],
+  "dc_title_s": "Keyport, Monmouth Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4803461\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cc66a4d-310f-4596-a2f8-865bc221e755/file/d5cc9cb1-67fc-4019-87d6-9b30ec75192f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cc66a4d-310f-4596-a2f8-865bc221e755/file/de3a386d-faeb-4bea-9525-528b8ab61e43\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2Fa5%2F96%2F6fa5968b15c54d58b5c97c1e309a2ea1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b8916200-7070-4880-99e8-26875db02e3c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6cc66a4d-310f-4596-a2f8-865bc221e755",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343t86c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.219, -74.183, 40.448, 40.423)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-jh343t86c"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA. Hamburg. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1908-1909. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hq98b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hamburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Hamburg Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868573\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fee27d6f-9826-48e4-b367-f53c276eab55/file/568a5dbe-2902-48a8-aa42-ca8429010fae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/536866ca-7e78-4ba9-b0f2-ee61f79a4cf0/file/f7e6ec54-494a-457a-af85-36335f6a7f47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/536866ca-7e78-4ba9-b0f2-ee61f79a4cf0/file/69154cdc-fe39-454b-867f-a54612c50843\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Ffa%2Fd6%2F20fad60fb252404aa3870dcf577e5f13%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bd191d94-ab99-4b78-b33a-b806b1d51510/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-536866ca-7e78-4ba9-b0f2-ee61f79a4cf0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hq98b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.0, -75.75, 40.75, 40.5)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-xg94hq98b"
+}

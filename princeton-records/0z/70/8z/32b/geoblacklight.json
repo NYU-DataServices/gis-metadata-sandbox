@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of Great Britain. Great Britain. Geological Survey of England and Wales. Sheet 264 solid and drift. Great Britain. Ordnance Survey of England. North Decimal Degree 51.533300. South Decimal Degree 51.3667. East Decimal Degree -2.5000. West Decimal Degree -2.9167. In upper left margin: Ordnance Survey of Great Britain. Relief shown by contour interval and spot heights. Transverse Mercator projection. National grid system. Depths shown by contour intervals. \"Original one-inch Geological Survey published on Old Series Sheets 19 & 35 in 1845. Survey on the six-inch scale in 1939 & 1943-53 by G. A. Kellway et al.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708z32b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Southampton : Director General, Ordnance Survey, 1963.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Shields (Geology)",
+    "Bathymetric maps",
+    "England,Maps"
+  ],
+  "dc_title_s": "[Geological Survey of England and Wales : one inch to the mile map. New Series.] Bristol, solid and drift, sheet 264.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/57f4eca5-9979-410d-a435-7890cefa3189/file/1dc7373d-c9cd-4c58-94be-fbcfbf3336e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57f4eca5-9979-410d-a435-7890cefa3189/file/91bad566-8cee-4fc1-97fb-c9a32d39d8a8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/aa%2Fad%2Fb9%2Faaadb9ee97bc469196a4e217cc216747%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f861826b-bead-4ab1-aa00-1f822a2886b2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-57f4eca5-9979-410d-a435-7890cefa3189",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708z32b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.9167, -2.5, 51.5333, 51.3667)",
+  "solr_year_i": 1963.0,
+  "uuid": "princeton-0z708z32b"
+}

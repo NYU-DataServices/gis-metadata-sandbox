@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Webster. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886-7. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m334q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Webster (Mass.),Maps"
+  ],
+  "dc_title_s": "Mass. - Conn. - R.I.: Webster sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837320\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72e4c927-3013-41ee-b087-0cb1b75ac23f/file/59cd4c80-f865-41ae-95b2-202b931ef4ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58d9f309-43b8-46a0-b777-67bcc10d2f4f/file/a8985fa5-90dd-4fd0-a8f2-6879da94d43e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58d9f309-43b8-46a0-b777-67bcc10d2f4f/file/5b1fd277-3678-446a-b4bf-02391afe43a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F8b%2F21%2F828b2138a73d48ae89986af0b58f98d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ead3c0fa-0e8e-4e8e-8e8a-37790605f2cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-58d9f309-43b8-46a0-b777-67bcc10d2f4f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m334q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.0, -71.75, 42.25, 42.0)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-m326m334q"
+}

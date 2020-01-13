@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Fratelli Bordiga"
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Ferro and Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dn39x336d",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano : presso Antonio Bettalli ... , 1837.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa,Maps"
+  ],
+  "dc_title_s": "Carta dell' Affrica : approvato dalla Direzione Generale di Pubblica Istruzione per uso delle scuole del regno d'Italia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4563950\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e7218b77-5369-4988-a603-d9eba3a62a31/file/6b89401f-c038-4058-81e1-f7d1174220b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e7218b77-5369-4988-a603-d9eba3a62a31/file/f4a3b9f5-c51d-409b-9c29-790fe2bfadcb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2Fae%2F40%2F66ae404c6b8b4590bd29eb7a1fbe9bef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3239c9d1-af20-446c-9dec-4a394183cabd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1837"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e7218b77-5369-4988-a603-d9eba3a62a31",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dn39x336d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-44.0159, 78.5036, 40.0143, -37.5148)",
+  "solr_year_i": 1837.0,
+  "uuid": "princeton-dn39x336d"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Thuillier, Louis"
+  ],
+  "dc_description_s": "Relief shown by hachures. In upper margin: Guides Joanne.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zw68k",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Hachette & Cie., [1885] (Paris : Lemercier et Cie.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lebanon,Maps",
+    "Palestine,Maps",
+    "Syria,Maps"
+  ],
+  "dc_title_s": "Carte de la Palestine et du Liban : comprenant en outre, les re\u00b4gions situe\u00b4es a l\u2019Est de l\u2019Anti-Liban, du Jourdain et de la Mer Morte [sheet 3 of 3]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7065271\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9291f67-c611-4831-b071-7b0d8d1da184/file/2b523f3b-77b4-41b2-a17c-fb8aec026af9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9291f67-c611-4831-b071-7b0d8d1da184/file/48a2912f-2dcc-4ede-ae5c-0a730e2a0c73\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2Fc4%2F1c%2F7cc41c80da1e4b64ab441d96b2679f27%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53057f9a-fa5e-449f-b6d1-61e4c8deb95a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Lebanon",
+    "Israel",
+    "Syria"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9291f67-c611-4831-b071-7b0d8d1da184",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zw68k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.0, 35.0, 33.0, 31.0)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-dv13zw68k"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Ramapo, N.Y.-N.J. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1882-88. Surveyed in cooperation with the States of New York and New Jersey. Culture revised in 1909 by C. C. Gardner. Triangualtion by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537297b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Ramapo (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-New Jersey: Ramapo Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867187\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d7a3d00f-3ff5-4d61-a669-961b5d3cfd5f/file/525a5213-4e3c-4535-b52c-8fcec21d25d4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f95024b2-9772-49e2-876f-38f888d271d4/file/6e6122f1-ba55-42e0-9e93-568a06abe405\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f95024b2-9772-49e2-876f-38f888d271d4/file/f3c92953-7abb-431c-a517-5951ae66a5e9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2Fdd%2F32%2F80dd327c33d44f5bb484df3ff08dcb5a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d846d6b1-303e-4a21-85d3-8d200828aa20/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f95024b2-9772-49e2-876f-38f888d271d4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537297b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 41.25, 41.0)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-76537297b"
+}

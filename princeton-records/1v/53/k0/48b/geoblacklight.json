@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Gaebler, Eduard, 1842-1911"
+  ],
+  "dc_description_s": "Map of Magdeburg and environs in the Germany state of Saxony-Anhalt. Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53k048b",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Eduard Gaebler's Geograph. Insitut, [1904]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Magdeburg (Germany),Maps",
+    "Saxony-Anhalt (Germany),Maps"
+  ],
+  "dc_title_s": "Magdeburg und Umgegend",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7395606\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6bac9f7-7e1b-49ec-9809-c0e90026f70e/file/bf329783-f557-4919-8cb4-7b017814423d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6bac9f7-7e1b-49ec-9809-c0e90026f70e/file/0c2b3bd4-42bc-4f29-b8f2-380c4cccf19d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2Fa5%2F74%2Fb9a574a31e7b4835a4b19eb1c268b9e3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9438988-c2a9-42e6-a2e2-b9c03e5b8a0f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f6bac9f7-7e1b-49ec-9809-c0e90026f70e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53k048b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.508431, 11.833557, 52.25428, 51.996076)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-1v53k048b"
+}

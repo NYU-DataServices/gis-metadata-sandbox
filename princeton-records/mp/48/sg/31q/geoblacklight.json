@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Maury, Matthew Fontaine, 1806-1873"
+  ],
+  "dc_description_s": "Shows prevailing wind direction by month. \"This chart is on the plan of Pilot Chart North Atlantic. The only difference between the two is that in the North Atlantic, the wind-roses occupy each a space of Ocean 5' square. On this the wind-rose occupies a space of 1' of longitude by 2' of latitude. The arrangement of the months, courses, winds, and calms, is the same on both charts.\" The pilot charts were released as series C a part of Maury's \"Wind and current charts\", series A-F. These charts were designed for sailing ships and recorded wind direction observations made by mariners on previous voyages. For complete discussion, see \"The wind and current chart series produced by Matthew Fontaine Maury,\" by Marc I. Pinsel, in Navigation : Journal of the Institute of Navigation, v. 28, no. 2 (Summer, 1981), p. 123-137. Includes a diagram and a note in map area with signature of M.F. Maury.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sg31q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : United States Hydrographical Office, 1850.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Winds,Atlantic Coast (Brazil),Charts, diagrams, etc",
+    "Atlantic Coast (Brazil),Charts, diagrams, etc",
+    "Coasts,Brazil,Charts, diagrams, etc"
+  ],
+  "dc_title_s": "Pilot chart of the coast of Brazil",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7675021\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06e0c5d1-8906-45f8-9036-f38009162e2a/file/aa4fb4bf-18f6-4c1b-a5d8-bf0c1108d1ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06e0c5d1-8906-45f8-9036-f38009162e2a/file/1f473f59-0e1b-4ebc-ad72-530d49975664\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7d%2Fd4%2Fd8%2F7dd4d825fb2f4d7aaad9fb068c7ef89b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10abf92b-993e-4d41-a977-d9490a7ee2f4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Brazil"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06e0c5d1-8906-45f8-9036-f38009162e2a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sg31q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-53.59, -28.63, 5.28, -33.87)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-mp48sg31q"
+}

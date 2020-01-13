@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.833333. South Decimal Degree -20.000000. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Llica, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vs85c",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1973.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Llica, hoja 5934 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841293\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61c06d54-665b-4a4b-920e-1f99f23a9195/file/ecb674de-c655-43cf-b0ea-0d62cfe6be53\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61c06d54-665b-4a4b-920e-1f99f23a9195/file/d97bec23-b49c-4a49-8322-7e370ac16b9c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F0b%2Fe6%2Ff40be6d70d5e48df8f643faea743015d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f62d86e-86d7-4569-a619-236474b5b680/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-61c06d54-665b-4a4b-920e-1f99f23a9195",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vs85c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -19.833333, -20.0)",
+  "solr_year_i": 1973.0,
+  "uuid": "princeton-9880vs85c"
+}

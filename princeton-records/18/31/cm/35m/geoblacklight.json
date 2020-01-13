@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Princeton University"
+  ],
+  "dc_description_s": "This is a map of the grounds of Princeton University. It has been scanned from the Princeton University Catalogue 1897-1898.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1831cm35m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Princeton University",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Campus",
+    "Streets",
+    "Princeton University"
+  ],
+  "dc_title_s": "Princeton Campus Map 1897-1898 ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e73255fd-2018-47d9-a463-acb8a27a3a2e/file/e5b25712-7156-4a03-9849-c87713e1920b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1958ac59-7b96-4f6a-8d5e-8c28dfcbd1b0/file/fdf1979d-c52c-4159-912a-6cf3ea18c40c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1958ac59-7b96-4f6a-8d5e-8c28dfcbd1b0/file/01e3d267-8d37-45b0-9b76-7e7cfa8cf0e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2F7a%2F4b%2F057a4bdc39ad48c4b32c72ea008cd922%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04e4fbf1-3911-4779-aafe-6a30f01abc2a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mercer County",
+    "United States",
+    "Princeton",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1958ac59-7b96-4f6a-8d5e-8c28dfcbd1b0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1831cm35m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.939246, -74.48246, 40.424427, 40.135958)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-1831cm35m"
+}

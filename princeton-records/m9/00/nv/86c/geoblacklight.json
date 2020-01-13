@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1896.\" \"596.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m900nv86c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Egg Harbor City,Maps",
+    "Egg Harbor City (N.J.),Maps"
+  ],
+  "dc_title_s": "Egg Harbor, Atlantic Co., N. J. (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5212699\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d05db72c-1a0e-4044-9c53-fe8d34b70ac6/file/a67d0450-ec5c-41de-8ad1-5f89641ea2c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d05db72c-1a0e-4044-9c53-fe8d34b70ac6/file/94f9d40e-fafe-4703-af45-9bae8ad03abf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2Fb9%2Fcb%2F12b9cba8ce61442fa942ce3854fce969%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/322f3a8b-9aab-400a-a68c-c03e73f89878/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d05db72c-1a0e-4044-9c53-fe8d34b70ac6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nv86c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.657, -74.526, 39.6, 39.518)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-m900nv86c"
+}

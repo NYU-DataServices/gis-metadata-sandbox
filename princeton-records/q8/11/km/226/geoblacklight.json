@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1923.\" Includes location map, key, streets and specials index, and text. \"5916.\" North oriented towards upper right. Historic Maps has sheets 1-6 (West Englewood); Upper Teaneck sheets foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km226",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "West Englewood and Upper Teaneck, Bergen County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5250754\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74d6b9b8-1c5d-45be-848a-f68b8ca566d0/file/baae202d-5392-46e0-a208-9a1969702408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74d6b9b8-1c5d-45be-848a-f68b8ca566d0/file/af145af6-522a-4d5a-888f-125900b8ee4d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F36%2F22%2F73362218339240a48c4b1bdb0aa35b89%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/27eea2ff-dec2-45e8-ada6-28ab4048067c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-74d6b9b8-1c5d-45be-848a-f68b8ca566d0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km226",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-q811km226"
+}

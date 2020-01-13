@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Tanzania. Survey Division"
+  ],
+  "dc_description_s": "Relief shown by gradient tints and spot heights. Map shows international, provincial, and district boundaries, railways, four classes of roads, two classes of aerodromes, landing grounds, and wireless stations. Original map is filed in the Map/Geospatial Center, map reproduction is attached to companion volume.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rp57d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1934.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies",
+    "Topographic maps,Tanzania",
+    "Administrative and political divisions,Maps",
+    "Tanzania,Administrative and political divisions",
+    "Tanzania,Maps"
+  ],
+  "dc_title_s": "Map of Tanganyika Territory",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10147430\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53ed8cb3-1504-43da-9889-b849f9d3c59b/file/87cb7063-e69f-498a-b30b-e67354bbfddf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53ed8cb3-1504-43da-9889-b849f9d3c59b/file/4a647849-d8ed-45c6-a2ed-f9a1ced75632\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2Fa7%2Faf%2Fb3a7af26dad94d179ab112065c5c4863%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/916b41dc-f5a1-48fc-b69e-e5528d73dd84/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Tanzania"
+  ],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-53ed8cb3-1504-43da-9889-b849f9d3c59b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rp57d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(28.666667, 40.841667, -0.5, -12.0)",
+  "solr_year_i": 1934.0,
+  "uuid": "princeton-d504rp57d"
+}

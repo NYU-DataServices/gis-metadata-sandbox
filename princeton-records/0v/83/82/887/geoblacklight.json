@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1904.\" Includes key, key map, streets and specials index, and text. \"7031.\" Historic Maps copy has stamp of Map Division, Library of Congress, dated Aug. 13, 1904.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v8382887",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Plainfield,Maps",
+    "Plainfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Plainfield, New Jersey (Sheet 15)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5621388\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b32ed239-494e-4a30-9319-837fe2cd9834/file/b1c855de-98b4-40d9-b48c-dbfdc5110f6a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b32ed239-494e-4a30-9319-837fe2cd9834/file/c047d30e-ad26-48a6-9d2c-cc7c409bdf54\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F34%2F17%2Fa63417a3f74041e79f0e75c0a3fec9c3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7baf748d-82a0-4d9c-9057-106439ffd2f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b32ed239-494e-4a30-9319-837fe2cd9834",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v8382887",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-0v8382887"
+}

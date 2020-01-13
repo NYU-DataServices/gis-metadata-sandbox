@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Scale given in statute miles and kilometers. Colored by county. Insets: Scilly Islands and Lands End -- Channel Islands -- London and environs.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g3954",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand McNally & Co., c1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "England,Maps",
+    "Wales,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of England and Wales [copy 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7197270\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f791c87-9eec-4c04-bb7e-c17935de85bd/file/14842bea-7f4d-4836-9be4-f57a6c484ba4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f791c87-9eec-4c04-bb7e-c17935de85bd/file/29b77ad6-8f9f-4205-b514-6e2cd972fa32\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2F22%2Fff%2F0d22ffac8773481e8fc5eca8fd096aad%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/680217bb-ff6c-41bf-be38-7db4a1d6f07e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f791c87-9eec-4c04-bb7e-c17935de85bd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g3954",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.33333333333, 2.0, 55.7666666667, 49.0)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-pv63g3954"
+}

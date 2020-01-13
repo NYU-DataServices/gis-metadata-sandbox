@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feby. 1916.\" Includes location map, key, key map, streets and specials index and text. \"1144.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43nz95k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dover,Maps",
+    "Real property,New Jersey,Wharton,Maps",
+    "Dover (N.J.),Maps",
+    "Wharton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Dover, Morris Co., New Jersey : including Wharton (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5557102\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b643bda-f45b-416b-9c86-3c59af103d32/file/61daf13d-8d7a-417d-adba-55a478af4612\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b643bda-f45b-416b-9c86-3c59af103d32/file/12617493-4229-4484-ac57-800233907a7c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Fd9%2Fff%2F8bd9ff7ae31f4ea0bc63e9b799894202%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06a575fd-c581-4f99-af7d-c093f4fa9473/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b643bda-f45b-416b-9c86-3c59af103d32",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43nz95k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-cv43nz95k"
+}

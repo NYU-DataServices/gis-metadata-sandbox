@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Weimar in the German state of Thuringia. Indexed for points of interest. Probably issued in: Fu\u0308hrer durch Weimar und Umgebung / herausgegeben von Leo Woerl. Leipzig : Woerl's Reisebu\u0308cherverlag, 1898.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w37639302",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig : Woerl's Reisehandbu\u0308cherverlag, 1898]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Thuringia (Germany),Maps",
+    "Weimar (Thuringia, Germany),Maps",
+    "Weimar (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Weimar",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7528106\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d035b844-ed86-475f-9192-138f7017d388/file/851370fc-c923-4910-9402-22940e5342ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d035b844-ed86-475f-9192-138f7017d388/file/16c0edc4-9d58-4e66-92b9-c3b7ee9e7c6f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2F50%2Fa3%2F1650a308faf7461d8d16a942ebd4610c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e9e870b5-ea9a-4724-9ba1-af72ba9134c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d035b844-ed86-475f-9192-138f7017d388",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w37639302",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.315106, 11.344503, 50.992864, 50.968804)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-w37639302"
+}

@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key maps, index to sheet numbers, and text. Series includes maps of Atlantic Highlands, Highland Beach, Highlands of Navesink, Long Branch, Monmouth Beach, Navesink Beach, Seabright and Seaside. Title sheet; map sheets foldered separately under name of town.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zk51vj92z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic Highlands,Maps",
+    "Real property,New Jersey,Long Branch,Maps",
+    "Real property,New Jersey,Monmouth Beach,Maps",
+    "Real property,New Jersey,Sea Bright,Maps",
+    "Atlantic Highlands (N.J.),Maps",
+    "Long Branch (N.J.),Maps",
+    "Monmouth Beach (N.J.),Maps",
+    "Sea Bright (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the New Jersey coast : volume 1 (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5569022\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7bb542d5-125c-4313-bdb1-a15786a831a1/file/b1306e18-f49d-467d-a79a-a12dd0bdabe8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7bb542d5-125c-4313-bdb1-a15786a831a1/file/fc490ecc-8616-4ce0-b6a9-48a9544794c0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F7f%2F80%2F867f80f46dc143d09f716df70a9fe7c8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e701a401-3690-43bf-a8bb-7566dabb6caf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7bb542d5-125c-4313-bdb1-a15786a831a1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zk51vj92z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-zk51vj92z"
+}

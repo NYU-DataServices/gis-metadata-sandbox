@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Soviet Union. Glavnoe upravlenie geodezii i kartografii"
+  ],
+  "dc_description_s": "Shows Soviet, White and Allied troop movements. Relief shown by shading. \"G-116.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt95c",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "Moskva : Glavnoe upravlenie geodezii i kartografii, 1949.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Soviet Union,History,Revolution, 1917-1921,Maps",
+    "Soviet Union,History,Allied intervention, 1918-1920,Maps",
+    "Russia (Territory under White armies, 1918-1920),History,Maps"
+  ],
+  "dc_title_s": "Grazhdanskai\ufe20a\ufe21 voi\u0306na v SSSR v 1918-1922 godakh (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6056420\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e8f6de6c-b930-4c0b-b9e3-c9b439dd8dae/file/2effadb0-cdbe-46f2-88fc-6f1da25c072e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8f6de6c-b930-4c0b-b9e3-c9b439dd8dae/file/95eb2fe9-0186-42f5-b45e-7fdcd03cd105\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Fe2%2F8b%2Fe8e28be286634dbb8cc168e4d4cca10b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/495f371c-dcb8-4993-a20f-2f4a7fccf162/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e8f6de6c-b930-4c0b-b9e3-c9b439dd8dae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt95c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.0, 140.0, 60.0, 40.0)",
+  "solr_year_i": 1949.0,
+  "uuid": "princeton-vm40xt95c"
+}

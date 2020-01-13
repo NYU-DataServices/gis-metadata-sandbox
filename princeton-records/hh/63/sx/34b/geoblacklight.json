@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. New York Bay Alternate title: New York Bay sheet. \"Surveyed in 1887. Resurveyed in 1902.\" Relief shown by 10 feet contour interval. Depth shown by soundings in feet. New York area does not have topographic information.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hh63sx34b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "New York Bay (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. New York Bay",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448910\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e3b2f4b1-d623-4450-ac1c-c568893abee9/file/98513a79-b4b3-4f3f-8f75-7cb7f47702fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f77c13fe-5f6f-4044-b750-db14d97cc4ea/file/70844bda-c0d9-4cd8-ba35-363915c6eddc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f77c13fe-5f6f-4044-b750-db14d97cc4ea/file/55a6b1f9-ef7f-47b5-ad95-55c5ee6d7dbb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2Fb7%2Fc6%2F05b7c635529e4ab0bdd92ecbc121e612%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/86ebd994-fabe-4146-a467-a0c41b09fded/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f77c13fe-5f6f-4044-b750-db14d97cc4ea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hh63sx34b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.11666666666666, -73.9, 40.7, 40.583333333333336)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-hh63sx34b"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July, 1914.\" Includes location map, key, key map, streets and specials index, and text. \"7042.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m4077",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Washington,Maps",
+    "Washington (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Washington, Warren County, New Jersey : including Port Colden, Port Murray, Changewater, Broadway, New Village and Stewartsville (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5653556\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f7a9a0c-c800-475e-825c-fcdac5c5938b/file/3d34b9e0-69f7-47c8-8a6d-15e2424f67a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f7a9a0c-c800-475e-825c-fcdac5c5938b/file/5f664ad5-eb29-491a-b135-9a9483983b50\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2Fed%2F4f%2F00ed4f1640e64bd399ebe3a8ad504b3d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/def5396d-d3b7-4354-ad26-4c950eb80b85/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9f7a9a0c-c800-475e-825c-fcdac5c5938b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m4077",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-m326m4077"
+}

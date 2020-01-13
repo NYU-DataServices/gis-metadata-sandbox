@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Taunton Alternate title: Taunton sheet. \"Surveyed in 1885. Resurveyed in 1899.\" Relief shown by contours and spot elevation.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591b29d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Taunton (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Taunton",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448916\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d11da532-2efe-4f65-b42d-80609351897a/file/a127931f-af06-4827-9a3c-18b05b2bc7a7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd9451d4-c25b-4091-b407-ffe2384478fd/file/2f8948b8-f8cd-491f-89e4-e343e36edbaf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd9451d4-c25b-4091-b407-ffe2384478fd/file/9965f73a-4657-4931-9f19-0a6fc483ed6f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2Fbd%2Fca%2F90bdca715ef045f9a25144be20a86eba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/346edcfd-ed17-42f2-b339-1143232b3259/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd9451d4-c25b-4091-b407-ffe2384478fd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591b29d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.98333333333333, -74.76666666666667, 39.88333333333333, 39.766666666666666)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-3b591b29d"
+}

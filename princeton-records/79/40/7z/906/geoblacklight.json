@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1898 in cooperation with the State of New York. Triangulation by New York State Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/79407z906",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Canajoharie (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Canajoharie Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867694\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6c81516a-d933-41fe-84e5-20a0c57a807e/file/59fd382e-8d44-4d08-9b01-1519e61fb059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fe2bfc6-12ba-4a16-9c6c-b87e2eb365c6/file/a3194738-66c2-410c-8ad3-6e67bd6ceafa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fe2bfc6-12ba-4a16-9c6c-b87e2eb365c6/file/f5493b16-ceeb-4a1d-a1bc-33a6b0ee91af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d2%2Fc4%2Fff%2Fd2c4ff0c3ee346aa907f643d56c31267%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab0fd515-518b-41b7-8f2e-410c057f4600/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2fe2bfc6-12ba-4a16-9c6c-b87e2eb365c6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-79407z906",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 43.0, 42.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-79407z906"
+}

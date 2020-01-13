@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Landkartenverlag"
+  ],
+  "dc_description_s": "Inset: [Mitte]. Scale approximately 1:17,500. Map shows grid, railways, public transport routes, administrative and international boundaries. Map continued on verso. \"Liz -Nr. K 10/57.\" \"Druck: VEB Ratsdruckerei Dresden (K106).\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zk51vj57k",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : VEB Landkartenverlag [1957]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Berlin (Germany),Maps",
+    "Local transit,Germany,Berlin,Maps",
+    "Central business districts,Germany,Berlin,Maps",
+    "Mitte (Berlin, Germany),Maps"
+  ],
+  "dc_title_s": "Taschenplan von Berlin",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831969\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9554b54-8db4-44d9-b028-e98f92353cb1/file/1bddca16-912c-452d-b999-89c2b6ac302c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9554b54-8db4-44d9-b028-e98f92353cb1/file/bc76a411-fdce-433b-8786-ee2316d72b71\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F62%2Fed%2Fbd62eda10e01418b9195772bae4c46a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b15b84d-3d49-43cc-8f5e-57504960f1b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e9554b54-8db4-44d9-b028-e98f92353cb1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zk51vj57k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.088333, 13.761111, 52.675278, 52.338056)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-zk51vj57k"
+}

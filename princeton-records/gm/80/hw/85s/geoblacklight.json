@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1913.\" Includes location map, specials index, key and text. \"6102.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hw85s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Closter,Maps",
+    "Closter (N.J.),Maps"
+  ],
+  "dc_title_s": "Closter, Bergen County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5238276\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/044623d7-828b-4a4b-87b0-b56ac5126cbb/file/9449aea2-c4a2-4ea5-8319-a2f8ba3cb072\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/044623d7-828b-4a4b-87b0-b56ac5126cbb/file/4c00bed0-cc57-4a8f-ab65-ee0b4440d033\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2Fb7%2Fd9%2Ff7b7d9ce535b48a38cdb9d589d56ac41%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5f7d125-f1d3-4649-8952-15a8ae1f5ee4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-044623d7-828b-4a4b-87b0-b56ac5126cbb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hw85s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.003, -73.934, 40.985, 40.958)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-gm80hw85s"
+}

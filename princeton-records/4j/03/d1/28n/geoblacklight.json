@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1915.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"530.\" Historic Maps copy has sheets 1-9; sheets 10-13, showing Kingsland, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d128n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lyndhurst,Maps",
+    "Lyndhurst (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Lyndhurst, Bergen Co., New Jersey : including Kingsland (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5272715\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d4113b6-0160-4bf8-a93a-05c388e144b7/file/f7c0446b-c05c-41e3-b0eb-9f96d0510e46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d4113b6-0160-4bf8-a93a-05c388e144b7/file/acae645e-897f-4344-b7aa-7f4e57c2099f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F47%2F37%2F454737fae0754bfda1cf2fad1bdde19e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/21e19c96-0773-48d8-9c86-6f269f829615/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d4113b6-0160-4bf8-a93a-05c388e144b7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d128n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.139, -74.084, 40.822, 40.762)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-4j03d128n"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -21.333333. South Decimal Degree -21.500000. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Cerros de Can~apa, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mk72w",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1970.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Cerros de Canapa, hoja 5929 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841276\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01eec3e1-e284-4f60-8d22-9fb3d44b8ef2/file/b5073f5c-3715-4df7-9d0d-5f6e8a4bcaa5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01eec3e1-e284-4f60-8d22-9fb3d44b8ef2/file/c41d690d-26be-4228-8df1-2737ce6eb9bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2Faf%2F51%2Fbaaf51f8a0814f1f95b8778992c60c7d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9e5b1c3e-0504-4f58-8bd7-0e5b9fd81fd7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-01eec3e1-e284-4f60-8d22-9fb3d44b8ef2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mk72w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -21.333333, -21.5)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-gx41mk72w"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Liebenow, W."
+  ],
+  "dc_description_s": "Map of Wiesbaden and environs in the German state of Hesse. Relief shown by contours and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87ps77d",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Verlag v. Albert Goldschmidt, [1898] (Berlin : Lith. Anst. v. Leop. Kraatz)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hesse (Germany),Maps",
+    "Wiesbaden (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Wiesbaden",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7591108\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/66f00b30-847b-4b13-b41a-866dddd6937d/file/8c0cdad3-4a53-4435-89c2-f9bd13fed6c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/66f00b30-847b-4b13-b41a-866dddd6937d/file/8366adaf-ed4e-4d39-a281-ff8702bc739a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2F4a%2Ff8%2F914af8e0a0a54677a92d0a06c33fedb3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e94b5455-cbdd-4fb6-b942-c6f1edb5cb5d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-66f00b30-847b-4b13-b41a-866dddd6937d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87ps77d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.214149, 8.29852, 50.098998, 50.040229)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-mc87ps77d"
+}

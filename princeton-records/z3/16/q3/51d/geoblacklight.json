@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. \"N.J.C.M. vol. 4.\" Historic Maps copy has sheets 69-76 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z316q351d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sea Isle City,Maps",
+    "Sea Isle City (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Isle City, Cape May County, New Jersey (Sheet 70)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5331604\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0d48a22-7c96-410a-a42e-5c6a60dbeda7/file/ea94a0f3-5b64-4efa-b3ff-0011a4d97fd8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0d48a22-7c96-410a-a42e-5c6a60dbeda7/file/3ccf8f00-50df-47f1-8a16-1a6fa99251eb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2F35%2F7e%2F9e357e11caf9492d941b788d8f5e56d1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/364109da-ac54-4c54-9303-a57a8d745916/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0d48a22-7c96-410a-a42e-5c6a60dbeda7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z316q351d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.71746, -74.669813, 39.183567, 39.119489)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-z316q351d"
+}

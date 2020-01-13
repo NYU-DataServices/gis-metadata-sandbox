@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Relief shown by gradient tints, contours and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cw33c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Southampton : Ordnance Survey Office, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Belgium,Maps",
+    "France, Northern,Maps"
+  ],
+  "dc_title_s": "Belgium and the north east of France",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6933666\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5eef5297-a629-47c3-986c-f02ffc79183e/file/cce21c5a-9cd2-46a1-9542-1958635ef733\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5eef5297-a629-47c3-986c-f02ffc79183e/file/a9e84378-15f2-460b-9fe1-8f59a6889470\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F9a%2F37%2Ff39a37ecf548410a87b495062bca36ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3401cfb-78bb-46c0-af55-b57412321033/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium",
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5eef5297-a629-47c3-986c-f02ffc79183e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cw33c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.2564, 6.431, 51.6668, 49.4229)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-kd17cw33c"
+}

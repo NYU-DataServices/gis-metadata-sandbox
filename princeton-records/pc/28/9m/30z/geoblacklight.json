@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jany. 1911.\" \"3363.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pc289m30z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newton,Maps",
+    "Newton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newton, Sussex County, New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/866399d9-c5cd-4052-a6f7-ef40968448a0/file/db94a926-b8f5-47ef-862a-9df57a08646a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/866399d9-c5cd-4052-a6f7-ef40968448a0/file/0f7708f4-1bcb-4cfc-ac80-22726d5fceb0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2Fc0%2F97%2F0ec097d934c3424cad34c2f6aaf0b741%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be1ebc82-3905-4e1d-b8ee-9c2be056486e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-866399d9-c5cd-4052-a6f7-ef40968448a0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pc289m30z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-pc289m30z"
+}

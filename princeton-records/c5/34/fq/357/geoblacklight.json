@@ -1,0 +1,52 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson",
+    "Rochford, W. E."
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fq357",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "New Jersey. Department of Conservation. Division of Forestry, Geology, Parks, and Historic Sites",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Contour",
+    "Railroad Stations",
+    "historical maps",
+    "Boundaries",
+    "Topography",
+    "Bathymetry",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 31.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b07c9a4-cfa0-43d0-83a6-ed0ec205ccda/file/ee9d9c4a-7900-4765-9945-65d883ec052d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb4ca6c6-6449-4ffd-9aeb-d136730658db/file/c7b1086e-cfd4-4621-9acf-597e30adaa87\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb4ca6c6-6449-4ffd-9aeb-d136730658db/file/fe024c96-8ddf-47b0-acaa-285fde33e15e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2F1f%2Fad%2F191faddcff5249daaf3e305296d590d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2613acf3-ee56-4b87-9373-cad648f791b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Atlantic",
+    "MC G3811.C2.s63.N4J4 no.31 (1942)",
+    "Burlington",
+    "Salem",
+    "Gloucester",
+    "Camden",
+    "MC  G3811.C2.s63.N4J4 no.24 (1948)",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb4ca6c6-6449-4ffd-9aeb-d136730658db",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fq357",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.2, -74.7667, 40.0, 39.5333)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-c534fq357"
+}

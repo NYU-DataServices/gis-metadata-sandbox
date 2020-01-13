@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"4932.\" Includes key map and text on sheet 90; title from sheet 90. \"Add'l. sheet, Mar. 1922.\" Sheets 89-94 of Harrison & Kearny, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9306t1656",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,North Arlington,Maps",
+    "North Arlington (N.J.),Maps"
+  ],
+  "dc_title_s": "North Arlington, Bergen County, New Jersey (Sheet 90)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5659304\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc3ee892-2e10-47e5-bd2a-9fbc046f4ed1/file/8e364804-e3ef-4679-b5b2-2005f4f03033\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc3ee892-2e10-47e5-bd2a-9fbc046f4ed1/file/0cda7a61-7a1d-4adf-b51e-5f39d0922856\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F70%2F86%2F47708693d2be43afaea5a8d471b955af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d7e8d56-a57e-469e-8487-888afc4d83f2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc3ee892-2e10-47e5-bd2a-9fbc046f4ed1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9306t1656",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.147529, -74.102385, 40.805282, 40.7701)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-9306t1656"
+}

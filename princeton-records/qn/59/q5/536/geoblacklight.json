@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1908.\" Includes key, streets and specials index, and text. \"413.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qn59q5536",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Englewood, Bergen County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246999\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/565bb130-6962-4062-9ed6-e578e52ac615/file/c9757dbb-ee7c-4562-99ba-24ee975e87de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/565bb130-6962-4062-9ed6-e578e52ac615/file/c5bd1e0f-a3e9-47fa-850e-c343935e77ed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F2d%2F83%2F4a2d8363c13840cdbf0261c98d63d799%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8f1a47ae-669b-47c8-9792-2fb775fbafa0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-565bb130-6962-4062-9ed6-e578e52ac615",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qn59q5536",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-qn59q5536"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Map of the Middle East with relief shown pictorially. Plate [120] from: Theatrum orbis terrarum / Abraham Ortelius. Antverpiae : ex Officina Plantiana apud Ioannem Moretum, Anno 1601. \"Cum privilegio.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hx11xh72s",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antverpiae : Ex Officina Plantiana apud Ioannem Moretum, Anno 1601]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Middle East,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Palaestinae sive totius terrae promissionis nova descriptio auctore Tilemanno Stella Sigenensi [Verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7060775\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7f72f8e-5f72-4e87-a530-751c4b396243/file/20717465-c3d4-44a4-9dd1-f764e6b7ba69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7f72f8e-5f72-4e87-a530-751c4b396243/file/fa4bde57-a1e3-4982-80cd-a1005721a8ee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F39%2Fe6%2Fb639e611b933485581bbcb6161feb80a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9d02f6a3-7031-46e6-9f98-e178129a403c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1601"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7f72f8e-5f72-4e87-a530-751c4b396243",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hx11xh72s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(24.6967748, 63.3333366, 42.3667, 11.7975)",
+  "solr_year_i": 1601.0,
+  "uuid": "princeton-hx11xh72s"
+}

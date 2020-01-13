@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Allodi, Pietro"
+  ],
+  "dc_description_s": "Map of the Lombardy region of Italy, centering on Milan. Relief shown by hachures. From: Milano e il suo territorio. [S.l. : s.n.], 1844.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343v84t",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Milan] : Presso Ferd. Artaria e figlio editori, Contrada S. Margherita n. 1110, 1844.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lombardy (Italy),Maps",
+    "Milan (Italy : Province),Maps"
+  ],
+  "dc_title_s": "Carta dei contorni di Milano per l'opera Milano e il suo territorio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8572573\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ecd873b7-6699-4bc2-89b1-88b3f84e2936/file/dc09d685-74c1-4e98-a1c1-ba2e22548bef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ecd873b7-6699-4bc2-89b1-88b3f84e2936/file/420726f6-8ed1-475b-9593-757353a45424\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2Fde%2F33%2Fa0de33a8379a46eba89dfab2586c2e1a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c43b91b-fbda-44cb-ade9-a122008f4ae5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1110"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ecd873b7-6699-4bc2-89b1-88b3f84e2936",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343v84t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.475132, 9.529305, 46.033602, 45.175122)",
+  "solr_year_i": 1110.0,
+  "uuid": "princeton-jh343v84t"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"4031.\" North oriented towards upper right. Some sheets have photographs of Atlantic City tipped in; photograph on sheet 2 has caption title: General view of Atlantic City showing principal hotels & piers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hq37vq29p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Atlantic City, New Jersey (Sheet 79)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5174533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d87412a7-b249-4b67-ace8-e37d64bdb87f/file/31a51707-4750-49fb-89e8-55b2b18ff9a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d87412a7-b249-4b67-ace8-e37d64bdb87f/file/b850cbbf-f1e7-4633-96e0-faf42e8f939e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2F74%2F0f%2Ff9740fa55d2e4fbcabd3cd6a17e9cf7c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/95924c58-107e-485e-a60c-74635f03ff43/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d87412a7-b249-4b67-ace8-e37d64bdb87f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hq37vq29p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-hq37vq29p"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text and key map. Sheets 75, 96, and 115-124 of Elizabeth, N.J. series; sheets 119-124 show Hillside Township, with key map. Sheets 75 and 96 headed: New sheet, Apr. 1918; sheets 115-124 headed: Add'l. sheet, Apr. 1918.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mk61rk23g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Elizabeth,Maps",
+    "Real property,New Jersey,Hillside,Maps",
+    "Elizabeth (N.J.),Maps",
+    "Hillside (N.J.),Maps"
+  ],
+  "dc_title_s": "Elizabeth, N. J. (Sheet 121)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5615945\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/628896c1-a992-4b1e-ae4d-2e4005170a35/file/1f6909c7-d716-40e2-81bf-cc691878abf1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/628896c1-a992-4b1e-ae4d-2e4005170a35/file/a42c73e6-6dd1-4d68-bf9b-139d181f4bcb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F8a%2Fb7%2F148ab753faff48b99d575c5d4a9d406b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/32b40ad0-675f-4566-a057-5e0ca5a55b39/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-628896c1-a992-4b1e-ae4d-2e4005170a35",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mk61rk23g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-mk61rk23g"
+}

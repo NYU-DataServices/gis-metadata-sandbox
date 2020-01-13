@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of colonies, provinces, and districts in Gold Coast and British Togoland (Ghana) for 1948. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/b8515r88g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Ghana extracted historical administrative boundaries, 1948",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9702a6b1-9614-4084-b3d0-d0ec904257f5/file/e581dc66-fc10-4f78-87d7-4eb583063cac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b5b4098-e08b-4e4a-af45-fdfae7c60c50/file/f9c1fbfd-0b3a-4772-8e99-f865f0bf676d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b5b4098-e08b-4e4a-af45-fdfae7c60c50/file/068ef879-4e85-4299-9533-d21f3a7394a8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ghana",
+    "Gold Coast",
+    "Togoland",
+    "British Togoland"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-4b5b4098-e08b-4e4a-af45-fdfae7c60c50",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515r88g",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-3.281098, 1.228055, 11.124731, 4.755069)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-b8515r88g"
+}

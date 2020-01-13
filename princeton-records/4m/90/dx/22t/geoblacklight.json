@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Youngstown. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1905-1906. Surveyed in cooperation with the States of Ohio and Pennsylvania. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dx22t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Youngstown (Ohio),Maps"
+  ],
+  "dc_title_s": "Ohio-Pennsylvania: Youngstown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868133\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ef05ba1-91c4-4122-a501-3f8890343a99/file/7778ecff-dc06-4023-9803-fb866e748fb6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e5ef5ba-6abd-4aaf-8f82-d61f352ff5ab/file/4058538e-343f-4819-b52e-f63779236745\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e5ef5ba-6abd-4aaf-8f82-d61f352ff5ab/file/57e7d064-f5db-4191-83b6-e36cc6a19c45\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2F0b%2F76%2F120b76c37a044969998b6f817d63d4c8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cfa4a33c-d305-45ba-9e9e-7421c31a024e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3e5ef5ba-6abd-4aaf-8f82-d61f352ff5ab",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dx22t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.75, -80.5, 41.25, 41.0)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-4m90dx22t"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows names of adjoining landholders, locations of old roads and buildings and original shoreline. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pw081",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1866]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Watts, John,Homes and haunts,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of Rose Hill Farm, Gramercy Seat, and the estate of John Watts",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6252231\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff16b0aa-981b-4b7e-9eba-4afedfefaf96/file/055a0ac5-059d-4b53-8eb1-aedcf0f0fcec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff16b0aa-981b-4b7e-9eba-4afedfefaf96/file/71f71f3d-cb8d-49e7-969f-315bb8da7968\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1c%2F80%2F49%2F1c8049aee59d468ab14f5888fbd1e76e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/849b48e8-e142-4a6f-bfa6-7b1a76e795e4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff16b0aa-981b-4b7e-9eba-4afedfefaf96",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pw081",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.994572, -73.971892, 40.748682, 40.734294)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-cz30pw081"
+}

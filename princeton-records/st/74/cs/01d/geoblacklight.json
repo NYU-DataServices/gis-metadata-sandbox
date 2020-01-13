@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie. East View Cartographic. [Soviet Union. Sovetskaia Armiia. General'nyi shtab]. Title from disc: Changde. At head of title: China 1:10,000 Russian city plan. Gauss-Krugger/Pulkovo 1942/Krassovsky projection. 1 computer optical disc. Raster. Format. Tiff.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs01d",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "[Moscow?] : Sovetskaia Armiia General'nyi shtab, 1976.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Kitai provintsiia Kunan'. Chande (H-49-116)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830155\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/34e886ef-c230-4eb4-939d-5b72a28a4470/file/395814e3-8ad6-446e-88dc-152732927ed8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ce61401-f2b9-4ea9-ac5d-5d6007ad3988/file/38ae2a62-ea69-4752-8706-d52242eb76c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ce61401-f2b9-4ea9-ac5d-5d6007ad3988/file/6b230b77-c9c5-4fe0-a971-9a99742e8bc4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Ff5%2F8b%2F57f58b1011784cb8a3f6449fd44b4482%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a77423f6-806e-4b6d-8f88-995388c6282a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0ce61401-f2b9-4ea9-ac5d-5d6007ad3988",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs01d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(111.63333333333334, 111.73333333333333, 29.066666666666666, 29.0)",
+  "solr_year_i": 1976.0,
+  "uuid": "princeton-st74cs01d"
+}

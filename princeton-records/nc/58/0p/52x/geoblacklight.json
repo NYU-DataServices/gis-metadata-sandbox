@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -14.833300. South Decimal Degree -15.0000. East Decimal Degree -67.2500. West Decimal Degree -67.5000. Alternate title: Estancia El Bolzon, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580p52x",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Estancia El Bolzon, hoja 6149 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839866\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a57577d3-9bff-47e3-8fd3-fea88fe0253f/file/1986d1d0-15b7-4591-b3f3-0f8143c78ea6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a57577d3-9bff-47e3-8fd3-fea88fe0253f/file/85b192a4-aa53-4788-82f9-87465d644271\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3c%2F8a%2Fae%2F3c8aae9652ae4497928c496ff2b5fb5d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f5e77b6b-6b13-455b-b586-2727202e22b6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a57577d3-9bff-47e3-8fd3-fea88fe0253f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580p52x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.5, -67.25, -14.8333, -15.0)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-nc580p52x"
+}

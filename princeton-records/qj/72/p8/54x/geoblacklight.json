@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p854x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Takada, Niigata Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830437\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3fcdcfe1-df1b-41c8-bf58-d97bf5e3cc8b/file/964071f2-723d-49bc-b736-97f76dbab74b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e35a290c-df07-4cff-8289-7d246d545bed/file/6fecb224-c783-4222-a398-03094c93c26b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e35a290c-df07-4cff-8289-7d246d545bed/file/83d75ff7-9443-41b4-b74f-089ce1c2380e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2F99%2Fca%2Fda99cad22a1e4901830448dab05c4f8d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1c94aa7-dbc8-4a80-9562-46a2c774c46a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e35a290c-df07-4cff-8289-7d246d545bed",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p854x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(138.23333333333332, 138.28333333333333, 37.13333333333333, 37.083333333333336)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-qj72p854x"
+}

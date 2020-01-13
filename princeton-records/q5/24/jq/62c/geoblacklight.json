@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Honduras. Instituto Geografico Nacional. Wesleyan University. North Decimal Degree 14.833300. South Decimal Degree 14.6667. East Decimal Degree -87.0000. West Decimal Degree -87.2500. Alternate title: Mapa geologico El Porvenir, Honduras, C. A. In upper margin: Geologia Honduras 1:50,000. Universal transverse Mercator projection. Relief shown by 20 m. contour interval and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q524jq62c",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Tegucigalpa : Instituto Geogra\u0301fico Nacional, 1981.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Honduras,Maps"
+  ],
+  "dc_title_s": "Mapa geologico de Honduras. El Porvenir, hoja 2760 II G",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839664\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df5842ec-7414-4a33-aa27-ce4d3fd2860d/file/2fe0482b-3ea4-4d49-8acf-888c828fc822\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df5842ec-7414-4a33-aa27-ce4d3fd2860d/file/7dcbff7d-0865-4bb8-b8b9-6b345fa37fc3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F17%2F1e%2F18171e5b4e9e46f296a779711b7a6ccf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/102ce4cb-8e05-4dd1-96b0-2c7ad306502c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-df5842ec-7414-4a33-aa27-ce4d3fd2860d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q524jq62c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-87.25, -87.0, 14.8333, 14.6667)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-q524jq62c"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "New Jersey Geological Survey"
+  ],
+  "dc_description_s": "Relief shown by shading. In upper margin: Atlas sheet no. 38. Original survey 1888. Principal features revised, 1906. Includes Index of boroughs and divided townships.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b349q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton] : The Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Geological Survey of New Jersey : [State map]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5611413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/b65ddcb9-a3cb-4a56-9f48-a6d1d16db4ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/3c8a29c5-a4f3-4a90-b3bd-dfb37f25a3c6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2F76%2Faa%2F9a76aae61db14f53a55f45ed6114be18%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d8f7f2e-8203-4ef7-a26c-a91cea9153c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2bbb825c-45a6-4c52-a35f-cd7f3171da77",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b349q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.8399, -73.6084, 41.3959, 38.9168)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-k643b349q"
+}

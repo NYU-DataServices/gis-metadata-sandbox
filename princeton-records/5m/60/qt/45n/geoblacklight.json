@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Title taken from sheet 1 of 1927 map. \"Feby. 1906.\" Includes location map, key, streets and specials index, and text. Oriented with the north to the upper right. \"No. 8641\". MAP copy 2: Bound into one volume for the Home Ins. Co., N.Y.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt45n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Princeton,Maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Princeton, Mercer County, New Jersey (Sheet 14 1906)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4266666\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0361be5-5543-4651-9a9d-7cfc5e0f9ae0/file/39505b94-a4b5-4442-bd3a-5396ea5d67ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0361be5-5543-4651-9a9d-7cfc5e0f9ae0/file/657296eb-7b27-4c9c-9ee7-ff0de44c2901\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2Fcc%2F38%2F41cc38542f9d424ea0241f236aa19045%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/35e84a94-d610-46a0-b0e4-b0f44641502b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0361be5-5543-4651-9a9d-7cfc5e0f9ae0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt45n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-5m60qt45n"
+}

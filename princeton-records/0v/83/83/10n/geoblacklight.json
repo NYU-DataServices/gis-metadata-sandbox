@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Danckerts, Justus, 1635-1701"
+  ],
+  "dc_description_s": "Relief shown pictorially. From an unidentified atlas by Justus Danckerts.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v838310n",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam : J. Danckerts, 1660?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mantua (Italy : Province),Maps,Early works to 1800",
+    "Modena (Italy : Province),Maps,Early works to 1800",
+    "Parma (Italy : Province),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Sedes belli In Italia\u0302 in qua\u0302 sunt, Ducatus Mantuensis, Modenensis et Parmensis, Episcopatus Tridentinus nec non maxime partis, Respub. Veneti\u00e6",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8454496\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3215db56-2c8b-4a8d-b51c-ce87c477c16d/file/193944ef-d36b-426b-957a-423c9c28d960\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3215db56-2c8b-4a8d-b51c-ce87c477c16d/file/d19bba56-e77c-4fe2-8a4b-43da41a73932\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2F51%2F2c%2F66512c4b360a42c180a99d927be15614%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0a5c8d7-b3b5-4b1e-b0da-c90457dd8e86/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1660"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3215db56-2c8b-4a8d-b51c-ce87c477c16d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v838310n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.8335, 12.3824, 46.75, 43.7187)",
+  "solr_year_i": 1660.0,
+  "uuid": "princeton-0v838310n"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "W.H. Smith & Son"
+  ],
+  "dc_description_s": "\"Map divided into squares of 1/2 miles from St. Pauls.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j9602270f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : W.H. Smith & Son, 186 Strand, [ca. 1880]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streets,England,London,19th century,Maps",
+    "London (England),Maps"
+  ],
+  "dc_title_s": "W.H. Smith & Son's new plan of London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564212\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04336588-c7be-4dc0-b443-746fcbdce4ae/file/92a5da2d-9898-47a3-b210-8acef7a2041b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04336588-c7be-4dc0-b443-746fcbdce4ae/file/af1622c0-df0c-4655-b24f-c2ee40bfe7c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3a%2F23%2F4b%2F3a234b64a6464ea8928b826ff48c5bfc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4fbb9f0-6c2d-40d2-a166-2b054bd4b56c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-04336588-c7be-4dc0-b443-746fcbdce4ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j9602270f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.229329, 5.4e-05, 51.562551, 51.458545)",
+  "solr_year_i": 1880.0,
+  "uuid": "princeton-j9602270f"
+}

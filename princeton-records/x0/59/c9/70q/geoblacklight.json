@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "From: From Atlas universel de geographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827. Relief shown by landform drawings. Covers also Aruba, Bonaire, and the southernmost parts of the Dominican Republic and Puerto Rico, and parts of Falco\u0301n State, Venezuela and La Guajira Department, Colombia. Includes text: Republique d'Hai\u0308ti / redige\u0301e par A. Delavault.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c970q",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dominican Republic,Maps",
+    "Netherlands Antilles,Maps",
+    "Puerto Rico,Maps"
+  ],
+  "dc_title_s": "Curac\u0326ao",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/4b6615d7-8b75-4df1-9947-611d8bc95831\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/c72c284d-f5c3-46b9-9c24-43016e70eb4e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2F69%2F07%2F346907540de34ade95638382aeb6707c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18baffcd-b005-4516-b30d-1e108d3f2a64/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Dominican Republic",
+    "Puerto Rico",
+    "Netherlands Antilles",
+    "Venezuela",
+    "Colombia"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9228b365-71c3-4fe4-b075-020dbd16b3c7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c970q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.6724, -65.6744, 18.0001, 12.0076)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-x059c970q"
+}

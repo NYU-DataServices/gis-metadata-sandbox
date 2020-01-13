@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Aberavon-Port Talbot mit militaergeographischen Eintragungen. Grossblatt 7, Blattbereich 26c. Relief shown by 25 meter contour intervals and spot elevations. Gauss Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560. Accompanied by 39p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 7 Suedwales\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dn39x318g",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "Wales,Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Aberavon-Port Talbot, BB 26c",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865548\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c138bd54-87c7-4f9e-8908-ab4d9970a177/file/0f8bc511-7099-421c-b29f-f14c4533512f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46c38eea-6cf0-48d1-9e5e-2d6b6178f76c/file/5b4f459b-3848-4ce3-9d68-9222e7b92eb2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46c38eea-6cf0-48d1-9e5e-2d6b6178f76c/file/5f8fc617-81dc-4068-8d12-7a06b5fe83cb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d5%2Fea%2Fda%2Fd5eadadaa98f481f9954de3b66379802%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e3f51f6-a85b-4409-88cf-50b7526b8ebd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-46c38eea-6cf0-48d1-9e5e-2d6b6178f76c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dn39x318g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.8, -3.75, 51.61666666666667, 51.583333333333336)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-dn39x318g"
+}

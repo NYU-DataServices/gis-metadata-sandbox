@@ -1,0 +1,52 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763832m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Bridgeton Quadrangle, New Jersey, 7.5 Minute series (topographic) (1953)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/227e5c5f-fd43-45c3-a1ce-607025caf851/file/a2ae69cc-3c63-433b-aaf4-26c78d611d48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b812c364-1129-4060-a1ed-4948fb9315c5/file/50afc693-d1f4-45c9-9407-c3ca48d244df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b812c364-1129-4060-a1ed-4948fb9315c5/file/f0db8233-ec89-4576-90c9-5e01db926153\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2F34%2Fcb%2F9c34cbaf92564c6e8d313c2c7c49c024%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3fe31afe-a759-4d50-af91-270cc84555ce/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Hopewell",
+    "Cumberland County",
+    "Fairfield",
+    "Salem County",
+    "Lawrence",
+    "Deerfield",
+    "New Jersey",
+    "Bridgeton",
+    "Upper Deerfield",
+    "Pittsgrove"
+  ],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b812c364-1129-4060-a1ed-4948fb9315c5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763832m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.125, 39.5, 39.375)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-w3763832m"
+}

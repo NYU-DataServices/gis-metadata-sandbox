@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 9-10, 18-22, 24, and 49-50 of Plainfield, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/765373264",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,North Plainfield,Maps",
+    "North Plainfield (N.J.),Maps"
+  ],
+  "dc_title_s": "North Plainfield (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5286723\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9aebc2bc-5548-47c1-934b-ac26bb4555aa/file/89f72fc9-4554-4813-80e0-350401f24599\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9aebc2bc-5548-47c1-934b-ac26bb4555aa/file/332b410c-88e7-4aaf-b037-0b843b5ad4e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2Fce%2Fa2%2Fc3cea2ce16a2470196b2769e9bbd52bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/46b0ff57-11d0-42bf-aebb-acc710bad4cd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9aebc2bc-5548-47c1-934b-ac26bb4555aa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-765373264",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.465242, -74.413737, 40.641576, 40.602216)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-765373264"
+}

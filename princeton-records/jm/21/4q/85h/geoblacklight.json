@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheet 59; issued in New Jersey coast map series. Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jm214q85h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1896]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Absecon,Maps",
+    "Absecon (N.J.),Maps"
+  ],
+  "dc_title_s": "Absecon, N.J. : 5 miles n. of Atlantic City (Sheet 59)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5165075\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b6098df-7a95-4c15-ba53-8f630e36404d/file/3947c072-aad6-4f36-a748-e9dfd593bd00\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b6098df-7a95-4c15-ba53-8f630e36404d/file/dd9c14f5-de52-4091-b81e-ecd532f1f832\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/53%2Fac%2F07%2F53ac07e9d5da4fedb2f0f43a8101312a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1912a507-4f65-42d0-9c6d-5c7e52a68e82/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b6098df-7a95-4c15-ba53-8f630e36404d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jm214q85h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-jm214q85h"
+}

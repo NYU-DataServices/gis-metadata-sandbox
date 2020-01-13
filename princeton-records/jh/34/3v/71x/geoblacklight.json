@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Cle\u0301rot, Victor"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343v71x",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Imp. Goyer, [ca. 1865]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bois de Boulogne (Paris, France),Maps",
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Plan du Bois de Boulogne et ses environs",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6111356\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e08b21b1-674b-4350-8c18-537a68cf8c6f/file/47961fcf-2c79-4fc1-9d35-8386760ebb72\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e08b21b1-674b-4350-8c18-537a68cf8c6f/file/d5427b2c-bd79-4c84-ba41-bc8b703faf05\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cf%2Fff%2Fa8%2Fcfffa85040c04af7ad78935fb03f8272%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b94cd66-e5b7-49ca-97c0-3e7d0953a447/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e08b21b1-674b-4350-8c18-537a68cf8c6f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343v71x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.213471, 2.297413, 48.903464, 48.82758)",
+  "solr_year_i": 1865.0,
+  "uuid": "princeton-jh343v71x"
+}

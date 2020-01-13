@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1910.\" \"2348.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz75x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Metuchen,Maps",
+    "Metuchen (N.J.),Maps"
+  ],
+  "dc_title_s": "Metuchen, Middlesex County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527144\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fc30d5e-f45f-496c-9cdd-1cfbcbfe36d2/file/d44e6ab4-9fef-4013-8172-6170e5f219a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc30d5e-f45f-496c-9cdd-1cfbcbfe36d2/file/d35c1d3b-a7b5-4f44-9f73-18af7794e0b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2F75%2F42%2F947542f765a1475f839113cd0efcfc1a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f3cd286c-df2e-444d-864d-fd9257b9f449/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0fc30d5e-f45f-496c-9cdd-1cfbcbfe36d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz75x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-qv33rz75x"
+}

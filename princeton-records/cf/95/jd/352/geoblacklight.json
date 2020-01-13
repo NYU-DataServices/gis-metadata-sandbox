@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Map of Turkey and Cyprus; relief shown pictorially. Text on reverse in French: Lanatolie, ou Asie Mineur. Probably issued in: Le theatre du monde ... / mis en lumiere par Guillaume et Iean Blaeu. Amsterdami : Apud Guiljelmum et Iohannem Blaeu, anno 1635.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cf95jd352",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdami : Apud Guiljelmum et Iohannem Blaeu, 1635?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Turkey,Maps,Early works to 1800",
+    "Cyprus,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Natolia, qu\u00e6 olim Asia Minor",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4937396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dbe161a0-f47a-4112-b3ac-2208a27de74b/file/1eb8882e-5560-4911-bfd2-579662f08fb0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dbe161a0-f47a-4112-b3ac-2208a27de74b/file/08d489b4-1fd3-475f-b39a-b004ff22b51c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2Ff8%2F1e%2F30f81e712ac94a93823ad3f45b42bed7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8fda15b5-8c51-4bb8-8056-aa52795562cf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Turkey",
+    "Cyprus"
+  ],
+  "dct_temporal_sm": [
+    "1635"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dbe161a0-f47a-4112-b3ac-2208a27de74b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cf95jd352",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.76, 44.87, 45.0, 33.67)",
+  "solr_year_i": 1635.0,
+  "uuid": "princeton-cf95jd352"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "J. A."
+  ],
+  "dc_description_s": "Relief shown by hachures. Shows wards, streets, and selected buildings. Includes references to places of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128d26d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Drawn and engrav'd for D. Longworth, map & print seller, Shakspeare Gallery, May 1808.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Plan of the city of New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5944893\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a66a2eb-f6b3-4933-bf61-b93915047dae/file/685523f9-48af-41fe-8713-377c47073d35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a66a2eb-f6b3-4933-bf61-b93915047dae/file/5f0a3026-d941-4586-93cb-7c8d145d71e5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2F97%2F47%2F2c9747e14d4b4aebb01336f2bff458c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c8ecc20-ff16-46b9-9834-d7c9d01f50cf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1808"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3a66a2eb-f6b3-4933-bf61-b93915047dae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128d26d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019661, -73.973312, 40.734858, 40.700119)",
+  "solr_year_i": 1808.0,
+  "uuid": "princeton-bk128d26d"
+}

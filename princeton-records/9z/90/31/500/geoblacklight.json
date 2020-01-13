@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 46 Ait Mansour. Polyconic projection. Northwest Africa and North Sahara zone grids. Relief shown by 82 foot form line intervals. Compiled from Service Geographique du Maroc 1:100,000, 1930 to 1934. Road classifications corrected from Army Map Service road map Northwest Africa 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9z9031500",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Ait Mansour, sheet 46. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831029\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b4c67591-6380-405c-82cf-03844a248770/file/e70077f3-e29f-418f-a6ee-f4ff327176f7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da479f4a-9927-44ef-be26-56df60ad9621/file/1a5ed488-d9b2-4ccb-831e-6c5b0df99860\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da479f4a-9927-44ef-be26-56df60ad9621/file/dfd47c77-ad96-40ff-a706-fde7349a77a1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F8c%2Ffe%2F2f8cfefd0fef4e5eac8f0986f7784cb6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01eaae33-5771-49c1-94d6-3c4ccb167f43/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-da479f4a-9927-44ef-be26-56df60ad9621",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9z9031500",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.5, 30.5, 30.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-9z9031500"
+}

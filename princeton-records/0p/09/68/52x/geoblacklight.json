@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Ogdensburg. Relief shown by 20 feet contour interval. Surveyed in 1904. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096852x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Ogdensburg (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (St. Lawrence) Ogdensburg Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867934\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33f74ec8-6078-4e19-b4e1-37a8b1cbd44d/file/12ed77e5-1263-478a-a814-39e472789a91\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/638356ed-46f5-49d4-8aa8-01e8c0798920/file/29b7c5e5-4eb7-4f49-a583-be0e8dacf278\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/638356ed-46f5-49d4-8aa8-01e8c0798920/file/3127e1a0-2811-41d4-9c82-494bb44e11b0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F40%2F5a%2Fff405ab0edbf482aa5377c8bc5bc508f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ff05527-4b14-4a0a-bdc6-d628212316db/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-638356ed-46f5-49d4-8aa8-01e8c0798920",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096852x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 44.75, 44.5)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-0p096852x"
+}

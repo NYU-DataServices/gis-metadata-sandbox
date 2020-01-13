@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Shows boundary between New York and New Jersey. At head of title: Geological Survey of New Jersey. \"Lines of the United States Coast Survey triangulations are drawn in full black. Those selected in 1875 are drawn in broken lines.\" From: Annual report of the State Geologist, for the year 1875. Trenton, N.J. : [The Survey], 1875. Call no.: 8565.672.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418q72z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : Geological Survey of New Jersey, [1875] ([New York] : Julius Bien, Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps",
+    "New Jersey,Surveys,Maps"
+  ],
+  "dc_title_s": "Outline map showing the triangulations made by the U.S. Coast Survey including the primary stations selected in 1875",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7750806\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/724b05c7-a4cc-4376-afe0-455cec433117/file/7a2d75a6-ce58-41fe-a950-0c50c989997b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/724b05c7-a4cc-4376-afe0-455cec433117/file/6d85da63-b57d-4e65-99d9-6873d20cd111\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/de%2F28%2F6d%2Fde286ddcd6e4468ea105661bead467c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0fdc5f26-0f20-43da-94e2-f7f28ceba3cf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-724b05c7-a4cc-4376-afe0-455cec433117",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418q72z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.8493, -73.674, 41.6689, 38.8355)",
+  "solr_year_i": 1875.0,
+  "uuid": "princeton-p8418q72z"
+}

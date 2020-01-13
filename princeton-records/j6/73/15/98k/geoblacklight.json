@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1921.\" Includes location map, key, key map, streets and specials index, and text. \"3471.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j6731598k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Penns Grove,Maps",
+    "Penns Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "Penns Grove, Salem County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5594545\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7107875-956b-49d8-8d66-765913787c3b/file/5522f4aa-c7b1-40b9-8ad3-cbbfd429b1b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7107875-956b-49d8-8d66-765913787c3b/file/abb8f3b2-3217-4b4d-87b5-3cd1b0421c69\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2Fbd%2Fe1%2F58bde127507f43bbb611011f70f3e86c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1768cfe-976e-4ba1-9e3b-87200cb4a8bf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c7107875-956b-49d8-8d66-765913787c3b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j6731598k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.477169, -75.460459, 39.739351, 39.717341)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-j6731598k"
+}

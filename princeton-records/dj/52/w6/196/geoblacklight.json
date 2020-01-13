@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Persian Gulf Political Residency"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w6196",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Bahrain : Her Majesty's Political Resident in the Persian Gulf by authority, 1953-1972.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Persian Gulf Region,Politics and government,Periodicals"
+  ],
+  "dc_title_s": "The Persian Gulf.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/2766918\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee39d8fa-ae7f-4a1a-b85e-35bebc89b6cc/file/d9a76717-b57c-47e3-b4b1-9f8ad487e3fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee39d8fa-ae7f-4a1a-b85e-35bebc89b6cc/file/5973c28a-134e-4e3a-9595-3c0017a96d78\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2Ff2%2F40%2F0af2401437154721b89e6e3861a76b23%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0b9f5eff-37f5-400d-ab90-beac85e4e0c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ee39d8fa-ae7f-4a1a-b85e-35bebc89b6cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w6196",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(48.0, 58.0, 32.0, 22.0)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-dj52w6196"
+}

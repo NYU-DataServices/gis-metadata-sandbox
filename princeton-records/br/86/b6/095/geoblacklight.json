@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Warnemu\u0308nde in the German state of Mecklenburg-Vorpommern. Inset: Umgegend von Warnemu\u0308nde. Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b6095",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Rostock : Hof-Stdtr. v. J.G. Tiedemann Nachf. [1907?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mecklenburg-Vorpommern (Germany),Maps",
+    "Warnemu\u0308nde (Rostock, Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Warnemu\u0308nde",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7591423\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/05755b0f-8672-48cd-9510-904ea5eb4ef7/file/27315dc4-f281-4755-a6c7-d20e6649555a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/05755b0f-8672-48cd-9510-904ea5eb4ef7/file/55e9712a-3554-4737-a76f-62e8917ef96f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6d%2F36%2Fb2%2F6d36b273474142cda59933eae51da75b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5a8e9285-8f0f-4ac3-8f81-04d2e0ad5be1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-05755b0f-8672-48cd-9510-904ea5eb4ef7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b6095",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.050174, 12.100042, 54.187544, 54.171017)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-br86b6095"
+}

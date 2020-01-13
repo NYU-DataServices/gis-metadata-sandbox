@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1904.\" Includes key and text. \"6697.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580p974",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Scotch Plains,Maps",
+    "Scotch Plains (N.J.),Maps"
+  ],
+  "dc_title_s": "Scotch Plains, Union Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625966\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31964a0f-03c9-4d5e-b8aa-79f6e911de1d/file/48043bce-9aa7-458e-9179-c4478b533baf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31964a0f-03c9-4d5e-b8aa-79f6e911de1d/file/46fd8649-c308-44df-a981-d5baebc0efe9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F9b%2F02%2Fe19b024dd8334367bdfba4314b2d7977%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7ab4e2c6-71e1-4912-8a9d-71f8af1688da/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-31964a0f-03c9-4d5e-b8aa-79f6e911de1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580p974",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.408267, -74.325635, 40.678234, 40.600901)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-nc580p974"
+}

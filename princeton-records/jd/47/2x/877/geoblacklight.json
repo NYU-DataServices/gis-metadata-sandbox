@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: West Point, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1890-91 in cooperation with the State of New York. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jd472x877",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "West Point (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: West Point Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868428\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a2fc19d-d301-448f-8790-00a0d20dd7a8/file/eed8f02a-ae09-4a3b-9798-09529fb8f00b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1aaade4-b4e9-4995-b86e-0b161079ffba/file/5178f4de-3b3f-4a17-b9c8-eb88faa87116\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1aaade4-b4e9-4995-b86e-0b161079ffba/file/46293194-89c9-4d27-9da3-7de2370a041c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F60%2F0d%2Ff3600d769c56432a8214207ebfe10b2f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7faabd44-0f63-4db8-ba1c-e54e618be292/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1aaade4-b4e9-4995-b86e-0b161079ffba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jd472x877",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 41.5, 41.25)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-jd472x877"
+}

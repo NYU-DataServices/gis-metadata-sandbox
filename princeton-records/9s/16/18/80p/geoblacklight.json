@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Nigeria. Survey Department"
+  ],
+  "dc_description_s": "\"1700/75/1-55\". \"Crown copyright reserved\". Original map is filed in the Map/Geospatial Center, a map reproduction is included in companion volume.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s161880p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Lagos] : Survey Department, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Cameroon,Maps",
+    "Administrative and political divisions,Nigeria,Maps",
+    "Great Britain,Colonies",
+    "Nigeria,Maps",
+    "Africa, West,Maps"
+  ],
+  "dc_title_s": "Cameroons under United Kingdom Trusteeship",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9187851\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/25322417-4176-4017-8e4c-80e7a3b878d1/file/5a7b8e74-d23d-40a1-96c1-b913b1c29040\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/25322417-4176-4017-8e4c-80e7a3b878d1/file/c9e1e356-e8fb-42f8-b959-0233bcd5a166\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/76%2Fc9%2F28%2F76c928111f864a41a43d53e232ae29be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09179de0-2966-4bb9-b2b4-86041adc312d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Nigeria",
+    "Africa, West"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-25322417-4176-4017-8e4c-80e7a3b878d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s161880p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.268333, 14.6525, 13.083056, 7.141667)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-9s161880p"
+}

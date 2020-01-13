@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Africa, showing its countries, leaders, and populations. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f462690d",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Leaders",
+    "Administrative and Political Boundaries",
+    "Independence",
+    "Population"
+  ],
+  "dc_title_s": "Current leaders and populations in Africa.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec0405ad-2e46-4bb4-9bbc-013dab6f7902/file/6dfc3b24-23b6-4171-817b-f62f537db8d9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59564e46-6f92-4754-b69a-dffd6200bc39/file/8d760ff5-5d39-4f37-9ec6-f336350b32e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59564e46-6f92-4754-b69a-dffd6200bc39/file/26c4eee9-2ee7-4550-b4f4-3a21271366f5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F28%2F31%2F4a28319215bf499798a949e9536e5d17%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/666b248e-5e72-4c57-95e7-8001f318b9f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59564e46-6f92-4754-b69a-dffd6200bc39",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f462690d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-17.4768, 51.4395, 37.4462, -34.8573)",
+  "solr_year_i": 1987.0,
+  "uuid": "princeton-3f462690d"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Elkland, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1899 in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pp406",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Elkland (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: (Tioga County) Elkland Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868231\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/116b17b4-ba99-48bb-9edc-9bcbf3c47644/file/72332013-1b40-4470-814c-c69b9c6d9fee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/764487e4-6c44-4317-a095-aa4e8c8103e4/file/1beffe17-8cfc-4fe0-8feb-2c74e11a2385\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/764487e4-6c44-4317-a095-aa4e8c8103e4/file/08c64763-a43c-435a-ad32-a899d60ace94\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F62%2F8a%2Fa1628aa8f8fa432d859345bdb9419b66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b876f100-0eae-4afb-a676-da9c6158ef43/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-764487e4-6c44-4317-a095-aa4e8c8103e4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pp406",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 42.0, 41.75)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-tt44pp406"
+}

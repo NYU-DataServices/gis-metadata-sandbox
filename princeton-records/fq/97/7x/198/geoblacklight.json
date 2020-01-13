@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows the names of some landowners and the original drainage from the Collect Ponds. Relief shown by hachures. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fq977x198",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1865] (N[ew] Y[ork] : Cooper & Stone)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of property lying on each side of Broadway formerly known as the Calk Hook",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6279261\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a089cb7-8071-4213-b860-762b72055e2f/file/4dc89ba2-2328-4d3f-a407-c39c88fb3817\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a089cb7-8071-4213-b860-762b72055e2f/file/d3d0e24f-5de0-40da-a78a-18c9bc874bf9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2F92%2F97%2F4c9297a2f4524c68b36d2f381fd47272%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/91245e87-d7ec-4937-9033-287c6fafd9f1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3a089cb7-8071-4213-b860-762b72055e2f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977x198",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0100708876, -73.9984944735, 40.7206759631, 40.7135687631)",
+  "solr_year_i": 1865.0,
+  "uuid": "princeton-fq977x198"
+}

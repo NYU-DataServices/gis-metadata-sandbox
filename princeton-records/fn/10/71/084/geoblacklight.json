@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Vouillemont, Estienne"
+  ],
+  "dc_description_s": "Maps show French Guiana and the Lesser Antilles; relief shown pictorially. Inset: Representation des moulin a\u0300 sucre des dites isles.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fn1071084",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : chez Estienne Vouillemont, graueur ordinaire du Roy pour les cartes geographiques et autres tailles douces ... , 1667 .",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Sugar factories,Antilles, Lesser,Early works to 1800",
+    "Antilles, Lesser,Maps,Early works to 1800",
+    "Cayenne Island (French Guiana),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "L'Isle de Cayenne occupe\u0301e par Messieurs de la compagnie des Indes Occidentales ; La representation de l'Isle St. Cristophle capitale des Antilles et des combats donnez entre les Franc\u0326ois et les Anglois pour son entiere possission qui est demeuree aus Franc\u0326ois ; Ste. Croix ; Marie Galante",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5584197\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4716ab4-200f-4991-b8c7-79b07c6c4c26/file/1a94ad75-f89b-47a4-addf-15b076ac2b8a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4716ab4-200f-4991-b8c7-79b07c6c4c26/file/d510be26-b4c6-4f55-a8c5-1e2e07bff72d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2F40%2F1b%2F30401b7c9ea64318be7ab569c7ca28cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4743bcb6-7f45-41a5-93ed-db613fe46e43/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "French Guiana",
+    "Saint Kitts and Nevis",
+    "Antilles, Lesser",
+    "Guadeloupe"
+  ],
+  "dct_temporal_sm": [
+    "1667"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e4716ab4-200f-4991-b8c7-79b07c6c4c26",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fn1071084",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-52.54882, -52.161116, 5.004555, 4.715491)",
+  "solr_year_i": 1667.0,
+  "uuid": "princeton-fn1071084"
+}

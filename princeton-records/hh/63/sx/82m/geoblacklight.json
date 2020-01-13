@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy includes sheets 23-26 of Garfield, N.J. series, covering Wallington.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hh63sx82m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wallington,Maps",
+    "Wallington (N.J.),Maps"
+  ],
+  "dc_title_s": "Wallington (Sheet 26)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5317301\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a997d4e-d7c7-4004-9c02-ac25aa6d8fe9/file/0a1d7202-fb4f-476c-8863-74fe68fb1b29\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a997d4e-d7c7-4004-9c02-ac25aa6d8fe9/file/bd74ab42-61a0-448a-abf2-928e361406b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Fc0%2F3d%2F57c03d100eaa4eb4a9182b5bba4b2124%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/21d8700e-1e32-4349-9fd6-a8764e5c9cfe/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6a997d4e-d7c7-4004-9c02-ac25aa6d8fe9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hh63sx82m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.120069, -74.096299, 40.863781, 40.841478)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-hh63sx82m"
+}

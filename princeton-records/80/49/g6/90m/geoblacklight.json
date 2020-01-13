@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "[United States. Central Intelligence Agency]. North Decimal Degree 31.600000. South Decimal Degree 31.2167. East Decimal Degree 34.5833. West Decimal Degree 34.2167. Universal transverse Mercator projection. Relief shown by spot heights. Map shows: \"built-up area\", Israeli-developed area (civilian) beyond the 1950 Armistice Line, \"Israeli-development area (military) beyond the 1950 Armistice Line; Israel-developed refugee housing area; UNRWA Palestinian refugee camp. Map no.: 802022 (00036) 3-92.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8049g690m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1991.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Occupied territories",
+    "Gaza Strip,Maps"
+  ],
+  "dc_title_s": "Gaza Strip, December 1991 (Israeli occupied - status to be determined)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838923\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db71b402-9dd5-47d2-b1d8-156bd67ef027/file/29cbd095-771d-4b38-8b33-d166a9c6c896\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db71b402-9dd5-47d2-b1d8-156bd67ef027/file/d23c72b7-8cc3-4e16-ab95-0d281149b208\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F2a%2F6c%2F862a6c993bfc46d0bab80397f9ca86a6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd6f7693-6019-4558-8c96-66c72d4e1965/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-db71b402-9dd5-47d2-b1d8-156bd67ef027",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8049g690m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.2167, 34.5833, 31.6, 31.2167)",
+  "solr_year_i": 1991.0,
+  "uuid": "princeton-8049g690m"
+}

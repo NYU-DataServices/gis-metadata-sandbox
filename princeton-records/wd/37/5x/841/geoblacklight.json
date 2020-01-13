@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1908.\" Includes key, streets and specials index and text. \"#551.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wd375x841",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Edgewater,Maps",
+    "Edgewater (N.J.),Maps"
+  ],
+  "dc_title_s": "Edgewater, Bergen Co., New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5242414\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c2c2228-3aca-40ca-8baf-ec518ff535fd/file/f67aa484-845a-4f53-af61-aefc252ccce6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c2c2228-3aca-40ca-8baf-ec518ff535fd/file/1b6f2781-0696-43ae-9af0-8fa2183f8a0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F8a%2F19%2F228a19dc462f474c9f7a3bbd616c782f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9da39e7a-80d6-4dad-afb5-719bfaceebee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3c2c2228-3aca-40ca-8baf-ec518ff535fd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wd375x841",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.994, -73.963, 40.848, 40.801)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-wd375x841"
+}

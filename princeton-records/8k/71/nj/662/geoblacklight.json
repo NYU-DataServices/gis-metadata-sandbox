@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Administrative Districts of Cuba at a scale of 1:1,000,000. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nj662",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political and Administrational Boundaries",
+    "Airfield",
+    "Administrational Districts",
+    "Railroads",
+    "Roads"
+  ],
+  "dc_title_s": "Cuba, Administrative Districts, 1979",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a8ab3cf5-a3f9-48b0-84e2-0da37dfcb80c/file/f053769b-5a87-4e58-bc2e-c0ab1db48fd3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3df39f3c-31ff-43e5-a74d-12b493516a42/file/a19b6357-4f36-476d-8cf3-9bce3540200d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3df39f3c-31ff-43e5-a74d-12b493516a42/file/748b3a64-edd5-4ad2-99fe-672a58a0c238\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2F31%2Ffa%2Ff931fa33223740cd93903dd18bdd0157%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2104ab2f-f055-4eb2-856d-309c8e098af6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Caribbean",
+    "Havana",
+    "Cuba",
+    "Guantanamo Bay"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3df39f3c-31ff-43e5-a74d-12b493516a42",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nj662",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.0, -74.0, 25.0, 8.0)",
+  "solr_year_i": 1979.0,
+  "uuid": "princeton-8k71nj662"
+}

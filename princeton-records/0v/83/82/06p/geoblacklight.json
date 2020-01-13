@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Hackensack (1934) Alternate title: Hackensack sheet. \"Surveyed in 1887. Resurveyed in 1933.\" Relief shown by contours and spot elevation. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v838206p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1934.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Hackensack",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449731\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/11cea999-4316-4b5b-ab74-8d2b98518c8f/file/9b027357-221c-4b75-a882-028acd71abb8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afa37aa9-055b-4c94-8e86-486fcfcb52a0/file/24e9e9e3-dc86-4142-9b41-787998f6fd35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afa37aa9-055b-4c94-8e86-486fcfcb52a0/file/75eaf529-b3fc-4a89-8e81-cc5dfa2fbc99\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3d%2F2a%2Ffe%2F3d2afe5f738447628972bb41133152ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c8d99d4-216a-4f5c-8772-f53fd4013aa9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-afa37aa9-055b-4c94-8e86-486fcfcb52a0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v838206p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.11666666666666, -73.9, 40.93333333333333, 40.81666666666667)",
+  "solr_year_i": 1934.0,
+  "uuid": "princeton-0v838206p"
+}

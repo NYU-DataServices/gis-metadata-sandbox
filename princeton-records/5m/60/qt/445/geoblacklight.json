@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Varvatis Bros"
+  ],
+  "dc_description_s": "Relief shown pictorially and by spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt445",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "Athens : Varvatis Bros., 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Attike\u0304 (Greece),Maps"
+  ],
+  "dc_title_s": "Physikos, historikos,, oikonomikos, touristikos, geographikos chartes [?] eikonon Attike\u0304s ...",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5329124\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da74e38d-1bb0-4b3a-9399-dc9ebcab59a3/file/97d70309-cee4-4542-bead-f0a8393fca57\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1ab68ed-7c98-44a4-82e7-d3c1213d7b58/file/6b59c47c-aec4-42a7-899b-b7e47d78cf6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1ab68ed-7c98-44a4-82e7-d3c1213d7b58/file/e3e9f8f0-e265-4e53-84cd-ef26d892f4e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/eb%2F55%2Ff9%2Feb55f97314d546f99cc11c87d034c467%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c0874e9-20fe-4ee2-a8e7-18acb8e7b317/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1ab68ed-7c98-44a4-82e7-d3c1213d7b58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt445",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.2992, 24.1401, 38.4698, 37.6351)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-5m60qt445"
+}

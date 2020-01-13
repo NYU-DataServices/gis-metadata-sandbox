@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Faden, William, 1749-1836"
+  ],
+  "dc_description_s": "Topographical map showing the movements of Washington's army and British and German forces during the attack on Trenton and the Battle of Princeton; relief shown by hachures. Tables at lower left and right give information on losses suffered by British and German units. Historic Maps copy 1 is first issue, with Allentown, Kingstown and Middletown spelled as single words, and road above Bristol unnamed; Historic Maps copy 2 is second issue, with Allens Town, Kings Town, Prince Town and Middle Town spelled as two words, and road above Bristol designated as \"High Road from Philadelphia.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mz87t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Wm. Faden, corner of St. Martins Lane, Charing Cross, 15th April 1777.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Trenton, Battle of, Trenton, N.J., 1776,Maps",
+    "Princeton, Battle of, Princeton, N.J., 1777,Maps",
+    "United States,History,Revolution, 1775-1783,Maps"
+  ],
+  "dc_title_s": "Plan of the operations of General Washington, against the kings troops in New Jersey, from the 26th of December 1776, to the 3d January 1777 (Copy 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6036768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/32a5a583-0b3d-4ed3-bc2b-a879a3287c8a/file/c6d169b6-9d61-43f6-88bd-328760b31ab5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/32a5a583-0b3d-4ed3-bc2b-a879a3287c8a/file/74beedcc-8593-436d-80af-6dffb70b217e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2Fd6%2F70%2F02d6709f56da49d18514f4b9144b5ac0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f59ba4b-42ab-464b-8704-89f925862132/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-32a5a583-0b3d-4ed3-bc2b-a879a3287c8a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mz87t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.958393, -74.496109, 40.400061, 40.091891)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-tm70mz87t"
+}

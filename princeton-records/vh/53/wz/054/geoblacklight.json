@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Smock, John C. (John Conover), 1842-1926"
+  ],
+  "dc_description_s": "Relief shown by shading. Relief map is accompanied by \"Name sheet\" with note : \"Localities may be identified on the Relief Map by laying this sheet over it in proper position.\" At head of title: Geological survey of New Jersey. Historic Maps copy imperfect: \"Name sheet\" wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wz054",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J. : State of New Jersey], 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Relief map of New Jersey : based upon the Topographical Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/437f5655-924a-42bf-a32c-f552ea9ebb1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/adb2db40-5ab4-417f-8097-15eaf791b93e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fdb%2F94%2F47db946e3355433f91dfbda2777611b8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4b438e7-03cf-4550-94f4-1494db844bfe/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6bb8fd4f-6a81-403b-84c3-8ec022e30021",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wz054",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.6456, -73.8383, 41.3836, 38.9169)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-vh53wz054"
+}

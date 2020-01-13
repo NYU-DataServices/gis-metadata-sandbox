@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Tiddeman, Mark"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. Oriented with north to the right. Covers area east from Amboy to Jamaica Bay and north from the Shrewsbury River to Harlem. Settlements shown pictorially. From The English pilot, Book 4 ... Dublin : Geo. Grierson, 1749; copied from the London editions.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dn39x406g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Dublin : Printed for & sold by Geo. Grierson at the two Bibles in Essex Street, [1749]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,New York Region,Maps,Early works to 1800",
+    "New York Harbor (N.Y. and N.J.),Maps,Early works to 1800",
+    "New York Region,Maps,Early works to 1800",
+    "Sandy Hook (N.J.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A draught of New York from the Hook to New York Town",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8180621\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6987ffc-9506-4b5a-b292-73e61a10c620/file/bd204c56-bb47-425f-979d-9fb1020484cb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6987ffc-9506-4b5a-b292-73e61a10c620/file/d17d339e-2d23-4059-adfb-3b07e318329c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/78%2Fdc%2F2f%2F78dc2fc076e04ef9a442bf9d579638e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2bfcf521-00fe-4e1c-8ff8-0df0fbe01b88/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1749"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b6987ffc-9506-4b5a-b292-73e61a10c620",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dn39x406g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.354382, -73.758545, 40.883526, 40.296011)",
+  "solr_year_i": 1749.0,
+  "uuid": "princeton-dn39x406g"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1902.\" Includes key, key map, streets and specials index, and text. \"5850.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m856x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbury,Maps",
+    "Woodbury (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbury, Gloucester Co., New Jersey (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5491035\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b61d784-ba87-4b78-b4a5-6e422d4716bc/file/60a76cb6-375d-4f82-a3ca-9ff334897576\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b61d784-ba87-4b78-b4a5-6e422d4716bc/file/e1a5e158-be40-4a4d-ab96-a5c5953ed5fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Fdf%2Feb%2Fe8dfebc3656a4212a728b536f0363926%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/12092887-27e8-46a3-8321-b252cc910e0f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0b61d784-ba87-4b78-b4a5-6e422d4716bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m856x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-5712m856x"
+}

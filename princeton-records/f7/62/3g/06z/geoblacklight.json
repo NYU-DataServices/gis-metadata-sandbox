@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: London. Map shows boundaries of provinces as they existed prior to the French Revolution.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f7623g06z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London? : s.n., ca. 1780]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "France,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A new and accurate map of France with the Netherlands from the best authorities [map].",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7136044\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18837125-3a12-4e00-8ac7-f9b76f4e3008/file/06397092-cb5e-4d20-9a99-e7dc3e870c86\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18837125-3a12-4e00-8ac7-f9b76f4e3008/file/ec94c3af-15f6-484e-8ed8-90c6377c28dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2Fad%2F0f%2Fd1ad0f1e7ade4e58b235ddbe9e7fd93f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c412614-8487-410f-9270-70ff61f5b94c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-18837125-3a12-4e00-8ac7-f9b76f4e3008",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f7623g06z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.76, 7.83, 51.67, 41.85)",
+  "solr_year_i": 1780.0,
+  "uuid": "princeton-f7623g06z"
+}

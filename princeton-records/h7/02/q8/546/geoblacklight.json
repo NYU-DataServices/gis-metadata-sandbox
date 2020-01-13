@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1903.\" Includes key, key map, streets and specials index, and text. \"6602.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q8546",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903, c1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Passaic (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Passaic, Passaic County, New Jersey (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5578870\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3de07f83-0fc3-4bb8-bd1b-0f3bf209ec0e/file/83551a05-0fe0-435b-9bdd-5ea2f6f8bfc2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3de07f83-0fc3-4bb8-bd1b-0f3bf209ec0e/file/d5b3d276-97bb-4825-b4dc-816194fd9e4c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e0%2F0a%2F63%2Fe00a63796c674397b7d01d09924b70d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0e3e829a-59b9-44c9-9c20-1315008d5a02/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3de07f83-0fc3-4bb8-bd1b-0f3bf209ec0e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q8546",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-h702q8546"
+}

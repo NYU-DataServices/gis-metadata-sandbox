@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1903.\" \"6226.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v450p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Egg Harbor City,Maps",
+    "Egg Harbor City (N.J.),Maps"
+  ],
+  "dc_title_s": "Egg Harbor City, Atlantic County, N. J. (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5212895\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f219d52-908d-4179-8f36-2146d8ffb82b/file/8733327e-84fa-47b1-9162-7c920178a71d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f219d52-908d-4179-8f36-2146d8ffb82b/file/6c767fa1-45c0-4acb-a529-789dad383748\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f0%2F8c%2F1c%2Ff08c1c2fdabe4e1092c2bb96dad34c9a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/940d7280-9ff7-4bbd-980c-89ea389fe88e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0f219d52-908d-4179-8f36-2146d8ffb82b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v450p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.657, -74.526, 39.6, 39.518)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-v979v450p"
+}

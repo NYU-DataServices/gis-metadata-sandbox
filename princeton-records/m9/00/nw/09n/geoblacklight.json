@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1923.\" Includes location map, key, streets and specials index, and text. \"1038.\" Title from index sheet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m900nw09n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Keansburg,Maps",
+    "Real property,New Jersey,Ideal Beach,Maps",
+    "Real property,New Jersey,East Keansburg,Maps",
+    "Real property,New Jersey,West Keansburg,Maps",
+    "Real property,New Jersey,Port Monmouth,Maps",
+    "Keansburg (N.J.),Maps",
+    "Ideal Beach (N.J.),Maps",
+    "East Keansburg (N.J.),Maps",
+    "West Keansburg (N.J.),Maps",
+    "Port Monmouth (N.J.),Maps"
+  ],
+  "dc_title_s": "Keansburg, Monmouth County, New Jersey : including West Keansburg, East Keansburg, Ideal Beach and Port Monmouth (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804291\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c6c58cf-2395-4cf8-8392-60c6e58e992e/file/8d1fab49-ed01-4343-ab8d-fdb2b083913c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c6c58cf-2395-4cf8-8392-60c6e58e992e/file/56873972-8e5f-4e11-b990-cae4dd3f2a31\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F62%2F7f%2Fe4627f2c434849dbb313440d5cb2f228%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c621baf-b23a-400b-abff-1553b28faac4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3c6c58cf-2395-4cf8-8392-60c6e58e992e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nw09n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.148, -74.116, 40.457, 40.435)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-m900nw09n"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Lily, George, d. 1559"
+  ],
+  "dc_description_s": "Relief shown pictorially. Like the 1546 edition, preserves westward orientation. Engraved by Sebastiano di Re.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h128nh18h",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Rom\u00e6 : [s.n.], 1558.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Maps,Early works to 1800",
+    "Ireland,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Britanni\u00e6 insul\u00e6 qu\u00e6 nunc Angli\u00e6 et Scoti\u00e6 regna continet cum Hibernia adiacente nova descriptio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7181813\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e89f9c6-0df2-429e-988c-8a5426b7c3b2/file/9f9b9a79-085d-42c2-bbfa-5798d1a7b825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e89f9c6-0df2-429e-988c-8a5426b7c3b2/file/6e7306e3-5516-4b67-ac37-3776ee3a9f15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7b%2Ff0%2Fc1%2F7bf0c1cf260a40cbabc62f29fb00ff07%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fa1f44d6-8e41-4677-906d-fbe144c97b6e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1558"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7e89f9c6-0df2-429e-988c-8a5426b7c3b2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h128nh18h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-11.1111, 4.5073, 62.0048, 48.2412)",
+  "solr_year_i": 1558.0,
+  "uuid": "princeton-h128nh18h"
+}

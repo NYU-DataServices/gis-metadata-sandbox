@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Co\u0301vens et Mortier"
+  ],
+  "dc_description_s": "Relief shown pictorially and depths shown by soundings. Appears in Covens & Mortier's Atlas Noveau, contenant toutes les Parties du Monde. In lower right margin: I.K. s.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9g54xn35b",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Amsterdam : Chez Jean Covens & Corneille Mortier, ca. 1745?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Atlantic Coast (North America),Maps",
+    "Harbors,New York (State),New York Metropolitan Area,Maps",
+    "New York Harbor (N.Y. and N.J.),Maps",
+    "Harbors,Caribbean Area,Maps"
+  ],
+  "dc_title_s": "Les principales forteresses, ports &c. de l'Ame\u0301rique septentrionale (Copy 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5171841\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/0e499603-51ca-450c-8d49-50063b553cce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/a13c534c-2142-4efb-88c5-ea5defbc39e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2Fb5%2F4b%2Fdfb54bccc7d440ef9f0238506fef5d75%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77925c91-6b8f-476b-8cf9-58572091d1e2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "New York",
+    "New Jersey",
+    "Caribbean Area; Caribbean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0d162bc5-c5c6-4c8c-b8b6-9850b06550c9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9g54xn35b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.3030352125, -73.698898809, 40.7926856614, 40.3837099138)",
+  "solr_year_i": 1745.0,
+  "uuid": "princeton-9g54xn35b"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1895.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/37720f34p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Castleton (Vt.),Maps"
+  ],
+  "dc_title_s": "Vermont-New York: Castleton Sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838669\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f505ba5c-6389-46d2-9ef5-8e7417f169be/file/78275603-1e8f-47aa-bcc5-0073ec215ee0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/572acfb9-72fb-494d-ae38-c804cc67c674/file/b7035e54-be0a-4d86-a992-73f858f60808\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/572acfb9-72fb-494d-ae38-c804cc67c674/file/d5838cf6-f5be-4351-90f0-97d784b394a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2F14%2F98%2F5f1498bc36424107b09861aa2e9f516c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28354ff4-9d06-4f93-8d53-df7b9a3c96ee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-572acfb9-72fb-494d-ae38-c804cc67c674",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-37720f34p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.25, -73.0, 43.75, 43.5)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-37720f34p"
+}

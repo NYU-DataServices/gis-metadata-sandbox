@@ -1,0 +1,50 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zk51vj417",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "15 Minute Quadrangle Map",
+    "Elevation",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "New Jersey, Greenwood Lake Quadrangle (1910)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e663326b-6f98-4d8d-b088-61ff3efe634b/file/135b65fe-c49d-4b13-bdd2-5992350d237b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d98255bf-b6f7-4357-a065-be4953beb866/file/a9521c34-0d5f-4dbe-a49e-669eae7ad9e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d98255bf-b6f7-4357-a065-be4953beb866/file/a07a34be-ba6b-4860-8560-2811db42f3af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2Ffd%2Fa1%2F5ffda170ff934a3bb847928faa629d16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43afdaa8-0068-4e39-96cc-c07feb9b2047/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Sussex County",
+    "Orange County, NY",
+    "Vernon",
+    "Warwick, NY",
+    "West Milford",
+    "New Jersey",
+    "Pompton Lakes",
+    "Passaic County"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d98255bf-b6f7-4357-a065-be4953beb866",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zk51vj417",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-zk51vj417"
+}

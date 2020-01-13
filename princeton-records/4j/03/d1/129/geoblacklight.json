@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Boyertown, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1900 in cooperation with the State of Pennsylvania. Triangulation by U.S. Coast and Geodetic Survey and S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1129",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Boyertown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868210\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64e88e31-a914-47ec-9fc0-cbd39a9f32b2/file/cf0a4afa-050e-46de-ad0a-56dd9d09bb0a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4d56e25-9145-4a1f-bd54-0ac1114a1b6d/file/3c0b9789-1fd5-41f1-b5cd-82935c91e04f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4d56e25-9145-4a1f-bd54-0ac1114a1b6d/file/695b67ba-748f-4c61-b802-2173411f9702\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/13%2F7f%2Ff4%2F137ff4bda7c349c0a779e5ff94161d9e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a30af1ac-fcca-46ee-9ec6-1277238baae2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4d56e25-9145-4a1f-bd54-0ac1114a1b6d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1129",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 40.5, 40.25)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-4j03d1129"
+}

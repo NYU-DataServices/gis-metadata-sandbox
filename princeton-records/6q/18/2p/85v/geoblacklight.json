@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Auburn. Relief shown by 20 feet contour interval. Surveyed in 1896 in cooperation with the State of New York.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182p85v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Auburn (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Auburn Quadrangle.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867661\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7b7e66f-8704-405a-bc10-55adff265cb5/file/eff372d5-cefb-4a43-9776-75f12a244bba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7b7e66f-8704-405a-bc10-55adff265cb5/file/95c56f15-b20c-49c6-8601-8cdb9971e07c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2Fee%2F2d%2Fcdee2dce70434cb798a3f501f9613bfb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f620ec8-b7c9-4db1-ac5a-0417ffddb601/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b7b7e66f-8704-405a-bc10-55adff265cb5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182p85v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 43.0, 42.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-6q182p85v"
+}

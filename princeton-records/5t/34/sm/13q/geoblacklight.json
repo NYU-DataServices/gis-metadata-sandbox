@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1917.\" Includes location map, specials index, key and text. \"1896.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sm13q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Mahwah,Maps",
+    "Mahwah (N.J.),Maps"
+  ],
+  "dc_title_s": "Mahwah, Bergen County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5272737\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3d39d86-82be-4705-8129-97805b4a8797/file/17d73da6-8722-4bf7-83fe-b4b6e9d530af\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3d39d86-82be-4705-8129-97805b4a8797/file/2906e528-1f99-4554-a8b1-47c738d7c26e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2F13%2F47%2F071347255c4a4e11a5a5932e8bc45230%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e81f0c44-4862-4e3b-892b-99b0e147b067/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e3d39d86-82be-4705-8129-97805b4a8797",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sm13q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.102, 41.134, 41.022)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-5t34sm13q"
+}

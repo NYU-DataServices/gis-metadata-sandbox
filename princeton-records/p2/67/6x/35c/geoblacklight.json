@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geographers' A-Z Map Company, Ltd. Alternate title: Geographer's Birmingham District authentic street plan. Verso: index to streets. Map is black & white.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p2676x35c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Sevenoaks, Kent : Geographers' A-Z Map Co., [1972].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "England,Maps"
+  ],
+  "dc_title_s": "Geographers' inner district map of Birmingham",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831308\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/977b6c78-1b45-48a4-95b9-3978e18bbaec/file/85c5e288-cf6a-4498-adc8-3aa3a4691527\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/977b6c78-1b45-48a4-95b9-3978e18bbaec/file/bd5c9002-9990-485a-877d-99ef99b2c045\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2Fe8%2F7d%2F0be87d19069e42079185d71b100720fa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/457edada-0b81-4f30-8a0f-d455dc63e679/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-977b6c78-1b45-48a4-95b9-3978e18bbaec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p2676x35c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.8833333333333333, -1.8333333333333335, 52.516666666666666, 52.43333333333333)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-p2676x35c"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"April 1911.\" \"3670.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36v002h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pleasantville,Maps",
+    "Pleasantville (N.J.),Maps"
+  ],
+  "dc_title_s": "Pleasantville, Atlantic County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5218946\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bce11187-5281-4343-b276-4b3b896491f9/file/8f88076f-688b-4e3a-91b4-6e19b27140f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bce11187-5281-4343-b276-4b3b896491f9/file/95c0f946-910d-47d0-a9a4-418d591a5d48\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2F34%2F59%2F963459ca0a654777af6a3dad5d8e22ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e9b08b99-eee0-4aa1-9d55-e16a1014b7c2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bce11187-5281-4343-b276-4b3b896491f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36v002h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.551, -74.486, 39.42, 39.364)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-2r36v002h"
+}

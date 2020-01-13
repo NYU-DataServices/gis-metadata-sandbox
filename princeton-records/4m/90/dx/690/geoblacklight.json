@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by hachures and soundings. Includes index and text. Shows depths and prevailing currents.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dx690",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : che\u0300s Lattre\u0301 ... , [ca. 1756]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Gibraltar,Maps,Early works to 1800",
+    "Gibraltar, Strait of,Charts, diagrams, etc,Early works to 1800"
+  ],
+  "dc_title_s": "Plan du promontoire de la ville et du port de Gibraltar avec les ouvrages faits depuis le dernier sie\u0300ge et les lignes construites par ordre de sa Majeste\u0301 tre\u0300s catholique, pour empescher la communication de Gibraltar avec l'Espagne : leve\u0301 nouvellement sur les lieux par l'ingenieur de la place",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5622145\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6dd5f271-dc17-4482-8086-058cd8099f34/file/00e9f85b-6229-4b42-8ac6-bb98c3145654\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6dd5f271-dc17-4482-8086-058cd8099f34/file/f6156d09-6b96-406e-af09-7ec5ea83e280\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2F35%2F1a%2F0d351a15a7c34f25b912cc2296e7ae0c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a355954-5d84-4426-b772-fb090c69af6a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Gibraltar",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6dd5f271-dc17-4482-8086-058cd8099f34",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dx690",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.370917, -5.333409, 36.1792, 36.108433)",
+  "solr_year_i": 1756.0,
+  "uuid": "princeton-4m90dx690"
+}

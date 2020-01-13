@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1909.\" Includes key, streets and specials index, and text. \"1042.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt42p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Freehold,Maps",
+    "Freehold (N.J.),Maps"
+  ],
+  "dc_title_s": "Freehold, Monmouth County, New Jersey (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802476\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d761d636-0592-4f86-9539-4628b5b995f7/file/a703a6b7-b646-44d5-8e06-7f75272fbe94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d761d636-0592-4f86-9539-4628b5b995f7/file/acff1775-0d8f-4960-b3ab-24dbe1672acd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F5b%2F43%2F505b434224f844e19f87006449e7ac7d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/108e0666-f643-482a-aa70-402167e88a29/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d761d636-0592-4f86-9539-4628b5b995f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt42p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.406777, -74.22275, 40.295479, 40.168296)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-vm40xt42p"
+}

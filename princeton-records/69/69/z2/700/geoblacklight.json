@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J. Coast vol. 4.\" Historic Maps copy has sheets 31-33 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6969z2700",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wildwood Crest,Maps",
+    "Wildwood Crest (N.J.),Maps"
+  ],
+  "dc_title_s": "Wildwood Crest (Sheet 32)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5332570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1604ae28-04b3-4cac-9c87-5c454f4d7b5f/file/6a4c4c8d-9ec4-4d02-a99f-ff80beba2ad3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1604ae28-04b3-4cac-9c87-5c454f4d7b5f/file/0ef836e3-7d4d-48a1-8d96-508d72cfe739\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F4c%2F72%2F454c726e04a549188be0fede939f7300%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/304ad932-ae94-4a88-ba4e-d7d2b0d3bf1a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1604ae28-04b3-4cac-9c87-5c454f4d7b5f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6969z2700",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-6969z2700"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contour lines and spot heights. Contour interval 10 feet. Depths shown by soundings and isolines. At top margin: Geological Survey of New Jersey. Atlas sheet No. 9 (Monmouth Shore).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182n680",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : The Survey, 1897 (N.Y. : Julius Bien & Co.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Monmouth County (N.J.),Maps",
+    "Metuchen (N.J.),Maps",
+    "Lakewood (N.J.),Maps",
+    "Middlesex County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the Monmouth Shore with the interior from Metuchen to Lakewood : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8311761\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea6dbcad-b43f-48ee-9980-6c7b9c43a0d1/file/52750be0-1079-49f2-89a6-f7a6704ebdd6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea6dbcad-b43f-48ee-9980-6c7b9c43a0d1/file/fdb2e0bb-2727-4e82-8b20-3ab4e4ad720e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2F5d%2F56%2Ff55d562158724447b436082722f674aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9213572a-f14a-4c06-a1bf-e1c43d7052cf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ea6dbcad-b43f-48ee-9980-6c7b9c43a0d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182n680",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.383419, -73.932122, 40.583497, 40.086128)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-6q182n680"
+}

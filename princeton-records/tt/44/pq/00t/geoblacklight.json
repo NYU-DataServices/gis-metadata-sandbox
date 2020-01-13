@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key maps, index to sheet numbers and text. Series includes maps of Asbury Park, Avon by the Sea, Belmar, Deal Beach, Loch Arbour, Manasquan, Neptune City, Ocean Grove, Ocean Park, Sea Girt and Spring Lake Beach. Title sheet; map sheets foldered separately under name of town.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pq00t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Asbury Park,Maps",
+    "Real property,New Jersey,Avon by the Sea,Maps",
+    "Real property,New Jersey,Belmar,Maps",
+    "Real property,New Jersey,Manasquan,Maps",
+    "Real property,New Jersey,Neptune City,Maps",
+    "Real property,New Jersey,Ocean Grove,Maps",
+    "Asbury Park (N.J.),Maps",
+    "Avon by the Sea (N.J.),Maps",
+    "Belmar (N.J.),Maps",
+    "Manasquan (N.J.),Maps",
+    "Neptune City (N.J.),Maps",
+    "Ocean Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the New Jersey coast : volume 2 (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5569032\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b04dad55-49a0-495b-ac2a-e778982c2f58/file/7d499cdb-3575-4cbe-93b4-7d64890b0623\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b04dad55-49a0-495b-ac2a-e778982c2f58/file/26afe1f2-e7d9-4b79-ab57-79d37f737cb9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2Fd7%2F39%2F72d7399db2d14c1fa85466ff9a7b31b0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f50de44-ba33-4121-b86b-19771bdb41ed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b04dad55-49a0-495b-ac2a-e778982c2f58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pq00t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.8546, -73.9684, 40.4126, 38.9465)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-tt44pq00t"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1900.\" Includes key, specials index, and text. \"4312.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/000001562",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Riverton,Maps",
+    "Riverton (N.J.),Maps"
+  ],
+  "dc_title_s": "Riverton, Burlington Co., N.J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5156041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b957785-1688-47ec-99f8-58e2950fdbf4/file/3bdc1e7d-20ad-4e9a-a78d-6b68a38d754c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b957785-1688-47ec-99f8-58e2950fdbf4/file/ae319d5c-1422-4bd2-9ca9-fa08d6e55b44\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2Fa5%2Fea%2F1ba5ead67d614fe5b46909895cc188ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3dbbcb5e-e383-45f5-be7d-3322e63eacc6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9b957785-1688-47ec-99f8-58e2950fdbf4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-000001562",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.026, -74.997, 40.016, 40.003)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-000001562"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. At head of map: Rand-McNally indexed atlas. Text on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20sv96x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand, McNally and Co., 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Afghanistan,Maps",
+    "Iran,Maps",
+    "Pakistan,Maps"
+  ],
+  "dc_title_s": "Persia, Afghanistan, and Baluchistan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7023574\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a27d0210-10bc-414c-b783-9c83706b3b78/file/76d10124-c79b-4a43-be85-adc9b0933a85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a27d0210-10bc-414c-b783-9c83706b3b78/file/5fd0002f-ab95-46f8-99dd-b8e75617ea57\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2F60%2F1b%2F77601b085855401c9e62f179a5e07ef7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9636c251-634d-462e-94e4-37ce44f86ce7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iran",
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a27d0210-10bc-414c-b783-9c83706b3b78",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20sv96x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(44.02, 73.26, 41.01, 24.01)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-qz20sv96x"
+}

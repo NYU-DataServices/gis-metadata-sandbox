@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Set covers eastern China, Korea and adjacent parts of Mongolia. Some sheets in German and Chinese. Various issues of some sheets. Relief shown by shading and spot heights. Geographic coverage complete in 22 sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks94m",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Ko\u0308nigl. Preuss. Landes-Aufnahme, 1901-",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps",
+    "Korea,Maps"
+  ],
+  "dc_title_s": "Karte von Ost-China [Pyo\u00a8ng yang]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7768571\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/014ee268-38e4-474f-adbc-e534ed5abffb/file/4b0b7c28-16f2-44fe-9229-1267bf8b0684\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/014ee268-38e4-474f-adbc-e534ed5abffb/file/61615110-0026-4984-9629-ba403fe0149c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2F50%2F0f%2Fb5500f6980c0473fbc559f856264d792%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c40a976-5687-43c6-bcf6-ec0b810e6b31/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-014ee268-38e4-474f-adbc-e534ed5abffb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks94m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-8c97ks94m"
+}

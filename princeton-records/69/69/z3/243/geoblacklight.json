@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Dufour, A.-H. (Auguste-Henri), 1798-1865"
+  ],
+  "dc_description_s": "Relief shown by hachures. Inset: Alrededores de Madrid.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6969z3243",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "En Paris ; New-York : Casa de Turgis jeune ... , 1880.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation,Iberian Peninsula,Maps",
+    "Iberian Peninsula,Maps",
+    "Portugal,Maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Mapa general de caminos de Espan\u0303a y de Portugal : con las nuevas divisiones de Provincias : sirve de continuacion al Atlas nacional de Espan\u0303a",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6996093\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa17cbe5-6008-4da5-94d3-735a4e5cc09d/file/88b46bf5-1a00-4957-85b8-920a023eaac6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa17cbe5-6008-4da5-94d3-735a4e5cc09d/file/675fd1b9-dd0d-4750-9b2d-4a1fb44d658b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2F00%2F0b%2F43000b8480cf4a7f87daf506959a238e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56676cba-420b-4cd0-9d33-d622f380a7b7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Portugal",
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aa17cbe5-6008-4da5-94d3-735a4e5cc09d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6969z3243",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-11.9381, 4.5194, 43.8401, 35.1756)",
+  "solr_year_i": 1880.0,
+  "uuid": "princeton-6969z3243"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Jorio, Andrea de, 1769-1851"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Tavola Ia.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784p28t",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Napoli : Dalla Tipografia Simoniana, 1819?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Naples (Italy),Maps",
+    "Naples, Bay of (Italy),Maps"
+  ],
+  "dc_title_s": "Indicazione del piu rimarcabile in Napoli e contorni",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8566134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa2086a6-d75e-426d-91dd-c8fe235f4f0b/file/1aaa453e-60f4-40ba-95ff-71c162e6773c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa2086a6-d75e-426d-91dd-c8fe235f4f0b/file/6864044f-3e1b-4cd9-8e24-824dd69ec0c2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2Fd8%2F2f%2Ff8d82ff9d98248eab2acfd3315c82d23%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b129e3a6-5c48-4a2b-b365-1bfb533b2c56/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1819"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fa2086a6-d75e-426d-91dd-c8fe235f4f0b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784p28t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.8376, 15.0209, 40.9335, 40.4169)",
+  "solr_year_i": 1819.0,
+  "uuid": "princeton-s1784p28t"
+}

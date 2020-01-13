@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1916.\" Includes location map, key, streets and specials index, and text. \"1094.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nj52p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Florence,Maps",
+    "Florence (N.J.),Maps"
+  ],
+  "dc_title_s": "Florence, Burlington County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5074266\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb61c35d-8876-45a2-bc4e-568bbfebcd30/file/33546cf2-8403-4ac2-ab3c-a3455f4773a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb61c35d-8876-45a2-bc4e-568bbfebcd30/file/f4bd3a36-5ce7-49dd-8b26-cadfb46b912b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F4b%2Fc5%2F6b4bc5c86c554d56a807a903fae1fdc7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/38c491c1-4da7-4ae8-a27d-c5ae5524399f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bb61c35d-8876-45a2-bc4e-568bbfebcd30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nj52p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.827, -74.756, 40.127, 40.061)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-8k71nj52p"
+}

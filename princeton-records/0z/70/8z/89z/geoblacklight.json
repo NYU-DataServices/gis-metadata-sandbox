@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Publication information in Spanish. \"Descripcio\u0301n del mapa: Chile, original impreso en Amsterdam. 1635.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708z89z",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Nutley, N.J. : Hoffmann-La Roche, [1945?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Chile,Maps,Facsimiles"
+  ],
+  "dc_title_s": "Chili",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6589808\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97cab92d-0dc7-46ad-9878-ff01018617cc/file/c57c82e7-ea60-4ceb-84c8-f022c295d603\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97cab92d-0dc7-46ad-9878-ff01018617cc/file/d0a3fa60-1aa6-4805-90c1-94196a132e20\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F22%2F1a%2F61221a71644946a7b897dcda40d9b865%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd280815-f11e-4674-879c-4bf66439c9d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-97cab92d-0dc7-46ad-9878-ff01018617cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708z89z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5178, -68.2119, -25.0881, -46.1779)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-0z708z89z"
+}

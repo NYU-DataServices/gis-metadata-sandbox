@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper left. Historic Maps copy has sheets 16-33, 47-60, 68-74 and 96-98 of The Oranges series, showing Orange and parts of East Orange and West Orange.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pz50gz08c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co. Limited, 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,East Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "East Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange and East Orange, N.J. (Sheet 68)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5467908\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/714ddb49-b27a-4ede-bd97-2369e43f43cb/file/08e076be-e1d7-42ba-9d43-d00b0987aa56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/714ddb49-b27a-4ede-bd97-2369e43f43cb/file/622d6250-0e17-4066-a8d5-6a32fc1d2f17\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2Fc0%2F82%2F18c082e7b3ac4bd3a7abdc68a3b68f8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7f8743b-231d-4da7-8b4e-a4340188f0d4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-714ddb49-b27a-4ede-bd97-2369e43f43cb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pz50gz08c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-pz50gz08c"
+}

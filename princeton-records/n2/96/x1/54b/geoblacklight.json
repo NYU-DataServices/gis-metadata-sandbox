@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Trans World Airlines. North Decimal Degree 38.750000. South Decimal Degree 38.700000. East Decimal Degree -9.116667. West Decimal Degree -9.200000. Verso has tourist information.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n296x154b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "No place : [s.n.], 1953[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City blocks",
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Lisbon city map",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816913\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60e2c6b9-6e56-4581-81d2-950be1426d7a/file/8ee61fe8-6fea-4fb2-95d1-763eb71866a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60e2c6b9-6e56-4581-81d2-950be1426d7a/file/248a8f30-12c6-4d44-a883-1bd78d895218\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2Ff3%2F05%2F16f305df25fe441db949151b98c2f684%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4372e0d-0bbe-41cd-b87b-bd05821e0236/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-60e2c6b9-6e56-4581-81d2-950be1426d7a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n296x154b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.2, -9.116667, 38.75, 38.7)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-n296x154b"
+}

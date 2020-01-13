@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Cook, George Hammell, 1818-1889"
+  ],
+  "dc_description_s": "Includes eight \"Cretaceous sections\", six \"Triassic sections\", and three \"Azoic and Paleozoic sections\", settlements and railroads. Companion text is filed in RECAP. Call number 8565.672.01",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b5374",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Newark, N.J.] : Geological Survey of New Jersey, 1868.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology,New Jersey,Maps"
+  ],
+  "dc_title_s": "Geological map of New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/23f21535-283f-4cf3-9dc0-aa83c26c688a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/70885798-6ec7-4b24-8f18-2bf75da589e7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F08%2F5f%2F20085f968bb44fbfa8c164b153b16dc4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7d92294-a155-46e1-8ae0-8bf4ab68a2b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8dca84b8-052f-48f5-a1fe-7c1b1a30133b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b5374",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.866666, 41.366667, 38.916664)",
+  "solr_year_i": 1868.0,
+  "uuid": "princeton-br86b5374"
+}

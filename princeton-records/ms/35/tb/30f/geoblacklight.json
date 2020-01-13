@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Centre Hall, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1924.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb30f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1924.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Centre Hall Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867496\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98f9a04e-1e11-4eb1-a259-91f20ff8144b/file/1469d97c-ac7f-428d-8a38-0a356f91897d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d01e8089-baf6-4c98-b7d1-d93086c8c4f8/file/1bd3bacc-dba1-4d57-939f-0e3c6a0664f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d01e8089-baf6-4c98-b7d1-d93086c8c4f8/file/6a88eca8-9fbe-411d-86dd-d364816fc6c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2Fd2%2F3c%2Ffbd23c22b1724113a709fef16635f98a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4907933d-fda0-49ce-8264-a7a321ad9aac/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d01e8089-baf6-4c98-b7d1-d93086c8c4f8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb30f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.75, -77.5, 41.0, 40.75)",
+  "solr_year_i": 1924.0,
+  "uuid": "princeton-ms35tb30f"
+}

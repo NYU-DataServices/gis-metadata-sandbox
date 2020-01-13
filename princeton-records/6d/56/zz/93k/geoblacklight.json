@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1909.\" Includes key, key map, streets and specials index, and text. \"1319.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz93k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westfield,Maps",
+    "Real property,New Jersey,Garwood,Maps",
+    "Westfield (N.J.),Maps",
+    "Garwood (N.J. : Borough),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Westfield, Union County, New Jersey : including the Borough of Garwood (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5629722\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0e397d2-797e-4fd2-8d6c-8c935609dfa0/file/a3280eef-bde2-4743-8107-5fec8ce06945\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0e397d2-797e-4fd2-8d6c-8c935609dfa0/file/6296f942-2cfc-40bc-b0f4-b0af2f7c2d5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F68%2F25%2F08682589cf1d44959215117282054b0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fc8be2d3-b6b0-41ad-96ea-0db99f6885cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0e397d2-797e-4fd2-8d6c-8c935609dfa0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz93k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-6d56zz93k"
+}

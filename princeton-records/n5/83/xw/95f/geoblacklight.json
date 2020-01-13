@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes contour map, key, streets and specials index, and text. \"5823.\" Contour map sheet has title: Contour map of Newark, New Jersey, showing the distributing reservoirs of the city water works and the districts supplied by each.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xw95f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 39)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5427790\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f199bec-e635-445f-aeef-1c119335462b/file/dc16e9bc-96da-4414-b44b-47f8aabe44d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f199bec-e635-445f-aeef-1c119335462b/file/22bf463e-9818-4237-ba17-ef95cfee7dd4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2Fa1%2Fa8%2F55a1a860f9f64d34a29b2dfb298cacf0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3306535c-57c6-4934-b39e-a2e72eee5ccc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5f199bec-e635-445f-aeef-1c119335462b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xw95f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-n583xw95f"
+}

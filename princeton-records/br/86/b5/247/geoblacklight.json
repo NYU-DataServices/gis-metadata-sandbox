@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Trnava in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b5247",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Trnava.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bff77c51-d67f-4434-b58d-a9804c73f41b/file/84383caf-a276-4c59-bde6-95c0dcfabc04\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ee47345-265a-4fb4-adb5-e9e30c4f6929/file/89de2480-3ad2-44b1-93b0-6f57e48dccd2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ee47345-265a-4fb4-adb5-e9e30c4f6929/file/62963718-fd18-41e7-8212-9520fcb05946\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2Fd0%2Fc5%2Fe2d0c5c5a7e947d08a62fbf0a0911bbd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d0256d39-7cc4-49ca-a145-d96d6193cc24/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Trnava",
+    "G6031.C2.s100.A7M3",
+    "Central Europe",
+    "Czechoslovakia"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2ee47345-265a-4fb4-adb5-e9e30c4f6929",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b5247",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(17.3333, 18.3333, 48.75, 48.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-br86b5247"
+}

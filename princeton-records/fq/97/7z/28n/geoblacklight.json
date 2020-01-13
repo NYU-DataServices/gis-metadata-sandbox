@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of districts in Northern Rhodesia (Zambia) for 1925. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/fq977z28n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Zambia conflated historical administrative boundaries, 1925",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6679307c-f846-49d5-a1ee-943f5366a486/file/adc79a3b-b9e1-4329-bd01-5edd9eab38c2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/62597fc8-fa21-44a4-b83b-dbcca87e701d/file/57221086-3142-48da-9bd1-6d1fe1d59a0a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/62597fc8-fa21-44a4-b83b-dbcca87e701d/file/bce6cd8c-5b71-4bfe-9438-d5862e832854\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Northern Rhodesia",
+    "Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-62597fc8-fa21-44a4-b83b-dbcca87e701d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977z28n",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(21.999371, 33.705705, -8.22436, -18.079473)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-fq977z28n"
+}

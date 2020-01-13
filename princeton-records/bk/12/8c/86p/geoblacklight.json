@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes contour map, key, streets and specials index, and text. \"5823.\" Contour map sheet has title: Contour map of Newark, New Jersey, showing the distributing reservoirs of the city water works and the districts supplied by each.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128c86p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 80)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5427790\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a52a45f2-c9b8-4ed5-bf9a-c173f416af59/file/8d3ac222-6b31-4ce5-bebe-cfb4732ad313\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a52a45f2-c9b8-4ed5-bf9a-c173f416af59/file/c0c01980-10ca-48ee-94a0-bf4bc00cc02e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F84%2Fb0%2F1484b0c9462640fd981f2e9b8fdb4ce8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/941fd994-875a-49e4-88c3-a5a8bddb5d97/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a52a45f2-c9b8-4ed5-bf9a-c173f416af59",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128c86p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-bk128c86p"
+}

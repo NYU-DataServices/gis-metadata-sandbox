@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree 41.183333. South Decimal Degree 41.133333. East Decimal Degree -8.566667. West Decimal Degree -8.700000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m613n099f",
+  "dc_language_s": "Portuguese",
+  "dc_publisher_s": "[S.l.] : [s.n.], [1955].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "City blocks",
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Plano regulador da cidade do Porto rede fundamental das comunicacoes e espacos verdes de interesse publico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816921\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6eab58ec-3594-4521-bcd2-9d2b37b5ef13/file/c729e1ec-37d7-46e4-bc81-5fe976477691\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6eab58ec-3594-4521-bcd2-9d2b37b5ef13/file/e7a83982-5b3f-4046-abad-133189dc63f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F9a%2F51%2Fff9a517ba5844190bdabdc42bc56e256%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2bf3567-b173-4663-b688-169363cc5a6e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6eab58ec-3594-4521-bcd2-9d2b37b5ef13",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m613n099f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.7, -8.566667, 41.183333, 41.133333)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-m613n099f"
+}

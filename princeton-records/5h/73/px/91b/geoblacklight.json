@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 75 to 76 inclusive; issued in vol. 1 of New Jersey coast map series. \"N.J. coast vol. 1.\" Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5h73px91b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Little Silver,Maps",
+    "Little Silver (N.J.),Maps"
+  ],
+  "dc_title_s": "Little Silver (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4809606\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94208586-d6de-4e38-b5b6-299f4fdc1907/file/34c18bda-d71b-47c1-8df7-10ea1f21e1db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94208586-d6de-4e38-b5b6-299f4fdc1907/file/ac1368a8-854f-4e8f-969c-e4b9822b63e1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F0c%2F52%2F830c52781f06434ca215af8d33a4e121%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f3350670-eaa3-4308-9b39-7a8f2a7cb0b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-94208586-d6de-4e38-b5b6-299f4fdc1907",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5h73px91b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.063703, -74.002658, 40.352242, 40.320494)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-5h73px91b"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Suita, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. Depth shown by meters. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10wr99c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Suita, Osaka Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830438\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/904542d2-db62-4500-a761-f171d196313a/file/1da0f1b4-b48b-4715-94c8-069978c15ff7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae12086b-5600-48a4-bd37-0c9b4ff48b54/file/bb0af998-ffe6-408f-99a4-76792cd22d56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae12086b-5600-48a4-bd37-0c9b4ff48b54/file/88cc852d-6adb-41db-9e12-baa7cb2b1f55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2Fd8%2F98%2F49d89880f96e47078dfb81490b361908%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4049f946-f020-4f16-8f7a-34f067352514/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae12086b-5600-48a4-bd37-0c9b4ff48b54",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10wr99c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(135.48333333333332, 135.58333333333334, 34.8, 34.75)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-2z10wr99c"
+}

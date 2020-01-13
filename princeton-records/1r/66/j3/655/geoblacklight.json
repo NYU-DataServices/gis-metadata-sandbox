@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Nuremberg in the German state of Bavaria. Indexed for points of interest. Probably issued in an unidentified ed. of Schrags Fu\u0308hrer durch Nu\u0308rnberg.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1r66j3655",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Nu\u0308rnberg : Verlag von Joh. Leonh. Schrag, [1902?] (Nu\u0308rnberg : Lith. Kunstanstalt von Leonh. Amersdorffer)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Nuremberg (Germany),Maps"
+  ],
+  "dc_title_s": "Neuester Plan von Nu\u0308rnberg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7620908\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e63ca7e6-f7fa-4940-bb96-ba316191d1f7/file/56633edd-b8fc-40ab-86dd-dfdda773c359\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e63ca7e6-f7fa-4940-bb96-ba316191d1f7/file/d922a30b-9129-4c77-90ef-9ea2fd123888\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2Fde%2F21%2F1ade217b84564ca2b188dc3d04cec92a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/50d5d552-1130-48f3-8997-3a3003b06c07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e63ca7e6-f7fa-4940-bb96-ba316191d1f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1r66j3655",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.025039, 11.104432, 49.46681, 49.433373)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-1r66j3655"
+}

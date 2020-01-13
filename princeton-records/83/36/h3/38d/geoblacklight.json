@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Hanover, VT-NH. Polyconic projection. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1905-1906.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h338d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1962.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hanover (Vt.),Maps"
+  ],
+  "dc_title_s": "Vermont-New Hampshire: Hanover Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838681\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c71dbda1-3a3a-4f81-939c-b6727e1d798e/file/1b5bfb27-bd34-4b6e-8083-c96dee681aff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4c7f1b5-93ca-474b-b2fa-a6c1cfe7bd84/file/045e6967-6da4-4202-9e5f-0d77805476e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4c7f1b5-93ca-474b-b2fa-a6c1cfe7bd84/file/b84f11fe-7e0c-4b4c-aea0-16b45162db73\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2Fa3%2F79%2Fd4a3794a6a9a4a24a68b6845ca87fa28%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ff45e06c-c81e-4e74-826e-09d47772eabe/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1962"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f4c7f1b5-93ca-474b-b2fa-a6c1cfe7bd84",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h338d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.5, -72.25, 43.75, 43.5)",
+  "solr_year_i": 1962.0,
+  "uuid": "princeton-8336h338d"
+}

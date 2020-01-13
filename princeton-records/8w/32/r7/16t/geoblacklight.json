@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1917.\" Includes location map, key, streets and specials index, and text. \"2030.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r716t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Keansburg,Maps",
+    "Keansburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Keansburg, Monmouth County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4798390\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aafbf630-f5bd-43f4-855b-b8058b9040eb/file/72298eb5-0f28-484a-a2e1-7e7c1f6b1730\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aafbf630-f5bd-43f4-855b-b8058b9040eb/file/16d1de95-1023-4a2c-aaab-9cd2808a8de3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F7d%2F2a%2Ff87d2a2ac19a47b89ff798ca4155a1a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca931aa9-6255-4e58-84a1-f75488491c13/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aafbf630-f5bd-43f4-855b-b8058b9040eb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r716t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.148, -74.116, 40.457, 40.435)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-8w32r716t"
+}

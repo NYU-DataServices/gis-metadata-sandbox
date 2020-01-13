@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Harrison, William, 1774-"
+  ],
+  "dc_description_s": "Relief shown by hachures. Engraved by William Harrison, Jr. and printed by his brother, Charles P. Harrison, of Philadelphia. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bn999929f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia? : s.n. , ca. 1825] ([Philadelphia] : Printed by C.P. Harrison)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Portugal",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8400580\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3485777-9163-4e07-b553-ce1ace2d9895/file/96bd72a9-43eb-448c-83e3-2e457c27b3e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3485777-9163-4e07-b553-ce1ace2d9895/file/cc2a4a6e-2ae0-4294-8c08-d848a9df85f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2Fb9%2F80%2F08b980fdc7c14b9ca44a100f2b6820f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/191563bf-afb4-41e3-8ddd-85e3ec827866/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3485777-9163-4e07-b553-ce1ace2d9895",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bn999929f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0095, -5.5518, 42.3399, 35.7617)",
+  "solr_year_i": 1825.0,
+  "uuid": "princeton-bn999929f"
+}

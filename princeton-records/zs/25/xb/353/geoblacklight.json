@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1921.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3821.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25xb353",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Real property,New Jersey,Edgewater Park,Maps",
+    "Beverly (N.J.),Maps",
+    "Edgewater Park (N.J. : Township)),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington County, New Jersey : including Edgewater Park and Perkins (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7332047-dbf0-4a1c-85f4-d0c5647c8427/file/9fcb0965-f550-48af-8b13-6b9d28b9678e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7332047-dbf0-4a1c-85f4-d0c5647c8427/file/e0546ec0-60ab-42a1-be1f-b6e4ed60fd13\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2Fab%2Fa8%2F16aba8eb603c461bbd671fc36f7e0373%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03c55b16-0daa-4dc1-aa2d-c4ac8fe30ac9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b7332047-dbf0-4a1c-85f4-d0c5647c8427",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25xb353",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-zs25xb353"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Woodhull, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1924. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv11p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1926.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: (Steuben County) Woodhull Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868441\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25ca41b3-5bac-465d-a754-681c1af06dc6/file/110a8934-c2a8-4958-b0f4-bb60f09c9917\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9360a66-111c-4a69-99a2-c4e43e02cd30/file/b784c051-cee0-473a-906c-3e33615f286d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9360a66-111c-4a69-99a2-c4e43e02cd30/file/ba045d87-f968-43ce-b977-eefda8c85a3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2Ffa%2F3e%2Fc4fa3e7c068c4095812a9e7c34cfa6d8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7922090d-591f-44cf-ba8a-773f3df95f7c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9360a66-111c-4a69-99a2-c4e43e02cd30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv11p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 42.25, 42.0)",
+  "solr_year_i": 1926.0,
+  "uuid": "princeton-cz30pv11p"
+}

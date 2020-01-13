@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1914.\" \"80.\" Includes location map, key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr11p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hasbrouck Heights,Maps",
+    "Hasbrouck Heights (N.J.),Maps"
+  ],
+  "dc_title_s": "Hasbrouck Heights, Bergen County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267405\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7973e8c2-9ecc-406e-8425-faa9f654bf27/file/23d17f12-3d79-4155-a725-77b65228f646\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7973e8c2-9ecc-406e-8425-faa9f654bf27/file/d6bec921-3d50-4c93-a66f-357bc546bd1e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2F27%2F23%2F8e2723037da2499eb526e71d2903c898%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2aad3c2-e65f-409a-8bcd-09d8a1e2c934/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7973e8c2-9ecc-406e-8425-faa9f654bf27",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr11p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.09, -74.059, 40.876, 40.847)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-d217qr11p"
+}

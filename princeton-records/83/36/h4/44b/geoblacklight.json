@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "France. Arme\u0301e. Service ge\u0301ographique"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Depths shown by isolines and soundings. Shows Latvia and Estonia. St. Petersburg, on adjoining sheet, called Petrograd, its name from 1914 to 1924. In upper margin: Europe 1,000,000e. Flle. 60\u2070N 24\u2070E. Includes guide to adjoining sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h444b",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris?] : Service ge\u0301ographique de l'Arme\u0301e, [ca. 1920]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Estonia,Maps",
+    "Latvia,Maps",
+    "Ri\u0304ga (Latvia),Maps"
+  ],
+  "dc_title_s": "Riga",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8229032\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cdffa165-5c64-42bc-8a44-6b1b4dee683a/file/4c3cd118-d74b-4bb1-83fc-ac1b031b5857\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdffa165-5c64-42bc-8a44-6b1b4dee683a/file/60a8779b-9946-40e3-b60a-67c18f91160a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F97%2F32%2F6b97326a330c4274973bbd6957d121ec%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c80d564-5476-42f4-bffc-5064a90461fc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cdffa165-5c64-42bc-8a44-6b1b4dee683a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h444b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.01, 26.71, 60.0, 56.01)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-8336h444b"
+}

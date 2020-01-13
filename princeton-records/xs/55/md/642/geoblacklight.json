@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1923.\" Includes location map, key, streets and specials index, and text. Title from index sheet. \"1225.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xs55md642",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Keyport,Maps",
+    "Real property,New Jersey,South Keyport,Maps",
+    "Keyport (N.J.),Maps",
+    "South Keyport (N.J.),Maps"
+  ],
+  "dc_title_s": "Keyport, Monmouth County, New Jersey : including South Keyport (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4806188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1376e269-f5d8-465b-afdc-86040d33a9fa/file/e79b8a66-004c-4301-923d-e9873c64e6a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1376e269-f5d8-465b-afdc-86040d33a9fa/file/3e262021-03d4-46e1-b308-a402436040b5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2Ffe%2F79%2F9afe799aba9847dbaee4785704d1f379%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/831eb9c8-7759-487c-b05c-cf085f6ea460/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1376e269-f5d8-465b-afdc-86040d33a9fa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xs55md642",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.219, -74.183, 40.448, 40.423)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-xs55md642"
+}

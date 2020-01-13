@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1885.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c919c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Freehold,Maps",
+    "Freehold (N.J.),Maps"
+  ],
+  "dc_title_s": "Freehold, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4888494\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6fcca9d6-a732-4ed3-9c26-51d6133115af/file/8df6e9fb-289a-4ed1-9724-514b1722617a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6fcca9d6-a732-4ed3-9c26-51d6133115af/file/8acbb4a1-7f49-4f88-b393-a7162b2226d8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2F1b%2Faf%2F641bafebca6749f2940bb1e95fc2bb9b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/20371aee-746b-41f8-b4e2-799a50409b6d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6fcca9d6-a732-4ed3-9c26-51d6133115af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c919c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.406777, -74.22275, 40.295479, 40.168296)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-x059c919c"
+}

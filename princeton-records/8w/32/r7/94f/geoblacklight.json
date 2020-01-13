@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1885.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r794f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Phillipsburg,Maps",
+    "Phillipsburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Phillipsburg, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5648966\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0243c6b3-2879-4c94-9fff-9ba48072f873/file/32722f4b-c550-4a60-9145-75c11e26f688\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0243c6b3-2879-4c94-9fff-9ba48072f873/file/a88c473f-2134-43a0-8c8f-2f436f87359c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Ff2%2F66%2Fe8f266d501984f478ca19c409ad386e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9983d903-1741-4737-b626-13829a567f6f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0243c6b3-2879-4c94-9fff-9ba48072f873",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r794f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.204062, -75.160209, 40.706562, 40.666172)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-8w32r794f"
+}

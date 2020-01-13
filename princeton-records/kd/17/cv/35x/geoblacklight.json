@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "\"Tome IV, no. 14\" in upper margin. Relief shown pictorially and by soundings. Coastline outlined in blue. From: Le petit atlas maritime. Paris, 1764.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv35x",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : s.n., 1764]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Ancona (Italy),Maps"
+  ],
+  "dc_title_s": "Carte des ville et citadelle d'Ancone",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4718022\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0cf51aa9-7d82-44e1-b707-ec1eda18ce44/file/b425076c-10df-43ed-aa4f-0c6d55b875ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71f5c355-dac3-411b-8c1e-4cea2983b297/file/34daf0a8-efc4-4355-89c4-4a0ece7e7ed8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71f5c355-dac3-411b-8c1e-4cea2983b297/file/716e8802-dff8-4ce6-9491-fa9c739b2875\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2F4e%2Fc3%2F194ec3c09e07445d8fbc6b550057e8ee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/61e520ee-f200-4d27-bb10-66f6ab95cebb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-71f5c355-dac3-411b-8c1e-4cea2983b297",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv35x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.487666, 13.512772, 43.633411, 43.608526)",
+  "solr_year_i": 1764.0,
+  "uuid": "princeton-kd17cv35x"
+}

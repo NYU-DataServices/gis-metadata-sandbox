@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Moriches, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1903 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bq819",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: (Suffolk County) Moriches Quadrangle. 15-minute series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868005\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3a0ad06-5156-416d-ad29-f5ab6a7278bf/file/074b545d-44d1-41eb-b882-4408f2519d8e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd7baf1a-bebf-4747-b7ee-f9e3bfcbb80c/file/93c8f187-fb80-44c4-9aae-b53349db7ec2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd7baf1a-bebf-4747-b7ee-f9e3bfcbb80c/file/63cfdc3b-08bf-4692-8c1a-9ffc5f3c7551\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/59%2Fa0%2F2a%2F59a02a6306454f7699de2bb6ac24349a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43857b3d-aa0e-462e-92f4-519c58c7bb37/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fd7baf1a-bebf-4747-b7ee-f9e3bfcbb80c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bq819",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -72.75, 41.0, 40.75)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-1544bq819"
+}

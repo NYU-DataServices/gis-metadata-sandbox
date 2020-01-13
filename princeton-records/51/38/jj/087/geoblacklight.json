@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Northern Rhodesia. Survey Department"
+  ],
+  "dc_description_s": "Map shows population density, in individuals per square mile, and percentage of absentees among able-bodied males for each district. Areas of tsetse fly presence are also shown. Original map is filed in the Map and Geospatial Information Center. A map reproduction is attached to companion volume. Crown copyright reserved. Map is number 2.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jj087",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Zambia",
+    "Population density,Zambia",
+    "Tsetse-flies,Zambia,Maps",
+    "Great Britain,Colonies",
+    "Zambia,Maps"
+  ],
+  "dc_title_s": "Population, Northern Rhodesia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10078104\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67f55064-8a95-4f86-8fb3-24d39853a147/file/9c0ab6fe-3201-463d-a7d3-1ef4a96a8a54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67f55064-8a95-4f86-8fb3-24d39853a147/file/673f6d70-8420-4871-807d-d449257c7f3a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e7%2Fa3%2F96%2Fe7a39654290d44218a8323a2936a8e1d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/36f10c00-7876-47c0-9bff-d6571d684d69/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-67f55064-8a95-4f86-8fb3-24d39853a147",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jj087",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(21.98802, 33.699446, -8.183803, -18.077497)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-5138jj087"
+}

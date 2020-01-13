@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Takamatsu, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ft848s301",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Takamatsu, Kagawa Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830435\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84d5bca7-0464-4176-bd72-a22542471891/file/ff4973f5-2ca9-42b7-a5aa-c2642ffaafb0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee286e5c-8580-4a59-b3f2-0f773429441c/file/fb65dd85-5ffb-4d9d-92d0-e43e61e89c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee286e5c-8580-4a59-b3f2-0f773429441c/file/3d288ff3-2733-4288-8936-487fa08216de\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2F53%2F96%2Fd15396b399e1401c9665800435139cd4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c70366b8-7b6c-48df-98b9-2851afff544c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ee286e5c-8580-4a59-b3f2-0f773429441c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ft848s301",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(134.01666666666668, 134.1, 34.38333333333333, 34.31666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-ft848s301"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1905.\" Includes key, streets and specials index, and text. \"8198.\" Sheet 5 has inset: Temperanceville, 1/2 mile south of Post Off.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cr56n301s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Glassboro,Maps",
+    "Real property,New Jersey,Temperanceville,Maps",
+    "Glassboro (N.J.),Maps",
+    "Temperanceville (N.J.),Maps"
+  ],
+  "dc_title_s": "Glassboro, Gloucester Co., New Jersey (Sheet 1, Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5481524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36b592bb-b72b-45e2-8a8c-bc2cc9e500bb/file/34564300-1a33-413b-9ed0-132e893a87de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36b592bb-b72b-45e2-8a8c-bc2cc9e500bb/file/7e50c41f-7949-40ca-b46e-1324dcd53700\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2Fc2%2Faf%2F12c2af0da3a941908b4297aa76f88375%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ee415d4-423a-4428-8149-fae0b26cb0e3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-36b592bb-b72b-45e2-8a8c-bc2cc9e500bb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cr56n301s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-cr56n301s"
+}

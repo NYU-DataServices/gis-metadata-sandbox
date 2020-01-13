@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "W. & A.K. Johnston Limited"
+  ],
+  "dc_description_s": "Originally published on one sheet. Inset: Chart showing rain, winds, isothermal lines and ocean currents. W. & A. K. Johnston Ltd. operated as a limited company from 1901. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6395w8662",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : W. & A. K. Johnston Ltd., [1901 or later]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rain,Maps",
+    "Wind,Maps",
+    "Atmospheric temperature,Maps",
+    "Ocean currents,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Imperial chart of the world on Mercator's projection (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4554022\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/932ef256-43e6-4b64-849d-d7e9beba18c4/file/2b077f39-f933-4d36-9f08-d08ec9558e67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/932ef256-43e6-4b64-849d-d7e9beba18c4/file/04ce5581-e27a-44d4-84a7-8f4371860291\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2Fa9%2F86%2F23a9865359ea40d09b2a48398b605c86%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/555daeba-000f-4d19-915c-8fcfdce103ed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-932ef256-43e6-4b64-849d-d7e9beba18c4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6395w8662",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -78.0)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-6395w8662"
+}

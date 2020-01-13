@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hitchcock, Charles H. (Charles Henry), 1836-1919"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57ns81v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.?] [United States Census Office], 1872",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "United States,Maps"
+  ],
+  "dc_title_s": "Geological map of the United States compiled for the 9th census",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514843\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3f511131-b030-47e7-96ab-60151ac75b45/file/8a2cb229-3b5b-4f73-8d48-158f6c822f1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3f511131-b030-47e7-96ab-60151ac75b45/file/e38b2293-4ae8-4526-9f32-5fa1680ad54f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2Fd7%2Fc9%2F55d7c9f15ad0439badf26369590b583f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/823b2098-d8d0-422f-b57b-069b1b8d2e65/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3f511131-b030-47e7-96ab-60151ac75b45",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57ns81v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.771667, -66.949722, 49.384444, 24.520833)",
+  "solr_year_i": 1872.0,
+  "uuid": "princeton-tq57ns81v"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"5400.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tv022",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Elizabeth,Maps",
+    "Elizabeth (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Elizabeth, New Jersey, volume one (Sheet 14)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5615979\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d777d70-7e6f-4acf-a139-9cef085749ca/file/861e0238-631a-46b5-9796-b76c4ce013d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d777d70-7e6f-4acf-a139-9cef085749ca/file/7fe1490e-ea67-4c02-99bd-7e0b4c457ef1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2Fa7%2F0b%2Fe5a70b81feb14eddaefeafe6587ac222%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b1009cf5-9ee0-412d-ae66-a36b31c7a895/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d777d70-7e6f-4acf-a139-9cef085749ca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tv022",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-hm50tv022"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Hall, Sidney"
+  ],
+  "dc_description_s": "Numbered XI. Shows boundaries, rivers, roads and settlements. Relief shown by hachures. Greenwich meridian.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816q13c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1846]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ireland,Maps"
+  ],
+  "dc_title_s": "Ireland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7778742\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3aae004d-4515-4086-a304-cc500cc22e2e/file/64216f7f-d3b8-4e06-ab86-4910b8f55689\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3aae004d-4515-4086-a304-cc500cc22e2e/file/b9ca0d4d-ba52-4c3d-88ed-adf757888958\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/eb%2F5e%2Fd9%2Feb5ed9fa22384a1cbb67adcd9df20070%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/76a85a14-b257-4209-a76a-5577ca97635e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3aae004d-4515-4086-a304-cc500cc22e2e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816q13c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.7652, -5.1786, 55.506, 51.0094)",
+  "solr_year_i": 1846.0,
+  "uuid": "princeton-3x816q13c"
+}

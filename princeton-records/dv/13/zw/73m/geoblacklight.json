@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Arrowsmith, John, 1790-1873"
+  ],
+  "dc_description_s": "Relief shown by hachures. Originally issued in cover 18 x 12 cm.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zw73m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by Edward Stanford, 55 Charing Cross, June 1st. 1875.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps"
+  ],
+  "dc_title_s": "China",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7703842\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4fa1530a-9f88-4ae6-a29c-f04bcea883ff/file/babe8f6e-361d-4bb4-ad33-21c2d0f85877\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4fa1530a-9f88-4ae6-a29c-f04bcea883ff/file/3c5d2eb0-6cef-4a08-a823-228ffd358003\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F17%2Fb6%2Fbc17b6481baf47ccb06728a7686905d7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f185fa9-32b3-44a5-8dc0-29207f475c7e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4fa1530a-9f88-4ae6-a29c-f04bcea883ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zw73m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(94.0, 132.01, 44.02, 17.01)",
+  "solr_year_i": 1875.0,
+  "uuid": "princeton-dv13zw73m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1904.\" Includes key, key map, streets and specials index, and text. \"7173.\" Historic Maps copy has stamp of Map Division, Library of Congress, dated Sep. 22, 1904.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784n83p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of New Brunswick, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/899c449d-c016-4db4-91a7-afb13a19843b/file/ae931dd4-8ee4-49fc-a28f-72006d50abb0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/899c449d-c016-4db4-91a7-afb13a19843b/file/35a7d244-d7e9-40e4-b72e-0afcb7c206b8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F39%2Fe2%2F9539e28711104b988f379411614aa0c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06ac0f7f-ac99-48c8-9724-ab3252281832/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-899c449d-c016-4db4-91a7-afb13a19843b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784n83p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-s1784n83p"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"1134.\" Historic Maps copy includes title sheet: Insurance maps of Newark, New Jersey, volume five.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mx13b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Irvington,Maps",
+    "Irvington (N.J.),Maps"
+  ],
+  "dc_title_s": "Irvington (Sheet 34)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5420333\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c680026-94c2-4486-a581-fea58ca3b0a1/file/cbeac959-2f6c-4c88-81e3-42cc8905a9b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c680026-94c2-4486-a581-fea58ca3b0a1/file/7d810efd-ac5d-4183-96c0-17c894301d17\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2F47%2F9a%2Ffb479a6f029d4bb5925714c62e6f0cc5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07610fab-7fca-4946-9e49-5ead7a0b1ec9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9c680026-94c2-4486-a581-fea58ca3b0a1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mx13b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25629, -74.209489, 40.7434, 40.70829)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-tm70mx13b"
+}

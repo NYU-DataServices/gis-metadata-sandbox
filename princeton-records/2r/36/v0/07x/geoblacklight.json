@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.750000. South Decimal Degree 39.625000. East Decimal Degree -74.125000. West Decimal Degree -74.250000. Alternate title: Ship Bottom, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Depth curves and soundings in feet- datum is mean low water. Datum is mean sea level. Shoreline shown represents the approximate line of mean high water. The mean range of tide is 1 foot in inland waters and 3 feet along the ocean. \"Mapped by the United States Coast and Geodetic Survey; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1950. Topography by plane-table surveys 1950. Field check 1952. Hydrography from surveys dated 1935 and 1937.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36v007x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1952.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Ship Bottom Quadrangle, New Jersey--Ocean Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845035\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8e63c0c-3b30-4c6d-bda7-fb6d9b71d8da/file/99fa8f79-72b7-46ef-8af4-469120d278d6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3f6df0d-a6d8-42a6-b209-997ff16e8b5d/file/033c27eb-541e-4007-b0c6-2f80aa956552\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3f6df0d-a6d8-42a6-b209-997ff16e8b5d/file/1aab349d-9f61-482c-9ef6-1b105a4c3b79\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2F3d%2Fb1%2F773db1fc140c436e863f0775d64a090a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef883780-2792-4e69-be1f-c4137db17ec1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3f6df0d-a6d8-42a6-b209-997ff16e8b5d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36v007x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 39.75, 39.625)",
+  "solr_year_i": 1952.0,
+  "uuid": "princeton-2r36v007x"
+}

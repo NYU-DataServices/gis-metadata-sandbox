@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1903.\" Includes key, streets and specials index, and text. \"6199.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x588j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Millville,Maps",
+    "Millville (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Millville, Cumberland County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416219\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c51ad97b-bb6f-4752-9c79-48d2140f50d5/file/cf8e3c55-cba8-454b-bdc7-a83a55627851\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c51ad97b-bb6f-4752-9c79-48d2140f50d5/file/b67b70d8-f451-4bcd-aa00-aa8428436a57\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2Ffa%2F2e%2F0bfa2e29de2b4f6889fcd738eb78edd5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f377d6c5-7f84-45ed-87b7-7b9e6b06a6e0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c51ad97b-bb6f-4752-9c79-48d2140f50d5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x588j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-6682x588j"
+}

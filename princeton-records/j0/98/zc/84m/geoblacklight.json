@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Groton. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887. Surveyed in cooperation with the state of Massachusetts. Triangulation by R. U. Goode. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j098zc84m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Massachusetts-New Hampshire: Groton sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837233\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/df8fea7a-1cf1-4e66-bc1c-f12c77e8df08/file/3bee39cb-067f-4f0d-88a2-e1514001be85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d030dc9c-9103-4d99-a1af-0968f76fe875/file/8692ef52-592b-4b59-963d-06527558af0b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d030dc9c-9103-4d99-a1af-0968f76fe875/file/efa84c8b-d1ea-473e-b6e4-bec50114db9b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2Fd9%2Fde%2F46d9de22254a4a8f9e9583199ef75712%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/50e9ca4f-28c7-4a29-9696-4285045f0d3d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d030dc9c-9103-4d99-a1af-0968f76fe875",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j098zc84m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.75, -71.5, 42.75, 42.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-j098zc84m"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Department of State. Division of Map Intelligence and Cartography. North Decimal Degree 90.000000. South Decimal Degree -90.0000. East Decimal Degree 180.0000. West Decimal Degree -180.0000. Sinusoidal projection. Shows: iron ore deposits, actual reserves, estimated reserves, reserves under 10,000,000 tons (actual and/or estimated), international boundaries (1937). Map no. 10644 March 1947. G.P.O. - Department of State Service Office.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/73666635g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Dept. of State, Division of Map Intelligence and Cartography, 1947.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mines and mineral resources",
+    "Iron",
+    "World,Maps"
+  ],
+  "dc_title_s": "World iron ore reserves",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6821712\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2480037e-5b46-4d89-a069-b3b133387ee4/file/9d58983c-8ef7-4b96-99fd-f5c5ac232390\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2480037e-5b46-4d89-a069-b3b133387ee4/file/46200826-7659-444b-ad23-7cb85c56c8bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F67%2F5f%2F7e675fd6f14047cba4da55cfb17b2034%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9d1c1d9b-6730-4405-8342-aa77b57b7751/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2480037e-5b46-4d89-a069-b3b133387ee4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-73666635g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1947.0,
+  "uuid": "princeton-73666635g"
+}

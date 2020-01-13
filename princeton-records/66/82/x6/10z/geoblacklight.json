@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1916.\" Includes location map, key, key map, streets and specials index, and text. \"1275.\" Sheets 17-18 show Mountain Lakes; sheet 19 shows Montville.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x610z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Boonton,Maps",
+    "Real property,New Jersey,Mountain Lakes,Maps",
+    "Real property,New Jersey,Montville Township,Maps",
+    "Boonton (N.J.),Maps",
+    "Mountain Lakes (N.J.),Maps",
+    "Montville (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Boonton, Morris Co., New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5548586\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2f3f2ae-338f-4512-86fe-b885f3ff00f9/file/c598f21f-de17-4509-983f-192d6226a90e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2f3f2ae-338f-4512-86fe-b885f3ff00f9/file/1b5cc631-9692-42b9-8f60-67202c7c995a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F93%2F24%2Fd9932414961348ab86d542910cebac25%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34b14285-57ac-4aa1-ace8-aeeb568654f3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d2f3f2ae-338f-4512-86fe-b885f3ff00f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x610z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-6682x610z"
+}

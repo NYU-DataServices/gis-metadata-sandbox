@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Birmingham mit militaergeographischen Eintragungen. Grossblatt 8, Blattbereich 23i. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560. Accompanied by 35p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 8 Midlands\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b288m",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "Birmingham (England ),Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Birmingham, BB 23i",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865606\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/368e14e9-4564-4fc9-95b9-c957dd6ee7b6/file/6485def5-339a-4566-bb65-f970f0ea5c67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba598153-259a-4a51-aaac-bfbbdf3307d2/file/022321ff-e2c7-440e-9034-dc348d84fc84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba598153-259a-4a51-aaac-bfbbdf3307d2/file/cea3ea65-5f46-4a9b-8cb0-350c5d489f54\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7d%2F5d%2F88%2F7d5d8856b1e448f489ea13993e53915c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90cccff9-cea7-4436-97d9-92f671f22f48/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ba598153-259a-4a51-aaac-bfbbdf3307d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b288m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.9, -1.85, 52.46666666666667, 52.45)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-k643b288m"
+}

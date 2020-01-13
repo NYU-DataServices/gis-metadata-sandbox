@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"4265.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zk51vj77g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,East Orange,Maps",
+    "East Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of East Orange, New Jersey (Sheet 46)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5473534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c8be670d-b9c8-497b-96e9-173b1444d21b/file/4108a470-b161-4bec-9684-19a336f34867\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c8be670d-b9c8-497b-96e9-173b1444d21b/file/c3df5540-eef0-4de6-8a26-0a5e085a2684\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F48%2Fd7%2Fb248d7c71e4347aca4846851bfb27249%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/501592d9-5020-4d40-8415-9a62da7e38eb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c8be670d-b9c8-497b-96e9-173b1444d21b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zk51vj77g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-zk51vj77g"
+}

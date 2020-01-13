@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -9.0000. West Decimal Degree -10.0000. Alternate title: Lisboa (Lisbon), Portugal. Polyconic projection. With Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Instituto Geografico, 1920-35; Portugal, 1:100,000, Instituto Geografico, sheet 38, 1930; Portugal, 1:250,000, Estador Maior do Exercito, sheet 16, 1937 and sheet 20, 1936; Road Map of Spain and Portugal, 1:400,000, AMS, sheets 46 and 48, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1942, corrected from Intelligence Reports, 1942-1943. Partially revised from aerial photography, 1942-43.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p0968758",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Lisboa (Lisbon),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Lisboa (Lisbon), sheet 56. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839266\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b26b67a3-0973-4ad9-992a-728b4d911abb/file/aaa4ec54-36ea-43b8-b93c-1632a4cb3ad1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b26b67a3-0973-4ad9-992a-728b4d911abb/file/88701f8b-6ec4-4aee-9fcf-a3f26d4149e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F33%2F4a%2F49334a8cb081449380470e2c343e00f4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7a199067-c67b-4430-b8f9-26acb019319e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b26b67a3-0973-4ad9-992a-728b4d911abb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p0968758",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, -9.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-0p0968758"
+}

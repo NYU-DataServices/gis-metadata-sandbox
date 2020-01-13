@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "Relief shown pictorially. Inset: Carte de l'Isle de Madagascar et du Canal de Mozambique. In upper right-hand margin: No. 93.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763834k",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : Depot de la Marine, 1765 .",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Madagascar,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carte de l'Isle de Madagascar",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4861364\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3cd67e80-850e-44b6-8afd-6656b5d0fd19/file/8f76c71f-b856-45e6-8fa6-94eb2e74f7d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75ad1a07-a2c9-41ff-9e4b-3ae2a18106d2/file/49f5cbb6-9c22-45ce-b92d-564023d9d067\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75ad1a07-a2c9-41ff-9e4b-3ae2a18106d2/file/8bac89af-05e8-40d1-a61a-b7a4432670ae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2Fb6%2F8e%2Fa7b68eede250452280c789408d74adf1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4fbacc3a-5c2d-4d5a-b1fb-018c6fa888fd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "dct_temporal_sm": [
+    "1765"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-75ad1a07-a2c9-41ff-9e4b-3ae2a18106d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763834k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(42.968, 50.6727, -11.7329, -25.784)",
+  "solr_year_i": 1765.0,
+  "uuid": "princeton-w3763834k"
+}

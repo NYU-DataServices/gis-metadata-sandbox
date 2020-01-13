@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Map of Valencia, Spain with relief shown pictorially. \"Cum priuilegio ad decennium 1584.\" German text on verso with caption title: Das Ko\u0308nigreich Valentia; p. 7. Possibly issued in: Theatrum orbis terrarum. Antuerpiae Ambivaritorum [i.e. Antwerp], 1584.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bh350",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antwerp : Plantin, 1584?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Valencia (Spain),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Valenti\u00e6 regni, olim Contestanorum si Ptolemaeo, Edetanorum si Plinio credimus typus",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6974060\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7903a08b-b777-43d6-ba5c-e9cf9431e91b/file/159b0c02-db37-4e8a-9f0d-601383d22ed0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7903a08b-b777-43d6-ba5c-e9cf9431e91b/file/d3e6cffa-a91b-4282-b3b9-e4e9e4e17812\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2Fcf%2F1b%2F15cf1b9b1fc84aaeacd7da1771bd2cf0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4ed2ed51-e272-4d31-91a6-3ad9499f7d16/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1584"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7903a08b-b777-43d6-ba5c-e9cf9431e91b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bh350",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.5356, 0.8402, 40.512, 37.8361)",
+  "solr_year_i": 1584.0,
+  "uuid": "princeton-pg15bh350"
+}

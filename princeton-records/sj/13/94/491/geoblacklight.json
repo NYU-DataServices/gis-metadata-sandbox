@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contour lines and spot heights. Depths shown by soundings and isolines. \"Atlas sheet no. 6 (Central red sandstone).\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj1394491",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J] : Geological Survey of New Jersey, 1894 ([NY.] : Julius Bien & Co. Lith)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Passaic (N.J.),Maps",
+    "Passaic River Valley (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the valley of the Passaic with the country eastward to Newark and southward to the Raritan River From original surveys and levelings, supplemented by various local surveys based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8281633\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/412d13e2-b452-4b22-87c2-d153c88a70e9/file/4101ef55-1073-4df7-aca8-eb39f741b42c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/412d13e2-b452-4b22-87c2-d153c88a70e9/file/d10998f5-f18e-48e0-8c82-ca825b2f094b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2Ffb%2Ff6%2F80fbf6fe86cf4cf7aa14d452352d5251%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ed3232e-9e28-408a-a65b-0d90091cd551/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-412d13e2-b452-4b22-87c2-d153c88a70e9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj1394491",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.645969, -74.179394, 40.969979, 40.469866)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-sj1394491"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July, 1920.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3314.\" Historic Maps copy has sheets 1-13; sheets 14-15, showing Oaklyn, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708z368",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Audubon,Maps",
+    "Audubon (N.J.),Maps"
+  ],
+  "dc_title_s": "Audubon, Camden County, New Jersey : including Oaklyn (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5351970\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8095ba0e-7185-4d1b-83b2-c6c02b9dfa90/file/8364a2d5-fb32-452f-9bbf-987994f9a904\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8095ba0e-7185-4d1b-83b2-c6c02b9dfa90/file/a74e72a4-2780-4f3d-9927-083f5c6dd4d6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2Fe3%2F9e%2F17e39e3a637244dd8335ecc3f6ec4644%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3dc6e18-7606-4a00-930a-8e238dc1c98d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8095ba0e-7185-4d1b-83b2-c6c02b9dfa90",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708z368",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-0z708z368"
+}

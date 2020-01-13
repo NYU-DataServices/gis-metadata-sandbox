@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1920.\" Includes location map, key, key map, specials index, and text. \"3304.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2f75rb26r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Stanhope,Maps",
+    "Stanhope (N.J.),Maps"
+  ],
+  "dc_title_s": "Stanhope, Sussex County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609860\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/463f4b91-12d4-4774-8dc9-26a85c96f502/file/d3904d35-c49c-456f-808c-c43a8be1f489\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/463f4b91-12d4-4774-8dc9-26a85c96f502/file/070758c3-3ea6-4049-a2d8-e327697e6c0d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F71%2F4e%2F4a714ecb549b48b589c0809b54e9761f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0610390-05f0-4370-ba7e-d1d0575daac3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-463f4b91-12d4-4774-8dc9-26a85c96f502",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75rb26r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-2f75rb26r"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Sankt Goar and environs in the German state of Rhineland-Palatinate. Relief shown by hachures. In lower margin: Woerl's Reisehandbu\u0308cher.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks92n",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Wu\u0308rzburg : Woerl's Reisebu\u0308cherverlag, 1892]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rhineland-Palatinate (Germany),Maps",
+    "Sankt Goar (Germany),Maps"
+  ],
+  "dc_title_s": "St. Goar und Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7395001\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b0a0d43-2f9c-48c6-8002-a7ba0d8a3ca5/file/99c7d154-8990-4af6-9b6e-c65b4cd2e766\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b0a0d43-2f9c-48c6-8002-a7ba0d8a3ca5/file/528363e8-452b-45e6-a60e-044617d00e4a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2F19%2Fa7%2Fdc19a7766ca5404ba41f670a93ef5eb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cfec429e-a6ab-4340-9e09-6842d0b69049/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6b0a0d43-2f9c-48c6-8002-a7ba0d8a3ca5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks92n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.508445, 8.037678, 50.383334, 49.921042)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-8c97ks92n"
+}

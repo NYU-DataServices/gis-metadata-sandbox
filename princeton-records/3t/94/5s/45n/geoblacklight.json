@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.875000. South Decimal Degree 39.750000. East Decimal Degree -74.625000. West Decimal Degree -74.750000. Alternate title: Indian Mills, N.J.--Burlington Co. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Topography from aerial photographs by photogrammetric methods. Aerial photographs taken 1947. Planimetric detail revised from aerial photographs taken 1955-1956. Field check 1957.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3t945s45n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1957.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Indian Mills Quadrangle, New Jersey-Burlington Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844285\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d77b81b4-af67-4f9e-813c-a740c0f5dafd/file/914af5a5-923b-4a7b-9d36-60c8c63a2f72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03f00bfa-f156-4a65-8991-ad171f728d4f/file/17d28855-8aea-4b2b-9892-0f87caffa924\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03f00bfa-f156-4a65-8991-ad171f728d4f/file/ce958eb3-ff22-4003-bf24-bd30a8d9ebbf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2Ff8%2Fc4%2F27f8c4c47185471492bb28b8fb6f53e8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1b0214b-4ffc-4930-bfc4-b4efd2698238/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03f00bfa-f156-4a65-8991-ad171f728d4f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3t945s45n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.625, 39.875, 39.75)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-3t945s45n"
+}

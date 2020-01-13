@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Co\u0302te d'Ivoire. Service de l'habitat et de l'urbanisme"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zg64tn76c",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Abidjan] : Re\u0301publique de la Co\u0302te d'Ivoire, Service de l'habitat et de l'urbanisme, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Abidjan (Co\u0302te d'Ivoire),Maps"
+  ],
+  "dc_title_s": "Abidjan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4599925\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd32dedf-541e-46c5-aca9-b53c637d75f8/file/6195078e-0ee1-4041-8579-0aa4a31f76b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd32dedf-541e-46c5-aca9-b53c637d75f8/file/2ed814c1-91b3-46a2-8de7-3b79dee08e69\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2Fdc%2Ffb%2F34dcfb8180404cdd9b84da7d36d5d4da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f9424d4f-0bd6-436a-88fe-6e61b24579e4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "C\u00f4te d'Ivoire"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd32dedf-541e-46c5-aca9-b53c637d75f8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zg64tn76c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.049512, -3.907806, 5.360066, 5.233344)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-zg64tn76c"
+}

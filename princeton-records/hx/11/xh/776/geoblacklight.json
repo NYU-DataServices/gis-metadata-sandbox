@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Stuttgart and environs in the German state of Baden-Wu\u0308rttemberg.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hx11xh776",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[S.l. : s.n., ca. 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Baden-Wu\u0308rttemberg (Germany),Maps",
+    "Stuttgart (Germany),Maps"
+  ],
+  "dc_title_s": "Stuttgart u. Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7416672\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e635a01-f856-4840-98f4-1edfa69b6c2a/file/57a01a45-6d96-4b16-8985-16bc6b7962e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e635a01-f856-4840-98f4-1edfa69b6c2a/file/573fefb8-d2d6-4bf2-b97b-ee813d0ff047\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cb%2F23%2Fa4%2Fcb23a4e49d354e71bfa23ec98251d52a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1d2f3803-39d6-4029-85c4-5a9d7828b717/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7e635a01-f856-4840-98f4-1edfa69b6c2a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hx11xh776",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.079364, 9.29188, 48.837507, 48.721108)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-hx11xh776"
+}

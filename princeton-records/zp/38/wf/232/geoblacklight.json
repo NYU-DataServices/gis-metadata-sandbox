@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1911.\" Includes key, streets and specials index, and text. \"3735.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf232",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Riverton,Maps",
+    "Riverton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Riverton, Burlington County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5156649\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1d34271-3df5-4ad5-bfd0-844029eaf143/file/0cb5e5a7-1d21-410b-a33b-9676630151e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1d34271-3df5-4ad5-bfd0-844029eaf143/file/fefb62a2-e76d-4b01-b7e4-d3f1ed454b18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F4b%2F81%2F2b4b81474ad04a73ad58355301e5318e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0540f20-d304-4c77-bc58-e2931bbc0c99/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1d34271-3df5-4ad5-bfd0-844029eaf143",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf232",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.026, -74.997, 40.016, 40.003)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-zp38wf232"
+}

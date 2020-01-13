@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Maine Geological Survey North Decimal Degree 47.4500 South Decimal Degree 42.9667 East Decimal Degree -66.8833 West Decimal Degree -71.0833",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m3553",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Augusta, Me. : Maine Geological Survey, 1933.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Maine,Maps"
+  ],
+  "dc_title_s": "Preliminary geologic map of Maine",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515390\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b98e4461-365b-4453-8050-236028b02275/file/b396f276-fe19-45e4-a6d9-9cf5fc959b06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b98e4461-365b-4453-8050-236028b02275/file/47ff2951-8994-41f0-beaf-1339bda14eb1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/65%2Fd9%2F93%2F65d99349af604985b8615ab933a46206%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30afb69f-b336-452e-a7c3-2ab398a37c9f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b98e4461-365b-4453-8050-236028b02275",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m3553",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.0833, -66.8833, 47.45, 42.9667)",
+  "solr_year_i": 1933.0,
+  "uuid": "princeton-m326m3553"
+}

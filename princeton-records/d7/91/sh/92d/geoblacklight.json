@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Central Intelligence Agency. Map no.: 800010 (544126) 10-83.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d791sh92d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1983.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Population",
+    "China,Maps"
+  ],
+  "dc_title_s": "China: population density",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6829696\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2ec2c74-98d7-4316-b0a9-2fc9af7a5d52/file/4fbecb5d-5587-482b-bc00-d3ec1df9e8a7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9b013bb-d6d0-4793-a5cc-543d8b9c4dfc/file/48fa47a0-2871-4b1b-9b9a-ce829ef71e17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9b013bb-d6d0-4793-a5cc-543d8b9c4dfc/file/556161f7-f81c-4dd6-aebf-a1d9f258cc23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F7d%2F4a%2F157d4adfca6046eb850bc5113f6fd4bd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aef874ba-36b1-4c52-b206-d0f4c6030c41/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b9b013bb-d6d0-4793-a5cc-543d8b9c4dfc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d791sh92d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(73.56666666666666, 134.78333333333333, 53.583333333333336, 18.166666666666668)",
+  "solr_year_i": 1983.0,
+  "uuid": "princeton-d791sh92d"
+}

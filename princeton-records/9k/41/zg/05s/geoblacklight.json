@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Andriveau-Goujon, E. (Euge\u0300ne), 1832-1897"
+  ],
+  "dc_description_s": "\"Grave\u0301 par Ch. Dyonnet. Ecrit par P. Rousset.\" In margin: no. 1. Double hemispherical world map on a globular projection; relief shown by hachures. Probably issued in: Atlas classique et universel de ge\u0301ographie ancienne et moderne. Paris : E. Andriveau-Goujon, [1878?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg05s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Publie\u0301e par E. Andriveau-Goujon ... , 1878 (Paris : Impie. de Louis Antoine)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "Mappemonde en deux he\u0301mispheres",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4553508\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0ca85be-e815-4746-9d0d-7b012a96da94/file/a63c93db-41e7-4fd6-8034-0773dcbafaa5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/752fc25a-ac85-490d-b0e5-a08acadd6440/file/f9bbad62-5e61-4c91-b617-0c35949c1c2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/752fc25a-ac85-490d-b0e5-a08acadd6440/file/f9f58ef9-a96a-4af4-92d6-4d18df6fa7e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F6f%2F3d%2F2f6f3db3e706486bbdf17fc03a790e27%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d0ac166c-31f5-4501-9d13-217a4b206073/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-752fc25a-ac85-490d-b0e5-a08acadd6440",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg05s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1878.0,
+  "uuid": "princeton-9k41zg05s"
+}

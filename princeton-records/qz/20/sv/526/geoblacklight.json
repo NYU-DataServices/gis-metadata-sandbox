@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1905.\" Includes key, streets and specials index, and text. \"8198.\" Sheet 5 has inset: Temperanceville, 1/2 mile south of Post Off.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20sv526",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Glassboro,Maps",
+    "Real property,New Jersey,Temperanceville,Maps",
+    "Glassboro (N.J.),Maps",
+    "Temperanceville (N.J.),Maps"
+  ],
+  "dc_title_s": "Glassboro, Gloucester Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5481524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9609eb48-4d4a-4078-82c8-7817f7ee66fd/file/6b2a46a2-34c7-4282-9b97-14ecedeac02a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9609eb48-4d4a-4078-82c8-7817f7ee66fd/file/f6848095-ed82-4a76-b9ca-a07af02d1bcf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F51%2Fc9%2F4951c9cfbab645cf810cf4ea68bf5019%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c68b079-e3ef-4199-bcc5-d6d5b4bf8350/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9609eb48-4d4a-4078-82c8-7817f7ee66fd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20sv526",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-qz20sv526"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1892-1893 and 1897-98 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225c741",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Old Forge (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Old Forge Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867937\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef71b267-246d-4b9f-b369-a19547dc8c10/file/90f8e7ce-09bf-4875-9b09-ad3b991da2f7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d50ea07-1273-4467-8419-1714a9a2d126/file/a6b087fb-2a1a-483e-9563-c3dc6143bdc8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d50ea07-1273-4467-8419-1714a9a2d126/file/02ac33cf-a939-4b1b-91c0-8145db008021\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2F6d%2F6e%2F046d6e5824e64fb080ca3400c56e591e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd01917b-4ef5-4625-8da7-4b2cd4d59f0d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1d50ea07-1273-4467-8419-1714a9a2d126",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225c741",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 43.75, 43.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-0k225c741"
+}

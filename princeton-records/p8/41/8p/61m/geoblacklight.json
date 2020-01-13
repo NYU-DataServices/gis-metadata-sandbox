@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1915.\" Includes location map, key, streets and specials index, and text. \"420.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418p61m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Medford,Maps",
+    "Medford (N.J.),Maps"
+  ],
+  "dc_title_s": "Medford, Burlington County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5128687\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/196a4862-0a64-432f-8057-f506a8ceefe7/file/86ffeaab-64fd-4d53-bfd6-e21d9043b10d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/196a4862-0a64-432f-8057-f506a8ceefe7/file/a9730e6d-c0ad-4f60-8bae-0fbe6075ad6d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2Ffe%2Fcd%2F45fecd267105482cb9dd3640bab518e3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f55a5787-ae18-408e-a57a-1ac6f80f5696/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-196a4862-0a64-432f-8057-f506a8ceefe7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418p61m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.866, -74.754, 39.937, 39.785)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-p8418p61m"
+}

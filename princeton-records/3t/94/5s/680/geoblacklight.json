@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Arrowsmith, Aaron, 1750-1823"
+  ],
+  "dc_description_s": "Relief shown by hachures. From: A new and elegant general atlas ... / drawn by Arrowsmith and Lewis. Boston : Published and sold by Thomas & Andrews, 1812.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3t945s680",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Boston : Published by Thomas & Andrews, 1812]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ohio,Maps"
+  ],
+  "dc_title_s": "Ohio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5278071\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e993d8aa-c903-4f88-9eee-3de3ee3b5b57/file/3f50e08d-5181-4a83-bbcd-7e4b50e32409\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e993d8aa-c903-4f88-9eee-3de3ee3b5b57/file/196bc284-daf5-42cc-8652-35e84f2affc4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2F33%2F40%2Fb933406ae0364cfd832cb461e231bdea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5edca592-f48a-4483-9648-11c0e3104bd5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1812"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e993d8aa-c903-4f88-9eee-3de3ee3b5b57",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3t945s680",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.0098, -80.2307, 42.6816, 38.1682)",
+  "solr_year_i": 1812.0,
+  "uuid": "princeton-3t945s680"
+}

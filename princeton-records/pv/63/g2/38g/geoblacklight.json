@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan'y 1917.\" Includes location map, key, key map, streets and specials index, cottages, estates, &c. index, and text. \"1789.\" Shows Lake Hopatcong and boroughs and townships on its shore.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g238g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hopatcong, Lake,Maps",
+    "Real property,New Jersey,Hopatcong,Maps",
+    "Real property,New Jersey,Mount Arlington,Maps",
+    "Real property,New Jersey,Byram Township,Maps",
+    "Real property,New Jersey,Roxbury Township,Maps",
+    "Real property,New Jersey,Jefferson Township,Maps",
+    "Hopatcong, Lake (N.J. : Lake),Maps",
+    "Hopatcong (N.J.),Maps",
+    "Mount Arlington (N.J.),Maps",
+    "Byram (N.J. : Township),Maps",
+    "Roxbury (N.J. : Township),Maps",
+    "Jefferson (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Lake Hopatcong, Morris and Sussex counties, New Jersey : including Hopatcong and Mt. Arlington boroughs, Byram, Roxbury and Jefferson townships (Sheet 15)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5557691\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e32f4a1-7e01-4c16-9a7f-ecac2ad70ca9/file/49645d73-2d8d-4c1d-a2a1-bb6a04ad2d5d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e32f4a1-7e01-4c16-9a7f-ecac2ad70ca9/file/dde61059-61ca-46a8-bc03-ccc0bd26ef55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2Fbe%2Fcd%2F82becde3df584bcaa6d6b97ff329a364%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f83d352d-4a76-4863-ac81-e7034449fe4f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6e32f4a1-7e01-4c16-9a7f-ecac2ad70ca9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g238g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.697709, -74.613751, 40.999481, 40.910844)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-pv63g238g"
+}

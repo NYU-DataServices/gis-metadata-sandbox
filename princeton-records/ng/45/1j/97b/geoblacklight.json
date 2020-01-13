@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.875000. South Decimal Degree 39.750000. East Decimal Degree -74.125000. West Decimal Degree -74.250000. Alternate title: Forked River, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Deph curves and soundings in feet--datum is mean low water. Shoreline shown represents the approximate line of mean high water. The mean range of tide is approximately 0.6 feet. \"Mapped by the United States Coast and Geodetic Service. Edited and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1951. Topography by Kelsh plotter and by planetable surveys 1951.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451j97b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1953.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Forked River Quadrangle, New Jersey--Ocean Co.. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844987\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dec18252-74d4-4617-9ce6-05aa840e9136/file/94905ebc-dbfe-42ca-9408-2d5b3f165b9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c92cc9d7-5d79-46c3-b756-02bdaac00dcd/file/b494fb9f-1956-4ddf-bd3a-064a572a778d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c92cc9d7-5d79-46c3-b756-02bdaac00dcd/file/45bd9990-d526-440a-96b0-ef66ffb8a6c5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ab%2Fbc%2F31%2Fabbc31f01b9a4f14b7c9318b8c95ee3e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f82729a-00d7-45ef-beb5-124bbb45fbb9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c92cc9d7-5d79-46c3-b756-02bdaac00dcd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451j97b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 39.875, 39.75)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-ng451j97b"
+}

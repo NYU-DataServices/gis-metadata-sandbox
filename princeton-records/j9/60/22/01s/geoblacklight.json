@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Southeast Asia with relief, shown at a 1:32,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j9602201s",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Southeast Asia, 2001 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ecdfd06-66b3-443d-8747-a9966dda1fcb/file/7f9f1376-6db4-44b7-ac97-da9fb151832f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f50ed992-4ea1-4515-8192-8a48629fe9d2/file/ad512eae-068e-42d4-a218-d4fce56e333b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f50ed992-4ea1-4515-8192-8a48629fe9d2/file/6c849873-b2db-47a2-8542-21ee3f415839\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F28%2F77%2F7a28778257cd45cca4088356e073b937%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d2108c8b-abd5-4800-87bc-06926de997a0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Southeast Asia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f50ed992-4ea1-4515-8192-8a48629fe9d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j9602201s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(95.0, 140.0, 30.0, -20.0)",
+  "solr_year_i": 2001.0,
+  "uuid": "princeton-j9602201s"
+}

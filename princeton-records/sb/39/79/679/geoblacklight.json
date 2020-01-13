@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"1900.\" Includes key, specials index and text. \"September 1909.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sb3979679",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hampton,Maps",
+    "Hampton (N.J.),Maps"
+  ],
+  "dc_title_s": "Hampton, Hunterdon County, New Jersey : including Old Hampton (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4783380\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/198929c7-63ca-4253-b852-625d93cc18e7/file/d6cfdd3d-c278-4a21-b052-f808dafa2f26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/198929c7-63ca-4253-b852-625d93cc18e7/file/ce844e8a-8876-494b-8a08-63813b5a4623\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2Fa4%2Fb4%2F9ba4b41ac2614f33b27b4c3590bd5fda%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9fa38106-8555-4e5b-a5ab-bd545f67b3e7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-198929c7-63ca-4253-b852-625d93cc18e7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sb3979679",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.981, -74.948, 40.72, 40.698)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-sb3979679"
+}

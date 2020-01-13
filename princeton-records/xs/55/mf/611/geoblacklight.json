@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Lake, D. J."
+  ],
+  "dc_description_s": "Inset maps of following New Jersey localities: North Crosswicks, East Milstone, North Plainfield, Quakertown, Milford (Mercer), Basking Ridge, Middlebush, Pomona Garden and Nursery (Cinnaminson), Bound Brook, Heightstown, Harlingen, Kingston, Cokesburgh, Little York, New Hampton, Lesserx Roads, Peapack, Brookville, Stockton P.O., Hunterdon County Baptist Town, Hamilton Square, Milford (Somerset), Raritan, Somerville, Pluckemin, Flemington, High Bridge, Lawrenceville, Clinton Station, Liberty Station, Liberty Corner, Mechanicsville, Yardville-Groveville, Frenchtown, Cherryville, Lebanon, Millstone, New Germantown, Rocky Hill, Bloomsbury, Titusville, Whitehouse, Clinton, Pennington, Windsor, Mt. Pleasant, North Branch.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xs55mf611",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Philadelphia : C.K. Stone & A. Pomeroy, Publishers, 1860.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mercer County (N.J.),Cities and towns,Maps",
+    "Somerset County (N.J.),Cities and towns,Maps",
+    "Hunterdon County (N.J.),Cities and towns,Maps",
+    "Philadelphia (Pa.),Maps"
+  ],
+  "dc_title_s": "Map of the vicinity of Philadelphia and Trenton from actual surveys",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8826500\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/549005b3-4e29-4b03-aaa7-bdaeeaded5c5/file/ce532bb8-e0b9-4ed4-abb0-124dcb61a8b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/549005b3-4e29-4b03-aaa7-bdaeeaded5c5/file/c0f10955-9c08-4170-bd8c-cd0e52fad14f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2F4c%2F5e%2F394c5e779f894042a2a179e293c3aeba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34996f17-942a-48f3-8a2b-e144ac318a77/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-549005b3-4e29-4b03-aaa7-bdaeeaded5c5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xs55mf611",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.383453, -74.500084, 40.783383, 39.812605)",
+  "solr_year_i": 1860.0,
+  "uuid": "princeton-xs55mf611"
+}

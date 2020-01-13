@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4379 Relief shown by contours at 10 metres interval, and rock drawings. In upper left margin Sicily 1:5,000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2b88qd57j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Caltanissetta (Italy),Maps"
+  ],
+  "dc_title_s": "Town plan of Caltanissetta, G.S.G.S. 4379",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449668\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2dba5df1-e0e8-4d48-80dc-5eece99cc9b0/file/72940d83-7f42-432e-ac68-1b4352717be3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3137cb74-55e9-4ff8-9f38-0706250be71e/file/2222f95e-c507-4eec-a9f6-aa3fa6224cfe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3137cb74-55e9-4ff8-9f38-0706250be71e/file/01b09cee-a31f-4398-a2eb-dcc489e78a5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2Fc7%2Fe2%2F48c7e2a088e64e7db92866d675331d4e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03631522-bd06-4be5-8e86-26705b4c3154/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3137cb74-55e9-4ff8-9f38-0706250be71e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2b88qd57j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.033333333333333, 14.083333333333334, 37.5, 37.46666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-2b88qd57j"
+}

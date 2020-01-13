@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Guyot, A. (Arnold), 1807-1884"
+  ],
+  "dc_description_s": "\"Card series.\" \"Entered according to Act of Congress in the year 1866 by Charles Scribner & Co. in the Clerks Office of the District Court of the United States for the Southern District of New York.\" Double hemispherical world map on a globular projection. Relief shown by hachures and form lines.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z700z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Published by Ch. Scribner & Co., 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "The world : wall-atlas",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4543347\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3780c9e9-8a9f-4d2b-96c4-6d4d66405500/file/0af1426b-86be-4c90-afae-c34001f37f30\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0676fe4a-a955-47c6-9e5b-8ba0fd3565fc/file/1b36be19-42cb-4527-a45e-ad4b63110c9b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0676fe4a-a955-47c6-9e5b-8ba0fd3565fc/file/97e99cc9-61df-442d-8432-578fec17796e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F0a%2F44%2F800a4492a2ce4ef195d17eb8df6de3cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/803b789c-c4e4-4c01-84bb-0c46f1421d59/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0676fe4a-a955-47c6-9e5b-8ba0fd3565fc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z700z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-zw12z700z"
+}

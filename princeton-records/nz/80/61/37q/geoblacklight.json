@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Oyster Bay, N.Y.-C.T. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1897. Surveyed in cooperation with the State of New York. Triangulation by U.S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nz806137q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Oyster (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-Connecticut: Oyster Bay Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867965\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1e314e55-a377-4c34-9076-09a0993616ed/file/39ce4235-4e54-49a7-8a99-e07b08de9300\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc158bed-65c9-4f23-a75c-dade9d31877a/file/e6021779-390c-4835-aa18-724598c36274\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc158bed-65c9-4f23-a75c-dade9d31877a/file/a9cd30bd-d999-452b-90a9-6c172c6db1a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F61%2F4a%2F83614aaf50d843e0a7278491c70fae6c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8671a287-1201-4339-871d-628825cf1f0d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc158bed-65c9-4f23-a75c-dade9d31877a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nz806137q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 41.0, 40.75)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-nz806137q"
+}

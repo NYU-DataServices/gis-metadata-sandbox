@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dc_description_s": "Streets are named. Oriented with north to the left. \"Copied from a map prepared by Manila Fire Insurance Association, 1937.\" AMS 1. Alternate title: Cagayan. Copied from a map prepared by Manila Fire Insurance Association, 1937.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k642k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Cagayan de Oro City (Philippines),Maps",
+    "Misamis Oriental (Philippines),Maps",
+    "Mindanao Island (Philippines),Maps",
+    "Cagayan,Maps"
+  ],
+  "dc_title_s": "Cagayan, Philippine Islands, Misamis Oriental Province. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830583\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/69114fa1-c94c-4043-ba2a-6b751190bd2a/file/8899c5b3-21b2-4947-ba6f-926714bbb691\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d855033-4b95-4708-aace-c01df26912a4/file/5f296f7d-5c4b-461e-945f-6bbdc4e3cd6e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d855033-4b95-4708-aace-c01df26912a4/file/73d1e896-d911-48ae-b8d8-9d653bb823fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2Fd4%2F7d%2Fa0d47ddfb34d415784dace869b349948%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2a6a451d-bf8f-4f63-974a-e2f8133bf2b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d855033-4b95-4708-aace-c01df26912a4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k642k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(124.639167, 124.650833, 8.488889, 8.474167)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-m039k642k"
+}

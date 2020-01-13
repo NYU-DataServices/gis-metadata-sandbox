@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "Relief shown by hachures. Shows Indian tribes with populations, villages, forts, portages, lead mines, etc. From: Atlas universel de ge\u0301ographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827. Covers parts of Wisconsin, Minnesota and Iowa and small parts of Illinois and Michigan, labeled \"Territoire du Nord-Ouest.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k440c",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Indians of North America,Minnesota,Maps",
+    "Indians of North America,Wisconsin,Maps",
+    "Wisconsin,Maps",
+    "Minnesota,Maps",
+    "Iowa,Maps"
+  ],
+  "dc_title_s": "Partie des E\u0301tats-Unis",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4861360\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/421d0bd3-1407-469d-a42c-0bddaf97b138/file/af285df7-f590-42b9-8401-1697ebb7896b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/421d0bd3-1407-469d-a42c-0bddaf97b138/file/eba1790f-6e8c-415b-9389-1f6884c2cd2d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F50%2F2e%2Faf502ea7cc41489c8daa26de05be501a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c1881a5-3b21-4396-bacc-b6dfbfd5d453/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-421d0bd3-1407-469d-a42c-0bddaf97b138",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k440c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-97.68, -87.67, 48.01, 42.01)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-td96k440c"
+}

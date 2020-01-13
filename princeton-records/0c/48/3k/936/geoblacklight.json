@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "\"Unclassified.\" Map no.: \"704703 (A01776) 3-85.\". \"Boundary representation is not necessarily authoritative\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0c483k936",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1985.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Insurgency,Afghanistan,Maps",
+    "Afghanistan,Politics and government,1973-1989",
+    "Afghanistan,Maps",
+    "Afghanistan,History,Soviet occupation, 1979-1989,Protest movements"
+  ],
+  "dc_title_s": "Major insurgent groups in Afghanistan.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6829814\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72050d4e-2aa3-44d8-9d97-2bd4baa0803e/file/4c69f38c-d573-4e19-8efd-75aefda0fd52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72050d4e-2aa3-44d8-9d97-2bd4baa0803e/file/585544c3-701e-47a6-bd4c-a5d30765ee88\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F02%2F13%2F9502134fc5a94a218da50dc352964e29%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8eebee02-2fe4-4eb7-84f4-8dbef13ae2b4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-72050d4e-2aa3-44d8-9d97-2bd4baa0803e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0c483k936",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(60.517222, 74.89, 38.490833, 29.377222)",
+  "solr_year_i": 1985.0,
+  "uuid": "princeton-0c483k936"
+}

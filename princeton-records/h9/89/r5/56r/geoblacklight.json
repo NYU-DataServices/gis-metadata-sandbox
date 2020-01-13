@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"3728.\" Includes location map, key, key map and text. In upper margin: N.J. coast map vol. 3 Sheets 24 and 85-87 of N.J. coast map, vol. 3, series, originally issued in 1905; sheet 24: New sheet, Apr. 1921; sheets 85-87: Add'l sheets, Apr. 1921.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r556r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921, c1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Manasquan,Maps",
+    "Manasquan (N.J.),Maps"
+  ],
+  "dc_title_s": "Manasquan, Monmouth Co., New Jersey (Sheet 24)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5706508\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe92227b-d88f-4f6e-83cb-b42b6aec3e10/file/abaa7c59-d4d1-48e1-9e37-1de4f10cebd4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe92227b-d88f-4f6e-83cb-b42b6aec3e10/file/1c675ad9-c8e4-4109-b2c6-fed47f147936\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F0d%2Fcb%2F6b0dcb2b73c54e7f8bc26143f2115700%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f319c0e-3a39-4882-9dda-f25e01f3f94b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe92227b-d88f-4f6e-83cb-b42b6aec3e10",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r556r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.062032, -74.026635, 40.132633, 40.100818)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-h989r556r"
+}

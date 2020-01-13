@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Depths shown by soundings and isolines. In upper margin: Atlas sheet No. 16 (Egg Harbor).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wz28g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : The Survey, 1891, c1885 ([New York] : Julius Bien & Co. Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Burlington County (N.J.),Maps",
+    "Atlantic County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of Egg Harbor and vicinity including the Atlantic shore from Barnegat to Great Egg Harbor : from original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8293341\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5af4b5b6-3ac1-4885-88ed-d3e0bf31723d/file/34bafd5c-4444-4813-8fee-ea652b0ae0c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5af4b5b6-3ac1-4885-88ed-d3e0bf31723d/file/c42f354b-79c8-4522-81a6-45e248877346\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F0b%2F27%2F730b276ef5e547a7a06acc6cd0fbcedb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/633a2a78-713c-464b-9a52-bb1c2878656c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5af4b5b6-3ac1-4885-88ed-d3e0bf31723d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wz28g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.634845, -74.173076, 39.773373, 39.275045)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-vh53wz28g"
+}

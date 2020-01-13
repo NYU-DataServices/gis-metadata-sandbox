@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is an azimuthal equidistant map projection centred on Kabul, Afghanistan. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128c57t",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Azimuthal equidistant projection centered on Kabul, Afghanistan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/715d53e5-be13-410d-be67-aa60b2284ef7/file/19dc4e09-0fcc-44d4-aa00-5803507ff130\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e51e68b-e0e9-434e-b99e-9bddb808e671/file/99f0f229-9a0e-43bc-84ab-dcdb477b05c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e51e68b-e0e9-434e-b99e-9bddb808e671/file/a85cb417-8040-4947-b4ce-d4ad7f50768e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2Fd3%2F63%2Fa9d3634132724741b7f4716a24cd986e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/db767b1c-3801-4980-b7ef-de862c2c374e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Middle East",
+    "Afghanistan",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6e51e68b-e0e9-434e-b99e-9bddb808e671",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128c57t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.0, 120.0, 65.0, -15.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-bk128c57t"
+}

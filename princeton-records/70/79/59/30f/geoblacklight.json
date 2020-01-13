@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.625000. South Decimal Degree 39.500000. East Decimal Degree -75.375000. West Decimal Degree -75.500000. Alternate title: Salem, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curves and soundings in feet- datum is mean low water. Shoreline shown represents the approximate line of mean high water. The average range of tide is approximately 5 feet. \"Mapped by the United States Coast and Geodetic Survey; Edited and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1946. Topography by plane-table methods 1947. Field check 1948.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/70795930f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Salem Quadrangle, New Jersey--Salem Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845031\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/844f5f9b-93ef-4d96-8f42-dae22887a8b9/file/bb368620-6b5a-4b52-9a17-a03dc57d508f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2015139-1ad3-47fd-a3de-bd4b7b099007/file/0c951890-9cd9-4d58-83cb-733f796a2253\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2015139-1ad3-47fd-a3de-bd4b7b099007/file/279e1dfe-a8eb-4ce4-acfd-45d83be2b467\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F9b%2Fab%2Fb19baba3092044c0bad398df6ca30998%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07f94eea-6cfd-4814-9777-ab41202a950c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b2015139-1ad3-47fd-a3de-bd4b7b099007",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-70795930f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.375, 39.625, 39.5)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-70795930f"
+}

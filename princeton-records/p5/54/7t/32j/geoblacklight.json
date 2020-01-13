@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1919.\" Includes location map, key, streets and specials index, and text. \"2742.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p5547t32j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Vineland,Maps",
+    "Vineland (N.J.),Maps"
+  ],
+  "dc_title_s": "Vineland, Cumberland County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5418230\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b2a4f4c-6533-4a42-ba63-c430f26982af/file/522bd500-faae-4e75-b1a6-e3691d3c67de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b2a4f4c-6533-4a42-ba63-c430f26982af/file/8306431d-f299-4120-adc3-1ab905f7f65b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F4b%2Fdd%2F614bddf08fff473a95cf40ea09836e76%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09bb952e-5dc2-455b-a16f-66cd4cbe0a7e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0b2a4f4c-6533-4a42-ba63-c430f26982af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p5547t32j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-p5547t32j"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie. East View Cartographic. [Soviet Union. Sovetskaia Armiia. General'nyi shtab]. Title from disc: Yangaquan [sic.]. At head of title: China 1:10,000 Russian city plan. Gauss-Krugger/Pulkovo 1942/Krassovsky projection. 1 computer optical disc 4 3/4 in. Raster. Format: Tiff.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p1792",
+  "dc_language_s": "Russian",
+  "dc_publisher_s": "[Moscow?] : Sovetskaia Armiia General'nyi shtab, 1976.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Kitai provintsiia Shan'si. IAntsiuan' (J-49-84)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830173\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a41578a4-8b9a-4919-b676-7ba1838bb2e4/file/d463e368-133e-4982-ac52-e791176ea111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d65ffaf8-361b-458b-b680-20b7143d9198/file/d8598d7c-39aa-4a44-907c-d18afc31fbb9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d65ffaf8-361b-458b-b680-20b7143d9198/file/96bef02a-bff9-46f1-9ab0-33a175298cc2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2Fd5%2Fb9%2F36d5b97f342a4178bcfbb61c6b7d251c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33363c42-8340-4d52-bcd5-1d662258e988/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d65ffaf8-361b-458b-b680-20b7143d9198",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p1792",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(113.48333333333333, 113.5, 37.9, 37.833333333333336)",
+  "solr_year_i": 1976.0,
+  "uuid": "princeton-5d86p1792"
+}

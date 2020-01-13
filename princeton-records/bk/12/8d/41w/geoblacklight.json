@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Shows portion of Central America, northwestern South America, southern United States, and coast of Tamaulipas in Mexico. Relief shown pictorially. Appears in the author's Theatrum orbis terrarum. Addidtamentum III. Includes ill. Latin text on verso; signature 8. Historic Maps copy 2 is map of Guastecan only; verso blank.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128d41w",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antwerp : Plantin, 1584]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "America,Maps,Early works to 1800",
+    "Florida,Maps,Early works to 1800",
+    "Huasteca Region (Mexico),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Peruuiae aurifer\u00e6 regionis typus",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4739084\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb308b6f-b357-4d10-984c-3b3bc30890bd/file/5cedffb1-d89e-4b4f-8c6c-557a99b477c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb308b6f-b357-4d10-984c-3b3bc30890bd/file/a008bcfa-52e9-4508-b80b-af74d5db9920\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F9c%2F78%2Fa19c789246ed4d79b46d6427f01b6161%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e17dfb89-7599-44a1-866d-b747dcd56968/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "Florida",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1584"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cb308b6f-b357-4d10-984c-3b3bc30890bd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128d41w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-82.51, -58.52, 12.51, -25.01)",
+  "solr_year_i": 1584.0,
+  "uuid": "princeton-bk128d41w"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Oswego. Relief shown by 20 feet contour interval. Surveyed in 1898 in cooperation with the State of New York. Triangulation by the U.S. Lake Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km27m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Oswego (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Oswego Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867953\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a47f6726-0f0f-4b4d-be5b-ea423fa35271/file/78c2b340-8c4c-4dfc-96b8-6786fcc485a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa2031e5-59e8-4ce3-9da7-671758e8e5c7/file/57226222-4dc5-495d-a7be-139c78db8e1f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa2031e5-59e8-4ce3-9da7-671758e8e5c7/file/15ed92e5-50d8-4e60-aaac-66c66b4a0bc8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F61%2F1d%2F2e611da23acf4ba5998ea1fe9641732a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/997a8db3-39d1-483d-aade-ef25b270a17f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fa2031e5-59e8-4ce3-9da7-671758e8e5c7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km27m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 43.5, 43.25)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-q811km27m"
+}

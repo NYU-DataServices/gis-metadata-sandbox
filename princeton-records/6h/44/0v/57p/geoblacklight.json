@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June, 1901.\" Includes key and text. \"4799.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6h440v57p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carteret,Maps",
+    "Carteret (N.J.),Maps"
+  ],
+  "dc_title_s": "Carteret, Middlesex County, N. J. (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5519400\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbf41846-b899-490a-9f38-caf7cb11ecbb/file/b932c30b-fdc2-4848-9c63-5dcbd65f739b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbf41846-b899-490a-9f38-caf7cb11ecbb/file/8751dbdb-a7c7-4028-9dfc-a909bd8c1538\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2F3a%2Fad%2F8b3aad89ab804ecfbb75fe028bb323bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30b9d206-cdab-4269-8dfd-0e93db25077e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bbf41846-b899-490a-9f38-caf7cb11ecbb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6h440v57p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254701, -74.203688, 40.604074, 40.557452)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-6h440v57p"
+}

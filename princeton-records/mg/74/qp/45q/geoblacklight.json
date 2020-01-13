@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Skeleton maps of Newark, N.J.; sheets numbered 19.S-22.S.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qp45q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited 1892]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Newark, N. J. (Sheet 21)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5655425\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1f6e97b-f55d-41ad-97da-98e09a2990c9/file/b644d7f3-795f-4aed-9894-734dc8272e9f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1f6e97b-f55d-41ad-97da-98e09a2990c9/file/98cd66d2-f6a4-4747-a5d7-79a239a6bee0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2Ffb%2Fab%2F0efbabb63ab8447faa0187e1ca04ca7a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/58939c88-373e-44b2-b86d-4bd06888af72/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1f6e97b-f55d-41ad-97da-98e09a2990c9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qp45q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-mg74qp45q"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Identifies wards, streets, some buildings and points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v5128",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l. : s.n., 1854?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Philadelphia (Pa.),Maps"
+  ],
+  "dc_title_s": "Philadelphia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531847\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/6b83781a-62c8-4c3b-ab0a-c2fdb2c117ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/615ea88a-75ed-4f97-b1f6-383c55d3bd00\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2F95%2F46%2F0395464f4e7e4fc7848b5e6816c6da4f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eba0acd6-5007-4bc3-a241-948a254f13a2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca568540-faa6-4f81-9b43-eb8c47cea8c2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v5128",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.191924, -75.133495, 39.983471, 39.916751)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-v979v5128"
+}

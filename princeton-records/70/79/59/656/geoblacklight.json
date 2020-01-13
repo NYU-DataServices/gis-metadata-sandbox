@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets, specials, villas, estates, &c. index, and text. \"4820.\" Historic Maps copy has sheets 1-53 and 55-60 of Orange and West Orange series, showing West Orange, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/707959656",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Orange,Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Orange and West Orange, New Jersey (Sheet 43)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5478444\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4bf7c68-ab67-4801-8ab9-a4e845859ec3/file/2ed8d00e-dbce-4ac4-ae07-42b487a73b97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4bf7c68-ab67-4801-8ab9-a4e845859ec3/file/2a160841-a1b4-4fcb-bc12-ed223d8452dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2F81%2F13%2F7581138d685b47eaa65da7c9583abe95%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fc358181-6872-48b0-8824-d4660442d9f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4bf7c68-ab67-4801-8ab9-a4e845859ec3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-707959656",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-707959656"
+}

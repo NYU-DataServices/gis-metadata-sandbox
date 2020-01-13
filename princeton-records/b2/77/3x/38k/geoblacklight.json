@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1900-1901 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x38k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Harford (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Harford Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866842\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dca80074-57da-4927-b1f2-dc52350cfe92/file/fcc7fcbb-adfa-4f44-b203-93cabb77cfbb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d6681ac-ddea-4880-9862-31f9345313c4/file/4e54a266-3c15-4a65-9cc0-42c5eb417956\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d6681ac-ddea-4880-9862-31f9345313c4/file/9fe4a538-f317-4728-bde5-a5fd8474f06d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2Fc3%2Fb5%2Fb3c3b5b7f7f947deb3bd46fe5217d7d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/89aa094d-e31e-4adb-8136-851c41d5f061/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5d6681ac-ddea-4880-9862-31f9345313c4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x38k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 42.5, 42.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-b2773x38k"
+}

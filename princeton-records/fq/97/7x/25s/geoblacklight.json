@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Interstate Map Co."
+  ],
+  "dc_description_s": "Includes street index. In upper margin: The Seacoast National Bank, Asbury Park, N.J. Wall map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fq977x25s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Newark, N.J. : Interstate Map Co., c1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asbury Park (N.J.),Maps",
+    "Ocean Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "New map of Asbury Park, Ocean Grove : including Bradley Beach, Deal, Wanamassa, Interlaken, Allenhurst and vicinity",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6782133\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fb2c1ed-513f-4a5f-94b4-57f46d3da3b5/file/1f00e53a-87f7-4009-a90d-caa97a6da528\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fb2c1ed-513f-4a5f-94b4-57f46d3da3b5/file/4b881a52-7a39-4a8a-b4f6-76342f817d4e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fdf%2F63%2F8ddf631a58894cf2a1698e5a50c23998%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9dcb6998-16bc-4320-86af-7ba790f267a4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0fb2c1ed-513f-4a5f-94b4-57f46d3da3b5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977x25s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.044001, -73.987492, 40.260844, 40.192294)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-fq977x25s"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Russell, John, fl. 1733-1795"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Publish'd as the Act directs.\" Prime meridian: London.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gf06g456n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : ... by H.D. Symonds, No. 20 Pater Noster Row, July 26, 1794.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "North America,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A general map of North America : drawn from the best surveys (Copy 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5272194\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e73fd08d-0142-4dc1-8fef-e005107eb3a9/file/10810dc8-641e-48f5-abfa-6d6ed239bc84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e73fd08d-0142-4dc1-8fef-e005107eb3a9/file/2fa921bc-5033-4ab3-a53a-90a777218d7a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2F70%2F11%2Ff5701108bd554000bcaa5c56ddf7b982%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dbb30c21-8462-466c-9565-cbc92a5ae684/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1794"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e73fd08d-0142-4dc1-8fef-e005107eb3a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gf06g456n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, -30.0, 85.0, 10.0)",
+  "solr_year_i": 1794.0,
+  "uuid": "princeton-gf06g456n"
+}

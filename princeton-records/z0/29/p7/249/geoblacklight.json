@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Friedrichshafen in the German state of Baden-Wu\u0308rttemberg. In lower margin: Woerl's Reisehandbu\u0308cher. Indexed for points of interest. Probably issued in an unidentified edition of: Fu\u0308hrer durch Friedrichshafen und Umgebung / herausgegeben von Leo Woerl.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z029p7249",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Wu\u0308rzburg : Woerl's Reisebu\u0308cherverlag, 1890?] (Wu\u0308rzburg : Lith. Anst. v. Ferd. Borst)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Baden-Wu\u0308rttemberg (Germany),1890",
+    "Friedrichshafen (Germany),Maps"
+  ],
+  "dc_title_s": "Friedrichshafen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7572564\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcbe0d5f-05fc-42f8-bdb9-a945e5a05e02/file/f69cb937-80e5-4145-80ed-fea6654b7619\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcbe0d5f-05fc-42f8-bdb9-a945e5a05e02/file/aaf8e913-c9d5-4786-9f9b-21998cd161cc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ae%2F37%2F56%2Fae3756e757564ecb8183a2bf259051f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70b4853a-6958-4f07-8943-5b23a0a0580b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bcbe0d5f-05fc-42f8-bdb9-a945e5a05e02",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z029p7249",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.463738, 9.490173, 47.658258, 47.647793)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-z029p7249"
+}

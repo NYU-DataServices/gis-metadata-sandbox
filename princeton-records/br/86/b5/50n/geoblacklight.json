@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 71-73 of Palisades, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b550n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1911]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Leonia,Maps",
+    "Leonia (N.J.),Maps"
+  ],
+  "dc_title_s": "Leonia (Sheet 71)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5269027\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03d022c7-0eb7-4b69-9d88-1577b62b059a/file/13e5d003-907c-458e-9db2-5e70fd5b0c8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03d022c7-0eb7-4b69-9d88-1577b62b059a/file/885fe49e-0344-4ff7-bedf-396ab6c68d80\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2Fef%2Fce%2Fd8efce4983d8493bb883032dbb2415c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/416b8e26-f19e-4091-ba2d-597029d6ed4c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03d022c7-0eb7-4b69-9d88-1577b62b059a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b550n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.006283, -73.97569, 40.876602, 40.850884)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-br86b550n"
+}

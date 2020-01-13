@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Chesterfield. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886 in cooperation with the state of Mass. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qf85nc73q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Chesterfield (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Chesterfield sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837219\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7b439a2-cf22-43dc-858c-bc51cfac92e4/file/c3ce934f-e1f6-4541-986a-3aeafd056539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1d916f6-f243-418a-8e1c-a9e6fcef91a4/file/9ca3d063-d530-4f5b-97c2-92f50a5cbecc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1d916f6-f243-418a-8e1c-a9e6fcef91a4/file/c9b45cfd-9dca-4c85-bd54-afcbd527a139\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F2b%2F94%2Fc62b94a12f7f4f3a8a98f94210f36ed7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4fbaa433-618b-4bd4-8784-d39bb34514d1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1d916f6-f243-418a-8e1c-a9e6fcef91a4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qf85nc73q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -72.75, 42.5, 42.25)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-qf85nc73q"
+}

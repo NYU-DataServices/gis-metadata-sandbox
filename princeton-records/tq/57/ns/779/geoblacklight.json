@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bridgeton, N.J. Relief shown by 10 feet contour interval. Surveyed in 1886. Triangulation by C.C. Vermeule. Verso: legend and explanatory notes, \"The topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57ns779",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bridgeton Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Bridgeton sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831250\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6699dbce-60dd-4956-9c3f-92a80e54c294/file/1c5a9ade-f232-47ed-a806-21f013fae9ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb79b8bc-1e11-4eb8-9bcf-1a494043cd5d/file/ef657013-9802-4a0d-9e43-bc9628706795\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb79b8bc-1e11-4eb8-9bcf-1a494043cd5d/file/1345e79a-04c1-4fc9-b7a5-319febb358f7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2F34%2F19%2Fb93419dbbbea430fbf9cc76222b09cca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/93062b0b-d3e2-496c-96f4-9b06c0627ced/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb79b8bc-1e11-4eb8-9bcf-1a494043cd5d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57ns779",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 39.5, 39.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-tq57ns779"
+}

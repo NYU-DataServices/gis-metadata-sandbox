@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"4031.\" North oriented towards upper right. Some sheets have photographs of Atlantic City tipped in; photograph on sheet 2 has caption title: General view of Atlantic City showing principal hotels & piers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cx77c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Atlantic City, New Jersey (Sheet 68)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5174533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baa2a149-4fb8-440c-bf9d-71e124016162/file/e9183de7-1a8b-44fb-af72-46d4e5cad161\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baa2a149-4fb8-440c-bf9d-71e124016162/file/a9b6898b-9f49-402e-a15f-a94fb828f44f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2Ffa%2Fe4%2F1bfae47f615642b591d8f9613338d879%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cbdc167e-a572-4ab3-a031-d7210242530f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-baa2a149-4fb8-440c-bf9d-71e124016162",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cx77c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-bz60cx77c"
+}

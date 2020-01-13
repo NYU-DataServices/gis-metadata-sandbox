@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1919.\" Includes location map, key, key map, streets and specials index, and text. \"3025.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wp854",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919, c1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westville,Maps",
+    "Real property,New Jersey,National Park,Maps",
+    "Westville (N.J.),Maps",
+    "National Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Westville and National Park, Gloucester County, New Jersey (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5489895\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdbf8383-b862-4cbb-9c42-b7222bad8a01/file/9c0cb974-88f1-4070-a926-7e4289b661fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdbf8383-b862-4cbb-9c42-b7222bad8a01/file/43406ff8-bbd9-4711-8733-292a64430311\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F92%2Fe7%2F3292e7b975284efea4d01a3c0e5718c8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90cffc63-f309-40d9-be35-65195749c88f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bdbf8383-b862-4cbb-9c42-b7222bad8a01",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wp854",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-9c67wp854"
+}

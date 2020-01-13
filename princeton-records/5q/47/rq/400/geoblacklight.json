@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Ube, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. Depth shown by fathoms. In upper left margin \"Japan city plans 1:10,000\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq400",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Ube, Yamaguchi Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450024\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ce2fff1d-e4ca-4de8-ab53-64ab2bcbd078/file/4e741a6a-7796-4de5-8e1b-63c9a95bd26e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa8c00cf-3240-4c72-8949-f78a2662cf7d/file/30b01ded-eddd-4697-b945-a6216a06f8fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa8c00cf-3240-4c72-8949-f78a2662cf7d/file/58813547-5d69-40d9-b544-d81dc3e992a3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2Fef%2F22%2F0bef22bc577b4ecba87d8e02be0f9b58%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1bec488-3aed-4d5f-b044-d67d2bc24e78/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aa8c00cf-3240-4c72-8949-f78a2662cf7d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq400",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(131.21666666666667, 131.26666666666668, 33.983333333333334, 33.916666666666664)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-5q47rq400"
+}

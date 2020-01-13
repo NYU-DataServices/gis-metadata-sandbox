@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Pamplona city plan. Copied from Spain 1:50,000 map 141, 1931. Includes a list of street and building names. Projection approximate.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z890rv760",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Pamplona city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449990\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3c915299-f47f-4a8e-9769-e325812a6da7/file/79eeb102-bb73-442d-b3ba-faedd67b7d46\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4412710e-017c-455b-aa79-32b3d06af544/file/5f54be53-5b09-4d6d-8ba0-a32b1555230b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4412710e-017c-455b-aa79-32b3d06af544/file/4ddd6c4c-ddc2-4f25-a305-fb81e14dc086\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2Fe5%2F93%2Fcce5932543614bb89465218dbfb4e5d7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ddd3c4f7-fff9-44d4-a6c1-a008f7d0aa0a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4412710e-017c-455b-aa79-32b3d06af544",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z890rv760",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.6666666666666665, -1.5833333333333335, 42.833333333333336, 42.8)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-z890rv760"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. In upper left margin: Harrison & Kearny, N.J. Historic Maps copy has sheets 23-27 and 35-76 of series: Insurance maps of Harrison, East Newark and Kearny, Hudson County, New Jersey; sheets showing East Newark and Harrison foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qp18t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Kearny,Maps",
+    "Kearny (N.J.),Maps"
+  ],
+  "dc_title_s": "Kearny (Sheet 52)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5505997\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/298fd4a2-e6fb-47a4-b330-6281c8fce1f6/file/594a7e84-5f66-4cdc-8a69-d389132d4ee8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/298fd4a2-e6fb-47a4-b330-6281c8fce1f6/file/65b68d11-c3b6-4873-83fa-60b73942007b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2Fa4%2F02%2F23a402ed66764ce197e0c9dcf23ae0e0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/11f1bec2-9198-4618-9bc6-783ce1167160/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-298fd4a2-e6fb-47a4-b330-6281c8fce1f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qp18t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.164799, -74.075933, 40.786491, 40.710381)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-mg74qp18t"
+}

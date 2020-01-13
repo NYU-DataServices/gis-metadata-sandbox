@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Seener, P."
+  ],
+  "dc_description_s": "Map of Regensburg in the German state of Bavaria. Originally issued in covers with title: Plan von Regensburg nebst einer Karte der Umgebung von Regensburg und praktischen Notizen fu\u0308r den Fremden.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cw38s",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Regensburg : Coppenrath, 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Regensburg (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Regensburg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7619902\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6b8a682-5cc9-4e2e-83c4-384e70827d82/file/a259f1df-a6f5-489b-b835-09efbcfe6e42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6b8a682-5cc9-4e2e-83c4-384e70827d82/file/32bc0aa7-bd76-4723-85b7-495856334667\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3d%2F0c%2F43%2F3d0c43053d394801b2470cdbecf72db1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a327634-5218-4229-9459-31be360a8386/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c6b8a682-5cc9-4e2e-83c4-384e70827d82",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cw38s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.075086, 12.137555, 49.029406, 49.004209)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-kd17cw38s"
+}

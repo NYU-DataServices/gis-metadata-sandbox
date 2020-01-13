@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hull, George L."
+  ],
+  "dc_description_s": "Shows lots and identifies owners or householders.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qf85nd78j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Morristown, N.J.?] : Geo. L. Hull, 1874.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morristown",
+    "Morris County (N.J.),Maps",
+    "Morristown (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of Morristown, Morris County, N.J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7189392\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a8f3ae3-07e3-43f1-b3f2-f3f3075e3879/file/8007d4ef-3afc-4902-8df7-ad83f2cc0cf9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a8f3ae3-07e3-43f1-b3f2-f3f3075e3879/file/eb149715-d66e-4c8a-9948-0d7707196ec3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F28%2Ff6%2Fa628f6549f2746b5ba01de9a67da2b6e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53ff4068-cf35-4b51-9362-8312d4cad299/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4a8f3ae3-07e3-43f1-b3f2-f3f3075e3879",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qf85nd78j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501495, -74.456184, 40.818226, 40.780231)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-qf85nd78j"
+}

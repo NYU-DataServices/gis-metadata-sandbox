@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Morden, Robert, d. 1703"
+  ],
+  "dc_description_s": "Covers New Jersey, eastern Pennsylvania, Delaware and part of Maryland. From: Geography rectified, or, A description of the world ... London : Printed for Robert Morden and Thomas Cockerill ... , 1688. Includes text in lower margin. Text on verso. Page number in upper right margin: 567.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r529v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : Printed for Robert Morden and Thomas Cockerill ..., 1688]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps,Early works to 1800",
+    "Pennsylvania,Maps,Early works to 1800",
+    "Middle Atlantic States,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A new map of New Jarsey and Pensilvania",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576283\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/299ef51d-8a7a-4399-b0fb-7c6ed0329b3d/file/1cfe2b25-92c1-472b-aa35-580b5d21cc75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/299ef51d-8a7a-4399-b0fb-7c6ed0329b3d/file/e8104d14-2215-427f-8061-4316fefe3be2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F6e%2F01%2Fa56e018e398c4cacac07d546af94c6a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7247d7d0-a532-4584-b433-a826a2b08cbb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1688"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-299ef51d-8a7a-4399-b0fb-7c6ed0329b3d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r529v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.6011, -73.8553, 42.8509, 38.7402)",
+  "solr_year_i": 1688.0,
+  "uuid": "princeton-h989r529v"
+}

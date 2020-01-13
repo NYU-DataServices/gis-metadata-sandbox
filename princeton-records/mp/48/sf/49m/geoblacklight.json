@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J. coast vol 1.\" North oriented toward upper left. Sheets 2-4 inclusive of vol. 1 of New Jersey coast map series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sf49m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Deal,Maps",
+    "Deal (N.J.),Maps"
+  ],
+  "dc_title_s": "Borough of Deal (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4799310\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4eb183c-cd9a-48bc-9085-a7e855dbe5b4/file/8fd31607-43f7-4153-9155-2b2bd648212e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4eb183c-cd9a-48bc-9085-a7e855dbe5b4/file/3de31ace-782a-4fd9-bc43-430ff7fb61f6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fd6%2F7d%2Fdcd67db028114ec8b5f383476bdc9b7e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ae00cb5-95d5-40e8-bd24-f219a18fb73e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4eb183c-cd9a-48bc-9085-a7e855dbe5b4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sf49m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.01, -73.988, 40.264, 40.238)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-mp48sf49m"
+}

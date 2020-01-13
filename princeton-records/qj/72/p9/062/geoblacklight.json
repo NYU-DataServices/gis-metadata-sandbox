@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J.C.M. vol. 4.\" Holly Beach City was incorporated into the newly created Wildwood City on Jan. 1, 1912. cf. Wikipedia. Historic Maps copy has sheets 34-44 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p9062",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Holly Beach,Maps",
+    "Real property,New Jersey,Wildwood,Maps",
+    "Holly Beach (N.J.),Maps",
+    "Wildwood (N.J.),Maps"
+  ],
+  "dc_title_s": "Holly Beach (Sheet 40)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5322820\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33e14d6e-d36a-48cd-b66a-376887dfa18a/file/c5f4b8dc-4c15-4165-bb4d-6e5d7e2b4dff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33e14d6e-d36a-48cd-b66a-376887dfa18a/file/17f0e7af-1fa5-4189-9e95-bb2725f3aa81\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2F83%2F5e%2Fb8835eb78832431a9b75b62a8e39cafe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07fd87a6-13ed-4b72-aeed-268eb2ba26c9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-33e14d6e-d36a-48cd-b66a-376887dfa18a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p9062",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.835124, -74.7996, 38.998783, 38.974196)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-qj72p9062"
+}

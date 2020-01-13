@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bitterlich, Gustav"
+  ],
+  "dc_description_s": "Map of Wiesbaden in the German state of Hesse. \"Beilage zu Franz Bossong's illustr. Fremdenfu\u0308hrer.\" Panel-title on verso: Stadt-Plan von Wiesbaden. Advertisements on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h128nj42c",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wiesbaden : Verlag von Keppel & Mu\u0308ller (Inh. : Bossong), [1891?] (Mainz : Druck von Fl. Kupferberg)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hesse (Germany),Maps",
+    "Wiesbaden (Germany),Maps"
+  ],
+  "dc_title_s": "Plan der Stadt Wiesbaden : unter Benutzung des amtlichen Planes der Stadt (laut Genehmigung v. 9/3., 1891) (laut Genehmigung v 9/3, 1891)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7591245\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77c6ab15-0de3-4340-8755-f993d8b5e059/file/b68249d7-8310-4470-aaff-123eb3ad9968\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77c6ab15-0de3-4340-8755-f993d8b5e059/file/6cc70dd9-a2e8-4a31-96dd-e53906c06c92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F29%2Ffa%2Fce29fa2f4d434fd283dcbcb42f45f9d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9861ac6e-1055-4d51-a7e7-6fc628e457ce/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77c6ab15-0de3-4340-8755-f993d8b5e059",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h128nj42c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-h128nj42c"
+}

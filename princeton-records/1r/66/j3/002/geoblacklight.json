@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.666667. South Decimal Degree -19.833333. East Decimal Degree -68.250000. West Decimal Degree -68.500000. Alternate title: Chacoma, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1r66j3002",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1973.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Chacoma, hoja 5934 IV. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5211421d-7142-496f-b5aa-5b2f0d73b677/file/d0c855c0-2fa0-48ed-9c1e-b22b86aedd00\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5211421d-7142-496f-b5aa-5b2f0d73b677/file/1438e311-578a-476a-82ea-962077b0a02e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/56%2F44%2F69%2F564469b0d47b4b8991b3bc5ac16b72dd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1758fd21-dd50-4464-a226-b482b68b41c9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5211421d-7142-496f-b5aa-5b2f0d73b677",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1r66j3002",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.5, -68.25, -19.666667, -19.833333)",
+  "solr_year_i": 1973.0,
+  "uuid": "princeton-1r66j3002"
+}

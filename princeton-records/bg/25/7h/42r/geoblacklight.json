@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map and text. In upper margin: N.J.C.M. vol. 3. North oriented towards upper left. Sheets 32-46 of New Jersey coast map, vol. 3, series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h42r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Point Pleasant,Maps",
+    "Point Pleasant (N.J.),Maps"
+  ],
+  "dc_title_s": "Point Pleasant, Ocean County, New Jersey (Sheet 36)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5713686\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7d1a9f5-2787-421c-8272-16625ac80fd9/file/55d65880-2fbb-49e5-8d33-52c41f711324\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7d1a9f5-2787-421c-8272-16625ac80fd9/file/68b6bd5c-384d-4320-b886-95e7bbf8134d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F60%2F56%2F3b605656a21e48e7b397a54dc156ce0e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/23e7e84b-b997-4b8d-b2c2-e78bba1f66a7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7d1a9f5-2787-421c-8272-16625ac80fd9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h42r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.091661, -74.047758, 40.097611, 40.059716)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-bg257h42r"
+}

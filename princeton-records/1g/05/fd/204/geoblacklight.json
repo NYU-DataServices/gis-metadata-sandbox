@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.250000. South Decimal Degree 40.125000. East Decimal Degree -74.875000. West Decimal Degree -75.000000. Alternate title: Lake Maskenozha, PA--N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Topography from aerial photographs by stereophotogrammetric methods. Aerial photographs taken 1942. Field check 1946. Culture revised by the Geological Survey 1954.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd204",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "New York,Maps"
+  ],
+  "dc_title_s": "Lake Mazkenozha Quadrangle, Pennsylvania-- New Jersey, 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844318\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e9f50d7-4886-4ed6-a757-857f4d8334eb/file/20a9094f-5ce9-4851-b703-39df1687c1ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a95a0edd-0bc9-4143-94a6-e92bbc976233/file/77d3cc2c-536e-42e1-aa13-0228cd739d88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a95a0edd-0bc9-4143-94a6-e92bbc976233/file/a771fb1a-b27b-4195-901d-7daa2287ca7d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/60%2Fe1%2Fd6%2F60e1d66bed4449b4aa015ed50ed6afcf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4569f974-603e-4eef-b979-44f51bc559ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a95a0edd-0bc9-4143-94a6-e92bbc976233",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd204",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.875, 40.25, 40.125)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-1g05fd204"
+}

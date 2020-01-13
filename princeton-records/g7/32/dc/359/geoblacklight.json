@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hayward, George, b. ca. 1800"
+  ],
+  "dc_description_s": "Shows ward boundaries, parks, fire districts, and piers. Covers Manhattan south of 51st St. Oriented with north to the right. Inset: 12th Ward, city of New York. Includes fire alarm information and tables of correspondance between wards and other political divisions.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g732dc359",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : s.n., 1850] (N.Y. : [Lith. of G.] Hayward, 180 Fulton St.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),Maps",
+    "New York (N.Y.),Administrative and political divisions,Maps",
+    "Manhattan (New York, N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the city of New York, 1850",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5944884\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb9281ec-85d1-4a33-a0fc-e742ee64857d/file/00b78432-16d1-4990-8f95-d1210a738699\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb9281ec-85d1-4a33-a0fc-e742ee64857d/file/496619ca-7523-4a35-87f3-e86acd533b2d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F0e%2F40%2Fd00e4018257249d28b2bb11e647e3c0b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/027ef6f5-9f90-4d86-9ed6-a2cb27513050/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cb9281ec-85d1-4a33-a0fc-e742ee64857d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g732dc359",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019591, -73.949596, 40.767564, 40.701323)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-g732dc359"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Guilmin, L."
+  ],
+  "dc_description_s": "Includes illustrations of buildings and monuments.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k732j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : L. Guilmin, [1920?] (Paris : Imp. Dufre\u0301noy)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Nouveau plan de Paris monumental",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6128679\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/38e6e2a2-fe4e-46d8-a7dc-0394920f4eaf/file/0b56b1d6-ab41-48e6-9fbf-0072efaea54c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/38e6e2a2-fe4e-46d8-a7dc-0394920f4eaf/file/1e73f2fa-5f32-4329-a83e-089d7e0f925c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2Fa7%2F3d%2F4ba73d0e267c46a2b4c068872d70d797%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48770bb4-3788-439b-9da0-3ad7be5dc61e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-38e6e2a2-fe4e-46d8-a7dc-0394920f4eaf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k732j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.218106, 2.430622, 48.944351, 48.793948)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-m039k732j"
+}

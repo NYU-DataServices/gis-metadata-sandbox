@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Hudson Mohawk sheet. Map is 22 sheets stored in box on top of New York map cases. Black and white.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s161761v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Hudson-Mohawk Urban Cultural Park (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: Hudson Mohawk sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866945\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/14c8416a-6ded-4a3b-a964-93cae0dacd71/file/0f47b571-304e-4740-b727-df0fe3738313\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/07ad6604-cac4-4230-b5d8-25af8a3e091a/file/d2fd3e39-28cc-4d4a-9d0d-8a06221bad6b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/07ad6604-cac4-4230-b5d8-25af8a3e091a/file/d15e4473-5727-465a-b66d-2ce81330e40c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/de%2F39%2F6c%2Fde396c43e2864a8c8338d2bc95d12130%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73b73a75-9616-482e-8fd6-3b301924d4a4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-07ad6604-cac4-4230-b5d8-25af8a3e091a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s161761v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.83333333333333, -73.25, 43.5, 42.0)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-9s161761v"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1920.\" \"Including Ogdensburg.\" \"3018.\" Includes location map, key, key map, streets and specials index, and text. Sheets 3, 6, and 8-9 show properties of New Jersey Zinc Company.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386m443",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey Zinc Company,Maps",
+    "Real property,New Jersey,Sussex County,Franklin,Maps",
+    "Real property,New Jersey,Ogdensburg,Maps",
+    "Franklin (Sussex County, N.J.),Maps",
+    "Ogdensburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Franklin, Sussex County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606648\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ef09f31-2e6a-42de-8a28-e99afc4ba499/file/c5890203-da0f-42cc-9a9d-5ec7d040ec3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ef09f31-2e6a-42de-8a28-e99afc4ba499/file/115fc978-2ffb-46e1-a818-d851ed021fd6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F87%2Fdc%2F8387dc1ef04344c490e1dbf5706a85a2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6f48a6c9-2dc9-45f0-9ee0-e74feac4d735/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ef09f31-2e6a-42de-8a28-e99afc4ba499",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386m443",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.609812, -74.569941, 41.138151, 41.085096)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-bc386m443"
+}

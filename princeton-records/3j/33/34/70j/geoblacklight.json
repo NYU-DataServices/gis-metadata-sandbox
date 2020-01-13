@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Bauerkeller, Georg, active 1830-1870"
+  ],
+  "dc_description_s": "Embossed map of Europe, Russia, Turkey and North Africa; shows mountains, rivers and lakes.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3j333470j",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Paris : Farbendruck und Pra\u0308gung von Bauerkeller et Cie., [ca. 1845]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrography,Europe,Maps",
+    "Mountains,Europe,Maps",
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Hydrogr. Karte von Europa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6864500\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/001c3b28-ccb5-4c28-a41c-aa0680704814/file/55e02595-6daa-4644-a02a-d82372d79a89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/001c3b28-ccb5-4c28-a41c-aa0680704814/file/af8b8157-051a-4885-bbb5-71c2ab9e3537\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2F78%2Fd3%2F4078d31a2fbb4be1868ce68d9251be92%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87f6a025-0ae0-4d03-9d3e-cd9fce20e0a3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1845"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-001c3b28-ccb5-4c28-a41c-aa0680704814",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3j333470j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-25.0, 58.8, 71.4, 29.0)",
+  "solr_year_i": 1845.0,
+  "uuid": "princeton-3j333470j"
+}

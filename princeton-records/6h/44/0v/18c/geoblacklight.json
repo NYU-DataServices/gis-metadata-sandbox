@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "University of Kansas, Department of Geography Explanatory text: 31p. \"Lambert conformal conic projection.\" \"Base from U.S. Geological Survey 1:500,000 map of California.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6h440v18c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Lawrence, KS : [s.n.], 1977.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Plants",
+    "California,Maps"
+  ],
+  "dc_title_s": "Natural vegetation of California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6458251\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82058a24-ebdc-4b84-bf05-3989f29e0207/file/229ffe10-8b5c-47aa-851a-0981da0b44ab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d19930c5-0861-4fd7-b854-3c9c9238e43d/file/1e4a18cb-f8b0-40e4-80ca-871f57e3d328\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d19930c5-0861-4fd7-b854-3c9c9238e43d/file/3324ba98-46b1-4477-8bcf-3a5b813547ce\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F41%2F0a%2F21410a238fca4f0a9091257154bc498e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3b478de3-b240-4374-9bfa-8175266d7b63/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d19930c5-0861-4fd7-b854-3c9c9238e43d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6h440v18c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.41666666666667, -114.11666666666666, 42.0, 32.53333333333333)",
+  "solr_year_i": 1977.0,
+  "uuid": "princeton-6h440v18c"
+}

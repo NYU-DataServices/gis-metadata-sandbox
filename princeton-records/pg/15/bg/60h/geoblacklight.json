@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1923.\" Includes location map, key, streets and specials index, and text. \"1189.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bg60h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Maple Shade,Maps",
+    "Maple Shade (N.J.),Maps"
+  ],
+  "dc_title_s": "Maple Shade, Burlington Co., New Jersey (3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5127745\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56976369-ab66-4bfc-abe6-82bb0a9095f2/file/f2ec52c4-f62b-4346-ba53-8343f6b87241\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56976369-ab66-4bfc-abe6-82bb0a9095f2/file/2594206b-0f50-4266-95ad-72526044acfc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F37%2Faf%2F5037af70449c46e79ce76112e237af19%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25305a15-11f5-4629-a6b1-5ec59b27e31e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-56976369-ab66-4bfc-abe6-82bb0a9095f2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bg60h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.932, -74.911, 39.973, 39.927)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-pg15bg60h"
+}

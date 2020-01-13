@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Averill, VT-NH. Polyconic projection. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1926. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rr171z74n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Averill Quadrangle (Vermont),Maps"
+  ],
+  "dc_title_s": "Vermont-New Hampshire: Averill Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838665\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4386a71c-5b0b-455b-a6f3-7f57757de8c8/file/8001071b-a7bb-4fab-bf95-7859b4c1721d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8096bf8-089c-4429-942b-1ed9615744ce/file/ed5e4ab8-e28c-41c0-912f-969cec5b427b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8096bf8-089c-4429-942b-1ed9615744ce/file/5c986475-1e5b-40fe-8c9f-d67a079f229d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Fa0%2F1c%2F57a01cb4052943529db7450d9dc2d759%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b02a88ff-faf3-4f93-a655-b73a34cd9e7f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d8096bf8-089c-4429-942b-1ed9615744ce",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rr171z74n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.75, -71.5, 45.0, 44.75)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-rr171z74n"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Adam and Charles Black (Firm)."
+  ],
+  "dc_description_s": "In top margin: 1., 2. Plates 1 and 2 from: General atlas of the world ... [Edinburgh : A. & C. Black, 1889?] Double hemispherical world map; relief shown by hachures. Insets: Land hemisphere -- Water hemisphere -- Comparative view of the lengths of the principal rivers of the world in British miles -- Comparative view of the heights of the principal mountains shewing their height in feet above the level of the sea.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/js956h321",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Edinburgh? : Adam and Charles Black?, 1889?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rivers,Charts, diagrams, etc",
+    "Mountains,Charts, diagrams, etc",
+    "World maps"
+  ],
+  "dc_title_s": "The world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4547593\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/399e84e7-8cb5-4700-8c62-71a7a35852e8/file/01f689fe-d2fe-4295-9d58-1cfac58b9f93\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13a24477-af2e-49dd-869d-e0e2dbbb660f/file/d6a14b31-59b5-4a4c-84d6-e9ca88cd4d82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13a24477-af2e-49dd-869d-e0e2dbbb660f/file/465a57a4-3c93-4bd2-8b4c-f5995a1c68b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/26%2F7b%2F22%2F267b220c983a4ae5bd67ec3a97a5e76c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8b028a0f-e6e7-438a-8ad5-5462411d2d71/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-13a24477-af2e-49dd-869d-e0e2dbbb660f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-js956h321",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-js956h321"
+}

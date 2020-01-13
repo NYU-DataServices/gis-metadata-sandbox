@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1911.\" Includes key, streets and specials index, and text. \"3648\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wx64x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ridgewood,Maps",
+    "Ridgewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Ridgewood, Bergen County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5289033\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c8fb0d3-8484-48f9-bea0-6edee19b348c/file/c5d05a80-c02b-4477-80cd-0ee14799e70e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c8fb0d3-8484-48f9-bea0-6edee19b348c/file/fdc422ce-7b02-4b7e-87a4-e701a73a2b90\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F9d%2F48%2F0c9d484f05994d22b26543a79267219e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f372b15-366b-47ae-9b29-8234ed9451df/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7c8fb0d3-8484-48f9-bea0-6edee19b348c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wx64x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.149088, -74.077559, 41.007844, 40.955272)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-vh53wx64x"
+}

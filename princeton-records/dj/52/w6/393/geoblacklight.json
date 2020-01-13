@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"2952.\" Preliminary sheet [3] has title: Map of congested district of Plainfield, N.J. Historic Maps copy has sheets 1-8, 11-17, 23, and 25-66; sheets 9-10, 18-22, and 24, showing North Plainfield, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w6393",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Plainfield,Maps",
+    "Real property,New Jersey,North Plainfield,Maps",
+    "Plainfield (N.J.),Maps",
+    "North Plainfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the city of Plainfield, Union County, and borough of North Plainfield, Somerset County, New Jersey (Map of Congested Areas)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5285499\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5930a35-7137-4c2d-a1df-d4db84cadf77/file/df6e0ebc-030b-4f51-a803-85af9f4f8e15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5930a35-7137-4c2d-a1df-d4db84cadf77/file/a6d59b76-9fc9-40cf-9794-cfe51532f0b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/29%2F87%2Fdd%2F2987dd7ba2504a2a98c11717a802cadb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1efba1cc-c848-46f1-83ae-e3d2e682dc1b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e5930a35-7137-4c2d-a1df-d4db84cadf77",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w6393",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-dj52w6393"
+}

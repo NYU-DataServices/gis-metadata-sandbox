@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows names of landholders, locations of old roads and buildings and original shoreline and drainage. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1n79h6731",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1872]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the Hermitage Farm and the Norton Estate",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6237314\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b3977e77-94e1-4784-b22c-97ae797e79bc/file/5496a293-edee-4d8b-a54e-de8e4e26763b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b3977e77-94e1-4784-b22c-97ae797e79bc/file/2d60aaca-5ee2-4fe3-b62b-77bf414ff0a3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b4%2Fd1%2Fa2%2Fb4d1a26ed8794ca09e4f4b4ed12bc61f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2e02efbc-08d7-494c-b994-c577ac68bd8a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b3977e77-94e1-4784-b22c-97ae797e79bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h6731",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.012775, -73.985781, 40.765841, 40.750888)",
+  "solr_year_i": 1872.0,
+  "uuid": "princeton-1n79h6731"
+}

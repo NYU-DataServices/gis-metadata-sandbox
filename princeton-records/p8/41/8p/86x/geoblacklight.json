@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Department of Environmental Protection. Division of Coastal Resources. In lower right margin: Beach Haven, N.J. Mapped by the Army Map Service, edited and published by the Geological Survey. \"This map is for visual purposes, for detailed analysis refer to the original sources.\" Blue line copy. This map is sheet 9 of a set of nineteen sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418p86x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Department of Environmental Protection, 1981.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Shorelines",
+    "Geomorphology",
+    "NJ, shoreline,Maps"
+  ],
+  "dc_title_s": "Historical shoreline changes in New Jersey 1835-1972. 9) Beach Haven Quadrangle, New Jersey-Ocean Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866432\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc681d54-d5c4-4932-862b-36ec7041efdd/file/f3062b5f-5091-462c-9e3a-0823d7223bce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/717bca8f-895f-42ab-9732-ce102d8922e1/file/74ae0a17-30a5-4ae9-91c6-d01f8ae08a6b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/717bca8f-895f-42ab-9732-ce102d8922e1/file/da7daa9f-72d6-4fe1-a2a3-331e51f60a72\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F4a%2F3c%2F224a3c25ed244a929fc6f7df6fffe4df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aaf88229-ec9e-4e67-b727-077d6962cea7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-717bca8f-895f-42ab-9732-ce102d8922e1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418p86x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.11666666666666, 39.61666666666667, 39.5)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-p8418p86x"
+}

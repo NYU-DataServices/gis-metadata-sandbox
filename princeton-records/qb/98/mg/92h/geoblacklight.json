@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour intervals. On upper margin: Topographic sheet. Triangulation by the U.S. Coast and Geodetic Survey and C.C. Vermeule. Topography by C.C. Vermeule. Surveyed in 1885-86 in cooperation with the State of New Jersey. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qb98mg92h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Rancocas Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Rancocas Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831284\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d802d3a0-18cf-4b85-a24d-62547520d1cb/file/55cf28bd-d4e9-4465-afd9-537f7027dcbd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/941c2785-b432-4274-9952-81d890bbc94e/file/b093268e-8a7d-48fd-b75c-c7f8b30b6299\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/941c2785-b432-4274-9952-81d890bbc94e/file/926e3855-99a6-4ebd-97b8-55a93def132c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2Fa8%2Faf%2Fb9a8afb010ee4b7ca2dbe85ffb6c654d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/860b4093-b916-4a63-8989-d11696fb37c4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-941c2785-b432-4274-9952-81d890bbc94e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qb98mg92h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.5, 40.0, 39.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-qb98mg92h"
+}

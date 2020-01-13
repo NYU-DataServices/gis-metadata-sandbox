@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper right. \"4031.\" Sheets 127-131 of Atlantic City, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dn71r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Longport,Maps",
+    "Longport (N.J.),Maps"
+  ],
+  "dc_title_s": "Longport (Sheet 5 [131])",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5189772\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b27182d4-099d-44c3-bee1-8f8828bf641e/file/7df9a995-d580-4041-84e5-bcb75f45bef3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b27182d4-099d-44c3-bee1-8f8828bf641e/file/345c2952-c633-4e20-b520-61cfaab36280\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2F78%2F10%2Fc47810c40e524de58adf6ab43c77b5eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/de90a0f6-60c3-444f-ad69-599bf36d17ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b27182d4-099d-44c3-bee1-8f8828bf641e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dn71r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.538, -74.516, 39.323, 39.303)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-sx61dn71r"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1884. Partial revision is 1898 under the direction of H.M. Wilson, Geographer, by Albert Pike. Verso: legend and explanatory notes.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz16q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Franklin Furnace Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Franklin Furnace Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831261\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e246c64-6e18-4262-b37b-aeb667db8c80/file/cb39d291-722c-4fef-b69d-2358997aa1ce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3f77fba-ae8d-4f19-98b7-7932ca58b1d9/file/6ede3929-befc-4b7e-aca0-1d2c99abc45b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3f77fba-ae8d-4f19-98b7-7932ca58b1d9/file/dbf010c1-55e4-4071-bab2-401d0af016a9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F80%2F74%2Fc6807442014b4f219716582b25659c2f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab3eb825-cc6f-496d-b6ed-83858abe4a04/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e3f77fba-ae8d-4f19-98b7-7932ca58b1d9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz16q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.25, 41.0)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-qv33rz16q"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Preliminary sheet [1] has title: Map of congested district of Orange, N.J. Historic Maps copy has sheets 54 and 61-121 of Orange and W. Orange, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mx16s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange (Sheet 77)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5468557\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5410b1e-41ba-4744-92e0-968c47d449a9/file/485a263b-9047-426b-854c-07e7b815047d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5410b1e-41ba-4744-92e0-968c47d449a9/file/ad46ad3b-3494-47a0-8a1a-b5eeb1e7709d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2F15%2F45%2Fd81545f7e637487caecdbc9df40fe895%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/55b07fbd-7d3d-44e4-b07f-6a55e5d1d7ac/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a5410b1e-41ba-4744-92e0-968c47d449a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mx16s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-tm70mx16s"
+}

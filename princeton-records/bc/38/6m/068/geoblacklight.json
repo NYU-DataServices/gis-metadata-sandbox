@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 43.0000. South Decimal Degree 42.0000. East Decimal Degree -4.0000. West Decimal Degree -5.0000. Alternate title: Palencia, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1918-43; Road Map of Spain and Portugal, 1:400,000, A.M.S., sheets 41 and 42, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386m068",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Palencia, sheet 14. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839239\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9704b145-3cb3-42b3-a033-e9dc8311d29b/file/bcf75401-cf1a-4201-84ff-f489555f9d7b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9704b145-3cb3-42b3-a033-e9dc8311d29b/file/dff08301-898b-4bd2-a52d-c44e0fe31726\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/aa%2F7b%2F67%2Faa7b678f14b94859ab019beba5f5b6db%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78afdbe3-05b1-4c43-a863-0e624c23a804/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9704b145-3cb3-42b3-a033-e9dc8311d29b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386m068",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.0, -4.0, 43.0, 42.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-bc386m068"
+}

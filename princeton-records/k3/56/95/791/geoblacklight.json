@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 42 Agadir. Polyconic projection. Northwest Africa and North Sahara zone grids. Relief shown by 100 foot contour intervals. Compiled from Service Geographique du Maroc 1:100,000, 1928 to 1940. Road classifications corrected from Army Map Service road map Northwest Africa, 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k35695791",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Agadir, sheet 42. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831025\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/35737061-462b-46fc-aac0-b8123b35e827/file/a11c68d4-f914-4860-b3da-d74768b5b6ad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8fb5eb9-5532-4a0a-89fb-e6fc8f6ee44c/file/fc17f68f-de0c-4307-9dcf-b7eae97d2cb4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8fb5eb9-5532-4a0a-89fb-e6fc8f6ee44c/file/33f22646-42ad-45a3-b929-68a37baf1a73\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2F82%2Fda%2F9482da94f1d549a59c84d2ba68d79994%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31dbd3dc-7160-477e-b9f3-5e09feca4f96/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f8fb5eb9-5532-4a0a-89fb-e6fc8f6ee44c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k35695791",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, -9.5, 30.5, 30.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-k35695791"
+}

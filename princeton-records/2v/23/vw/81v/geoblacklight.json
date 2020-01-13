@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "U.S. Coast and Geodetic Survey"
+  ],
+  "dc_description_s": "Relief shown by spot heights, and hachures. Depths shown by soundings (in feet), and isolines. Includes text and charts. \"No. 369.\" \"Electrotype copy no. 3 U.S.C. & G.S.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2v23vw81v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast and Geodetic Survey, 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,New York (State),New York Metropolitan Area,Maps",
+    "Nautical charts,New York (State),New York Metropolitan Area",
+    "Waterfronts,New York (State),New York Metropolitan Area,Maps",
+    "New York Bight (N.J. and N.Y.),Maps",
+    "New York Harbor (N.Y. and N.J.),Maps",
+    "New York Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "Bay and harbor of New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6247595\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1cdb482-e2ba-43d0-a30b-26e992d924e9/file/66cca9ae-b20f-4611-bdaf-3619a16f3ee2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1cdb482-e2ba-43d0-a30b-26e992d924e9/file/8c97e612-3d5a-4c1e-974f-54a6b72a52c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2F82%2F29%2F928229531d4c40da956cfcd79c39007b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ffda8447-6bb5-4fb7-887b-927339cb06d7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1cdb482-e2ba-43d0-a30b-26e992d924e9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2v23vw81v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.283474, -73.829258, 40.833406, 40.396092)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-2v23vw81v"
+}

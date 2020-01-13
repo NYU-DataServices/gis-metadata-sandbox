@@ -1,0 +1,53 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, streets and specials index, and text. \"4542.\" Maps of Fairhaven, Little Silver, Rumson, Little Silver Point, Shrewsbury Township, Shrewsbury, and Eatontown on sheets 34-68.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx082",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Red Bank,Maps",
+    "Real property,New Jersey,Fairhaven,Maps",
+    "Real property,New Jersey,Little Silver,Maps",
+    "Real property,New Jersey,Rumson,Maps",
+    "Real property,New Jersey,Little Silver Point,Maps",
+    "Real property,New Jersey,Shrewsbury (Township),Maps",
+    "Real property,New Jersey,Shrewsbury,Maps",
+    "Real property,New Jersey,Eatontown,Maps",
+    "Red Bank (N.J.),Maps",
+    "Fairhaven (N.J.),Maps",
+    "Little Silver (N.J.),Maps",
+    "Rumson (N.J.),Maps",
+    "Little Silver Point (N.J.),Maps",
+    "Shrewsbury (N.J. : Township),Maps",
+    "Shrewsbury (N.J.),Maps",
+    "Eatontown (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Red Bank, New Jersey and vicinity (Sheet 58)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4830296\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/05911c49-1449-4255-bc11-8397b15cab67/file/922c4043-ac93-4364-92da-4a1022d8f8e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/05911c49-1449-4255-bc11-8397b15cab67/file/5f5dfd83-1512-4f27-a848-be5521bfa26a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a4%2Fe3%2F0d%2Fa4e30d337ec94ae4b6c671bce1aed6cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d0330e0c-34d2-48b1-9720-75caf3a5d8ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-05911c49-1449-4255-bc11-8397b15cab67",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx082",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-gm80hx082"
+}

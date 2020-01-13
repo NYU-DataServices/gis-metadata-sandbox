@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Including South Bound Brook.\" \"March 1910.\" Includes key, key map, streets and specials index, and text. \"2477.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rj4306780",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bound Brook,Maps",
+    "Real property,New Jersey,South Bound Brook,Maps",
+    "Bound Brook (N.J.),Maps",
+    "South Bound Brook (N.J.),Maps"
+  ],
+  "dc_title_s": "Bound Brook, Somerset County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5600881\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6475518-fdea-48d7-8388-8f065957bdfe/file/8463f2fb-cc35-409c-bf2d-5e19213f849c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6475518-fdea-48d7-8388-8f065957bdfe/file/5af31d05-1247-4844-82f7-01e5e9b33e0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F69%2F72%2F2269729904074c45ae97ccd5affe02ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8afc8231-c154-4753-9201-715e9920301a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b6475518-fdea-48d7-8388-8f065957bdfe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rj4306780",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-rj4306780"
+}

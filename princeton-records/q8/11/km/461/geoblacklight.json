@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -0.0000. West Decimal Degree -1.0000. Alternate title: Alicante, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1933-39; Spain, 1:200,000, Cuartel General del Generalisimo, sheets 67 and 77, 1939; Road Map of Spain and Portugal, 1:400,000, A.M.S., sheets 47 and 49, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-43.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km461",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Alicante (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Alicante, sheet 65. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841153\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eab5e683-2e2d-4663-892f-c2f08f34856b/file/826c9997-c5a5-4d79-98f6-2188d679dd43\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eab5e683-2e2d-4663-892f-c2f08f34856b/file/472aa112-b8b4-428b-8adc-4598755c7c97\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8f%2Fc4%2F56%2F8fc45661f1ec4e6ca6acbd1e4d114196%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4de286a-47ed-4eeb-9e40-4697806399d9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eab5e683-2e2d-4663-892f-c2f08f34856b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km461",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.0, -0.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-q811km461"
+}

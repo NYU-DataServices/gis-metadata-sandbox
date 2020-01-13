@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sept. 1909.\" Includes key, key map, streets and specials index, and text. \"1859.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv81t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Boonton,Maps",
+    "Boonton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Boonton, Morris County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5548519\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4432526-5f49-4742-aca8-5e606897075d/file/e1f19da9-1d1b-4189-8ef5-b2ab11f5d94e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4432526-5f49-4742-aca8-5e606897075d/file/2595f7a3-ad2d-4a5d-9a0e-60571db5bf5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F34%2F59%2Fa134591d36534cc69f5e9748194934b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/017bf3a7-0be1-45cb-8cc7-a141cef1602a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e4432526-5f49-4742-aca8-5e606897075d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv81t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-cz30pv81t"
+}

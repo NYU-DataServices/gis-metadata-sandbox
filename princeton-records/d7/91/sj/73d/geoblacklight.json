@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contour lines and spot heights. Contour interval 20 feet. At top margin: Geological Survey of New Jersey. Atlas sheet no. 1 (Kittatinny). \"Surveys made in 1884, railroads revised to date.\" Historic Maps copy has ms. additions in red pencil.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d791sj73d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : Geological Survey of New Jersey, 1894 (N.Y. : Julius Bien & Co. Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Kittatinny Mountain,Maps",
+    "Sussex County (N.J.),Maps",
+    "Warren County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of Kittatinny Valley and Mountain in Sussex County and the northern part of Warren : from original surveys and levelings, based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8280412\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88f6ed6d-9e7e-43a1-b47c-aff71db9bf14/file/03895a9e-9ffb-4344-8850-518814c49de8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88f6ed6d-9e7e-43a1-b47c-aff71db9bf14/file/5b52bdff-1654-4cba-8f82-c62fdd3d535d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2F25%2F68%2Fa92568711a12499083cbb1d74039c2d5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c3a470b-7704-4eaf-bcc7-58728748704d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-88f6ed6d-9e7e-43a1-b47c-aff71db9bf14",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d791sj73d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.033452, -74.566705, 41.383374, 40.883406)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-d791sj73d"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -15.166700. South Decimal Degree -15.3333. East Decimal Degree -67.5000. West Decimal Degree -67.7500. Alternate title: Muchanes, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763863f",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Muchanes, hoja 6048 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839595\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/020113d2-2b22-4952-8642-e49d00bb93a4/file/395469af-24ae-4539-8849-fe03e5ebab38\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/020113d2-2b22-4952-8642-e49d00bb93a4/file/55f190f5-4e8b-4580-a81b-fe7723fdeb74\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8f%2F8a%2Fef%2F8f8aef0f0c3747369876f00db851cdd1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/728931b6-b9d3-4247-b0e2-ff7051b5bea5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-020113d2-2b22-4952-8642-e49d00bb93a4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763863f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.75, -67.5, -15.1667, -15.3333)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-w3763863f"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv9354551",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Stockton Quadrangle, New Jersey - Pennsylvania, 7.5 Minute series (topographic) (1954)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/370d8c6f-67f1-40e6-9a86-70d5ac543967/file/250aa7eb-3df0-4af7-9706-32b06cace605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24777a64-b8cd-4b24-bcbc-1dd0388e8f5b/file/2550b863-5490-4e2b-800b-3e116e671036\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24777a64-b8cd-4b24-bcbc-1dd0388e8f5b/file/0e0350db-6025-4c67-8cdd-c341b4780191\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7b%2Fde%2Fe0%2F7bdee08e8fd84099a801220a1523be45%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0e8280f-3b17-4fc6-8e65-fe202c9e2316/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mercer County",
+    "Pennsylvania",
+    "Raritan",
+    "Solebury",
+    "Delaware",
+    "Bucks County",
+    "Kingwood",
+    "Hunterdon County",
+    "West Amwell",
+    "East Amwell",
+    "Stockton",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24777a64-b8cd-4b24-bcbc-1dd0388e8f5b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv9354551",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.875, 40.5, 40.375)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-nv9354551"
+}

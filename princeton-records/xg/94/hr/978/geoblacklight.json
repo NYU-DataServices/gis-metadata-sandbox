@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. General Land Office"
+  ],
+  "dc_description_s": "Relief shown by shading. Shows forest, Indian and military reserves and private land grants.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr978",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Land Office, 1903 (Washington, D.C. : Andrew B. Graham, Photo-litho.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Mexico,Maps",
+    "Land grants,New Mexico,Maps",
+    "Forest reserves,New Mexico,Maps"
+  ],
+  "dc_title_s": "Territory of New Mexico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6378399\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f1cb603-8676-4c3a-90fe-f541ba522fb3/file/1900fca4-49a8-4b11-bed8-ad7981d71184\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f1cb603-8676-4c3a-90fe-f541ba522fb3/file/5f859853-cc84-4aec-ae12-1ab582279d1c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2Fb4%2F90%2F1ab49073d49a485ca337f892b9644da6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7e11cfe-8c7d-4a65-ae39-9b769a86bf45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f1cb603-8676-4c3a-90fe-f541ba522fb3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr978",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-109.26, -102.95, 37.26, 31.01)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-xg94hr978"
+}

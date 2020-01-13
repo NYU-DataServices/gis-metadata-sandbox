@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1915.\" Includes location map, key, key map, specials index, and text. \"692.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vt126",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Mendham,Maps",
+    "Mendham (N.J.),Maps"
+  ],
+  "dc_title_s": "Mendham, Morris County, New Jersey (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560946\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c48a2f38-83ee-4a15-8e15-6592fa005aee/file/a85ac559-8590-4f60-a630-d4e6c8ded642\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c48a2f38-83ee-4a15-8e15-6592fa005aee/file/f01b8a13-18f4-493c-97fc-461d02b3351f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2Fd1%2F31%2F96d1317bc25d451b93d66c984dac957f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/175374df-61e0-463c-81f7-49dfd1f31ca9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c48a2f38-83ee-4a15-8e15-6592fa005aee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vt126",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-9880vt126"
+}

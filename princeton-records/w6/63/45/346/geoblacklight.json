@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Wind Gap, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1914. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w66345346",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Wind Gap Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868124\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f704b1e8-547a-4701-af12-9f283fcd167c/file/d4179b1f-c3a8-429a-9d42-b356fc2d808d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3c6061d-f7a8-4572-9ffa-fb6b3ad27fb3/file/91fcc9d7-8a2b-4943-b66e-443a02451d81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3c6061d-f7a8-4572-9ffa-fb6b3ad27fb3/file/6e90ce45-0d93-4b68-a6f0-5b145e5c84bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F81%2F0f%2F5a810fce2bea401a987fe41bb11de0c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c81eac5-194a-4970-bf6b-3dc2640d6365/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c3c6061d-f7a8-4572-9ffa-fb6b3ad27fb3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w66345346",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 41.0, 40.75)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-w66345346"
+}

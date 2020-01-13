@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb. 1923.\" Includes text. \"5827.\" North oriented towards upper right. Historic Maps has sheet 7 of New Milford, N.J. series, showing New Bridge section.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290b871",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Bridge,Maps",
+    "New Bridge (N.J.),Maps"
+  ],
+  "dc_title_s": "New Bridge section",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5273660\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db06fa2c-e260-4f38-afba-b2019a85b47a/file/daa3e1ae-7543-4e69-9fe4-a1fa5217f123\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db06fa2c-e260-4f38-afba-b2019a85b47a/file/9939439b-ad4a-4d00-ab74-b41abef967e1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c7%2F06%2Ffd%2Fc706fdd83a0b4bf080a5669b9e3c358b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ba208316-3784-468f-a31f-bde7947e1cf3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-db06fa2c-e260-4f38-afba-b2019a85b47a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290b871",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034, -74.002, 40.952, 40.914)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-9p290b871"
+}

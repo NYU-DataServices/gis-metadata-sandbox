@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726"
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridian: Ferro. Probably issued in: Atlas nouveau, contenant toutes les parties du monde ... / par Guillaume de l'Isle. Amsterdam : Chez Jean Co\u0301vens & Corneille Mortier, [1742]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10ws711",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Amstelodami : apud I. Co\u0301vens et Corneille Mortier, [1742?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Classical geography,Maps,Early works to 1800",
+    "Greece,History,Maps,Early works to 1800",
+    "Middle East,History,Maps,Early works to 1800",
+    "Rome,Maps,Early works to 1800",
+    "Turkey,History,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Tabula geographica provinciarum et urbium, Colonia\u0302 Romana\u0302 vel municipii jure vel alia\u0302 qua\u0302vis pr\u00e6rogativa\u0302 insignium qu\u00e6 Imperatorum Romanorum : a\u0300 Trajana Decio ad Claudium vultus in nummis suis expresserunt : ad illustrandam Numismatum seriem quam D. Anselmus Banduri",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7245069\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06f91fe2-4df7-4746-ad8f-b09bec636999/file/67fb75e0-46f7-4cfc-a5c8-7d33b6194b89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06f91fe2-4df7-4746-ad8f-b09bec636999/file/d4f2a764-8c97-401d-9aac-119346d27929\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2Fb8%2F3b%2Fc6b83b5d76964c6c85b2c4ad7f44560f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40c175f2-5a58-4dea-9ea5-fd6f384f5d23/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece",
+    "Middle East",
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1742"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06f91fe2-4df7-4746-ad8f-b09bec636999",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10ws711",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.01, 41.81, 45.01, 31.01)",
+  "solr_year_i": 1742.0,
+  "uuid": "princeton-2z10ws711"
+}

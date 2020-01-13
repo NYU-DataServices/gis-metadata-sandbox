@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. \"December 1906.\" \"9161.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dn39x3202",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906, c1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Brigantine,Maps",
+    "Brigantine (N.J.),Maps"
+  ],
+  "dc_title_s": "Brigantine, Atlantic Co., New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5195875\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/378f8f04-0bff-4ed4-9ebf-87cb9cb3cf4e/file/3fceede0-4889-48d1-b6fe-3781304d4e80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/378f8f04-0bff-4ed4-9ebf-87cb9cb3cf4e/file/0a29062a-bc8c-4c2d-b647-188669fb19b6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3e%2F01%2Fe6%2F3e01e6b5193544c7977a4b36b4526158%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/de2106ff-e99d-4530-80a4-b8a91b38e4eb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-378f8f04-0bff-4ed4-9ebf-87cb9cb3cf4e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dn39x3202",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.419, -74.328, 39.445, 39.373)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-dn39x3202"
+}

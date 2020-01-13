@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Visscher, Nicolaes, 1618-1679"
+  ],
+  "dc_description_s": "Relief shown pictorially. Dedicated to Henrik Spiegel of Amsterdam.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n984k",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam : Nicolaes Visscher, 1657?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asia,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Asi\u00e6 nova delineatio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5363742\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3827ca16-c939-4619-ab12-d43c8dcf3137/file/e16f9999-6c89-4978-b03b-859628e4b8cc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3827ca16-c939-4619-ab12-d43c8dcf3137/file/9a20173d-f84e-43b8-8c5e-2613fc8443a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2Ff9%2Fe4%2Fa0f9e43d227a4206ba50a8b6feff1ece%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e9fdbe81-86b0-4111-8e85-45fb82ec3519/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1657"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3827ca16-c939-4619-ab12-d43c8dcf3137",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n984k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.25, 149.76, 80.01, -16.01)",
+  "solr_year_i": 1657.0,
+  "uuid": "princeton-xw42n984k"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Barnstable. Relief shown by 20 feet contour interval and spot heights. Triangulation, coast line and Topography of North Coast by the U.S. Coast and Geodetic Survey. Surveyed in cooperation with the state of Massachusetts. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386k671",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Barnstable Sheet ( Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Barnstable sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837196\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/778f4e91-23b4-4574-94ce-a487e5e70ccc/file/373f4a40-193a-4ff8-ab0c-12c68a704511\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a0be88fe-e8e0-4b38-aac3-cf3ba51da4d1/file/ff0f9053-fdc7-424f-b1cc-86a2f2e91e1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a0be88fe-e8e0-4b38-aac3-cf3ba51da4d1/file/1208430c-dece-4e25-ac42-fed2c5631910\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2Fc1%2F13%2F00c113be9f1a41ceb6aa65beea2f2973%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/702921c1-5650-4494-8bcb-2fb2c4534112/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a0be88fe-e8e0-4b38-aac3-cf3ba51da4d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386k671",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.5, -70.25, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-bc386k671"
+}

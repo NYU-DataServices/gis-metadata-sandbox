@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson",
+    "Plummer, Loren P."
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354g74d",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "New Jersey. Department of Conservation and Development. Division of Geology and Topography.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 27.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed33a7c5-dc01-4129-8f50-a42a51d6c876/file/6e7e381e-03de-43d4-ada4-885cbdfdd496\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90623222-d48f-4b8c-99b7-cd16d0eeb6ad/file/2bc2b446-8e5d-46ac-aa1f-da0c9f43174c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90623222-d48f-4b8c-99b7-cd16d0eeb6ad/file/19b4857d-1953-48c1-8468-41ead46a7452\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2Fdf%2Fb6%2F16dfb619bb8f4a0799de4e585677cca2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b92567ea-f76e-4889-89f9-0071a67d467c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "MC  G3811.C2.s63.N4J4 no.27 (1926)",
+    "Burlington",
+    "Hunterdon",
+    "Mercer",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-90623222-d48f-4b8c-99b7-cd16d0eeb6ad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354g74d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.2, -74.7667, 40.4667, 40.0)",
+  "solr_year_i": 1926.0,
+  "uuid": "princeton-0g354g74d"
+}

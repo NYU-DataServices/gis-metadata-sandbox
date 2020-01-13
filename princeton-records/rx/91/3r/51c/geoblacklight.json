@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Phoenicia. Relief shown by 20 feet contour interval. Surveyed in 1900 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rx913r51c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Phoenicia (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Phoenicia Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867184\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b88203b6-b364-4f93-9918-8ecaf8dbce3a/file/9dbfc7a1-1015-4b6f-80a4-6c41301bcbe9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/383d56c1-99ca-4212-827f-e366108d1954/file/f6b0013f-9d39-4bd5-b14e-76f0f374984c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/383d56c1-99ca-4212-827f-e366108d1954/file/515b116b-ce7e-46e1-8bbb-51335a56739f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2Fe2%2F8a%2F85e28af1a7a94531bfcf751ba0907234%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/815e74ee-8481-4bf9-858d-6c27f5c45b6a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-383d56c1-99ca-4212-827f-e366108d1954",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rx913r51c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 42.25, 42.0)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-rx913r51c"
+}

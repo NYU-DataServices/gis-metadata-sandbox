@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1884.\" Includes key and text. North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p213w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1884, c1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rutherford,Maps",
+    "Rutherford (N.J.),Maps"
+  ],
+  "dc_title_s": "Rutherford, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5310497\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e1e7498-0b44-46c0-8a16-b83a3b72fcd7/file/570a233b-4b0b-42ff-860f-81b9251e4b07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e1e7498-0b44-46c0-8a16-b83a3b72fcd7/file/727a92c4-16b5-4080-8f1f-b30f771b4838\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ea%2F0d%2F99%2Fea0d991492ab4e7b9432857ca373b0a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ff14cd5-2b2f-4c7c-999a-6d944ecda2db/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0e1e7498-0b44-46c0-8a16-b83a3b72fcd7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p213w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.124176, -74.082403, 40.847184, 40.787197)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-5d86p213w"
+}

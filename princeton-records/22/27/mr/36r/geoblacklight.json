@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bay Side, NJ--DEL. Relief shown by 10 feet contour interval. Surveyed in 1886-9 and 1927. Culture and drainage in Delaware in part compiled from aerial photographs taken by Air Corps, U.S. Army, Control by U.S.Geological Survey and U.S.Coast and Geodetic Survey. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2227mr36r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1931.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bay Side sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey-Delaware: Bay Side Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831135\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c3c5204c-9c92-4fbd-aeb3-7c33758964b4/file/a29a8c40-2060-468a-9384-f86ba4e3c757\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f3e0a8f-4371-4a4d-9ecd-c50e4997d12c/file/549b5aea-647d-426f-bcf5-bb4911b61258\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f3e0a8f-4371-4a4d-9ecd-c50e4997d12c/file/88c60c4e-bed6-4374-a3c3-a0361a2b8151\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Fe9%2F49%2Fb5e94959a1c947269b1f1002ceb55769%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0b0118ac-aa14-4bc4-b594-6349a6790811/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f3e0a8f-4371-4a4d-9ecd-c50e4997d12c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2227mr36r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 39.5, 39.25)",
+  "solr_year_i": 1931.0,
+  "uuid": "princeton-2227mr36r"
+}

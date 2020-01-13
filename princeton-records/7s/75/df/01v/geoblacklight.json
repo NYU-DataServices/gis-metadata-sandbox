@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Cedar Creek. Relief shown by 10 feet contour interval and spot heights. Surveyed in 1917. Surveyed in cooperation with the War Department. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75df01v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Delaware: Cedar Creek Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868516\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0329b74e-4077-4999-974e-5f928d18df8d/file/7d437cfd-2337-4b51-b9e6-17dc8d6a11ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b3a7d0c-ccad-4de2-85a6-3dc247773a78/file/0922190a-caff-4602-aada-ea9945fd83a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b3a7d0c-ccad-4de2-85a6-3dc247773a78/file/5f6f2280-913e-4d14-82e3-693f13ec8f13\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2Fe7%2Ffb%2F68e7fbe1836c46b1ae3a7ebd60c238f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd814d73-8d57-41a0-98c7-6a5cfe657b1a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b3a7d0c-ccad-4de2-85a6-3dc247773a78",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75df01v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 39.0, 38.75)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-7s75df01v"
+}

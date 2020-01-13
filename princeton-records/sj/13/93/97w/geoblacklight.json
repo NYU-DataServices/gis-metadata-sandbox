@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"November 1922.\" Includes location map, key, and text. \"5598.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj139397w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wenonah,Maps",
+    "Wenonah (N.J.),Maps"
+  ],
+  "dc_title_s": "Wenonah, Gloucester County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5489047\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02e3ac0e-26cc-40a0-8d6d-609bca03df49/file/4135f718-b5eb-4e14-97d5-c2a8e7268781\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02e3ac0e-26cc-40a0-8d6d-609bca03df49/file/95016749-5178-47cb-8b9f-36ac1e52ad55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/eb%2Fbd%2F70%2Febbd700faa3c4510899dda61c0b699d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/db030683-6834-4533-a9a8-5329f6a8bf1b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-02e3ac0e-26cc-40a0-8d6d-609bca03df49",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj139397w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.160403, -75.138096, 39.802621, 39.780726)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-sj139397w"
+}

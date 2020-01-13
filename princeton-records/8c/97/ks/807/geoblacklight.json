@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "Relief shown pictorially; depths by soundings. Covers parts of Western Sahara and Mauritania. From: Atlas universel de ge\u0301ographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks807",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Western Sahara,Maps",
+    "Mauritania,Maps"
+  ],
+  "dc_title_s": "Partie du Sahara",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5729211\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dddb5478-3db5-48c9-9533-a0350a6f0804/file/017a3ebb-fea4-41f9-a5ae-0e415c8c0cb1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dddb5478-3db5-48c9-9533-a0350a6f0804/file/69fffe31-927a-429e-9cb9-b822ac79ddb2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1c%2F5a%2F3c%2F1c5a3c07363f4c11a4da8ac31ce651b5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c5717ad4-05cf-4f1f-80bf-63411e037577/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Western Sahara",
+    "Mauritania"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dddb5478-3db5-48c9-9533-a0350a6f0804",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks807",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-19.67, -11.67, 24.01, 18.0)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-8c97ks807"
+}

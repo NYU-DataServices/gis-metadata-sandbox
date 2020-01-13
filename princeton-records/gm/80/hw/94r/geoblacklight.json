@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 68 to 74 inclusive; issued in vol. 3 of New Jersey coast map series. Title from sheet 68. \"N.J.C.M. vol. 3.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hw94r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Island Heights,Maps",
+    "Island Heights (N.J.),Maps"
+  ],
+  "dc_title_s": "Island Heights, Ocean County, New Jersey (Sheet 72)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802043\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3e917ae-0afb-4cfb-b9f4-8b172e517bf6/file/b8760499-3c0f-4554-98de-540f0b5205c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3e917ae-0afb-4cfb-b9f4-8b172e517bf6/file/48817b26-ea52-4ca1-b2bf-be3ff2d0c4ee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/71%2F74%2Fe5%2F7174e55e29c2450ba5cf3834d57d4250%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/252d3dc8-ef26-45c6-bb65-5e6f61d23ded/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d3e917ae-0afb-4cfb-b9f4-8b172e517bf6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hw94r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.156, -74.133, 39.952, 39.937)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-gm80hw94r"
+}

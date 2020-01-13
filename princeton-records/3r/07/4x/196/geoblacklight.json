@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1886.\" Includes key and text. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3r074x196",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lafayette,Maps",
+    "Lafayette (N.J.),Maps"
+  ],
+  "dc_title_s": "Lafayette, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607450\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b491979-994c-4821-9441-526446d3bb4c/file/aa197a05-b9c8-491b-bfe7-7390c1e60f87\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b491979-994c-4821-9441-526446d3bb4c/file/6dc875a2-398b-49b1-a187-dd63eb17dc0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cf%2F8e%2F08%2Fcf8e08f718184226b7d964bef0b002c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8edf84f0-b9a3-4cea-9294-bc7a5fa20890/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7b491979-994c-4821-9441-526446d3bb4c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074x196",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.708497, -74.668497, 41.11843, 41.07843)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-3r074x196"
+}

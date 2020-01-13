@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "Becher, A. B. (Alexander Bridport), 1796-1876"
+  ],
+  "dc_description_s": "Shows the coasts of South and Central America, Mexico, the West Indies and the southern United States. \"527.\" Historic Maps copy has label on verso: South America, including the Coasts of Mexico to St. Blas, and the W. India Is.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3t945t31p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : published according to Act of Parliament at the Hydrographical Office of the Admiralty, Novr. 4th.1824.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,South America,Maps",
+    "Coasts,Central America,Maps",
+    "Coasts,Mexico,Maps",
+    "Coasts,United States,Maps",
+    "Coasts,West Indies,Maps",
+    "Central America,Maps",
+    "South America,Maps",
+    "Mexico,Maps",
+    "United States,Maps",
+    "West Indies,Maps"
+  ],
+  "dc_title_s": "A general chart of South America",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7680892\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/f3d8ff81-ca2b-4832-8f63-15d02818153a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/7cbfce4d-3a11-4f3a-8019-ed754755a236\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F53%2F9b%2F80539ba8806e4be78aae2a9ad47e555c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2faee1eb-174e-4f21-9edc-243e7904b7f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America",
+    "Central America",
+    "Mexico",
+    "United States",
+    "West Indies"
+  ],
+  "dct_temporal_sm": [
+    "1824"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d3e922d7-a92c-43f9-b000-758fd8a0855f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3t945t31p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-130.0, -25.0, 41.0, -65.0)",
+  "solr_year_i": 1824.0,
+  "uuid": "princeton-3t945t31p"
+}

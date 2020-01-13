@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Publication information in Spanish. Shows parts of Panama, Colombia, and Venezuela. Prime meridian: [Ferro]. Relief shown pictorially. \"Descripcio\u0301n del mapa: Terra Firma, Nuevo Reyno de Granada y Popaya\u0301n (apr. Panama\u0301, Colombia, Venezuela). Original de 1647.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10ws660",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Nutley, N.J. : Hoffmann-La Roche, [1945?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Colombia,Maps,Early works to 1800,Facsimiles",
+    "Panama,Maps,Early works to 1800,Facsimiles",
+    "Venezuela,Maps,Early works to 1800,Facsimiles",
+    "Maps,Early works to 1800,Facsimiles"
+  ],
+  "dc_title_s": "Terra Firma et Novum Regnum Granatense et Popayan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6550379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb5cd089-8ea0-4f40-8426-388a1c5fd06c/file/9e40e231-1000-4964-971c-633a701ddc92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb5cd089-8ea0-4f40-8426-388a1c5fd06c/file/e40fa4c7-f7e7-4e53-8c64-4951ce70e745\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F6f%2Fcc%2F216fcc7043fa494cac515007efb7a497%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ac1a6c3f-8840-4f8b-b9fb-a48f058f483a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eb5cd089-8ea0-4f40-8426-388a1c5fd06c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10ws660",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-84.84, -67.84, 13.01, 0.0)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-2z10ws660"
+}

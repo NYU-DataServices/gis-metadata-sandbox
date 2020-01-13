@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Adam and Charles Black (Firm)"
+  ],
+  "dc_description_s": "Plate I from: General atlas of the world ... New ed. Edinburgh : A. & C. Black, [1854] Double hemispherical world map; relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mk380",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "The world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4537440\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f552566-9b58-402e-9642-3807f66e7735/file/5139b71d-7fc2-4c97-af64-1690291b5a46\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01e7dc0f-d65e-40ab-a92c-56615e21f945/file/b3da2ed5-b7cc-40be-8961-e0664b001c40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01e7dc0f-d65e-40ab-a92c-56615e21f945/file/0c4b2c2c-a0da-4730-91ff-2aa2fbb3f348\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2F08%2F4a%2Fd4084a206e8d4f2da90505cf45915c8f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4d95e49-8a48-4d20-b7e0-9750ff78d3b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-01e7dc0f-d65e-40ab-a92c-56615e21f945",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mk380",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-gx41mk380"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Norristown, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1894. Surveyed by reconnaissance methods. Triangulation by S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322f823",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Norristown (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Norristown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836942\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5c6d4eb-be98-420f-9451-582d8106fa76/file/1d196cd3-c89f-4dfc-93ab-0f7ed7184999\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/065206ba-6460-4eb9-beff-3f33610e133f/file/5661a972-70c2-4c3d-a6cb-4a345fcd46ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/065206ba-6460-4eb9-beff-3f33610e133f/file/66238cac-ce53-4f71-8aa0-becfeff9271d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2Fca%2F08%2F24ca08526af043b8af2de19d8fc18d66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48d51132-d461-4220-883a-c86dea1511ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-065206ba-6460-4eb9-beff-3f33610e133f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322f823",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 40.25, 40.0)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-nk322f823"
+}

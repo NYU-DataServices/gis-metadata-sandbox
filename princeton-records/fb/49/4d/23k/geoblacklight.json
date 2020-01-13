@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Central Intelligence Agency. Map no: 504545 11-80.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fb494d23k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1980.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Guangzhou (China),Maps"
+  ],
+  "dc_title_s": "Guangzhou (Canton)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866858\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/26db88a8-aca8-48dd-9784-c07025df9ba1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/edae3b3e-8e82-4f6b-9d32-9cb69bfd3297\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cb%2F13%2F0d%2Fcb130d9b9548417baf646bb190580d9c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c47c79d-cc36-460e-a440-0756f2b3e528/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-20128827-12a0-426e-9c71-8ac8bc31ce83",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fb494d23k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(113.18333333333334, 113.31666666666666, 25.15, 23.066666666666666)",
+  "solr_year_i": 1980.0,
+  "uuid": "princeton-fb494d23k"
+}

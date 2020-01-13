@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 44.0000. South Decimal Degree 43.0000. East Decimal Degree -2.0000. West Decimal Degree -3.0000. Alternate title: Bilbao, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1940-41; Iberian Peninsula, 1:250,000, Geographical Section, General Staff, 1941, sheet S6088; Spain, 1:200,000, Mapa Militar, Cuartel General del Generalisimo, sheet 16, 1940; Road Map of Spain and Portugal, 1:400,000, A.M.S. sheet 42, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816p46r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Bilbao, sheet 8. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839233\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e62858a-b076-424b-b48c-37a22c26da5e/file/94621fce-08f1-4f98-a17d-2f2872d7f559\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e62858a-b076-424b-b48c-37a22c26da5e/file/6090e84c-4a6e-497e-8121-28e7e683fef0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2Fc1%2F20%2F75c120e5560c42c89fb95bb66e19b682%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6a6b9e6-10dc-4302-a17d-470a56e5e451/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3e62858a-b076-424b-b48c-37a22c26da5e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816p46r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.0, -2.0, 44.0, 43.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-3x816p46r"
+}

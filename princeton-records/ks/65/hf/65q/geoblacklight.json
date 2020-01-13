@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Braun, Georg, 1540 or 1541-1622"
+  ],
+  "dc_description_s": "Bird's-eye view. Text included on verso. From Braun and Hogenberg's Civitates orbis terrarum.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ks65hf65q",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Cologne : Braun and Hogenberg, between 1573 and 1618]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cuzco (Peru),Aerial views,Early works to 1800"
+  ],
+  "dc_title_s": "Cusco, regni Peru in novo orbe caput",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6500588\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59c9fa47-0e6b-4daf-963e-8db120297669/file/4c17c3b9-19af-4cc4-b795-9de76f24204b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59c9fa47-0e6b-4daf-963e-8db120297669/file/c9ec1a9f-98af-4452-8cf0-2a522aa7ed26\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2Ffc%2Fab%2F39fcabb18dbe4708ada59ba78672ace5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b43d4e4f-a8ea-4a87-97dd-d506da0122de/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1573"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59c9fa47-0e6b-4daf-963e-8db120297669",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ks65hf65q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.000134, -71.858428, -13.500214, -13.566889)",
+  "solr_year_i": 1573.0,
+  "uuid": "princeton-ks65hf65q"
+}

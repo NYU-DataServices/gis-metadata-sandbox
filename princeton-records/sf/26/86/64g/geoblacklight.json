@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Gifu, Japan.. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. In upper left margin: \"Japan city plans 1:12,500.\" Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sf268664g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Gifu, Gifu Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449929\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5ce28874-4ad5-47a2-9b21-030b834da45f/file/18a6d9aa-b4ff-4486-8dea-01a40ddb1c07\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06dac5d8-8ed9-41bd-a937-68f429b1a2bc/file/ff85196d-33d1-4ddc-969e-2d218a0911bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06dac5d8-8ed9-41bd-a937-68f429b1a2bc/file/140317ea-c71d-4289-a9d7-aaa3004ba400\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d2%2Fd0%2Fc8%2Fd2d0c8f218e54da2ad28cb75e304044d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/02d1dcaf-0636-47d8-9010-19ddc7804ee1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06dac5d8-8ed9-41bd-a937-68f429b1a2bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sf268664g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(136.73333333333332, 136.81666666666666, 35.45, 35.38333333333333)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-sf268664g"
+}

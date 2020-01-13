@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Moll, Herman, d. 1732"
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridian: London. Originally published in 1729; this state was printed in 1736; later states in 1739, 1745 & 1763. This map, which extends from the south bounds of Carolina to C. Charles in Virginia, shows the location of Indian tribes in the Carolinas. It gives the chief roads or trading routes westward from Charleston, and many islands along the coast are identified by name for the first time on a printed map. In later states of map, \"Azilia\" was changed to \"Georgia.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gw15p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : s.n., 1736]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Georgia,Maps,Early works to 1800",
+    "North Carolina,Maps,Early works to 1800",
+    "South Carolina,Maps,Early works to 1800",
+    "Southern states,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carolina",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7106768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d009cfd6-ae74-4e10-b4e5-a3199dc8203c/file/e6100fc0-822b-45b3-978f-96fe0f5d22ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d009cfd6-ae74-4e10-b4e5-a3199dc8203c/file/03c1c3dd-46ea-4a01-9c63-66bbe2134804\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F0e%2F75%2F1d0e75449ca541059d7a1767b89e666e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8bd0203d-34bf-418f-aa5b-21dda06f0173/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "South Carolina",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d009cfd6-ae74-4e10-b4e5-a3199dc8203c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gw15p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.17, -72.84, 38.0, 28.67)",
+  "solr_year_i": 1736.0,
+  "uuid": "princeton-xd07gw15p"
+}

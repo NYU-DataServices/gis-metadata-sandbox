@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA. Confluence. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1919 and 1920. Surveyed in cooperation with the state of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290c10x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1933.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Confluence Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867525\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24a9421e-f4eb-404d-a5ed-e74d1ed4f3ea/file/ff225c72-a7ad-4c00-a129-9f0b9dd09d2a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/babbc11c-158a-49e4-bb3c-e4fa7070dbf5/file/19e26c4a-dbdb-41b6-a951-212922d537ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/babbc11c-158a-49e4-bb3c-e4fa7070dbf5/file/66145aee-0599-4368-a308-78c7a04bde26\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F6f%2Fd3%2F146fd3ea31f74f528cefef6fbf1a4006%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6525e626-a5e9-4bcc-8925-3d461a879198/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-babbc11c-158a-49e4-bb3c-e4fa7070dbf5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290c10x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.5, -79.25, 40.0, 39.75)",
+  "solr_year_i": 1933.0,
+  "uuid": "princeton-9p290c10x"
+}

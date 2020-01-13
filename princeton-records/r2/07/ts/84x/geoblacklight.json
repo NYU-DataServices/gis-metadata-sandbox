@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing known mineral resources worldwide as of 1927. The locations and attributes of all points were taken from a two-part Weltlagerst\u00e4ttenkarte (map of world mineral deposits) created by the Prussian Geological Office at a scale of 1:15,000,000. Each of this map's two parts, representing one world hemisphere and consisting of four sheets, was scanned, joined, and georeferenced. For each hemisphere, geospatial points were then plotted and given attributes corresponding to the location, mineral type, geological origin and age, work status, economic importance, and political jurisdiction of the deposits shown on the map. For certain deposits, some of these attributes could not be assigned due to cartographer omission, illegibility, or obliteration from damage on the original map sheets. Points for the two hemispheres were lastly merged into a single dataset.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/r207ts84x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [],
+  "dc_title_s": "Map of the mineral deposits of the world, 1927",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/99a9eaa7-3ac9-420b-8cc6-9fdf5c471a15/file/cb1b7eb3-7657-49dc-ae27-f0606662f850\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e3f2a8e-8e79-4cfd-b419-da3cd3471b1a/file/7e31debc-0402-4dd6-b3de-fa2c50489359\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e3f2a8e-8e79-4cfd-b419-da3cd3471b1a/file/5099aa0c-ffa4-4f76-8348-71aa5dc2ca15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "public-figgy:p-0e3f2a8e-8e79-4cfd-b419-da3cd3471b1a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r207ts84x",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.398771, 177.686356, 78.588127, -85.070794)",
+  "solr_year_i": 1927.0,
+  "uuid": "princeton-r207ts84x"
+}

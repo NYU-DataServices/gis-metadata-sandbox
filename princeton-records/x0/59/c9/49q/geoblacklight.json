@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1884.\" Includes key, key map, specials index, and text. Historic Maps copy has stamp of Map Division, Library of Congress, dated Mar. 21, 1884.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c949q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map and Publishing Co., Limited 1884.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Passaic (N.J.),Maps"
+  ],
+  "dc_title_s": "Passaic, New Jersey (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576888\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37362bd6-5447-4316-892a-ddf01dd53aee/file/c24a8f1d-2c7c-455b-8c04-9c78e1e80309\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37362bd6-5447-4316-892a-ddf01dd53aee/file/f8212472-335a-46c2-9f70-a790c34a2c9d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2Fcd%2F31%2F12cd31b04a124fae9e6fe8ee0fa774ab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b7e67b5-29fe-4339-bad6-ad02c4bef29c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-37362bd6-5447-4316-892a-ddf01dd53aee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c949q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-x059c949q"
+}

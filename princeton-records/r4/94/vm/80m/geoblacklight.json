@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Nyiregyhaza in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r494vm80m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Nyiregyhaza. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/54d771bd-af70-474f-a5d3-e57d0a15c43c/file/d8672251-d140-48b9-be3b-964f75936085\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cd2855a-41bd-44ac-b468-c191be2adad6/file/770672ea-a98b-4fb7-9507-24c4a8958a04\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cd2855a-41bd-44ac-b468-c191be2adad6/file/113ad830-b478-451e-9454-d8cd183e50e9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2F1a%2Fce%2F271aceed9e1245219865d01b3dce6ca2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f33d8adb-99c0-4b0a-bc4a-ba555d634896/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Europe",
+    "Nyiregyhaza",
+    "G6031.C2.s100.A7M3",
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5cd2855a-41bd-44ac-b468-c191be2adad6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r494vm80m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(21.3333, 22.3333, 48.25, 47.75)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-r494vm80m"
+}

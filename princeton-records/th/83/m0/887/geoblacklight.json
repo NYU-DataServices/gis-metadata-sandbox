@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Butler, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1908-1909. Surveyed in cooperation with the state of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/th83m0887",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: (Butler County) Butler Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867481\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/186115ea-4e64-4d7e-88fa-d4ef16a6a4ba/file/0b45981f-6810-4f68-a168-c5a305873fdd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c07571c3-0786-4521-9924-3260eefc31ee/file/46b760a8-e495-465e-b90a-72db9786da93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c07571c3-0786-4521-9924-3260eefc31ee/file/6c16d2a9-a05c-4334-b227-f3d4cc22be24\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fed%2F6a%2F47ed6acc8f0b4f239f91bc0fce532bb3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e2530a5-6257-4774-b73b-c795e97278f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c07571c3-0786-4521-9924-3260eefc31ee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-th83m0887",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.0, -79.75, 41.0, 40.75)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-th83m0887"
+}

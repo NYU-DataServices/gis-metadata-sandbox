@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson",
+    "Kummel, Henry Barnard"
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r734r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Geological Survey of New Jersey. New Jersey Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Marl",
+    "Boundaries",
+    "Clay",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries",
+    "Railroad Stations",
+    "Bathymetry",
+    "historical maps"
+  ],
+  "dc_title_s": "A topographical map of the vicinity of Bridgeton from Alloway, Elmer, and Newfield southward to the Delaware Bay shore.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/166d7b03-266b-4e07-85d5-5b8aea7d3202/file/70d4e27e-20ab-457e-8c3f-9cfefcceb702\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9010e1c7-9201-42ac-b7bf-17d033081cf7/file/71a46f44-6f26-483f-a698-484c2f299087\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9010e1c7-9201-42ac-b7bf-17d033081cf7/file/06512aea-2ef5-450b-84cb-4a5e6374f6c4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2F55%2F34%2F6655341adc424ba4ae1b30056cf39aeb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0254d16e-f3c2-4bd5-9897-fdc18b539b0e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Cumberland",
+    "Salem"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9010e1c7-9201-42ac-b7bf-17d033081cf7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r734r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.4333, -74.8, 39.6, 39.1)",
+  "solr_year_i": 1887.0,
+  "uuid": "princeton-8w32r734r"
+}

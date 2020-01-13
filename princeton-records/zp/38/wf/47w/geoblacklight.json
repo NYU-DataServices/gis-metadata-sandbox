@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -1.0000. West Decimal Degree -2.0000. Alternate title: Albacete, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico 1920-42; Spain, 1:200,000, Cuartel General del Generalisimo, 1936-39; Road Map of Spain and Portugal, 1:400,000, A.M.S., Sheets 47 and 49, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-43. Partially revised from aerial photography, 1942.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf47w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Albacete (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Albacete, sheet 64. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841152\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4cd01b3a-88ce-4ac8-be15-a3d15a5d8468/file/5d11afaa-f239-4aa6-b05e-c43a423c67a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cd01b3a-88ce-4ac8-be15-a3d15a5d8468/file/84172ae9-148d-4658-b7a0-40aaca4d3cf7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F7b%2Ff0%2F477bf006d1994c7d9b564f97c848f908%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d9a45e17-a36e-4ffe-b826-4a4440400b94/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4cd01b3a-88ce-4ac8-be15-a3d15a5d8468",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf47w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.0, -1.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-zp38wf47w"
+}

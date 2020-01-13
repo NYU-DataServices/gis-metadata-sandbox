@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Tirion, Isaak"
+  ],
+  "dc_description_s": "Prime meridian: Ferro and London. Relief shown pictorially. \"Ter opheldering van de Hedendaagsche historie van Groot Brittanje.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bn999918h",
+  "dc_language_s": "Dutch; Flemish",
+  "dc_publisher_s": "Amsterdam, 1755.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "France,Colonies,America,Maps,Early works to 1800",
+    "Great Britain,Colonies,America,Maps,Early works to 1800",
+    "East (U.S.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Nieuwe kaart van de Grootbrittannische volkplantingen in Noord America waar in tevens de Fransche bezittingen en de Landen, tusschen die beide volken in geschil staande en de wederzydsche pretensien duidelyk aangewezen worden",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5276971\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6be950b4-5528-48fb-b6e5-dd4bc929d130/file/c869cbc9-3a36-49b0-9cfe-1b9b4c85a3c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6be950b4-5528-48fb-b6e5-dd4bc929d130/file/82c24af9-ae18-45c2-a83b-c95958892c15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2F50%2F31%2Fbf50314428084fb68b1bf9793660249c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0374bbf8-1573-4a9d-94c6-1a4276fa16a0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6be950b4-5528-48fb-b6e5-dd4bc929d130",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bn999918h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-95.2569, -50.5096, 53.0026, 28.0154)",
+  "solr_year_i": 1755.0,
+  "uuid": "princeton-bn999918h"
+}

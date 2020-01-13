@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the New London Quadrangle in Connecticut shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/05741t40j",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "Connecticut: New London sheet [1899 reprint]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e9eaffb-3e4d-4ef5-b2f8-d0611f8a9ea0/file/a14ebc36-7c28-4098-9cdb-59eec55be044\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4cab1da1-af95-4fdb-803f-be15cee0316d/file/5d132c77-1ea7-45e4-9cac-e9fd2f474434\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cab1da1-af95-4fdb-803f-be15cee0316d/file/bb0aa5bd-4392-44f7-9171-5ac635b83dc8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fc7%2Ffc%2F47c7fc930612436eb2e9b3e5bfa3aefd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/971a7120-df5b-4549-85ec-08ddb4101a8d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New York",
+    "MC  G3781.C2.s62.U5G4 New London (1899)",
+    "New London",
+    "United States",
+    "Suffolk County",
+    "New London County"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4cab1da1-af95-4fdb-803f-be15cee0316d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-05741t40j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.25, -72.0, 41.5, 41.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-05741t40j"
+}

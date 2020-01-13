@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Von Kamecke, Theo"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z029p716t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Corps of Engineers?, 1862?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Antietam, Battle of, Md., 1862,Maps",
+    "Antietam (Md.),Maps"
+  ],
+  "dc_title_s": "Map of the battle of the Antietam fought on the 16th and 17th September 1862 between the United States forces under the command of Maj. Gen. Geo. B. McClellan and the Confederates under Genl. Robert E. Lee",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6406693\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d9571c6-8bf5-4329-a509-8311178d13da/file/1867b698-3df0-462b-8c59-a67efd0a007f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d9571c6-8bf5-4329-a509-8311178d13da/file/0f1b10eb-4864-47c4-a770-418b8cea8d5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F20%2Fb9%2F7e20b990330b4fc09bc279a632cdf686%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/713cd625-20ce-4ded-9e32-eb4cdecfa5c8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4d9571c6-8bf5-4329-a509-8311178d13da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z029p716t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.804188, -77.645916, 39.52507, 39.412696)",
+  "solr_year_i": 1862.0,
+  "uuid": "princeton-z029p716t"
+}

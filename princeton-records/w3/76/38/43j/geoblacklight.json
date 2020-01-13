@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 [Great Britain. War Office. General Staff. Geographical Section. Provisional G.S.G.S. no. 4380] United States. Army Map Service. Provisional G.S.G.S. no. 4380 United States. Army. Corps of Engineers \"Copied from Italian H. O. chart 219.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763843j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Italy 1:5,000. Pozzuoli city plan. Provisional G.S.G.S. 4380",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449663\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72ad429b-5512-4e16-8b8a-f30a6a003600/file/dd540f7e-a76e-43d5-96ef-4475cef2636f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a7a8739-755e-495b-a058-ec5d6da27ffd/file/00f69805-afe6-405a-8ffb-7f1d6507c83a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a7a8739-755e-495b-a058-ec5d6da27ffd/file/230c289d-85e5-4929-bea7-2c6b6127b096\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/38%2Fcb%2F88%2F38cb884e165a41a68b2e54e16b60ddd1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eab51979-e524-4f39-9bb3-fdfa76cce33d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5a7a8739-755e-495b-a058-ec5d6da27ffd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763843j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.1, 14.133333333333333, 40.833333333333336, 40.8)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-w3763843j"
+}

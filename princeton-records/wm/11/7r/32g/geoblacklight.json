@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1890.\" Includes key, key map, streets and specials index, and text. \"4223\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wm117r32g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890, c1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Phillipsburg,Maps",
+    "Phillipsburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Phillipsburg, Warren County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5648975\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee36c1cc-d470-456f-8190-5354c506ce58/file/40ab67df-cf11-4a0e-beda-661aec222c94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee36c1cc-d470-456f-8190-5354c506ce58/file/b0c47067-c630-42ed-9505-51f7955a8e38\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2F94%2F57%2F969457cf21ed49dea12cef7cb050f635%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8e2e4549-525b-4128-99f9-1d1ecd0e981d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ee36c1cc-d470-456f-8190-5354c506ce58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wm117r32g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.204062, -75.160209, 40.706562, 40.666172)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-wm117r32g"
+}

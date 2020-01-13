@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheet 86 of Harrison & Kearny, N.J., series, showing Kearny.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m889q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Kearny,Maps",
+    "Kearny (N.J.),Maps"
+  ],
+  "dc_title_s": "Harrison & Kearny, N.J. : new sheet, Mar. 1921 (Sheet 86)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5705070\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f25f16f8-06cf-45bd-a1d0-cf7f6c2fe9cf/file/e32f416c-fab2-4cee-ad81-0e075f2e7b1a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f25f16f8-06cf-45bd-a1d0-cf7f6c2fe9cf/file/0a593a6c-380c-4863-9e7a-0599960df8fd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fee%2F71%2F03ee71cf1b3b4bb38d450b999aa303be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c24cea2-a0e2-4963-8ed9-c17e6f932db3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f25f16f8-06cf-45bd-a1d0-cf7f6c2fe9cf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m889q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -74.137492, 40.753966, 40.733501)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-5712m889q"
+}

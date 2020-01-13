@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hoffmann, C. F. (Charles Frederick), 1838-1913"
+  ],
+  "dc_description_s": "Relief shown by hachures. Oriented with north toward upper right. \"March 1866.\" Includes two profiles: Longitudinal section of the Comstock Lode, and section of the Sutro Tunnel from its entrance to the Comstock Lode.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2514nn816",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco : [s.n.], 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Comstock Lode (Nev.),Maps",
+    "Sutro Tunnel (Nev.),Maps"
+  ],
+  "dc_title_s": "Topographical map showing the locations of the Sutro Tunnel and the Comstock Lode, State of Nevada, United States of America",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609659\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13aa89cc-2084-4ad3-9b94-8f4b9441c35c/file/b6fae77e-5971-4e1d-9d6b-6d0a2b24ee4b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13aa89cc-2084-4ad3-9b94-8f4b9441c35c/file/7875dc13-fe4f-4192-9313-b0af21ccfbe7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a8%2F89%2Fac%2Fa889ac4ec7bc4fbe88ce8f1c2ffe98f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c117af5a-4a88-48b2-b037-ce017291415b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-13aa89cc-2084-4ad3-9b94-8f4b9441c35c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2514nn816",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-119.687739, -119.529296, 39.333598, 39.216925)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-2514nn816"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Otaru, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pr81j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Otaru, Ishakavi Prefecture, Hokkaido, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830427\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9cc0312-d271-41a1-8295-d9c631e53385/file/65ef48e8-926a-4266-ade0-2b553833bd9f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77069b09-59ba-4056-b129-c04efc76cf7c/file/87f155b2-e8ee-4462-b682-aa642e8a93e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77069b09-59ba-4056-b129-c04efc76cf7c/file/6c7dfecb-503a-4a5f-a70a-0585c89385ff\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2F9d%2F33%2Fba9d336f6d9c49e59205da4bbcf4f1ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3b9bf14-a180-4bce-a003-eab9d4dc72e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77069b09-59ba-4056-b129-c04efc76cf7c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pr81j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(140.96666666666667, 141.06666666666666, 43.233333333333334, 43.15)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-mc87pr81j"
+}

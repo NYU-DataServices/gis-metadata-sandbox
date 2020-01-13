@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 85 to 88 inclusive; issued in vol. 1 of New Jersey coast map series. \"N.J. coast vol. 1.\" Includes text. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698895c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Highlands,Maps",
+    "Highlands (N.J.),Maps"
+  ],
+  "dc_title_s": "Highlands (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802060\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d279a6dd-a10c-41cf-88df-d1e69ed394e1/file/d5e3c2ac-3087-4604-847f-4c3650ac95fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d279a6dd-a10c-41cf-88df-d1e69ed394e1/file/06981884-1ad8-46b7-a77a-e8204dbe1a8c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F17%2F58%2F7e1758dbd8fc4127b4bee60e02707e08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/69b3f773-5036-4636-8f2b-d326b0fbc413/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d279a6dd-a10c-41cf-88df-d1e69ed394e1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698895c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.006, -73.98, 40.411, 40.389)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-k0698895c"
+}

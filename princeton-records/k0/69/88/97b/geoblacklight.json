@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour intervals. Triangulation and Coast line by the U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1885. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698897b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Little Egg Harbor Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Little Egg Harbor sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831659\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59fa8d52-cb74-42eb-a011-c86b86d6a51d/file/807dccb8-98e9-4fe4-b8af-aecf3b63d7bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6f7aaf8-2559-4a07-be19-efaa9c870d97/file/7597781b-27d4-49ec-b405-ce7e74400492\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6f7aaf8-2559-4a07-be19-efaa9c870d97/file/db3dd067-4339-4172-9a37-01f9c02536a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2F1e%2Fc5%2F9d1ec5ecdc3b4d37891c81eaf4844f01%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf291be9-f6bf-45d7-9a63-4a44f9ec0826/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c6f7aaf8-2559-4a07-be19-efaa9c870d97",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698897b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 39.75, 39.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-k0698897b"
+}

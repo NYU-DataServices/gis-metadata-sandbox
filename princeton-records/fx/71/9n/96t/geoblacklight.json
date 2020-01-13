@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Map of Africa with relief shown pictorially. At head of title: Africam Graeci Libyam app. \"Cum priuilegio.\" Watermark: 2 crossed arrows. On verso: Africa. 4. Plate 4 from: Theatrum orbis terrarum / Abraham Ortelius. Antuerpiae : Christophorum Plantinum, 1584.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fx719n96t",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antwerp : Plantin, 1584]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Africae tabula noua : edita Antuerpiae 1570",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4861362\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74bd6d37-0369-4b07-9e46-552219c617f9/file/d3036018-15b8-4dbb-b703-7bf73ec5a36b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0c0b12e-8af7-4102-9f0b-eec94894c966/file/e85772a1-1ca1-447e-b278-c7a5dd4c1c05\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0c0b12e-8af7-4102-9f0b-eec94894c966/file/3d0596df-ae11-4322-907c-798c8130cf8e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d5%2Fce%2F2b%2Fd5ce2b23147845279189efa2937a9113%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/002ccadf-9f79-4899-a756-1f832878a186/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1584"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0c0b12e-8af7-4102-9f0b-eec94894c966",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fx719n96t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-60.0141, 68.0095, 39.0001, -40.0001)",
+  "solr_year_i": 1584.0,
+  "uuid": "princeton-fx719n96t"
+}

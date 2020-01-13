@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "United States. Mississippi River Commission"
+  ],
+  "dc_description_s": "Shows mileage, names of local geographic features and landings, land use, some landowners and plantations. Title from cover sheet. \"Published in 1884 & 1900, 1895-96 & 1916 by the Mississippi River Commission, created by act of Congress, June 28, 1879.\"--Cover sheet. Historic Maps copy has ms. annotations on some sheets; some sheets mounted on cloth.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq94n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Vicksburg, Miss.] : Mississippi River Commission, 1916 (N.Y. : Snyder & Black)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mississippi River,Maps"
+  ],
+  "dc_title_s": "Map of the lower Mississippi River from the mouth of the Ohio River to the head of the passes [mid stream distance]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7698794\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/216d35f0-4bf3-4e12-892c-67b84ec90088/file/d92c58a3-c340-4ae2-803a-30c7a2af915a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/216d35f0-4bf3-4e12-892c-67b84ec90088/file/ddb6dcd0-1b39-428a-bae4-82e96317ad11\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/81%2Fa8%2Fe7%2F81a8e72a76e14c628eacd82d0fc8d6e4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29516be0-a265-4c93-ba13-2064feefae07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-216d35f0-4bf3-4e12-892c-67b84ec90088",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq94n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-92.0, -89.0, 37.0, 29.0)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-vq27zq94n"
+}

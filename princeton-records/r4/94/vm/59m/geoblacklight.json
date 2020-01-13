@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Clymer. Relief shown by 20 feet contour interval. Surveyed in 1902-1904. Surveyed in cooperation with the States of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r494vm59m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Clymer (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Chautauqua County) Clymer Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866785\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5d21fa1a-dcb2-4692-9f91-16b3349e99e2/file/994bfc76-0206-49d8-8ba0-8747af69642a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cfb137d1-b28e-4314-b327-87df2d3ea3f3/file/038116e9-ecc4-48d5-b73f-5a1625d34de2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cfb137d1-b28e-4314-b327-87df2d3ea3f3/file/335fb076-5e7c-450b-935b-cd611b1270be\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F19%2F80%2Fb119807c860744109c7e8871ac11a144%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c5847a1-627a-449f-8dcb-a48e7ce3c5e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cfb137d1-b28e-4314-b327-87df2d3ea3f3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r494vm59m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.75, -79.5, 42.25, 42.0)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-r494vm59m"
+}

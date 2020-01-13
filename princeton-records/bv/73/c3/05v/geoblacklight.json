@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Tanganyika. Survey Division"
+  ],
+  "dc_description_s": "Relief shown by contours, and gradient tints. Map shows international, provincial, and district boundaries, railways, three classes of roads, rivers, aerodromes, landing grounds, seaplane stations, custom aerodromes or landing grounds, obstructing wireless stations, and native concentrations. Original map is filed in the Map/Geospatial Center, a map reproduction is attached to volume. Relief shown by gradient tints and contours. Map shows international, provincial and district boundaries, native concentrations, customs, aerodroms or landing grounds.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c305v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Dar-es-Salaam] : Survey Division, Dept., Lands & Mines Tanganyika Territory, 1936.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies",
+    "Topographic maps,Tanzania",
+    "Tanzania,Administrative and political divisions",
+    "Tanzania,Maps"
+  ],
+  "dc_title_s": "Tanganyika Territory",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9127934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ebd553f-c98b-4817-8e6a-6d1a72db02de/file/2373abd0-7861-418b-a0be-2b3802ec6b97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ebd553f-c98b-4817-8e6a-6d1a72db02de/file/55a6b2db-fed0-4dac-8f0f-f91665df0971\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2Ffe%2F9c%2F14fe9c77b2344cb998e6fc02c95452af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ebc0d639-be68-4d58-9bc2-02b7b74b1b55/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Tanzania"
+  ],
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ebd553f-c98b-4817-8e6a-6d1a72db02de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c305v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.025833, 40.446944, -0.986111, -11.794444)",
+  "solr_year_i": 1936.0,
+  "uuid": "princeton-bv73c305v"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"3082.\" \"Oct. 1910.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b340c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Somerville,Maps",
+    "Somerville (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Somerville, Somerset County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606083\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e8374ce0-a5ed-4977-a58d-152011087abe/file/04137ff8-7827-417a-bf6a-6ea7e9b14c98\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8374ce0-a5ed-4977-a58d-152011087abe/file/661be99e-b4f7-49e2-aa69-1c29a0e474eb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/60%2Fc6%2F15%2F60c615dca2ee45f59b42501d915f4f24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0860d1cc-d495-4153-b494-7ca11ec5497e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e8374ce0-a5ed-4977-a58d-152011087abe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b340c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-k643b340c"
+}

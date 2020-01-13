@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. United States. Geological Survey Companion text: 24.500 North Decimal Degree 49.3833 East Decimal Degree -66.8833 West Decimal Degree -124.7667 Albers equal area projection. With index map showing physiographic provinces. Map covers conterminous U. S.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv55t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1932.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "United States,Maps"
+  ],
+  "dc_title_s": "Geologic map of the United States (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515294\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80e23ece-daed-4a01-aa69-c9ab28589c1d/file/349aaeb0-93be-4c2b-8dea-d2d07fb5dd33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80e23ece-daed-4a01-aa69-c9ab28589c1d/file/4444c9e9-0dfd-4092-aeae-564ffd8c3f49\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F92%2Fd0%2F0c92d059f4a3446dbe07fb2a8cf522b0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4ff9a2b5-af31-49c8-b9d9-1f8677b49ab2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-80e23ece-daed-4a01-aa69-c9ab28589c1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv55t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.76666666666667, -66.88333333333334, 49.38333333333333, 24.5)",
+  "solr_year_i": 1932.0,
+  "uuid": "princeton-kd17cv55t"
+}

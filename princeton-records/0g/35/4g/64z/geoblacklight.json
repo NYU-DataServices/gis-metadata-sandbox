@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "American Express Company"
+  ],
+  "dc_description_s": "World map showing steamship routes, with distances between ports. Publisher's advertisements on verso, including one for Paris Exposition of 1900.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354g64z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : American Express Company, [1900?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Exposition universelle internationale de 1900 (Paris, France).",
+    "Ocean travel,Maps",
+    "Steamboat lines,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Steamship routes of the world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4555066\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2c848cb8-468f-455b-82ae-e03688afaa7c/file/6e5ab629-feb3-47b0-8ae3-58832e2ad335\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f5e7fd5-f6b2-4e7b-806f-7e69162c514a/file/ebb725de-4218-412b-b947-1ccd6dd87fa2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f5e7fd5-f6b2-4e7b-806f-7e69162c514a/file/28b4e7dd-3064-4c4d-a2e5-feca19e805b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3d%2Ff9%2Fe8%2F3df9e884e6fa4efeb75f3a326cb78dfd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/63b1615a-82ae-4758-8da4-42f983174281/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5f5e7fd5-f6b2-4e7b-806f-7e69162c514a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354g64z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -80.0)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-0g354g64z"
+}

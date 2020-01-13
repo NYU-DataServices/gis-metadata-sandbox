@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feby. 1923.\" Includes location map, key, key map, streets and specials index, and text. \"5795.\" Sheets numbered 1-7 and 9-17; sheet 8 not included in numbering; section 8 labeled \"proposed\" on key map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zc77ss14h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbury,Maps",
+    "Real property,New Jersey,Woodbury Heights,Maps",
+    "Woodbury (N.J.),Maps",
+    "Woodbury Heights (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbury, including Woodbury Heights, Gloucester County, New Jersey (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5492042\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/481bbb8a-031f-401e-b9c0-fd20494c3863/file/50726030-d107-43d9-bc2e-a06016598f1a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/481bbb8a-031f-401e-b9c0-fd20494c3863/file/c554edb2-b4f6-450e-aa13-887aa0038384\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2Fda%2F76%2Ff1da7634893d4522807f9fc81e54de33%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ff099e93-48e0-4987-8065-3315f7499834/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-481bbb8a-031f-401e-b9c0-fd20494c3863",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zc77ss14h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-zc77ss14h"
+}

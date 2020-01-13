@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1921.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3821.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/765373245",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Real property,New Jersey,Edgewater Park,Maps",
+    "Beverly (N.J.),Maps",
+    "Edgewater Park (N.J. : Township)),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington County, New Jersey : including Edgewater Park and Perkins (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f93f62b-9ae2-4654-9137-87e487ed5f6b/file/5eff3c51-9c94-4113-858a-cfd7c1da0e68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f93f62b-9ae2-4654-9137-87e487ed5f6b/file/3f7d6844-d958-42c0-898e-4216d4a875b1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F2e%2Ffa%2F0b2efaf195cf4a11a6a6d72656acfa9b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd3629bb-60be-4b0c-a788-958e7eff4607/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1f93f62b-9ae2-4654-9137-87e487ed5f6b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-765373245",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-765373245"
+}

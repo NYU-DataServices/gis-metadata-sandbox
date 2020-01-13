@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Malone. Relief shown by 20 feet contour interval. Surveyed in 1914-1915. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gh81n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Malone Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867919\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1756a9b0-11b7-43e2-b3e0-738b24d86e85/file/16b032d4-49b7-49c8-833b-f318042e4fd5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70bd154e-3d96-4ae4-8bc9-981329a90c97/file/e6559212-2d84-430d-8db3-e722e186f9ac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70bd154e-3d96-4ae4-8bc9-981329a90c97/file/dcfd320e-ca97-4998-8da2-80dc1e18354c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ab%2Fe6%2F66%2Fabe66607b8194172901385c081d9bede%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b5542e51-835d-4553-a6c6-7f5a03686e6f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-70bd154e-3d96-4ae4-8bc9-981329a90c97",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gh81n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 45.0, 44.75)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-kp78gh81n"
+}

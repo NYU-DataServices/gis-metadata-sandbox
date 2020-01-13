@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1923.\" Includes location map, key, streets and specials index, and text. \"5827.\" North oriented towards upper right. Historic Maps copy includes sheets 1, 4 and 6 of New Milford, N.J. series; sheets 2-3, showing River Edge Manor section, sheet 5, showing Peetzburg section, and sheet 7, showing New Bridge section, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pr76f5090",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Milford,Maps",
+    "New Milford (N.J.),Maps"
+  ],
+  "dc_title_s": "New Milford, Bergen County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43082a8b-91c3-4042-a8d5-33c3c2082c5f/file/b7304517-e988-439d-a363-307cc354e48f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43082a8b-91c3-4042-a8d5-33c3c2082c5f/file/9b3bb471-7b1f-4d67-a8a1-37aa776ca792\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2Ff3%2F12%2F2cf312f71ba546d99b20e74c2d73e03f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/35dd38e4-d4e1-420c-ae91-a5ca787a28f6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-43082a8b-91c3-4042-a8d5-33c3c2082c5f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pr76f5090",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034, -74.002, 40.952, 40.914)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-pr76f5090"
+}

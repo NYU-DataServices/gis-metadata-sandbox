@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -17.666667. South Decimal Degree -17.833333. East Decimal Degree -68.250000. West Decimal Degree -68.500000. Alternate title: Crucero, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s6728",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Crucero, hoja 5940 IV. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841318\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2430397f-8827-4203-ba0a-a8481c203c90/file/760067ca-28d3-48e1-8969-de14637da3fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2430397f-8827-4203-ba0a-a8481c203c90/file/f517caeb-45bf-4758-b35c-510dd95612fd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F73%2Fb4%2Ff473b427c28b4e33aac0bb4310cd19cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cea52faa-d8d5-41a6-b18d-3fd2a6e78f90/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2430397f-8827-4203-ba0a-a8481c203c90",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s6728",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.5, -68.25, -17.666667, -17.833333)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-2j62s6728"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Relief shown by shading, form lines, hachures and spot heights. In upper margin: Karte von Mesopotamien. \"3d.\" Includes guide to adjoining maps. \"Nur fu\u0308r den Dienstgebrauch! Nachdruck sowie Benutzung zur Bearbeitung anderer Karten verboten.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vt450",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Kartographische Abteilung der Kgl. Preuss. Landesaufnahme, Januar 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Wadi Hauran (Iraq),Maps"
+  ],
+  "dc_title_s": "Wa\u0302di\u0304 H\u0323aura\u0302n",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7027302\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/345cd2fa-fc2c-4d0c-bef5-dcc15719d3d8/file/5080b03a-3606-4567-a29c-11df5a9e240f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/345cd2fa-fc2c-4d0c-bef5-dcc15719d3d8/file/641aa72e-7a4e-4f1f-b13e-831d0eb9427b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2Fae%2Fb6%2F1eaeb689b3f24751a066203535828834%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10370929-7834-4a53-a412-a1c3391e7415/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-345cd2fa-fc2c-4d0c-bef5-dcc15719d3d8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vt450",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(40.2501, 42.2501, 34.0002, 33.0002)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-9880vt450"
+}

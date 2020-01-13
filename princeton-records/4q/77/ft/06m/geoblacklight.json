@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887-8. Triangulation by U.S. Coast and Geodetic Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4q77ft06m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania-New Jersey: Lambertville sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867978\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/401749d7-da95-4771-bc0f-766358bc0117/file/6d97b784-acc9-4c82-bb76-c0fa400133ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/967e748d-2e4c-43ca-8ae9-93c281bb1fe6/file/2a81533e-4e29-42f0-815c-42dbd748bf74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/967e748d-2e4c-43ca-8ae9-93c281bb1fe6/file/96230fd5-564e-46a1-aabe-a4009e1429ca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F13%2F62%2F7c1362373ec44c03bd63d3f7e70497d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e869c369-05c2-4682-a767-944932b753be/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-967e748d-2e4c-43ca-8ae9-93c281bb1fe6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4q77ft06m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 40.5, 40.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-4q77ft06m"
+}

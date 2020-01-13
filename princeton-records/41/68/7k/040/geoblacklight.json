@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"4899.\" Includes key, specials index and text. North oriented toward upper right. \"Aug. 1901.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/41687k040",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,High Bridge,Maps",
+    "High Bridge (N.J.),Maps"
+  ],
+  "dc_title_s": "High Bridge, Hunterdon Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4784015\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf110875-1c9d-4bd3-b01f-da9579dd94df/file/9ac46084-7c47-4903-ae48-317e8ad45eb8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf110875-1c9d-4bd3-b01f-da9579dd94df/file/3d609c73-bb95-4510-b4d1-9a7aa2853c6c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a8%2F85%2F4a%2Fa8854ac0bf8b4d3abe17aa84410d78f0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d546598a-48f0-4a74-81e8-c8da2da73504/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bf110875-1c9d-4bd3-b01f-da9579dd94df",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-41687k040",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.912, -74.873, 40.681, 40.655)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-41687k040"
+}

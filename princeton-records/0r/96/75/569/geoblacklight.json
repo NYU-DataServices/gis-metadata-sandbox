@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Boston. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1898-1900. Triangulation by Mass. Topo. Survey Comm. and U.S.C. and G.S. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0r9675569",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Boston (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Boston Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837209\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/674dd5e7-7c24-4f79-9598-e10d9c69d3b0/file/f7f81167-0578-419a-823d-e2085e0a23fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/674dd5e7-7c24-4f79-9598-e10d9c69d3b0/file/ed79f0bc-a239-4e0a-a21d-beab19905bb1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/78%2Fdf%2F97%2F78df9763b2424578878880c7d9c6a088%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7c5a85e-954b-421f-9be2-8d636935857a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-674dd5e7-7c24-4f79-9598-e10d9c69d3b0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0r9675569",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.25, -71.0, 42.5, 42.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-0r9675569"
+}

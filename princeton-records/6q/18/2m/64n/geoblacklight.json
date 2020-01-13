@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.625000. South Decimal Degree 40.500000. East Decimal Degree -74.500000. West Decimal Degree -74.625000. Alternate title: Bound Brook, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; Edited and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geodetic Survey. Topography from aerial photographs by photogrammetric methods. Aerial photographs taken 1943. Field check 1943. Culture revised by the Geological Survey 1955\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182m64n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Bound Brook Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844632\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b14afa7-0ff9-46e2-9378-9b8f8b7ed8ad/file/9f8a3e13-b1ab-4778-b602-ab42e7de8dd5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ca2ded1-7628-4790-8308-b27414b356c7/file/e21458bb-b35a-4df1-b4ec-b0933223c58a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ca2ded1-7628-4790-8308-b27414b356c7/file/6cf5ee17-59a6-4c51-baa2-8a10b6ddbd53\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2F75%2F42%2Fe67542d125e44f3a801ecfd8913c77a1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a706f44b-cb37-48ab-a224-736f2f6cdd95/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ca2ded1-7628-4790-8308-b27414b356c7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182m64n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.625, -74.5, 40.625, 40.5)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-6q182m64n"
+}

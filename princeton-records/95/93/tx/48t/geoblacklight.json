@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Skeleton maps of Camden, N.J., from: Insurance maps of Camden, N.J., vol. 1; sheets are numbered 5-8, 11-14 and 17-18.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9593tx48t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1906]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Camden,Maps",
+    "Camden (N.J.),Maps"
+  ],
+  "dc_title_s": "Camden, vol. 1: skeleton (Sheet 18)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5654781\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16c0b648-ef0d-4e72-a1be-cf95a46d7faf/file/47b133b9-ef84-4b11-af19-a12167b72761\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16c0b648-ef0d-4e72-a1be-cf95a46d7faf/file/68693357-ebf3-4345-914f-068298188896\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2F06%2F44%2F9c0644db4e28495eaeae81990b9e8f8c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af49633b-8b93-4eb2-a8d6-084b3d51667b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-16c0b648-ef0d-4e72-a1be-cf95a46d7faf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9593tx48t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-9593tx48t"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1902-1903. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f462693v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Orwell (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Orwell Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867951\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f5d3c02a-1dec-459b-9b60-732a22c0cdbe/file/86f081b8-15e8-4372-bf37-4eb26cb4a9b3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/738856a4-0e6a-4e06-b308-5668d6ce1f26/file/e3828ec6-5fe5-4cea-8328-31a3ac98e707\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/738856a4-0e6a-4e06-b308-5668d6ce1f26/file/4156873b-0fd6-4660-99a5-11f3443214ec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F87%2F04%2F9587041681c04f4c9141aa206174ea4f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/536085c1-6dc7-4a31-9d06-3a1f1679d3c0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-738856a4-0e6a-4e06-b308-5668d6ce1f26",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f462693v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.0, -75.75, 43.75, 43.5)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-3f462693v"
+}

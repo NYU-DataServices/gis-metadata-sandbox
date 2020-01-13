@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. \"504958 (546742) 8-82\" \"Names and boundary representation are not necessarily authoritative\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p0969784",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. ] : [Central Intelligence Agency], 1982.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use,Afghanistan,Maps",
+    "Afghanistan,Maps",
+    "Afghanistan,Population,Maps",
+    "Afghanistan,Languages,Maps",
+    "Afghanistan,Economic conditions,Maps"
+  ],
+  "dc_title_s": "Afghanistan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9603347\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4366d1c-2bfa-462a-89af-180dddfceaa3/file/865b73b2-818e-470a-a7d8-81c24a0224d6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4366d1c-2bfa-462a-89af-180dddfceaa3/file/8c83b346-ae50-43e1-90ac-df2a6b08f26b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2Ff8%2F5d%2F1af85d0b45fa49a593ae96728e2fec8c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/59352707-69df-4267-a238-6020dfc090ef/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a4366d1c-2bfa-462a-89af-180dddfceaa3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p0969784",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(60.517222, 74.89, 38.490833, 29.377222)",
+  "solr_year_i": 1982.0,
+  "uuid": "princeton-0p0969784"
+}

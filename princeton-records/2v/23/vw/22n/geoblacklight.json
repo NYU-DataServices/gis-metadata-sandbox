@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Department of Transportation Federal Railroad Administration. United States. Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2v23vw22n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [s.n.], 1976.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Railroads",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Transportation map of New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514909\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c27a2d58-2f31-4c3a-955d-0e687c616d18/file/931dd2c6-764a-44d5-843f-b9789bea36e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c27a2d58-2f31-4c3a-955d-0e687c616d18/file/ce433357-938d-4191-a90e-bfabb85aff9b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2Fae%2Fae%2F40aeaee1a2244e36a94d3341ccfc926d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a71e1ff-0449-406e-b1d8-dd22af84e0c1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c27a2d58-2f31-4c3a-955d-0e687c616d18",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2v23vw22n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.58333333333333, -73.88333333333334, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1976.0,
+  "uuid": "princeton-2v23vw22n"
+}

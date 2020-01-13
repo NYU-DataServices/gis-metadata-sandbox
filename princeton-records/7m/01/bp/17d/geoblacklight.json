@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bew, John, d. 1793"
+  ],
+  "dc_description_s": "Relief shown pictorially. Atlantic Ocean labeled \"Pacific Ocean.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bp17d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published as the Act directs ... by J. Bew, May 31st, 1781.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Gulf Coast (U.S.),Maps,Early works to 1800",
+    "Southern States,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A map of East and West Florida, Georgia, and Louisiana : with the islands of Cuba, Bahama, and the countries surrounding the Gulf of Mexico, with the tract of the Spanish galleons, and of our fleets thro' the Straits of Florida, from the best authorities",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7117870\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ffd6b9a-c4f9-40eb-83bc-0a287640037e/file/f9720b19-4efd-4cd2-be57-72014eee6d92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ffd6b9a-c4f9-40eb-83bc-0a287640037e/file/8c984e42-cbb4-42e0-8644-302f0ae40abb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2F1c%2F50%2F991c508f037942aa8b9bfac77fdbce91%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74192d64-eecb-4627-8476-d8da75b862ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ffd6b9a-c4f9-40eb-83bc-0a287640037e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bp17d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-99.004, -77.0094, 33.5148, 21.0034)",
+  "solr_year_i": 1781.0,
+  "uuid": "princeton-7m01bp17d"
+}

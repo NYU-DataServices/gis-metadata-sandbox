@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 26 (1912) New Jersey Geological Survey. Relief shown by 10 or 20 feet contour interval. Depth shown by fathom in feet of water at mean low tide. Title was not given. Region covered: vicinity of Newark and Jersey City. Original survey 1887, resurveyed 1898-1903. Revised 1908.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sf52p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Essex County (N.J.),Maps"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 26",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866363\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/faf56a37-07cd-4caa-be34-d340b4ea5c6e/file/e80fe0da-0439-4015-af89-b1894babaad6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/106d14cf-c157-4c83-ac5f-a847083ceb9a/file/8a591f22-89e2-4f6e-9cb9-544695a963aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/106d14cf-c157-4c83-ac5f-a847083ceb9a/file/d6a5e5ee-3b25-4275-9858-52a2813282ac\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2Fb5%2F5e%2F15b55e4acc834b27a0107421e1e12473%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/456e17fc-5348-4c7e-ba07-db067419c9b3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-106d14cf-c157-4c83-ac5f-a847083ceb9a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sf52p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.33333333333333, -73.9, 40.93333333333333, 40.46666666666667)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-mp48sf52p"
+}

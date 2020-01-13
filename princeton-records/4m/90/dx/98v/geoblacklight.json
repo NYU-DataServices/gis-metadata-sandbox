@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Armstrong, George"
+  ],
+  "dc_description_s": "Map of Palestine showing streams water courses, wells, aqueducts, mosques, watch towers, trig stations, roads and tracks with topographical and geographical terms in English and Arabic. Relief shown by hachures, shading and spot heights. In lower margin of each sheet: P.E.F. Palestine. In lower right margin of sheet 21: London, Stanford's Geogl. Estabt. Cover title: A map of Palestine from surveys conducted for the Committee of the Palestine Exploration Fund and other sources. Includes key map to sheets. Historic Maps copy imperfect: sheets 17-18 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dx98v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Engraved, printed & published for the Committee of the Palestine Exploration Fund at Stanford's Geographical Establishment, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Palestine,Maps"
+  ],
+  "dc_title_s": "Palestine : from the surveys conducted for the Committee of the Palestine Exploration Fund and other sources [R.E.F sheet 7]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7065139\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0cd8472-9fc3-4150-98a9-9be417fc1449/file/5e1745e7-89c6-4066-9a70-e6b33a4cc4db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0cd8472-9fc3-4150-98a9-9be417fc1449/file/0090347b-28f0-430c-a8b4-357f2f639229\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2Fcc%2Faa%2F30ccaa4f52084659bfa59109b17432ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b42121b2-bd54-4485-8e5f-5d47d5b66577/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Israel"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0cd8472-9fc3-4150-98a9-9be417fc1449",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dx98v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-4m90dx98v"
+}

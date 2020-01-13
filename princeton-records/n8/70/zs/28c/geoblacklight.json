@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Czechoslovakia with relief, shown at a 1:1,430,000 scale. Also included are maps of land use, population, resources and industries of the country. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs28c",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Population",
+    "Railroads",
+    "Land Use",
+    "Industry",
+    "Resources",
+    "Transportation"
+  ],
+  "dc_title_s": "Czechoslovakia. (1974/relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/acc0ccbc-0f1f-4bf3-9f8c-cdec37de11d4/file/e569068e-4b15-4af8-ad24-851a610b82f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1fe2a5d8-154a-4b25-bf12-0f6c47e8c494/file/a436dae7-3fb3-46fa-b5f7-a4e8f0042284\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1fe2a5d8-154a-4b25-bf12-0f6c47e8c494/file/ec0af38b-1350-4fe2-8f40-78bb4731c86a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2F50%2Fdd%2F3950dd817710456490dabe2f28c9ff1c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/17cf760c-4863-407f-be65-011a4d680000/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Czechoslovakia",
+    "Europe",
+    "Eastern Europe"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1fe2a5d8-154a-4b25-bf12-0f6c47e8c494",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs28c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.0, 22.0, 51.0, 47.0)",
+  "solr_year_i": 1974.0,
+  "uuid": "princeton-n870zs28c"
+}

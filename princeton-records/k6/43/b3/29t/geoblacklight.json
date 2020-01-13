@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1886.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b329t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,South Amboy,Maps",
+    "South Amboy (N.J.),Maps"
+  ],
+  "dc_title_s": "South Amboy, New Jersey (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5537369\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/513a0ebf-7b4b-4350-b289-87ce67c594b4/file/9c9c9eb6-e375-4156-b683-c7eebcd546cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/513a0ebf-7b4b-4350-b289-87ce67c594b4/file/452a4d15-9902-4b1e-aef5-a07fc6e9e258\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F99%2F4b%2F95994b82029d4518bea61628a4b90c38%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7cbc337b-ad85-4eea-9889-3f1ff67a41cc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-513a0ebf-7b4b-4350-b289-87ce67c594b4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b329t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-k643b329t"
+}

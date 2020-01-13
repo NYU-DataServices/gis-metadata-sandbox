@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J.C.M. vol. 4.\" North oriented towards upper left. Historic Maps copy has sheet 77 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/th83m125h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Corson's Inlet,Maps",
+    "Corson's Inlet (N.J.),Maps"
+  ],
+  "dc_title_s": "Corson's Inlet (Sheet 77)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5322677\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ea3609e-eace-4953-bf82-5afd52608484/file/dc9bfb27-5dfa-4ab9-a57b-3a60fbdb3441\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ea3609e-eace-4953-bf82-5afd52608484/file/5a43e46b-228c-4095-8aba-38df98cc922a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2Fa9%2Fdd%2F1aa9dd742f684209b5b36d3e27b95ff9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3a2655ed-a6ab-4661-8e9b-7a4a07503fc6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6ea3609e-eace-4953-bf82-5afd52608484",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-th83m125h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.6580069, -74.6382447, 39.2194154, 39.2048469)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-th83m125h"
+}

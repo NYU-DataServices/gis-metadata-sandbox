@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Arrowsmith, Aaron, 1750-1823"
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Greenwich. \"H.S. Tanner sc.\" Sea of Korea referred to as \"Sea of Corea.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p209b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : Aaron Arrowsmith, 1807]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Japan,Maps",
+    "Korea,Maps"
+  ],
+  "dc_title_s": "Empire of Japan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5040612\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58c3f08a-6217-4054-938f-b742b2f5c036/file/9db53cf2-2f07-47ba-b2b7-9507312d370d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58c3f08a-6217-4054-938f-b742b2f5c036/file/b7279d35-3305-46d4-8a64-d4db5d7d30a4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2Fcc%2F36%2F83cc36886c6a4f73b8073262943d8a66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/76345dd7-c1c5-44ef-b122-a1d436d91f3d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Japan",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1807"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-58c3f08a-6217-4054-938f-b742b2f5c036",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p209b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(123.01, 147.01, 42.0, 29.0)",
+  "solr_year_i": 1807.0,
+  "uuid": "princeton-5d86p209b"
+}

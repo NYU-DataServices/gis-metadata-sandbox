@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Central African Republic, shown at a scale of 1:7,000,000. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v405sc071",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Central African Republic, 1977",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2682f6eb-64f3-42ca-99fa-21468ddcdeae/file/c58d699b-3d88-4a9e-96a1-58a3fba66c44\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff60ad11-d7a0-447b-a1dc-ef292fa41924/file/57399c01-4f85-4522-9026-782d6a8a4482\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff60ad11-d7a0-447b-a1dc-ef292fa41924/file/61c9f5f1-f52e-4bab-9a6b-e9bf65427db6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2Fa8%2Fa4%2F6ca8a46cd88341fcaa8804199ac9b246%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53862010-7184-4f40-a2fe-3bd60c30867e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Africa",
+    "Africa",
+    "Central African Republic"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff60ad11-d7a0-447b-a1dc-ef292fa41924",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v405sc071",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 25.0, 13.0, 0.0)",
+  "solr_year_i": 1977.0,
+  "uuid": "princeton-v405sc071"
+}

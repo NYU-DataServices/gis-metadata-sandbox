@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"2296.\" Historic Maps copy includes sheets 1-14, covering Garfield; sheets 15-24, covering Wallington, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cx78v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Garfield,Maps",
+    "Garfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Garfield and Wallington, Bergen County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5261429\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37b4a44b-e805-4c8a-8701-a8c43da54194/file/7a2f65cd-77d7-4690-8a96-00155a3019fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37b4a44b-e805-4c8a-8701-a8c43da54194/file/ac4eb32c-ee4b-4b37-a7cb-b49c2dad0762\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F5d%2Faa%2F475daad54b5b4cd09090b87e8c87a80d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c68de9e-de0c-411a-b730-a8323736576a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-37b4a44b-e805-4c8a-8701-a8c43da54194",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cx78v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.131, -74.092, 40.894, 40.841)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-bz60cx78v"
+}

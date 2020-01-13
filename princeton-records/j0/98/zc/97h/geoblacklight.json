@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -16.333333. South Decimal Degree -16.500000. East Decimal Degree -68.500000. West Decimal Degree -68.750000. Alternate title: Aygachi, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j098zc97h",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1983.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Aygachi, hoja 5844 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840951\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afe4fa1c-79f1-405a-92b0-4dc360a04a8d/file/e2aba115-3ae8-428e-bce2-3fed03d53c2e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afe4fa1c-79f1-405a-92b0-4dc360a04a8d/file/1b6db9b6-4378-4dc8-9ff5-295a4f8c1f0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2Fdb%2F00%2Fb9db0040e6004bb1aa7c6d55fdbf02ed%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1546caa7-1ea3-4fc9-afd3-4e12a0cc3250/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1983"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-afe4fa1c-79f1-405a-92b0-4dc360a04a8d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j098zc97h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -16.333333, -16.5)",
+  "solr_year_i": 1983.0,
+  "uuid": "princeton-j098zc97h"
+}

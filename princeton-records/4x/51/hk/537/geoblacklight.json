@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4234. In upper margin: France 1:5,150.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hk537",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Topographic maps",
+    "France,Maps"
+  ],
+  "dc_title_s": "St. Valery-sur-Somme. G.S.G.S. 4234",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820829\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b39b123-f9ae-4e98-82a0-1909ff83a760/file/cb8d4abc-518f-4934-b408-94d43fb44e38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff3d2fad-30b0-4c8c-aa61-868fcd3faa90/file/e15a6b9f-8790-468e-859a-3e4d3cb39c0c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff3d2fad-30b0-4c8c-aa61-868fcd3faa90/file/eb461e1f-65d6-4234-8ea7-7468d4ad6a55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F13%2F3c%2F86133cdae43e4f2baa99d3de572e0590%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/76c23b35-e19a-4bbf-98fe-abd3c46bafa3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff3d2fad-30b0-4c8c-aa61-868fcd3faa90",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hk537",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.6166666666666667, 1.65, 50.2, 50.166666666666664)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-4x51hk537"
+}

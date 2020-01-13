@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Basset, Paul-Andre\u0301, active 1785-1819"
+  ],
+  "dc_description_s": "Historic Maps copy has label on verso of map with title: Environs de Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8s45qc154",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : chez Basset, rue St. Jacques, no. 64, [ca. 1815]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Carte routie\u0300re des environs de Paris avec les de\u0301partements, pre\u0301fectures, sous-pre\u0301fectures, cantons ou justices de paix, comprenant en outre les relais et leurs distances compte\u0301es en postes",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6071625\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe97b535-13a8-4705-a26c-e58774adfb74/file/87d207bd-8726-4569-af74-2ba0345e6cf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe97b535-13a8-4705-a26c-e58774adfb74/file/d6a69329-7186-4b02-bbf0-df214e897434\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2Fcc%2Ff6%2F7accf659c016449089ee3c73ae0891aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d75d8561-420a-4022-8b42-a1e22e5afca0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe97b535-13a8-4705-a26c-e58774adfb74",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8s45qc154",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.7933, 4.4549, 49.7876, 47.9555)",
+  "solr_year_i": 1815.0,
+  "uuid": "princeton-8s45qc154"
+}

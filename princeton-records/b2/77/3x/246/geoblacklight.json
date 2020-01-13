@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New York State Museum. University of the State of New York. Relief shown by 200 ft. contour interval. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x246",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Albany, NY] : [s.n.], 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Watersheds",
+    "Topographic maps",
+    "Bathymetric maps",
+    "New York,Maps"
+  ],
+  "dc_title_s": "Map of the state of New York showing the surface configuration and watersheds",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515123\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ac347e9-a3d6-44f9-bbfc-dd32c1731702/file/02ce120f-faeb-426a-922c-decc1d619309\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29f424c7-3af8-4fe4-8473-19efb24a4023/file/fd4a110a-8014-49cb-abda-afff261b6275\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29f424c7-3af8-4fe4-8473-19efb24a4023/file/564bbf04-1a68-4849-bdd8-125ec9f1ffbc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2Fa0%2F29%2Fada029c8873d475e9566f7f4d40fcc89%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/20be7e64-43a4-4964-adca-2d8e0a3bdb29/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-29f424c7-3af8-4fe4-8473-19efb24a4023",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x246",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.76666666666667, -71.85, 45.016666666666666, 40.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-b2773x246"
+}

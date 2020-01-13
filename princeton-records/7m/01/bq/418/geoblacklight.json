@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Lotter, Georg Friedrich"
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes \"Annotatio.\" Historic Maps copy 2 imperfect: upper and lower margins trimmed away.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bq418",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "August\u00e6 Vindelicorum; Venalis prostat apud Tobiam Conr. Lotter [1772?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "North America,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "America Septentrionalis, concinnata juxta observationes Dnn Academiae Regalis Scientiarum et nonnullorum aliorum, et juxta annotationes recentissimas",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5172040\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba5ab80e-8b3d-4db4-8f1e-e16253c6daf0/file/2653addc-e344-4389-88be-bc6621753940\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba5ab80e-8b3d-4db4-8f1e-e16253c6daf0/file/79cd5202-21f4-4e33-8da9-3d598f0113bf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2Fe4%2F13%2F58e413b93aee4bb7ac6714fbe6955f54%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1a9cec8d-ddb6-4f23-a92b-f4e34777d33b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1772"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ba5ab80e-8b3d-4db4-8f1e-e16253c6daf0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bq418",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.0, -24.5, 80.0, 6.5)",
+  "solr_year_i": 1772.0,
+  "uuid": "princeton-7m01bq418"
+}

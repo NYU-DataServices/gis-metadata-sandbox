@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 44.0000. South Decimal Degree 43.0000. East Decimal Degree -9.0000. West Decimal Degree -10.0000. Alternate title: Mugia, Spain: La Coruna Province. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain 1:100,000, Estado Mayor del Ejercito, sheet 7, 1917, and sheet 22, 1915; Spain 1:200,000, Cuartel General del Generalisismo, sheet 1, 1934 and sheet 11, 1935; Spain and Portugal road map 1:400,000, AMS, third edition, sheet 41, 1943; Railways in Spain and Portugal 1:1,500,000, GSGS 1941, corrected from intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bq93q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Mugia, sheet 1. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839141\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9d2e1a6-96a7-4101-bcb9-44bed5d888ff/file/6d1b80ea-5782-4296-9f4c-75e9cddb35a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9d2e1a6-96a7-4101-bcb9-44bed5d888ff/file/04de185c-3751-492d-abea-6c250c8c47e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2F92%2F84%2Fd89284b2d9744425a7e0f221b9d87f52%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e1d6a230-96b3-41c2-8c0c-b998534b0193/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f9d2e1a6-96a7-4101-bcb9-44bed5d888ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bq93q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, -9.0, 44.0, 43.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-1544bq93q"
+}

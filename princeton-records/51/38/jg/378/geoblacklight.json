@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 46, and 54 to 58 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 46. \"N.J.C.M. vol. 2.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jg378",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean Grove,Maps",
+    "Real propery,New Jersey,West Ocean Grove,Maps",
+    "Real propery,New Jersey,Bradley Beach,Maps",
+    "Real propery,New Jersey,Neptune City,Maps",
+    "Ocean Grove (N.J.),Maps",
+    "West Ocean Grove (N.J.),Maps",
+    "Bradley Beach (N.J.),Maps",
+    "Neptune City (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean Grove, West Ocean Grove, Bradley Beach, Bradley Park and Neptune City (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a883158a-7cce-4143-ab57-e1954888fc57/file/7c0e500a-2520-4885-bab6-bea7ef1460c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a883158a-7cce-4143-ab57-e1954888fc57/file/654e2fb4-532a-43a6-a12c-75cfdcb16d13\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fa7%2Fc6%2Fdca7c60b05dc48d893056697d224a77e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb165d78-db1e-4b4d-8195-bf06987a7acb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a883158a-7cce-4143-ab57-e1954888fc57",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jg378",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.094, -74.0, 40.234, 40.183)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-5138jg378"
+}

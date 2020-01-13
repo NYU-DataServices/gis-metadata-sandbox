@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Morristown, N.J. Relief shown by 20 feet contour intervals. Triangulation by the U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1887. Revised in 1903. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2n49t3454",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morristown Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Morristown sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831179\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aebe328f-7c37-4ede-95a8-87a7a4f2f41d/file/15444b65-9d7c-4041-9b6a-735e3ea14c69\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16996a23-9851-46fe-890c-16a2d6099e2f/file/d800f200-b3e5-42dd-8981-9fe55bf6040f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16996a23-9851-46fe-890c-16a2d6099e2f/file/705fc9a5-d46c-46a1-9e1c-9e4f8bbc0a1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a3%2Fe5%2Ffa%2Fa3e5faa7432944fa85107592faa700b4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/687e613b-abcc-4382-992b-36114a4d2082/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-16996a23-9851-46fe-890c-16a2d6099e2f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2n49t3454",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.0, 40.75)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-2n49t3454"
+}

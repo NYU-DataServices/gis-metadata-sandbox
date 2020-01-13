@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. \"Sheets Nos. 1, 2, 3, & 4 verified by C.M. Eakin, assistant, & published in 1844. Sheets 5 & 6 verified by Lt. A.A. Humphreys, assistant, & published in 1845.\" Prime meridians: New York and Greenwich. Includes text, table of currents, notes, 4 coastal panoramas and 2 views of Sandy Hook Light. Historic Maps copy 2 mounted on cloth.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/th83m1767",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Survey of the Coast of the United States, 1844-1845.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,New York Metropolitan Area,Maps",
+    "New York Harbor (N.Y. and N.J.),Maps"
+  ],
+  "dc_title_s": "Map of New-York Bay and Harbor and the environs / founded upon a trigonometrical survey under the direction of F.R. Hassler, superintendent of the Survey of the Coast of the United States [sheet 5 of 6]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6209380\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d26fb10-489a-4c04-b9d9-0ba2e235fb69/file/bfcbf86c-a7d5-42d0-8893-489c41f5bfb5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d26fb10-489a-4c04-b9d9-0ba2e235fb69/file/4bd442f1-529a-4a07-ae0e-1ef1abb754d7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2Fbd%2F16%2F12bd16da83a24159bd2edd3331a6e993%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8a36a0c7-1e73-498d-a168-4fdf57d4a26a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1844"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9d26fb10-489a-4c04-b9d9-0ba2e235fb69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-th83m1767",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.3, -73.7333333333, 40.7666666667, 40.3166666667)",
+  "solr_year_i": 1844.0,
+  "uuid": "princeton-th83m1767"
+}

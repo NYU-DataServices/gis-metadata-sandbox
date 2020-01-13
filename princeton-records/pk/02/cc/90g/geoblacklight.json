@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, map of congested district, streets and specials index, and text. \"297.\" \"General index to Sanborn maps of Paterson, N.J., vols. I, II, & III\" on preliminary sheets [1-3]. \"Map of congested district of Paterson, N.J., 1915\" (scale 200 ft. to an inch) on preliminary sheet [6].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc90g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paterson,Maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps, Paterson, New Jersey : volume one (Sheet 83)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5581277\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3b06550-632f-405c-bb75-d57ace167b1f/file/236d6f54-d3db-4b54-83cc-476d134ed100\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3b06550-632f-405c-bb75-d57ace167b1f/file/b145dc43-3236-426b-a11b-c6b9ca1e86dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2F5f%2Fdf%2F9d5fdf5349c04c67a9ac3dcd671ed5ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5480cb2b-ce01-4283-b060-583151843e37/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f3b06550-632f-405c-bb75-d57ace167b1f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc90g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-pk02cc90g"
+}

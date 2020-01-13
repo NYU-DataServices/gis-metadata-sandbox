@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "C.2) New York State Museum. Ancillary map: map continued southeast section. Inset: Long Island. Julius Bien & Co., lithographer.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj017",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "[Albany, NY] : [s.n.], 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mines and mineral resources",
+    "Geology",
+    "New York,Maps"
+  ],
+  "dc_title_s": "Economic and geologic map of the state of New York showing the location of its mineral deposits",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515124\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39a1143f-034c-47c4-b5bb-756df75ae1fb/file/cbb7b80a-6f9d-4ac6-9bea-bbffbe020441\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c86de34d-9b0a-4201-bf30-ebdf5d420f71/file/6de4edeb-379b-4caa-958b-1deafafe8806\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c86de34d-9b0a-4201-bf30-ebdf5d420f71/file/d39803b2-d94e-42a8-b3c6-09b7da84260d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2F0f%2F72%2Fc10f72372fe947b6b1ad12defbbe1fcd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b2eb871e-9643-4d2f-b156-e01ee77cadff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c86de34d-9b0a-4201-bf30-ebdf5d420f71",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj017",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.76666666666667, -71.85, 45.016666666666666, 40.5)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-2801pj017"
+}

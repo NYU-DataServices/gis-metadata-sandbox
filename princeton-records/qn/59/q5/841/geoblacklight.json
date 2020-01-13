@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 43.0000. South Decimal Degree 42.0000. East Decimal Degree -7.0000. West Decimal Degree -8.0000. Alternate title: Orense, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1942; Iberian Peninsula, 1:250,000, Geographical Section, General Staff, 1941, sheets S2472-S2480; Road Map of Spain and Portugal, 1:400,000, A.M.S. sheets 41-44, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qn59q5841",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Orense, sheet 11. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839236\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9534b59-6052-4ce9-a4b2-a4721647012a/file/7f97cefa-ee8d-4ecd-b132-3f42067926d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9534b59-6052-4ce9-a4b2-a4721647012a/file/d2c59592-26a2-4a7a-aacc-bff80f958561\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Ff6%2Fba%2Fdcf6ba7a2ca1408a81fa60d75f78e410%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4bce1a1-6664-4792-bc36-b25a94237ce1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f9534b59-6052-4ce9-a4b2-a4721647012a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qn59q5841",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.0, 43.0, 42.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-qn59q5841"
+}

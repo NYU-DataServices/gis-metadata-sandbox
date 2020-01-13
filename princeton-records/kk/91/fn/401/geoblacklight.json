@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 41.0000. South Decimal Degree 40.0000. East Decimal Degree -8.0000. West Decimal Degree -9.0000. Alternate title: Coimbra, Portugal. Polyconic projection. With Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Instituto Geografico, 1904-35; Portugal, 1:100,000, Servicos Geodesicos, 1871-95; Portugal, 1:250,000, Estador Maior do Exercito, 1937-38; Spain & Portugal Road Map, 1:400,000, AMS, sheets 44 and 46, Third Edition, 1943; Railways in Spain & Portugal 1:1,500,000, GSGS, 1941, revised and supplemented from Intelligence Reports, 1942-44. Partially revised from aerial photography, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kk91fn401",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Coimbra, sheet 36. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841018\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3aa0a6c4-80cf-464b-a3ce-c4bd810668c7/file/3c23f933-045d-4d26-9d2b-42f3892bc18a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3aa0a6c4-80cf-464b-a3ce-c4bd810668c7/file/eac5f8d1-4802-45f7-91cf-04c41eb4d814\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F5a%2Ffc%2Fc55afc765122448898bb4a513890607d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31712757-129a-497e-8655-c9bd92b6923b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3aa0a6c4-80cf-464b-a3ce-c4bd810668c7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kk91fn401",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.0, -8.0, 41.0, 40.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-kk91fn401"
+}

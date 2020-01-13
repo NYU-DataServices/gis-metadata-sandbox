@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1900 in cooperation with the State of Pennsylvania. Triangulation by A. H. Thompson and J. D. Forster. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wx25m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Latrobe Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867980\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1df2e55-013d-4113-b5dd-45f2291ea0ab/file/9910cfe4-09e9-494d-95af-d62f3c9b94bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61b31812-430a-43cc-80be-69c5f3c1aefa/file/fec9629a-d98f-4994-ae26-8c0dd67988a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61b31812-430a-43cc-80be-69c5f3c1aefa/file/e8583e27-63d6-4d7e-a04a-7be044c5c791\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F38%2Fa1%2F1838a1063964486f94a97b2c56d0e223%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2f569582-5575-4e7f-a25b-b5e6b37db227/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-61b31812-430a-43cc-80be-69c5f3c1aefa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wx25m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.5, -79.25, 40.5, 40.25)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-vh53wx25m"
+}

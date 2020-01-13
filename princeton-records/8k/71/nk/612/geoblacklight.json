@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Berlin and environs. Relief shown by hachures. Advertisements in lower margin. Title supplied by cataloger.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nk612",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin : s.n., between 1850 and 1899]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Berlin (Germany),Maps"
+  ],
+  "dc_title_s": "Berlin",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7649638\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea53a5a5-fced-47dd-a051-b05e99dced13/file/dd38fab7-7b42-4709-b9a2-7ded61c3d243\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea53a5a5-fced-47dd-a051-b05e99dced13/file/bfd0e8bb-dc65-4bde-af69-039c1d58fa4b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2Fbe%2Fa8%2F27bea8a033e74c1c806409ff0ed3a2b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3a65fe6d-0908-4da5-af7d-3ca3b6c2855e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ea53a5a5-fced-47dd-a051-b05e99dced13",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nk612",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.316608, 13.487755, 52.558336, 52.479368)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-8k71nk612"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief shown by shading. \"803011 (C00612) 1-04.\" Shipping list no.: 2004-0047-S. Inset: Area around \"Golan Heights (Israeli occupied)\". Scale [ca. 1:500,000].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nz806130b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency, 2004]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Syria,Maps"
+  ],
+  "dc_title_s": "Syria",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837492\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/659d4b04-3ae2-4f4c-af53-7d129aa8b6ed/file/1e37ba9d-5c3d-43e6-a72e-082097e06d31\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c35d24b2-6185-4d47-8c39-4c311d73f46d/file/8c616729-b071-4bf7-855b-cd144e6ae3c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c35d24b2-6185-4d47-8c39-4c311d73f46d/file/c6558d1a-49f8-443c-b90a-f1b258657265\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6a%2F0c%2F6a%2F6a0c6a022a214c708f7efb68260ab3f4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5a5b3c95-6ee2-4ad5-9945-d2c75e797338/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Syria"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c35d24b2-6185-4d47-8c39-4c311d73f46d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nz806130b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.7, 42.35, 37.316667, 32.3)",
+  "solr_year_i": 2004.0,
+  "uuid": "princeton-nz806130b"
+}

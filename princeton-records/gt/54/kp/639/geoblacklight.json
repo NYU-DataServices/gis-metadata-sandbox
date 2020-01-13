@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of the Oswegatchie Quadrangle / Nelson C. Dale. Albany: New York State Museum. Bulletin 302. 1935. 101p. 21 fig.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gt54kp639",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Oswegatchie (N.Y. : Town),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Oswegatchie Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6513902\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d949ec6e-9fb0-4109-900e-a7686cf8fc4d/file/34137ace-cb00-4524-9147-475e6e4e2f5c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2709e70-bd7d-4411-a590-ad005127d671/file/33b1465d-ccc4-4e65-8e70-6501f5eb91be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2709e70-bd7d-4411-a590-ad005127d671/file/6ca29632-37d5-4c1d-945e-28aed2acb439\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2F17%2F7f%2Ff1177f5a911348d8989cb782347a8702%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ec6f063-86f6-4844-bd92-e5dffe479c86/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b2709e70-bd7d-4411-a590-ad005127d671",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gt54kp639",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 44.25, 44.0)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-gt54kp639"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Brion de la Tour, Louis, 1743-1803"
+  ],
+  "dc_description_s": "Relief shown pictorially. Prime meridians: Paris and Ferro. In upper right margin: Pl. 5. Appears in Hilliard d'Auberteuil's Essais historiques et politiques sur les Anglo-Americains.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qv28m",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : s.n., 1782?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Delaware,Maps,Early works to 1800",
+    "Maryland,Maps,Early works to 1800",
+    "Middle Atlantic States,Maps,Early works to 1800",
+    "Virginia,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carte de la Virginie, du Maryland et de l'etat de Delaware",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5941901\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e2179ad-b5b7-453e-a137-ff4e426bb169/file/b0140f91-d942-44b8-849a-75676716f2a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e2179ad-b5b7-453e-a137-ff4e426bb169/file/5cf33f94-238e-4dba-a11f-db30815689cf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F71%2Fc1%2Fce71c1c36d3d4787be14866ad263f769%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/592b1ea3-6a87-4b4a-b761-1f4756626302/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Maryland",
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e2179ad-b5b7-453e-a137-ff4e426bb169",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qv28m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-83.6757, -74.5021, 40.3435, 36.2543)",
+  "solr_year_i": 1782.0,
+  "uuid": "princeton-5m60qv28m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1912.\" Includes key, streets and specials index, and text. \"4632.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42n930d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lambertville,Maps",
+    "Lambertville (N.J.),Maps"
+  ],
+  "dc_title_s": "Lambertville, Hunterdon Couny, New Jersey (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4788330\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0eb064ba-996c-412d-aafa-d98b230504c6/file/ed7d4bc8-e849-4aa4-a4e6-3295bcadd586\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0eb064ba-996c-412d-aafa-d98b230504c6/file/527f5fe7-2384-4e84-9257-e7cc3862d40a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2F6c%2F92%2Fec6c92e75e334cdc8fb0092d7b970251%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/96ec1778-1118-4928-af13-aa653392a270/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0eb064ba-996c-412d-aafa-d98b230504c6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42n930d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.953, -74.931, 40.386, 40.356)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-xw42n930d"
+}

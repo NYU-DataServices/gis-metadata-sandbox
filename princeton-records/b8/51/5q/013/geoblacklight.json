@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1922.\" Includes location map, key, streets and specials index, and text. \"4636\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q013",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Allentown,Maps",
+    "Real property,New Jersey,Crosswicks,Maps",
+    "Real property,New Jersey,Nelsonville,Maps",
+    "Real property,New Jersey,Imlaystown,Maps",
+    "Allentown (N.J.),Maps",
+    "Crosswicks (N.J.),Maps",
+    "Nelsonville (N.J.),Maps",
+    "Imlaystown (N.J.),Maps"
+  ],
+  "dc_title_s": "Allentown, Monmouth, Burlington & Mercer Counties, New Jersey : including Crosswicks, Nelsonville & Imlaystown (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792923\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4df43cfb-347a-4dbe-a465-02534c784cb1/file/3a166dd4-ae73-4c2d-8499-00c8ff12c3b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4df43cfb-347a-4dbe-a465-02534c784cb1/file/05a640dd-de2e-4e06-9041-30569bea710f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F12%2Fa9%2F1812a9ae6ca646ddb4d8df1c0d4bf4a5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/263fecc3-e9a2-4141-9f6e-1d584c7339b4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4df43cfb-347a-4dbe-a465-02534c784cb1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q013",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.599, -74.576, 40.185, 40.172)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-b8515q013"
+}

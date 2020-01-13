@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Depths shown by soundings and shading. At head of title: (A no. 2). Includes bearings, distances, tides and tidal currents, and bottom types.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fb494b94c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : United States Coast Survey, 1852?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Massachusetts",
+    "Massachusetts,Maps",
+    "Nautical charts,Nantucket Sound",
+    "Nantucket Sound (Mass.),Maps"
+  ],
+  "dc_title_s": "Preliminary sketch showing the positions of Davis's South Shoal and other dangers recently discovered by the Coast Survey and the soundings on the Old South Shoal, Bass Rip, Old Man, Pochinck Rip, &c.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7685179\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02917ec3-d6a9-48f3-b5d3-0997be17ce4c/file/f3cd9eb5-dc10-41af-84a1-7640e1e32f72\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02917ec3-d6a9-48f3-b5d3-0997be17ce4c/file/6c0bc5f9-8829-496e-a338-ee3f3da12bae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2Fc6%2Fb9%2Fb3c6b906940b42e9aa0b085ed07e69f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b4233b9-d0fb-4775-9478-b82311f85ffb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-02917ec3-d6a9-48f3-b5d3-0997be17ce4c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fb494b94c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.4284, -69.2556, 41.5412, 40.7512)",
+  "solr_year_i": 1852.0,
+  "uuid": "princeton-fb494b94c"
+}

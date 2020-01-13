@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Botswana with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd29g",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Botswana, 1984 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a0598f32-6d13-4864-939c-cc92b59fcf65/file/17e36a7b-0486-445a-8cc7-cca9cbf7fb5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb414370-cdbd-487e-9db6-9815bb4b8eda/file/1a0d7f76-5deb-4a3f-8e54-da4706dc801d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb414370-cdbd-487e-9db6-9815bb4b8eda/file/9e7d7092-6032-4fb9-98c4-eb70fa1c1f2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2F7a%2F73%2Fb87a73fd55fa4d58bd882067841a50dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0e65dff1-1dea-4094-a87b-33e3a8d20981/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Southern Africa",
+    "Africa",
+    "Botswana"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eb414370-cdbd-487e-9db6-9815bb4b8eda",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd29g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.0, 28.0, -22.0, -28.0)",
+  "solr_year_i": 1984.0,
+  "uuid": "princeton-1g05fd29g"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, key map, contour map, key, streets and specials index, and text. \"10003.\" Contour map has title: Contour map of Newark, New Jersey, showing the distributing reservoirs of the city water w'ks and the districts supplied by each. Sheets 64 and 65 on opposite sides of same sheet. Historic Maps has title sheet for series (vol. 1-5) at Bib 5054240.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d162j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume one (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5430754\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ef5d1eb-eb33-426b-a304-f22e11abe8bb/file/f9f75ae3-545a-4785-a03b-d2c241470249\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ef5d1eb-eb33-426b-a304-f22e11abe8bb/file/294c356a-2cc3-4be9-aa2a-323345a16ab3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2Fe4%2Ff2%2F7ee4f24a983a4b1b9c9f72dc03f19c45%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bdb1d384-cc2a-4ad8-818e-5d299221421b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ef5d1eb-eb33-426b-a304-f22e11abe8bb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d162j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-4j03d162j"
+}

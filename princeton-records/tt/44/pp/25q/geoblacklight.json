@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Surveyed in 1888-89. Verso: legend and explanatory notes: \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pp25q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Staten Island Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey- New York: Staten Island Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865938\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/595df1c2-f3b9-47a1-88a0-4b3174589346/file/44e72689-7684-43a0-8aee-5d9a91fcfacd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6104a695-7c6a-4572-a35a-ac6adb1de25c/file/b9cb6014-4f54-4184-ae49-1c848f33482e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6104a695-7c6a-4572-a35a-ac6adb1de25c/file/bb6c4355-d3a0-4400-bf6a-a8c9b938dd0a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F82%2F4f%2Fff824f3da85a439b83a4172ea58c0c40%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/58b7491e-fbd8-4473-85bc-62f9d3892b3e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6104a695-7c6a-4572-a35a-ac6adb1de25c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pp25q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.75, 40.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-tt44pp25q"
+}

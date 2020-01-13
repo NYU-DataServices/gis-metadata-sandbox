@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sheets 24 to 33 incl., New Jersey coast map.\" \"June 1890.\" Includes key, streets and specials index, and text. \"3853.\" North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/df65v973c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean Grove,Maps",
+    "Ocean Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean Grove, Monmouth Co., New Jersey (Sheet 33)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827611\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f6387c6-d69a-4794-b76a-d86f83754a95/file/aa6ca320-904c-49eb-a36f-34234c743a39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f6387c6-d69a-4794-b76a-d86f83754a95/file/3ffe2f3a-a7c2-42d5-8076-cfd1c264d2c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F70%2Fd9%2F7370d94fe72b4819a0e4cffc913c725a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5dee9161-e52f-4ab3-a6bc-b536ca78ecae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f6387c6-d69a-4794-b76a-d86f83754a95",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-df65v973c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-df65v973c"
+}

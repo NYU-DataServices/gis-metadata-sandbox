@@ -1,0 +1,65 @@
+{
+  "dc_creator_sm": [
+    "Petroleum Economist Cartographic (Firm)"
+  ],
+  "dc_description_s": "Shows oil and gas fields, pipelines and refineries; major gas processing plants, underground gas storage facilities, LPG storage, tanker terminals, oil refineries, LNG export plants and import terminals including those under construction or planned. Includes inset maps: Caspian Sea [Scale 1:4,550,000] -- Yamal [Scale 1:5,425,000] -- Northern Shakhalin Island [Scale 1:2,620,000] -- Middle Volga [Scale 1:4,000,000]. Includes energy and trade statistics and graphs. On verso: title panel and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dq506",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Petroleum Economist Ltd., 2014.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Gas fields,Europe,Maps",
+    "Gas fields,Russia (Federation),Maps",
+    "Gas pipelines,Europe,Maps",
+    "Gas pipelines,Russia (Federation),Maps",
+    "Gas industry,Europe,Maps",
+    "Gas industry,Russia (Federation),Maps",
+    "Liquefied natural gas industry,Europe,Maps",
+    "Liquefied natural gas industry,Russia (Federation),Maps",
+    "Power resources,Russia (Federation),Maps",
+    "Petroleum,Russia (Federation),Maps",
+    "Petroleum,Former Soviet republics,Maps",
+    "Natural gas,Russia (Federation),Maps",
+    "Natural gas,Former Soviet republics,Maps",
+    "Oil fields,Russia (Federation),Maps",
+    "Oil fields,Former Soviet republics,Maps",
+    "Gas fields,Former Soviet republics,Maps",
+    "Pipelines,Russia (Federation),Maps",
+    "Russia (Federation),Maps",
+    "Former Soviet republics,Maps",
+    "Europe, Central,Maps",
+    "Balkan Peninsula",
+    "Europe, Eastern,Maps",
+    "Baltic States,Maps"
+  ],
+  "dc_title_s": "Energy map of Russia & CEE",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8534605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95f2fed6-bf47-4572-9f1a-254bee1082fe/file/7cde7d7f-5928-441a-8bfd-1c7f6a00cf1f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95f2fed6-bf47-4572-9f1a-254bee1082fe/file/3f8cedcf-7475-461a-a645-ce77598fa7bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2F3d%2F85%2F243d8562c9194b2b8174ad3af676beb6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9b0a728d-b26c-49f3-ad50-ddbd3c508267/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe, Eastern",
+    "Europe, Central",
+    "Russia (Federation)",
+    "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
+    "Baltic States",
+    "Balkan Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-95f2fed6-bf47-4572-9f1a-254bee1082fe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dq506",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.986111, 164.868889, 76.993333, 31.670833)",
+  "solr_year_i": 2014.0,
+  "uuid": "princeton-sx61dq506"
+}

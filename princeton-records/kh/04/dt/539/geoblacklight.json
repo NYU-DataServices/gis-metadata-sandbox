@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States. Army Topographic Command"
+  ],
+  "dc_description_s": "Relief shown by 10 m. contour interval and spot heights. \"Reprinted by NIMA 11-00.\" Includes key to boundaries and indexes to buildings and streets. Stamped: Declassified. \"Grid 1,000 meter UTM : Zone 48\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dt539",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : U.S. Army Topographic Command, [1970?].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Viangchan (Laos),Maps",
+    "Viangchan (Laos),Maps, Topographic"
+  ],
+  "dc_title_s": "Laos city maps 1:12,500 : Vientiane",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5938763\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7576eb3a-bf31-4544-8697-65ced51ec54e/file/4708d6c6-c5a1-4b5b-8b51-f50a56728902\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7576eb3a-bf31-4544-8697-65ced51ec54e/file/00413a2b-b04d-4dd5-83f4-563bf3600abc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F0a%2F56%2Fe40a5649e73b4bf995d2b3ee40b29dbc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/58ac8f8b-f9ec-48fc-a819-4e4bc2a00728/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Laos"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7576eb3a-bf31-4544-8697-65ced51ec54e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dt539",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(102.559722, 102.643611, 17.991389, 17.9375)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-kh04dt539"
+}

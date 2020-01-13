@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1915.\" Includes location map, key, key map, streets and specials index, and text. \"474.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1c18dh806",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbury,Maps",
+    "Woodbury (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbury, Gloucester County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5492029\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/501215a8-7a9d-401d-b91a-db4c60932b61/file/1b5f09f1-23de-44d7-8072-af35fea86132\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/501215a8-7a9d-401d-b91a-db4c60932b61/file/c9c4fc2a-3550-4270-bcee-0fdb02469533\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Fb7%2F3d%2Fe8b73da3fb8c462c8f338d42b81b83bb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ee450e03-62c0-48ff-9c75-ccc23de4271a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-501215a8-7a9d-401d-b91a-db4c60932b61",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1c18dh806",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.170823, -75.135095, 39.855007, 39.824056)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-1c18dh806"
+}

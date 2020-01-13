@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is an azimuthal equal-area projection map of the Antarctic region, shown at a 1:73,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365685m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Claims"
+  ],
+  "dc_title_s": "Antarctic region, 1995",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e21cfc5-a726-4f43-ba4f-7e16f2580cfb/file/68f64c58-8114-4b19-84b3-eb48be50bf30\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cee75ad7-f2a3-4586-b197-8d505c7bb2c2/file/c526add0-4546-4d8c-af6e-e0dde4145e69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cee75ad7-f2a3-4586-b197-8d505c7bb2c2/file/746e0c19-230f-4505-a54b-f0b8b018b9ef\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fbf%2F3b%2Fdcbf3b189e1e4678bc50cf626d0c1319%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31c3a894-b092-4265-ac97-a8b9b44f3871/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Antarctic region",
+    "Antarctica"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cee75ad7-f2a3-4586-b197-8d505c7bb2c2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365685m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, -40.0, -90.0)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-ff365685m"
+}

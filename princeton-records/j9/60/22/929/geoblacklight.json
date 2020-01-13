@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hughes, George C."
+  ],
+  "dc_description_s": "Relief shown by form lines. Maps shows Indian trails in Massachusetts and Connecticut.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j96022929",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Sparta, N.J. : George C. Hughes, [between 1930 and 1950?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Winthrop , John, 1606-1676,Travel",
+    "Indian trails,New England,17th century",
+    "New England,Maps"
+  ],
+  "dc_title_s": "Route of John Winthrop, Jr., 1645 : November 11-December 5",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5773175\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8aef9c71-47b4-4bd7-9630-7a5b870665bf/file/1fe4c595-f200-4c7d-9cbb-268b499d3753\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8aef9c71-47b4-4bd7-9630-7a5b870665bf/file/75987790-56ed-4da7-8d21-3351120cf1cd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2Fa6%2F86%2F5aa68602f39d4106b52c0f1b81077d67%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b1dfc9c5-0baf-4fc7-bb3b-b176644af731/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New England"
+  ],
+  "dct_temporal_sm": [
+    "1930"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8aef9c71-47b4-4bd7-9630-7a5b870665bf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j96022929",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.029217, -70.450176, 42.404243, 41.200024)",
+  "solr_year_i": 1930.0,
+  "uuid": "princeton-j96022929"
+}

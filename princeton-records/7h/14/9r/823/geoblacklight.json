@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"9172.\" Historic Maps copy has sheets 1-3, 5-9, 16, 18-20, 23, 26-28, 37-43, and 45-67 of Essex Co., vol. 2 series; sheets 4, 10-15, 17, 21-22, 24-25, 29-36 and 44, showing Glen Ridge, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7h149r823",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bloomfield,Maps",
+    "Bloomfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey (Sheet 18)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5419098\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a8924af-b7cb-4d75-a0d8-bba711e5da8a/file/010e98a8-3e26-4851-9b0a-f8bf3a733dec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a8924af-b7cb-4d75-a0d8-bba711e5da8a/file/a009f8a7-92cd-4e82-84a3-2e856fd0a6ef\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Fb4%2F0f%2F19b40fb0ecce4479b577418a09bf01f4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/662c3d2a-dd96-47c7-aa6e-65dc09103fe8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4a8924af-b7cb-4d75-a0d8-bba711e5da8a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7h149r823",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-7h149r823"
+}

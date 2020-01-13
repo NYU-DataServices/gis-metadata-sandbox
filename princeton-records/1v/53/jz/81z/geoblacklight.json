@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "In margin: 55. Relief shown by hachures. Greenwich meridian. Map of Europe, South Asia, the Middle East and North Africa, showing boundaries, rivers and settlements. Probably issued in: General atlas of the world. Edinburgh : A. & C. Black, [1889?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53jz81z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Edinburgh? : A. & C. Black?, 1889?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Classical geography,Maps",
+    "Europe,Historical geography,Maps",
+    "Asia,Historical geography,Maps",
+    "Middle East,Historical geography,Maps"
+  ],
+  "dc_title_s": "The World as known to the ancients",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4555205\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b90589fb-dad8-4c35-9364-7729e6182046/file/1c4710d5-e5cd-4a85-9536-8be080e0346b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b90589fb-dad8-4c35-9364-7729e6182046/file/86291c5b-a09f-4526-9adc-a77145efca1d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/70%2Fe6%2F8c%2F70e68ceedccd44f690fb9296e5471e7f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b78b13db-3e8b-4bf3-bc69-fe685b57abd6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe",
+    "Asia",
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b90589fb-dad8-4c35-9364-7729e6182046",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53jz81z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-12.0, 94.0, 63.0, 12.5)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-1v53jz81z"
+}

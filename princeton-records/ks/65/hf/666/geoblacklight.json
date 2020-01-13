@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hall, Sidney"
+  ],
+  "dc_description_s": "Relief shown by shading. Map showing main roads, principal towns and forests. Plate XIX from: General atlas of the world ... / engraved on steel by Sidney Hall ... New edition. Edinburgh : Adam and Charles Black, 1854.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ks65hf666",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854] (Edinburgh : Schenck & McFarlane)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Netherlands,Maps",
+    "Belgium,Maps"
+  ],
+  "dc_title_s": "Netherlands, now divided into Holland and Belgium",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6936645\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03d169d7-5d4a-40ad-a3fb-46487120bf14/file/4e7fc93b-d4a8-4f54-8389-ead13e64eb43\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03d169d7-5d4a-40ad-a3fb-46487120bf14/file/34cbb5ee-85e0-43be-a431-941fa2656303\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2F85%2F79%2F44857944312048ff8665118403ea2104%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4af5ff84-0df2-4df2-9b78-11306feddd4e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03d169d7-5d4a-40ad-a3fb-46487120bf14",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ks65hf666",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.4943, 7.2624, 53.5985, 49.4439)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-ks65hf666"
+}

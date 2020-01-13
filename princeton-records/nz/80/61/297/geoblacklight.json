@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Milton, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1922. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nz8061297",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1924.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Milton (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Milton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868053\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f37013e6-1418-49f4-b520-4f9da3577d5d/file/369c7759-905c-416f-91bb-45031a593039\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e7e7f19-ef58-4fa2-ad58-4457f7c8b70d/file/c842151f-ac4e-45ee-a17b-010eaf4b2449\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e7e7f19-ef58-4fa2-ad58-4457f7c8b70d/file/faa3c3a7-0b93-4f22-9505-ea9b0d8759c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2Fde%2Ff8%2F93def8150baa42cc81f3d6211b7d95b2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8cd8bb9-3686-4595-834a-1df7b6537927/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6e7e7f19-ef58-4fa2-ad58-4457f7c8b70d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nz8061297",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.0, -76.75, 41.25, 41.0)",
+  "solr_year_i": 1924.0,
+  "uuid": "princeton-nz8061297"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sept. 1886.\" Includes key and text. Historic Maps copy has stamp of Map Division, Library of Congress, dated Oct. 14, 1886.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q833t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Millburn,Maps",
+    "Millburn (N.J.),Maps"
+  ],
+  "dc_title_s": "Millburn, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5421189\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d31a0a0d-1517-40df-9edc-7d2002b0fbfd/file/1b5119f6-19a5-4174-945d-a799c1a99e77\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d31a0a0d-1517-40df-9edc-7d2002b0fbfd/file/0604f4d1-f8af-4682-870e-469b4118e123\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2Fd6%2F27%2F33d627748d3d497699a6eb9a8ba10245%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/acf18fa9-e043-46b2-8e0f-f88bd4809568/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d31a0a0d-1517-40df-9edc-7d2002b0fbfd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q833t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.37256, -74.28549, 40.760868, 40.7133)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-h702q833t"
+}

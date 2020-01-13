@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of the Broadalbin Quadrangle, Fulton-Saratoga counties, New York / William J. Miller. Albany : New York State Museum. Bulletin 153, 1911. 65p. 8 pls.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290b744",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : University of the State of New York, New York State Museum, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Broadalbin (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Broadalbin Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515139\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ceaf1b11-471f-43c3-ae6d-d47c304559b5/file/60a8fc2b-6950-4782-b0de-0930be7bfd3e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b61e73e3-83a2-49e5-b6ce-704a86acdf49/file/f91d6dde-6728-408c-a5c7-54669c059878\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b61e73e3-83a2-49e5-b6ce-704a86acdf49/file/8efca118-726d-42b0-bcad-8dfda459b632\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Fd5%2F25%2Fbfd52524826743b889d14681288d9dc2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eea1aac5-9aca-44ac-84cb-ac7b74edf1b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b61e73e3-83a2-49e5-b6ce-704a86acdf49",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290b744",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 43.25, 43.0)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-9p290b744"
+}

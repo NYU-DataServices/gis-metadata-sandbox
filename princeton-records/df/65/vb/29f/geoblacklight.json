@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "George F. Cram Company"
+  ],
+  "dc_description_s": "Inset map: North America. Scale 1 in.=600 mi. Relief shown in hachures. Cover title: Radio map of the United States, published by the George F. Cram Company for Morton Salt Company ... revised to Dec. 5 1926. Shows time zones. Includes listings of radio stations by place and by call letters. Includes advertisement for Morton's Salt.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/df65vb29f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Indianapolis : George F. Cram Co., [1926]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Radio stations,United States,Maps",
+    "Radio stations,Canada,Maps"
+  ],
+  "dc_title_s": "Cram's detailed radio map of the United States & Canada",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6425673\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc0a3c73-8393-49e9-bf88-86b91a97f696/file/e7b5a4cc-f3ea-418a-b5bb-c4073fb60d72\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc0a3c73-8393-49e9-bf88-86b91a97f696/file/2f48f93d-4a7d-4333-ab72-6919cd925551\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2Ffa%2F0c%2F64fa0caa4814469a941b2c8dcebdf60d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/72d21761-4357-446e-804b-be5b7e406770/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc0a3c73-8393-49e9-bf88-86b91a97f696",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-df65vb29f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-125.75, -65.94, 52.01, 24.35)",
+  "solr_year_i": 1926.0,
+  "uuid": "princeton-df65vb29f"
+}

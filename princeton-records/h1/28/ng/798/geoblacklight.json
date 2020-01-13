@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 84-98 of Hudson County series, showing Secaucus.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h128ng798",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Secaucus,Maps",
+    "Secaucus (N.J.),Maps"
+  ],
+  "dc_title_s": "Secaucus (Sheet 89)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5514351\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d5aa324-68d1-4619-af7d-eeacc26044f2/file/a9e768f6-7dd1-478a-8778-676666b6cfd0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d5aa324-68d1-4619-af7d-eeacc26044f2/file/acd94cd2-88be-4e9e-a3d2-dea60400dec2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2Fc9%2F4d%2Fcec94d8b9b0742e88272afc8077f4197%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/44461b3f-4f5a-4a42-a759-9f20f1816473/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5d5aa324-68d1-4619-af7d-eeacc26044f2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h128ng798",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.094039, -74.033791, 40.806499, 40.750371)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-h128ng798"
+}

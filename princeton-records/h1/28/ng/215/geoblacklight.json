@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Brooklyn, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1888-89 and 1897 in cooperation with the State of New York. Partial revision of shore line 1924. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h128ng215",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Brooklyn (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Brooklyn Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867687\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e6c9ae56-d1e1-44cf-bc75-32da05b2ca61/file/bd8e2b30-12e9-442f-a69b-b0447735358b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ee3ef9b-d59b-40bb-94cb-1fb800be4130/file/9b7ad6a0-3a4d-41e7-b2a1-fad9490beadb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ee3ef9b-d59b-40bb-94cb-1fb800be4130/file/0c5a6f71-f228-4694-aafd-1be0d6a05813\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2Fee%2F48%2Ff2ee482949b64ae2b4696d7128e384c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f5b6e667-d863-4295-b8ba-69865c18cfa2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0ee3ef9b-d59b-40bb-94cb-1fb800be4130",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h128ng215",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 40.75, 40.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-h128ng215"
+}

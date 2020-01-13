@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1908.\" Includes key, key map, streets and specials index, and text. \"430.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr86b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rahway,Maps",
+    "Rahway (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Rahway, Union County, New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5624309\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/484ef4df-a0cb-4389-bd2f-daa4121920e5/file/9804c993-7690-47ed-932c-026feabb6156\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/484ef4df-a0cb-4389-bd2f-daa4121920e5/file/8ec9d944-a4c0-45e0-aded-1c845fa5a17e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2F8b%2F4e%2F5d8b4e6c9d0c41ce877bc69873b28193%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e54f5866-136a-4794-bb26-e17b91206006/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-484ef4df-a0cb-4389-bd2f-daa4121920e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr86b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-xg94hr86b"
+}

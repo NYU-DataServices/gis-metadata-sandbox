@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Liebenow, W."
+  ],
+  "dc_description_s": "Map of Eisenach and environs in the German state of Thuringia. Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx86p",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Verlag v. Albert Goldschmidt, [1898] (Berlin : Lith. Anst. v. Leopold Kraatz)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Eisenach (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Umbegung von Eisenach",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7402952\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4940abed-9205-4a9b-8f6e-c684a6aeb431/file/d71c40a9-4721-443b-bb67-8c4c1054bfda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4940abed-9205-4a9b-8f6e-c684a6aeb431/file/a997ae98-08e7-47b0-b204-3e59c1193f1a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F38%2F1f%2F08381f3001284538b76669efe927ee08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a75b61ce-9495-4f75-acf9-e5f6a8c96d0d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4940abed-9205-4a9b-8f6e-c684a6aeb431",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx86p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.283451, 10.362759, 50.983573, 50.908513)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-gm80hx86p"
+}

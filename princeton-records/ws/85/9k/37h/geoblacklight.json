@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Inset map: Map showing railroad between Caracas and La Guayra.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ws859k37h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand McNally, c1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Colombia,Maps",
+    "Venezuela,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of Colombia and Venezuela [copy 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6552285\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab8aa907-eae7-44c2-a006-f2b403110ee8/file/4f71b550-c010-44ff-97bf-e15c475f5eb0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab8aa907-eae7-44c2-a006-f2b403110ee8/file/0e3d0f84-7979-4763-b5ea-cfded8374d14\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F8e%2F62%2F478e62d913f14447b9bfb4b199dccfc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/783e7975-99b9-48fa-9d1f-e7c07565b8c1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Colombia",
+    "Venezuela"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ab8aa907-eae7-44c2-a006-f2b403110ee8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ws859k37h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-82.0000001, -66.8511906, 16.1219145, -4.2316871)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-ws859k37h"
+}

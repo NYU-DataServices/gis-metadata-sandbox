@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Jourdan, Adolphe"
+  ],
+  "dc_description_s": "Relief shown by spot heights. Date from Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bg73d",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Alger : Adolphe Jourdan, libraire e\u0301diteur, [1884]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa, North,Maps",
+    "Algiers (Algeria),Maps"
+  ],
+  "dc_title_s": "Carte des environs d'Alger",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4627807\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3099d3bd-c898-43bf-90cc-de312524ba30/file/6152db9d-0f2e-4e2c-aeb2-a527bdd4bf34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3099d3bd-c898-43bf-90cc-de312524ba30/file/9219f09f-8e9a-4ded-8493-92b76a1c78d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F97%2F2d%2F1d972d62f16d48f39741b88c5a0e5da3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cae40040-2928-4518-a737-f01a99d1910e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa, North",
+    "Algeria"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3099d3bd-c898-43bf-90cc-de312524ba30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bg73d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.9922, 4.285, 36.9994, 35.8504)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-pg15bg73d"
+}

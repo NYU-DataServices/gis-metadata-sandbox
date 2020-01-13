@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "John Murray (Firm)"
+  ],
+  "dc_description_s": "Map in pocket at end.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085n60c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London, J. Murrray, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "India,Description and travel",
+    "Burma,Description and travel",
+    "Sri Lanka,Description and travel"
+  ],
+  "dc_title_s": "Delhi and environs",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/1576014\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7c19005-1e6d-4453-9402-b4442254114f/file/a2a3dd21-59cb-44ec-96c9-f4237759caff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7c19005-1e6d-4453-9402-b4442254114f/file/5fe1900c-f3fb-4d75-8680-62ff42e00573\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F5c%2F14%2F805c14a3fecf4ae38e84473f09f38637%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c6734eb-2a7d-4c63-9bf1-289e96f90455/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7c19005-1e6d-4453-9402-b4442254114f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085n60c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(68.11, 101.43, 35.67, 5.56)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-jq085n60c"
+}

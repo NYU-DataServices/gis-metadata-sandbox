@@ -1,0 +1,53 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526d97w",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "South Amboy Quadrangle, New Jersey - New York, 7.5 Minute series (topographic) (1954)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d9ff723d-2392-4aab-94e8-bc25d4f7bee5/file/f4cd6989-b65e-40a5-a2e0-cafcbdfa58b4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ac69195-c6b4-4dbc-a620-c4578a311407/file/3a13710b-5c9b-45eb-a737-a31c185f2c90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ac69195-c6b4-4dbc-a620-c4578a311407/file/a1d2ada0-0d73-48f2-94f9-10a78a261760\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2Fdc%2Fae%2F28dcae0b2ee34c289fca20650048c227%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf0281c2-678d-4e64-af60-f89fda6bd4e0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York City",
+    "South Amboy",
+    "Marlboro",
+    "Sayreville",
+    "New York",
+    "Richmond County",
+    "Middlesex County",
+    "East Brunswick",
+    "New Jersey",
+    "Old Bridge",
+    "Monmouth County"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7ac69195-c6b4-4dbc-a620-c4578a311407",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526d97w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.375, -74.25, 40.5, 40.375)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-s7526d97w"
+}

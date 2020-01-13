@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1923.\" Includes location map, key, streets and specials index and text. \"1252.\" Historic Maps copy has sheets 1-7, showing Berlin; sheets 8-11, showing West Berlin, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hq37vq229",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Berlin,Maps",
+    "Berlin (N.J.),Maps"
+  ],
+  "dc_title_s": "Berlin & West Berlin, Camden County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352850\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0e74716-2522-482b-a8c5-7f554da225f4/file/090ad10c-7915-4f7e-987c-67c12bd1d9ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0e74716-2522-482b-a8c5-7f554da225f4/file/20232fcd-e96b-475a-9934-e6313105d1b5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F21%2F3e%2Fe5213e35d2094dc8a9a42ba1a41c53f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5865c704-eefa-480c-9e50-fbe678904239/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e0e74716-2522-482b-a8c5-7f554da225f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hq37vq229",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-hq37vq229"
+}

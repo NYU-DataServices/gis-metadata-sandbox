@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Meiningen in the German state of Thuringia. In lower margin: Woerl's Reisehandbu\u0308cher. Indexed for points of interest. From: Fu\u0308hrer durch Meiningen und Umgebung / herausgegeben von Leo Woerl. Wu\u0308rzburg : Woerl, 1898.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8g84mp79r",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Wu\u0308rzburg : Woerl's Reisehandbu\u0308cher, 1898]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Meiningen (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Meiningen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7574503\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4da8152-b8cc-40b6-b7fa-74836cddfc33/file/1ecc62c5-e543-4568-9c11-96ed7da19aa1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4da8152-b8cc-40b6-b7fa-74836cddfc33/file/258bbf41-264a-4afc-8d57-2b6fbb0c6a93\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bb%2F18%2F95%2Fbb1895ca54a54ee6b0114a074c1064c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90219146-6d7c-42e2-aaf7-b9362c147e17/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a4da8152-b8cc-40b6-b7fa-74836cddfc33",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8g84mp79r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.400017, 10.436152, 50.581872, 50.556659)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-8g84mp79r"
+}

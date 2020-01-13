@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Wellfleet, Mass. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887. Surveyed in cooperation with the state of Massachusetts. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784n211",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Massachusetts: Wellfleet sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837322\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e3fa247d-3c82-47c8-8f7c-2be5a5ad7cb1/file/0f0b12ba-b27c-4ac7-8d2c-a81d226b2a1c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21081e2e-e82e-4a0a-a846-8b0c2e326d55/file/303635cd-f532-4058-acfc-0b9c1bcef36b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21081e2e-e82e-4a0a-a846-8b0c2e326d55/file/78cfa1ec-7739-440c-82a3-16ff5e41cc03\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/81%2F3d%2Fa9%2F813da979eeaa4788ba993b0628e38b0c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6d88bcdd-1f89-4f2f-846d-0fbf49591567/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-21081e2e-e82e-4a0a-a846-8b0c2e326d55",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784n211",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.16666666666667, -69.91666666666667, 42.0, 41.75)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-s1784n211"
+}

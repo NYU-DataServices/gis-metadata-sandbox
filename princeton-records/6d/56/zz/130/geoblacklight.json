@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Cummings, J. A. (Jacob Abbot), 1772-1820"
+  ],
+  "dc_description_s": "Double hemispherical world map with outline color; relief shown pictorially. Probably issued in: School atlas to Cummings' ancient & modern geography. Boston : Cummings & Hilliard, 1821.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz130",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Boston : Published by Cummings & Hilliard ... , [1821?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "The world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4538543\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/241a2e90-cbe6-47bb-8d31-2e673554d7e6/file/e620c1b3-e2ac-4928-940a-fc845329b6ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/294726fb-dee9-4271-a540-b24fd7ea588e/file/fd156585-09b7-471c-a306-2d627621939c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/294726fb-dee9-4271-a540-b24fd7ea588e/file/fdb161a2-c1f1-4d04-b012-a17021d7fdcc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F54%2F15%2F47541565e13c4d0abd6e1a8c6f6de3ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/379629a0-fc20-416a-9cc1-2c8db5840ad6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-294726fb-dee9-4271-a540-b24fd7ea588e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz130",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1821.0,
+  "uuid": "princeton-6d56zz130"
+}

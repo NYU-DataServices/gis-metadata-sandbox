@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1898. Surveyed in cooperation with the State of New York. Triangulation by U.S. Lake Survey and N.Y. State Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h3311",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Fulton (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Fulton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867358\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0847f31f-e8b6-489a-8121-9b009b193994/file/c8898c10-bb20-4f9d-a231-500971af52da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6dda92b2-53a1-4d31-890c-38cf82ae2c54/file/accf28d4-15b4-44f4-b83a-17e3bd8ba912\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6dda92b2-53a1-4d31-890c-38cf82ae2c54/file/3017caa9-8535-4b89-a169-0af6245cacfa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2F46%2F47%2Ff64647abe67b43a39b3582207ecb4795%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0f408a6-162b-4688-a493-0397f2e5afd5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6dda92b2-53a1-4d31-890c-38cf82ae2c54",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h3311",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -76.25, 43.5, 43.25)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-8336h3311"
+}

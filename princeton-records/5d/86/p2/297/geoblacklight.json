@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Union is a former town in Hudson Co., N.J.; in 1925 it merged with West Hoboken to form Union City. cf. Merriam-Webster's geographical dictionary, 3rd ed. Historic Maps copy has sheets 23-35 of Hudson County series, showing Union.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p2297",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Union City,Maps",
+    "Union City, N.J.,Maps"
+  ],
+  "dc_title_s": "Town of Union (Sheet 28)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515051\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1cdd13b3-5707-42dd-acc6-355edac76ae2/file/ef4725d9-95ce-4df2-9dca-75e41fd45db3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1cdd13b3-5707-42dd-acc6-355edac76ae2/file/85a3930b-d569-44a3-a923-537725563571\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F16%2F17%2Fa1161797ec6641828e37746acd936c1c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/591e1d18-74f6-41fa-9dfc-a6537b6cf93f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1cdd13b3-5707-42dd-acc6-355edac76ae2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p2297",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.312226, -74.222252, 40.722268, 40.670169)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-5d86p2297"
+}

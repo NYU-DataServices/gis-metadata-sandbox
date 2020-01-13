@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Macpherson, David, 1746-1816"
+  ],
+  "dc_description_s": "Relief shown by hachures. Title at top of map: Geographi\u00e6 antiqu\u00e6 tab. XXII. Ancillary map: Judaea et regiones finitim\u00e6 circiter initium \u00c6rae Christian\u00e6.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sg256",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Philadelphia : s.n., 1806]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bible. Old Testament,Geography,Maps",
+    "Palestine,History,To 70 A.D.,Maps",
+    "Palestine,Maps"
+  ],
+  "dc_title_s": "Terra filiorum Israelis, antequam in duo regna dispertita fuit : cum terra Philist\u00e6orum, parte Ph\u0153nices, &c.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7056553\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3625704-1ea3-4533-ada9-7dc028accb79/file/e41a1347-4fe7-4b03-9bf1-0d7bda1e38cb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3625704-1ea3-4533-ada9-7dc028accb79/file/885705e2-d3a8-4926-a43c-56961ea29042\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8c%2Fe9%2F7f%2F8ce97fdedefc43ce9cca9096fd9635a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e92cae36-2390-4d86-96c0-3e2f5bd3f20d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Israel"
+  ],
+  "dct_temporal_sm": [
+    "1806"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e3625704-1ea3-4533-ada9-7dc028accb79",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sg256",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.3372, 37.2501, 33.6724, 31.0041)",
+  "solr_year_i": 1806.0,
+  "uuid": "princeton-mp48sg256"
+}

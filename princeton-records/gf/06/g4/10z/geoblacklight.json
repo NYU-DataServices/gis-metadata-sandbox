@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4379 United States. Army Map Service Great Britain. Inter-service Topographical Department In upper left margin: Sicily 1:5,200. Lambert conical orthomorphic projection. \"From uncorrected air photographs of 1943. Fathom lines from Italian Chart 173 of 1934. Relief show by form lines and rock drawings. Depth shown by soundings in fathoms.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gf06g410z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bathymetric maps",
+    "Sciacca (Italy),Maps"
+  ],
+  "dc_title_s": "Sciacca (37-degree 30 1/2' N, 13-degree 05' E.) G.S.G.S. 4379",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449812\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7917bb3d-e7b8-48f4-bbbb-9a4fe9e2f879/file/b5e9e05e-f0df-43f4-bfc9-1a5a6ad38b05\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cdf5dc36-a7ae-44eb-b433-6bb454a24f8b/file/6b35b11a-301a-4bc1-b170-119b4779bc03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdf5dc36-a7ae-44eb-b433-6bb454a24f8b/file/06906317-b5a3-4bf5-95ae-e5b190fd127c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F18%2F07%2F471807dd539244cf8a36dcb46ec7034a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c89def7-8015-4e26-a435-d54d172facf3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cdf5dc36-a7ae-44eb-b433-6bb454a24f8b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gf06g410z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.033333333333333, 13.083333333333334, 37.516666666666666, 37.483333333333334)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-gf06g410z"
+}

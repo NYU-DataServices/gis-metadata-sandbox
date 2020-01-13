@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Cohoes, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Mapped by the geological survey 1925, 1926 and 1947. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v8382304",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1949.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cohoes (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Cohoes Quandrangle. 15 minute series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866794\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/51f183d6-8dcb-41f5-90fa-f44eeb56f87a/file/3f688ec1-6f9f-4af9-9a54-7f8ee76b3851\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8296c3e5-f5d9-48f0-b58d-682978e33c7b/file/9bb01a70-8c31-456e-9d98-0231ae068c3c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8296c3e5-f5d9-48f0-b58d-682978e33c7b/file/9ab82e79-ca76-479b-a936-30c20f9ad0cf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F9b%2Fd2%2F009bd24a60b042f286919dd8614e4f96%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/427975a1-e811-413a-9c43-51e779fb8815/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8296c3e5-f5d9-48f0-b58d-682978e33c7b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v8382304",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 43.0, 42.75)",
+  "solr_year_i": 1949.0,
+  "uuid": "princeton-0v8382304"
+}

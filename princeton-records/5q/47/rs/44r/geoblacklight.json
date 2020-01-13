@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Fischer, Hans"
+  ],
+  "dc_description_s": "Accompanies map: Pala\u0308stina / Bearbeitet von Dr. Hans Fischer & Prof. Lic. H. Guthe. Leipzig : Verlag der Geograph. Anstalt von H. Wagner & E. Debes, 1893 (HMC01.2668A).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rs44r",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Verlag der Geograph. Anstalt von H. Wagner & E. Debes, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Palestine,Maps"
+  ],
+  "dc_title_s": "Neue Handkarte von Pala\u00a8stina im Massstabe von 1:700 000 : nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis [sheet 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7064410\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/faf1d37c-280c-4f41-b600-2b30c126bc85/file/e27ea808-0b4a-4cba-84b6-3a34a39f97be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/faf1d37c-280c-4f41-b600-2b30c126bc85/file/b1d0af7b-9ac3-419b-8ef2-89f4d56dee0c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F29%2F39%2Ffa2939c1a853475e8fd73fda6c7f050c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a4cb311-0544-4026-b87e-ffacf43f9cab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-faf1d37c-280c-4f41-b600-2b30c126bc85",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rs44r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.2676025, 35.8950234, 33.3356317, 29.4533796)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-5q47rs44r"
+}

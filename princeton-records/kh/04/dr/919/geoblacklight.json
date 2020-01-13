@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July '96.\" Includes key and text. \"620.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dr919",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Elmer,Maps",
+    "Elmer (N.J.),Maps"
+  ],
+  "dc_title_s": "Elmer, Salem County, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5592068\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8788c72-3546-42d4-83b8-67a296a63bc9/file/52ba8f06-77c6-4404-9b59-527e501504d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8788c72-3546-42d4-83b8-67a296a63bc9/file/44c74eee-fb6b-4b35-9f35-91464d5e1143\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F05%2F96%2F730596b2c33542ea8820d423c7bdf432%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10e61158-d281-40a7-aa7a-c5bcb74cae87/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f8788c72-3546-42d4-83b8-67a296a63bc9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dr919",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.184421, -75.164676, 39.602163, 39.583751)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-kh04dr919"
+}

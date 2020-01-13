@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Hanover, VT-NH. Polyconic projection. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1905-1906. Verso: The Topographic Maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd16k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1924 reprint.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hanover (Vt.),Maps"
+  ],
+  "dc_title_s": "Vermont-New Hampshire: Hanover Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838762\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/62f8498c-d9e8-40cf-a6ed-5edfe3c10049/file/57aa73ce-cce9-47af-9763-3d2d36726b89\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aee5458c-c40b-49da-8453-9c3d1c2315e7/file/a5113ff9-4453-4bec-bc73-47bee94a41aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aee5458c-c40b-49da-8453-9c3d1c2315e7/file/381b3e73-a3ef-4227-b30a-59e375d4acf6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2F23%2Fc4%2F4623c4c3c9af4e169b97b7263f596b4d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4163b6e8-f257-418e-b148-45af4140c0de/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aee5458c-c40b-49da-8453-9c3d1c2315e7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd16k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.5, -72.25, 43.75, 43.5)",
+  "solr_year_i": 1924.0,
+  "uuid": "princeton-1g05fd16k"
+}

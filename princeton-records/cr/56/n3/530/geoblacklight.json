@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sickler, Friedrich, 1773-1836"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cr56n3530",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Rome : Chez Venance Monaldini Libraire Place d'Espagne N. 79, 1832.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rome (Italy),Maps",
+    "Campagna di Roma (Italy),Maps"
+  ],
+  "dc_title_s": "Plan topographique de la Campagne de Rome",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8566174\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9674b935-edfb-460c-aac7-96711e9d648f/file/6b34f098-7b31-48bb-a0ec-c709e182a396\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9674b935-edfb-460c-aac7-96711e9d648f/file/d1b09051-7107-4108-add6-e3396e50bca7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F4f%2Fe6%2F094fe60ab3e74befba0b67e53b455389%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e5a30cff-de59-4fea-998e-365899bc223e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1832"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9674b935-edfb-460c-aac7-96711e9d648f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cr56n3530",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.1495, 13.6079, 42.2515, 41.17)",
+  "solr_year_i": 1832.0,
+  "uuid": "princeton-cr56n3530"
+}

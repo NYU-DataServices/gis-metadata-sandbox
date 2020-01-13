@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Gaebler, Eduard, 1842-1911"
+  ],
+  "dc_description_s": "Map of the Mittelfranken region of the German state of Bavaria. In lower margin: Woerl's Reisehandbu\u0308cher. Probably issued in an unidentified ed. of: Fu\u0308hrer durch Mittelfranken, die Hersbrucker und Fra\u0308nkische Schweiz.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s260x",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig : Woerl's Reisebu\u0308cherverlag, ca. 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Mittelfranken (Germany),Maps"
+  ],
+  "dc_title_s": "Mittelfranken",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7426006\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b8507dd-4f6f-4cd0-b0b2-bc95b368ac7f/file/9e18d0b3-f8e1-4fdd-b03a-9c8971fa0a44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b8507dd-4f6f-4cd0-b0b2-bc95b368ac7f/file/5f46b1d1-54cc-4e59-a95a-d864a130a593\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2Ffd%2F90%2F64fd904bba2f4187b64f7e2f51574db3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f49d5708-814c-4758-8d51-11f90e152e13/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b8507dd-4f6f-4cd0-b0b2-bc95b368ac7f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s260x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.0985, 11.6022, 49.8294, 48.6686)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-hd76s260x"
+}

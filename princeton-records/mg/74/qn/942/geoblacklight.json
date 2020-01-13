@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "United States. Bureau of Naval Personnel"
+  ],
+  "dc_description_s": "Relief shown by spot heights. \"Soundings in fathoms.\" \"Compiled from the latest information.\" \"No. 1531.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qn942",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, Hydrographic Office, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Arctic regions,Discovery and exploration,Maps",
+    "Arctic regions,Maps"
+  ],
+  "dc_title_s": "Arctic regions with the tracks of search parties and the progress of discovery",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4706132\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/05b0319d-9123-4be6-91db-4b8260bcdfc1/file/dce9de57-3d1a-419c-9d8a-286841804b39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/05b0319d-9123-4be6-91db-4b8260bcdfc1/file/a3880e09-4f4f-4e97-ab42-895f0d6cc919\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ab%2Fd5%2F40%2Fabd540d40a364543b41cff81bf82e8f0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09bd7455-45ec-423c-a4a5-789ffedd545b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-05b0319d-9123-4be6-91db-4b8260bcdfc1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qn942",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-mg74qn942"
+}

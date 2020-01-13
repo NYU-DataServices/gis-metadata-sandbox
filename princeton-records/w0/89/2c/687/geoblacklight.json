@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Clearfield, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1929. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w0892c687",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1932.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Clearfield (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Clearfield Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867510\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bd5ed150-3d76-48c4-b896-1f05ca65d04a/file/5ee632ff-0e96-4c7b-8820-08b7883f236f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bee07b0f-26c1-4f35-883b-24460a902ad4/file/82384d1c-6394-4df3-936c-f068db8f5e0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bee07b0f-26c1-4f35-883b-24460a902ad4/file/49f71775-5018-480c-9777-eb43c301914b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F0a%2F95%2F790a95083fe34eff9d846ad445b7514d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f2f5d00-1d1c-40dd-b6dd-56dc624f089d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bee07b0f-26c1-4f35-883b-24460a902ad4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w0892c687",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.5, -78.25, 41.25, 41.0)",
+  "solr_year_i": 1932.0,
+  "uuid": "princeton-w0892c687"
+}

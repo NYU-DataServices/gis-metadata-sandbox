@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Zaragoza city pan. Copied from Spanish map, 1;50,000, no. 383, Zaragoza, 1926, and references from Plano de Zaragoza, 1;7,000, by A. Martin, Barcelona. Iberian Peninsula grid. Lambert conical orthomorphic projection. Shipping and military installation are shown.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182m88g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Zaragoza city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816892\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f0f0ece-2ae5-4276-88ea-e4c40b7876c3/file/10669f36-759c-4420-87f3-b54373a47de5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b1a853a1-0735-4b2c-aa3b-2d4c4a70af4d/file/7f46c8f4-5f29-4cbc-9170-255d2a895fa4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1a853a1-0735-4b2c-aa3b-2d4c4a70af4d/file/42d78760-522b-4dff-b5f6-c100f90062c4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2Fed%2F17%2F0aed17cd80a64c87810a9878ae51a361%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c2023a79-0d71-4c47-b67c-811220f66a9c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b1a853a1-0735-4b2c-aa3b-2d4c4a70af4d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182m88g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.9, -0.85, 41.666666666666664, 41.61666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-6q182m88g"
+}

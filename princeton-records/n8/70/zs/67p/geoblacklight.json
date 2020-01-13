@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "[United States. Central Intelligence Agency]. North Decimal Degree 31.600000. South Decimal Degree 31.2167. East Decimal Degree 34.5833. West Decimal Degree 34.2167. Universal transverse Mercator projection. Relief shown by spot heights. Map shows: \"built-up area\", Israeli-developed area (civilian) beyond the 1950 Armistice Line, \"Israeli-development area (military) beyond the 1950 Armistice Line; Refugee camp; Razed settlement.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs67p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1986.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land settlement",
+    "Occupied territories",
+    "Gaza Strip,Maps"
+  ],
+  "dc_title_s": "Gaza Strip, October 1986 (Israeli occupied - status to be determined)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838922\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f2a3b20-1859-4401-b7ab-6fee727f3788/file/c4b57a09-13e2-4d8a-a379-c6e991bd2230\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f2a3b20-1859-4401-b7ab-6fee727f3788/file/3b032cb0-3e7c-496c-be2f-d0a4e17c8314\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2Fff%2Fe9%2F77ffe9dff7ed48f891a0b813da4ed1ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7262a36-4f4b-4e01-aae8-2ae02827385d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f2a3b20-1859-4401-b7ab-6fee727f3788",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs67p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.2167, 34.5833, 31.6, 31.2167)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-n870zs67p"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of North America and South America. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz31x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "North and South America, 1987",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6fc14eba-22b1-48bd-b662-e4c57c3af7e9/file/68c50e71-a3c6-4768-aac8-803704b97012\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cd41cbb-6531-45a5-9a92-e3670fdf770b/file/7ffe8c25-81a1-4e45-82a5-8f26977f85f8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cd41cbb-6531-45a5-9a92-e3670fdf770b/file/fae30dce-d350-497a-b331-df88e9a45529\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F7c%2F64%2F867c64e5453d4615b5cd7f9f354857ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04c6ed92-3c51-4153-a437-e99c6240cd4f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central America",
+    "South America",
+    "Caribbean",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6cd41cbb-6531-45a5-9a92-e3670fdf770b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz31x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-179.815, -12.4133, 84.485, -55.93)",
+  "solr_year_i": 1987.0,
+  "uuid": "princeton-6d56zz31x"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1904.\" Includes key, key map, streets and specials index, and text. \"7000.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dz010s17t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,South River,Maps",
+    "South River (N.J.),Maps"
+  ],
+  "dc_title_s": "South River, Middlesex County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5538777\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/360609b3-1408-4d12-b27b-0304044fda4a/file/e0359065-0821-43b3-9f9a-24faa5e51b2c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/360609b3-1408-4d12-b27b-0304044fda4a/file/75b8b3ff-78f5-44b5-845a-ef43fcfb9455\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Ff7%2Fe7%2Fc8f7e7a05f534ceeab48754e61170b0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/63c289c7-33e0-4bf0-9a5c-705b39e1ebdd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-360609b3-1408-4d12-b27b-0304044fda4a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dz010s17t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.403543, -74.353585, 40.463878, 40.428946)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-dz010s17t"
+}

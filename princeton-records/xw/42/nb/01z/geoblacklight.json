@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feb'y. 1897.\" Includes key, key map, streets and specials index, and text. \"1044.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42nb01z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of New Brunswick, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531107\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b5de510-8b32-4a88-a166-fb6330bf0dc8/file/d4d95804-a182-4504-b8fe-8af1b869f279\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b5de510-8b32-4a88-a166-fb6330bf0dc8/file/f2b03d62-c78e-48b5-b81f-0e633bcebb0b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5c%2F06%2F10%2F5c06105be55448a6b9a76265067fc12b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8d513ec8-1854-49bd-a9a2-275658153ca5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b5de510-8b32-4a88-a166-fb6330bf0dc8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42nb01z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-xw42nb01z"
+}

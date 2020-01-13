@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 40.0000. South Decimal Degree 39.0000. East Decimal Degree -3.0000. West Decimal Degree -4.0000. Alternate title: Oca~na, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, undated and 1882-1937; Spain, 1:200,000, Cuartel General del Generalisimo, 1935-39; Road Map of Spain and Portugal, 1:400,000, A.M.S., Sheet 47, Third Edition, 1943; Railways in Spain and Portugal 1:1,500,000, G.S.G.S., 1941. Corrected from Intelligence Reports, 1942-1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tt58s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Ocan\u0303a (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Ocana, sheet 52. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839262\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f1fc39f-99eb-4801-93a0-24c6c55c2864/file/3871c04e-7e5d-42d8-ad54-d788766e7d41\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f1fc39f-99eb-4801-93a0-24c6c55c2864/file/6ae2cfa3-f4e9-4587-ad16-9af33b19b9ea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2F52%2Fd7%2Fe352d71a4d524535a2570950f070f343%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70b2da04-966f-45a9-a2a9-a4da8b79645d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f1fc39f-99eb-4801-93a0-24c6c55c2864",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tt58s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.0, -3.0, 40.0, 39.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-hm50tt58s"
+}

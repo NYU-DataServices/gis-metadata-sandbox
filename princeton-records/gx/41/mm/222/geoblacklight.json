@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "Relief shown by hachures. Covers parts of northern Sudan and southern Egypt including the Nile Valley and the Berenice-Foul Bay region. From: Atlas universel de ge\u0301ographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mm222",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Egypt,Maps",
+    "Sudan,Maps"
+  ],
+  "dc_title_s": "Nubie",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5740206\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/362d2846-984c-493b-af3a-f6a4d6f5de9d/file/4670aa3f-668c-4043-b80e-e00290f297d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/362d2846-984c-493b-af3a-f6a4d6f5de9d/file/580e0f18-aba1-4783-892f-2e4cd90ee1ed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2Ff1%2Fcd%2Fcdf1cd7c7330474a8482e67e5c51c18a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3345ee2b-9281-4a3c-baf3-064cc0dd6917/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Sudan"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-362d2846-984c-493b-af3a-f6a4d6f5de9d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mm222",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(28.34, 36.5, 24.01, 18.0)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-gx41mm222"
+}

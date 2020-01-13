@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Survey of Egypt. Relief shown by 30 metres contours interval and gradient tints. Distance shown on map margins are in kilometer.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x633f285d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[al-Jizah] : Survey of Egypt, [1925].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Egypt,Maps"
+  ],
+  "dc_title_s": "Cairo & environs",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865683\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ba8b4cf-aa48-446a-8dc3-45e99fd2f68d/file/8749c0c4-3e4d-4534-b31f-3eb3b0debfc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ba8b4cf-aa48-446a-8dc3-45e99fd2f68d/file/7d33131d-ef7b-48b4-a011-31db3ae2ebe8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2F4f%2Fcd%2Ff64fcda2bf724e419441cb754b4e8834%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f5d3fff2-c7ff-4aeb-b362-ce98b57687dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1ba8b4cf-aa48-446a-8dc3-45e99fd2f68d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x633f285d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.9, 31.35, 30.2, 29.833333333333332)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-x633f285d"
+}

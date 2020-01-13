@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New Jersey coast map, no's. 22 & 23.\" \"July '90.\" Includes text. \"3859.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf49v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean Park,Maps",
+    "Ocean Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean Park, Monmouth Co., New Jersey (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827702\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c08431af-e66f-417b-b856-c7389b40d1e5/file/e565df81-2bc2-4182-92e9-630cd8532969\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c08431af-e66f-417b-b856-c7389b40d1e5/file/42a93ec4-db59-4581-b2a0-9e5542e024d0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2Fa7%2Fdd%2Ffca7dd447a8b4fa78f9184d55449cc20%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9a3016ce-1cba-4184-b44a-4d42a395e83b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c08431af-e66f-417b-b856-c7389b40d1e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf49v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0213299, -74.0037939, 40.208715, 40.1951551)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-zp38wf49v"
+}

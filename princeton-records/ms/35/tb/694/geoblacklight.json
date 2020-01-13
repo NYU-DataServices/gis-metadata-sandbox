@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Potts, Charles A."
+  ],
+  "dc_description_s": "Includes references to locations in Trenton, N.J. and Morrisville, Pa.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb694",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia? : s.n., 1874?] (Phila. : H.J. Toudy & Co. Steam Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Trenton,Maps",
+    "Real property,Pennsylvania,Bucks County,Morrisville,Maps",
+    "Trenton (N.J.),Maps",
+    "Morrisville (Bucks County, Pa.),Maps"
+  ],
+  "dc_title_s": "Map of the City of Trenton, N. Jersey and surroundings",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5529332\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28000d57-4b2f-41b5-b2da-03647e5d4d76/file/4b94fd38-5d21-458f-8e15-ea4ee1b611c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28000d57-4b2f-41b5-b2da-03647e5d4d76/file/6fe5478c-9efc-48c4-9145-5ae6c3c4d263\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2Fa9%2F22%2F84a922e109a54494931a30580bf94dd3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/616bc5bc-9663-4a68-bc1a-86a2affabd58/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-28000d57-4b2f-41b5-b2da-03647e5d4d76",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb694",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.779435, -74.71253, 40.250033, 40.191901)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-ms35tb694"
+}

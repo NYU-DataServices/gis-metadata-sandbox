@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Kenya for 1948. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/4j03d315k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Kenya conflated historical administrative boundaries, 1948",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89a6419e-d701-4708-b56f-4c96255ac0ce/file/35cc6775-d2bc-4e94-b166-af196911d4a3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2386226-a6c1-4d62-a2f8-696c2f4599b8/file/8c0f32d4-2c6c-4e65-84be-1388939e4dc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2386226-a6c1-4d62-a2f8-696c2f4599b8/file/91b22045-fae1-4f14-8b59-5a918f74bc87\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Kenya",
+    "Kenya Colony",
+    "Kenya Protectorate"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-a2386226-a6c1-4d62-a2f8-696c2f4599b8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d315k",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(33.909586, 41.887524, 4.633819, -4.720417)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-4j03d315k"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 4, 10-15, 17, 21-22, 24-25, 29-36 and 44 of Bloomfield and Glen Ridge series, Essex Co., vol. 2, showing Glen Ridge.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p5547t331",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Glen Ridge,Maps",
+    "Glen Ridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Bloomfield and Glen Ridge (Sheet 24)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5419669\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3351025-6084-4f92-a52c-4207a531b36b/file/6fbf0e98-34f9-4469-9bf5-f877aabe26c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3351025-6084-4f92-a52c-4207a531b36b/file/b61e8964-ec7e-4a55-b881-dc28df24caf9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a3%2F43%2F19%2Fa3431954ca1e4ab99bc9b8c6cd289803%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4b2c46e-6835-497f-b8b3-57a81042d047/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f3351025-6084-4f92-a52c-4207a531b36b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p5547t331",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-p5547t331"
+}

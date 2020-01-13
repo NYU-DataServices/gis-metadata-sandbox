@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "\"Unclassified.\" Map no.: \"704703 (A01776) 3-85.\". \"Boundary representation is not necessarily authoritative\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580q52b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1985.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Insurgency,Afghanistan,Maps",
+    "Afghanistan,Politics and government,1973-1989",
+    "Afghanistan,Maps",
+    "Afghanistan,History,Soviet occupation, 1979-1989,Protest movements"
+  ],
+  "dc_title_s": "Major insurgent groups in Afghanistan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6829814\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/68369efd-ba12-4786-8cfb-2e6e3da31576/file/a8c57d90-5f0d-4cec-ba49-6783c89b9a2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68369efd-ba12-4786-8cfb-2e6e3da31576/file/7a7c30cd-be28-42b6-826d-4469a0f08cf6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2Fda%2Fba%2F07daba89a84c4127b6ef04147d2bebfe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/42ee9b42-b30a-4442-854b-808e2a8238c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-68369efd-ba12-4786-8cfb-2e6e3da31576",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580q52b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(60.517222, 74.89, 38.490833, 29.377222)",
+  "solr_year_i": 1985.0,
+  "uuid": "princeton-nc580q52b"
+}

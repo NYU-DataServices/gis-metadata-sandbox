@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1903.\" \"6200.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h413h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Raritan,Maps",
+    "Raritan (N.J.),Maps"
+  ],
+  "dc_title_s": "Raritan, Somerset Co., New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5603136\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59e8eade-0242-429d-b397-349140b09c40/file/8b23f59f-b600-48f4-871c-b740a8c4c805\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59e8eade-0242-429d-b397-349140b09c40/file/e83f34b4-a4b2-429f-957e-ce87583e17bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/71%2Fe1%2F52%2F71e152cddbcf4e30bfd6b43543a4a193%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eb603f04-bbbc-4ee3-8312-651f55f537f3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59e8eade-0242-429d-b397-349140b09c40",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h413h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.662026, -74.623412, 40.586044, 40.556202)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-8336h413h"
+}

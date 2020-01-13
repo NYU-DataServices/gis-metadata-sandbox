@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of divisions and tribal areas in Southern Cameroons for 1947. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/pk02cf34j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Southern Cameroons extracted historical administrative boundaries, 1947",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4f452ad5-e82f-4c0e-b3d4-8a982cd5f0e2/file/57fecb69-dd0b-4fa8-9eba-38ec63c7f5e8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f682fac-1baa-4e15-9b80-2d76bc2febb2/file/2da6179a-1f20-46d0-ae66-29f7c9ed29a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f682fac-1baa-4e15-9b80-2d76bc2febb2/file/fabcb1a8-a3c4-4658-b215-d9fe037f1a73\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Cameroons",
+    "British Cameroons",
+    "Southern Cameroons",
+    "Cameroons Trust Territory"
+  ],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-7f682fac-1baa-4e15-9b80-2d76bc2febb2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cf34j",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(8.483072, 11.20745, 7.046602, 3.897986)",
+  "solr_year_i": 1947.0,
+  "uuid": "princeton-pk02cf34j"
+}

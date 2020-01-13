@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Mch. 1897.\" Includes key and text. \"1074.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h17t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Milltown,Maps",
+    "Milltown (N.J.),Maps"
+  ],
+  "dc_title_s": "Milltown, Middlesex Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527001\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37d3d15c-8dc8-488d-83ef-826154e9b533/file/bc007e24-0ddf-417b-8ae0-3f05fdeb06f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37d3d15c-8dc8-488d-83ef-826154e9b533/file/f6c9766c-9458-45e0-9cab-9f70b7f6115f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2F88%2F7b%2Ffd887bb8a41f46ef96dacb8c842cc011%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47902cf5-b237-4266-bc98-f8d8a0c39819/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-37d3d15c-8dc8-488d-83ef-826154e9b533",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h17t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.449486, -74.423035, 40.463366, 40.434438)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-bg257h17t"
+}

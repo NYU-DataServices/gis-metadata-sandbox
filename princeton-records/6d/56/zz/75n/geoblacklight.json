@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1896.\" Includes key, key map, streets and specials index and text. \"867.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz75n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896, c1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dover,Maps",
+    "Real property,New Jersey,Port Oram,Maps",
+    "Dover (N.J.),Maps",
+    "Port Oram (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Dover and Port Oram, Morris County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5556593\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24b03746-48ab-4d13-831b-7eeadde33801/file/ab072850-a0ba-43b1-b983-40d2b5677606\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24b03746-48ab-4d13-831b-7eeadde33801/file/bf8a647c-c79a-432b-a039-6a64548950fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F4e%2F98%2Fa64e9888d2d0490c8b4fa338ce0125e3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5fbd4c7-767a-4ccc-82a2-9e5a0b310eec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24b03746-48ab-4d13-831b-7eeadde33801",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz75n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-6d56zz75n"
+}

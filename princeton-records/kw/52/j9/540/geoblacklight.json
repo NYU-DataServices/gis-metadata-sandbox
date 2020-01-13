@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Africa, shown at a 1:48,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kw52j9540",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "802129 (547147) 3-93",
+    "Administrative and Political Boundary"
+  ],
+  "dc_title_s": "Africa (1993).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/750a8dd7-292c-4e1a-99c9-1e952208fea1/file/4b9b06e8-8124-444e-ae10-3cbc73232f12\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d388f60-343f-4f9a-8cf4-e37098c10339/file/0e4de869-2b17-459a-a659-a8bb73b9cb32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d388f60-343f-4f9a-8cf4-e37098c10339/file/17725810-9886-46a6-8a2a-1217b83b0cbf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/59%2F28%2Fec%2F5928ec98172a44d499e8993cb1cbf85a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ce674511-4ba5-4c24-b340-a1c1161b79b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5d388f60-343f-4f9a-8cf4-e37098c10339",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kw52j9540",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-25.6244, 51.5195, 37.5071, -35.0869)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-kw52j9540"
+}

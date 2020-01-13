@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief snown by spot heights and shading. This is a relief map showing international and district boundaries, railroad, roads, airfields and ports. \"Boundary representation is not necessarily authoritative\". Includes location map, comparative area map. Includes ancillary maps of: Population -- Tribes -- Vegetation -- Economic activity. \"77961 9-70\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ft848s13k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, DC] : [Central Intelligence Agency], 1970.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tribes,Angola,Maps",
+    "Ethnology,Angola,Maps",
+    "Phytogeography,Angola,Maps",
+    "Angola,Maps",
+    "Angola,Population,Maps",
+    "Angola,Economic conditions,Maps",
+    "Angola,Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Angola",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9596277\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8631ea45-f259-41ab-bd0a-4d74d19f484a/file/2ee6a859-ec4f-4ea0-8156-92ff3cb64004\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ba00bea-8e0c-4047-a8bf-ece979121c0b/file/1eebfb49-bdfe-4f55-9165-88102a6284ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ba00bea-8e0c-4047-a8bf-ece979121c0b/file/03ef4b74-a2ff-4241-8799-ffdbdbb4d846\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F13%2Ff8%2F0b13f8c389e44a0594c13c3806ae7330%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e1d3ddb0-6e97-468c-9a32-f58118fffa18/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Angola"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0ba00bea-8e0c-4047-a8bf-ece979121c0b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ft848s13k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.676111, 24.088056, -5.821389, -18.039444)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-ft848s13k"
+}

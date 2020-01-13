@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Schroon Lake. Relief shown by 20 feet contour interval. Surveyed in 1895. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591998n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Schroon Lake (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Schroon Lake Sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867207\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a4d67215-2200-42f9-8593-42f59a174c82/file/6209fbd5-a759-4aa4-9cc1-5859f6f5c32d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6b2b137-d49c-4eef-bb45-83bc45fb8308/file/440c4df9-2066-4c6d-856c-4e3c4577b703\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6b2b137-d49c-4eef-bb45-83bc45fb8308/file/52f57ace-4fa0-4e8c-adbe-5ec236e75612\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2F2c%2F34%2Fdb2c3429142f456c94833be635d960ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/95d10435-68a5-4a41-a377-7376ad1b261d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e6b2b137-d49c-4eef-bb45-83bc45fb8308",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591998n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 44.0, 43.75)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-3b591998n"
+}

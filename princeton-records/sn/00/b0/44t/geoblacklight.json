@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Department of Agriculture. Soil Conservation Service. New Jersey Agricultural Experiment Station. Polyconic projection. Verso: Monmouth County soil conservation district legend describing soils, slope, erosion; index to set.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sn00b044t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Soils",
+    "Monmouth County (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey, Freehold Soil Conservation District, Monmouth County, physical land conditions. Sheet no. 23",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867619\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca0fd7e0-e0d9-474c-999d-f482766268b1/file/5441cc20-3ec3-41c3-98d1-c217ef3e75f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a0567b2-c4f4-46da-a512-c0968ccafba3/file/f1cad683-fcda-447e-b138-dfe299b99d53\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a0567b2-c4f4-46da-a512-c0968ccafba3/file/74064c29-82cd-4ac7-89fe-57957390a666\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2Fc0%2F43%2F0dc0438cc8424a40abb291729169ba87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c1abfa1-e2e3-4c08-beea-33ef4c174b3a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1a0567b2-c4f4-46da-a512-c0968ccafba3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sn00b044t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.45, -74.4, 40.2, 40.15)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-sn00b044t"
+}

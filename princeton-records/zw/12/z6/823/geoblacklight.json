@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief shown by shading. Includes inset of \"Antarctic Peninsula.\" \"700681 (543391) 1-84.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z6823",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency, 1984]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Antarctica,International status,Maps",
+    "Research,Antarctica,Maps",
+    "Meteorological stations,Antarctica,Maps"
+  ],
+  "dc_title_s": "Antarctica: research stations and territorial claims.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7271640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5469fa0-e1cb-4efc-b46e-c1f04451ca94/file/3b541a87-7113-4d5f-a353-88d6482a8bc2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5469fa0-e1cb-4efc-b46e-c1f04451ca94/file/b78a98b0-3b41-4094-96a7-b8693219257d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2F26%2F2b%2F17262b1264374073b262494c83a9608a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/854850d9-0dee-4a23-bb31-4e1e89537a3f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Antarctic Ocean; Antarctica"
+  ],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f5469fa0-e1cb-4efc-b46e-c1f04451ca94",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z6823",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, -50.0, -90.0)",
+  "solr_year_i": 1984.0,
+  "uuid": "princeton-zw12z6823"
+}

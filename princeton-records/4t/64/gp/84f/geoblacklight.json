@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Stoke on Trent mit militaergeographischen Eintragungen. Grossblatt 4, Blattbereich 16e. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560. Accompanied by 70p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 4 Nord-Wales und Manchester\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4t64gp84f",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945"
+  ],
+  "dc_title_s": "England 1:10 000, Stoke on Trent, BB 16e",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865587\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d256028-731b-4a26-a7d4-7ce29cd993a4/file/78b3b40e-17b8-451f-9537-c2b41f13c5db\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4efab588-26e7-41e0-998d-2af1e8327fa7/file/f5bd0f83-73be-4850-b20d-99cfeaabda9b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4efab588-26e7-41e0-998d-2af1e8327fa7/file/1e87131a-131c-4019-a05a-5dda08c7f164\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2Fdb%2F8d%2Fd0db8dac83e4404cbad865ad6742136e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c119e9ea-045d-4a19-907b-3a2fcb0ce227/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4efab588-26e7-41e0-998d-2af1e8327fa7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4t64gp84f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.2, -2.1333333333333333, 53.03333333333333, 53.016666666666666)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-4t64gp84f"
+}

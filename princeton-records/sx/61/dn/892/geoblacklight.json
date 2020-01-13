@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. In upper left-hand corner: Palisades, N.J. Historic Maps copy imperfect: sheet 10 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dn892",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Edgewater,Maps",
+    "Edgewater (N.J.),Maps"
+  ],
+  "dc_title_s": "Edgewater, Bergen County, New Jersey (Sheet 15)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5242427\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2b33bbb-a3ed-4104-9b98-c2a3df1611eb/file/db9d4d44-9d34-450d-9c63-2619205d2ed6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2b33bbb-a3ed-4104-9b98-c2a3df1611eb/file/05c15a87-5ffe-4d01-8ad9-c05aabef2721\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2F4c%2F90%2Ff64c90778c4d49c19689dfb4f97bcbc0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc13e152-9fb1-49d7-8f2e-bd11d675128e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a2b33bbb-a3ed-4104-9b98-c2a3df1611eb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dn892",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.994, -73.963, 40.848, 40.801)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-sx61dn892"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1918.\" Includes location map, key, streets and specials index, and text. \"2321.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7w62f9665",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Keansburg,Maps",
+    "Real property,New Jersey,Ideal Beach,Maps",
+    "Real property,New Jersey,East Keansburg,Maps",
+    "Keansburg (N.J.),Maps",
+    "Ideal Beach (N.J.),Maps",
+    "East Keansburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Keansburg, Monmouth County, New Jersey : including Ideal Beach & East Keansburg (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804280\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c821753-14ee-45f4-8e83-a18dc1bbc974/file/62a8c619-8384-4c88-96ac-cec75ff930ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c821753-14ee-45f4-8e83-a18dc1bbc974/file/94e5ca06-f62a-413b-bcaf-dc8b726c1cf5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2F9a%2F98%2F529a9891c9e24eb7994e70cb5884d920%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/402169ea-646e-40ea-bf6c-702be0770380/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6c821753-14ee-45f4-8e83-a18dc1bbc974",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7w62f9665",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.148, -74.116, 40.457, 40.435)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-7w62f9665"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Avec privilege.\" At top of map: No. 17.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042w51b",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris? : D. Robert de Vaugondy?], 1750.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "South America,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Ame\u0301rique Me\u0301ridionale",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6447060\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9841304-8e39-44ad-81ac-581240665080/file/3436b52c-ae81-4465-aeee-ffded2125a9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9841304-8e39-44ad-81ac-581240665080/file/b6c9a409-73dd-432a-bad6-4c1154874b74\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2F4e%2F17%2F904e179f226744db99cecdb40bdbc038%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ba3be310-5b56-45ab-bfe1-6acc038219fa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9841304-8e39-44ad-81ac-581240665080",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042w51b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-83.0, -33.5, 13.2, -56.6)",
+  "solr_year_i": 1750.0,
+  "uuid": "princeton-rv042w51b"
+}

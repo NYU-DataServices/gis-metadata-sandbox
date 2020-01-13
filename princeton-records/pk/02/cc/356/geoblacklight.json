@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Fairview, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1899 in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc356",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Fairview (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: (Erie County) Fairview Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868242\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/87a278bd-0b64-474d-92e9-b6da5390b6a4/file/7192298d-138c-419a-8e68-2550284c610c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef6122d5-d5fa-4688-b52a-676edfd0ab9c/file/018c552f-8211-4758-953f-dad0fa6350f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef6122d5-d5fa-4688-b52a-676edfd0ab9c/file/5e97afad-873d-476c-acfa-869e2f1b9550\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2F57%2Fa0%2F8e57a0afec244b188776a74946a783fc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a02da72e-12df-4c08-ba10-96510563508d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ef6122d5-d5fa-4688-b52a-676edfd0ab9c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc356",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.5, -80.25, 42.25, 42.0)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-pk02cc356"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Claysville, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1904 and 1905. Surveyed in cooperation with the state of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs187",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Claysville (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Claysville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867508\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f56775a-9b06-4a96-b59f-1c0de75ff4cd/file/4c24cfd7-1937-41ba-b8fc-86ed0a3df391\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b81fd959-e329-492c-a7a1-76caaf87e574/file/a4e7bd90-980b-466c-9525-7e9e1003d810\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b81fd959-e329-492c-a7a1-76caaf87e574/file/338d1426-dcc1-44b5-bb84-c624f03eaf3b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2Fd6%2F8b%2F8ad68b43231947b59f949d74f5e2bfc3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6fa73334-fb40-4d5f-80ab-1ec43cb56019/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b81fd959-e329-492c-a7a1-76caaf87e574",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs187",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.5, -80.25, 40.25, 40.0)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-st74cs187"
+}

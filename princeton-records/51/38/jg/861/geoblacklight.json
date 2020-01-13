@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Preliminary sheet [1] has title: Map of congested district of Orange, N.J. Historic Maps copy has sheets 54 and 61-121 of Orange and W. Orange, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jg861",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5468557\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c62c2b8a-cdcb-466d-a34e-e0ca4826d5a6/file/1881c62b-afd8-4e1e-8b43-49cf247d65b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c62c2b8a-cdcb-466d-a34e-e0ca4826d5a6/file/1432df15-064a-4361-859c-bf00e88dbd42\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/01%2Fd2%2F31%2F01d231f07f5d42849cf75b5cb60338de%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06cea8b7-c598-41c6-a587-95e772409fa0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c62c2b8a-cdcb-466d-a34e-e0ca4826d5a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jg861",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-5138jg861"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Map shows international and province boundaries, and populated places. Includes a glossary in Chinese, Japanese, and Korean. \"N2330-E12200/2330X2500.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9w032629c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington : U.S. Geological Survey, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Japan,Maps",
+    "Korea (South),Maps",
+    "East Asia,Maps"
+  ],
+  "dc_title_s": "Relief map of Japan-Korea area",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10548746\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9d203d3-2b79-411b-a72b-a6d4cfdc1072/file/e52b4acb-2b17-4909-a63e-04d6d52580de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9d203d3-2b79-411b-a72b-a6d4cfdc1072/file/f4de68e1-0a5b-47e8-b3ba-e6feaf6eb682\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2Fcc%2F41%2Feccc411b223c46ad8c62dddaebf85cbf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/93b3fe5c-5484-4cd7-859e-3f6dc555e640/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b9d203d3-2b79-411b-a72b-a6d4cfdc1072",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9w032629c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(122.0, 147.0, 47.0, 23.5)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-9w032629c"
+}

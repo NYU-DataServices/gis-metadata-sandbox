@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Title from title sheet. Includes location map, key, streets and specials index, and text. Includes maps of Morrisville, Bucks Co., Pa.; Lawrenceville School, and Hamilton Square, Mercer Co., N.J. on sheet 42. Oriented with the north to the upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rn301313h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn-Perris Map Company, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Trenton,Maps",
+    "Real property,New Jersey,Hamilton Square,Maps",
+    "Real property,New Jersey,Lawrenceville,Maps",
+    "Real property,Pennsylvania,Bucks County,Morrisville,Maps",
+    "Lawrenceville School,Maps",
+    "Trenton (N.J.),Maps",
+    "Hamilton Square (N.J.),Maps",
+    "Morrisville (Bucks County, Pa.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Trenton, Mercer Co., New Jersey (Overview Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4600828\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e09ded2-0627-411c-b519-1b809755026f/file/3a1d547f-1457-4b66-ae06-a7ab26592530\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e09ded2-0627-411c-b519-1b809755026f/file/bff509fa-fbc5-4e51-a928-1545c8f195ca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6e%2F4f%2Fa6%2F6e4fa6590b8a4afcb5a9f35b5f084a06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a56f9322-ed59-459d-979e-f5169e578a46/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0e09ded2-0627-411c-b519-1b809755026f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rn301313h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-rn301313h"
+}

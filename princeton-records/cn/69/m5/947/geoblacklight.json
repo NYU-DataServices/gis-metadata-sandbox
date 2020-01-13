@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "City of Cambridge. Verso: Ads for local businesses.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cn69m5947",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Cambridge, England : [s.n.], 1982.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tourist maps",
+    "England,Maps"
+  ],
+  "dc_title_s": "City of Cambridge",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865942\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f6d7767-6090-4678-88c5-cd61140e9d7a/file/ce610cc5-0c7a-4608-a57a-7492c630ffed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f6d7767-6090-4678-88c5-cd61140e9d7a/file/fd91a88a-4275-4974-b8b5-7b491be7ba3e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2Fa8%2Fc0%2Fb9a8c0478b164ba58d086cef6db45487%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/930771e0-ff39-4c9d-a3fb-2bf898a360b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1982"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f6d7767-6090-4678-88c5-cd61140e9d7a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m5947",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.11666666666666667, 0.15, 52.2, 52.18333333333333)",
+  "solr_year_i": 1982.0,
+  "uuid": "princeton-cn69m5947"
+}

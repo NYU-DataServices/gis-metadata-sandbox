@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Preliminary sheet [1] has title: Map of congested district of Orange, N.J. Historic Maps copy has sheets 54 and 61-121 of Orange and W. Orange, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8s45qb77c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5468557\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c37edcce-2006-410a-b50f-4ac2c5b56065/file/085b6ffb-0114-4182-8334-4d465957a3ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c37edcce-2006-410a-b50f-4ac2c5b56065/file/2c1e03cf-c578-4602-8954-3fe662ee3bc2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2Fc6%2F57%2F41c65775df6e4555a22d0d6074f1055c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/71e8c2a1-6dbc-4119-8edf-36dcf1d45e0a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c37edcce-2006-410a-b50f-4ac2c5b56065",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8s45qb77c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-8s45qb77c"
+}

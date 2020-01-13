@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Text on map: A description of the extent of the bounds of Massachusetts Bay Patent southward ... By Nath. Woodward, Solomon Saffery. Text below title: This represents the country along the old Bay Path, and has great historical interest from the fact that out of its making grew the long dispute with Connecticut over the boundary ... Historic Maps copy has ms. annotations; date from ms. notation.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj65v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Springfield, Mass. : Wright & DeForest, [1911]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Massachusetts,Boundaries,Connecticut,Maps",
+    "Connecticut,Boundaries,Massachusetts,Maps",
+    "Massachusetts,Maps",
+    "Connecticut,Maps"
+  ],
+  "dc_title_s": "The Roads from Boston to Connecticut River in 1642",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5772471\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76000155-cc93-4ae9-bc38-0ab3ad90a669/file/ea7eed4d-de99-4d7a-99a7-08177198484f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76000155-cc93-4ae9-bc38-0ab3ad90a669/file/738c1029-15e2-4d3f-a28c-f3e8b1251836\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2d%2Fac%2F2a%2F2dac2a964dde47ce9de4598ae569072b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5ce9fe8a-f2a5-4a89-b859-2d95149303e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-76000155-cc93-4ae9-bc38-0ab3ad90a669",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj65v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.687656, -70.962631, 42.45009, 41.708577)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-2801pj65v"
+}

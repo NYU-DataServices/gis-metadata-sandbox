@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Robinson, E. (Elisha)"
+  ],
+  "dc_description_s": "Wall map showing landowners' names. Relief shown by spot heights. Historic Maps copy dissected in 4 pieces.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n009w4758",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : E. Robinson & Co., No. 49 Liberty St., 1902 (Philada., Pa. : A.H. Mueller, lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Landowners,New Jersey,Bergen County,Maps",
+    "Bergen County (N.J.),Maps",
+    "Passaic County (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of Bergen County, New Jersey : with a portion of Passaic Co. / compiled from the Geological Survey of New Jersey, official maps, private plans and actual surveys by and under the direction of E. Robinson. [sheet 2 of 4]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6948986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24fcb305-adda-4d5c-b949-f2790e72f125/file/a2cd5d4c-96aa-48aa-b46e-e6c848b146b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24fcb305-adda-4d5c-b949-f2790e72f125/file/bd8b04db-6cf3-4b4a-aecf-4077abb691b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2Fd2%2Faa%2F85d2aa1962014c5496c4c900a631f57c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a46dc1af-faab-4ddc-86da-ad4605af4bd8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24fcb305-adda-4d5c-b949-f2790e72f125",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n009w4758",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.2666666667, -73.9, 41.1166666667, 40.7666666667)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-n009w4758"
+}

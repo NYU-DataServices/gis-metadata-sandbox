@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Macpherson, David, 1746-1816"
+  ],
+  "dc_description_s": "At top of map: Geographi\u00e6 antiqu\u00e6 tab. XVI. Relief shown by hachures. From: Atlas of ancient geography. Philadelphia, 1806.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/000002550",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Philadelphia : s.n., 1806]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geography, Ancient,Maps",
+    "Italy,Maps",
+    "Corsica (France),Maps",
+    "Sardinia (Italy),Maps"
+  ],
+  "dc_title_s": "Italia in regiones undecim ab Augusto descripta, cum insulis Corsica et Sardinia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8553019\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80e6ee00-7f0f-4e5c-9b20-4d3a9def7c7a/file/b22e9391-1019-4ef3-b909-b61e498ee8ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80e6ee00-7f0f-4e5c-9b20-4d3a9def7c7a/file/93ae3e8e-f852-44fc-a7ac-b6487732b610\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F92%2F9a%2F18929a7858044aff8ba8bad56f10e96f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a1702f9-2b05-461a-af32-c587c579aed4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1806"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-80e6ee00-7f0f-4e5c-9b20-4d3a9def7c7a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-000002550",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.2142, 22.7584, 47.1216, 37.8218)",
+  "solr_year_i": 1806.0,
+  "uuid": "princeton-000002550"
+}

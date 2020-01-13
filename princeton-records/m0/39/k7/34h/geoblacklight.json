@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Dripps, M. (Matthew)"
+  ],
+  "dc_description_s": "Depths shown by soundings.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k734h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "N.Y. : Published by M. Dripps, 103 Fulton St., 1864, c1862.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York and vicinity",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6226408\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc86d035-b799-4ba0-9816-d148b21866a3/file/21296a36-6274-465f-b4c8-4da2f75b3da9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc86d035-b799-4ba0-9816-d148b21866a3/file/31462776-bd1f-495b-872e-1d7d5e7e2fd5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F16%2Fb7%2F8316b7cdf6574010ae10898ee9c1c279%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18a0321b-64c5-4b4f-8441-f4c3f833233e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bc86d035-b799-4ba0-9816-d148b21866a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k734h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.069927, -73.909252, 40.821732, 40.698842)",
+  "solr_year_i": 1864.0,
+  "uuid": "princeton-m039k734h"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Nobeoka, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 20 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kc28x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Nobeoka, Miyazaki Prefecture, Kyushu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449982\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98fb2908-ffb7-4237-bbd0-33e5e2c16c9e/file/c39890c2-7268-49f5-85d5-96b9714e568b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e548ec2c-c882-44f3-a197-242e3bf8620d/file/d9e42aea-2e99-4e79-82d0-5c69d42ad17a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e548ec2c-c882-44f3-a197-242e3bf8620d/file/1b29d048-cbff-4b4a-bb34-94938e7720c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2Fd6%2Fa6%2F9dd6a6c7964348298107edbca0e64b63%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c31fdc7a-be90-4e90-b209-b176398f0e53/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e548ec2c-c882-44f3-a197-242e3bf8620d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kc28x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(131.65, 131.71666666666667, 32.61666666666667, 32.55)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-5425kc28x"
+}

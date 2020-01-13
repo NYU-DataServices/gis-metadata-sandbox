@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Hiromachi, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 20 meter contour interval and spot elevations. Depth shown byfathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ks65hd80s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Hiromachi, Hiroshima Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449936\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec032708-929b-4cd0-9cbf-1cc18adc753d/file/99dd3f14-71db-4361-92fa-d5d9a884d7e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9a7c6aec-e656-4e47-9274-62bc4bab71c7/file/f45d0dc4-5c71-45ed-9b7d-0aa2095cc410\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9a7c6aec-e656-4e47-9274-62bc4bab71c7/file/b096846e-4e8b-4ffa-b435-252219825d15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2Fa5%2Fd5%2F6ba5d5b3d0cc416e9af8eb31b05d228c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b94c4311-2c3a-43da-a1e3-3fb68c798bee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9a7c6aec-e656-4e47-9274-62bc4bab71c7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ks65hd80s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(132.58333333333334, 132.66666666666666, 34.25, 34.25)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-ks65hd80s"
+}

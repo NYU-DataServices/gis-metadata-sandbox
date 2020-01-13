@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA.-N.J. Wallpack. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1884-8. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r494vm84j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Wallpack sheet (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania-New Jersey: Wallpack sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868106\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c547a99d-f626-4a11-80e9-bbea679cba60/file/948843ab-16d6-405f-83c8-58ed8748bc88\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9522d5fb-c458-443d-8384-a4d3c9a65030/file/9a0232fc-398c-491d-bda2-d95f6d245625\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9522d5fb-c458-443d-8384-a4d3c9a65030/file/4f7dfec6-9f6b-4541-a464-2c5b9896abdc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F47%2F30%2F8a4730f7875a451fb946c269dd325afa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ac7a69f-87f4-4d9f-8b75-27e75de12f87/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9522d5fb-c458-443d-8384-a4d3c9a65030",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r494vm84j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 41.25, 41.0)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-r494vm84j"
+}

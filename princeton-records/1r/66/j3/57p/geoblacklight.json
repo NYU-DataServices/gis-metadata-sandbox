@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Ruger, Edward"
+  ],
+  "dc_description_s": "Shows troop movement and fortifications. In upper right-hand corner: Sheet no. 7. Historic Maps copy has ms. list of names and amounts on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1r66j357p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York: Julius Bien & Co., 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Fortification,Georgia,Maps",
+    "Chickamauga, Battle of, Ga., 1863,Maps",
+    "Georgia,History,Civil War, 1861-1865,Maps",
+    "United States,History,Civil War, 1861-1865,Maps"
+  ],
+  "dc_title_s": "Map of the battlefield of Chickamauga, September 19th and 20th 1863",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6425055\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/663100ea-e050-4c1c-ba39-0df8f3fcf598/file/cc652c17-ff40-4635-80ae-337ad520272b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/663100ea-e050-4c1c-ba39-0df8f3fcf598/file/d0518052-fcc1-4627-946c-82d4910a23fc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F0e%2F31%2Fd00e31fb6e5d4af2877218127729287f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/26b92442-7198-48d3-b9ad-8b3906c2164f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-663100ea-e050-4c1c-ba39-0df8f3fcf598",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1r66j357p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.316778, -85.258585, 34.891918, 34.841918)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-1r66j357p"
+}

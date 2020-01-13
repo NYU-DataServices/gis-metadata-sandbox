@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures. In margin of map: Rand-McNally indexed atlas. [Argentine Republic, Chile, Paraguay, and Uruguay]. 338-339. Includes inset: Southern portion of Chile and Argentine Republic. Text on verso. From: Rand, McNally & Co's indexed atlas of the world. Chicago, New York : Rand McNally & Co., [c1905]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/02870z32v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand, McNally & Co., c1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Argentina,Maps",
+    "Chile,Maps",
+    "Paraguay,Maps",
+    "Uruguay,Maps"
+  ],
+  "dc_title_s": "Argentine Republic, Chile, Paraguay, and Uruguay",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6505594\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e15e4bdf-cb0b-46b7-b975-56004b18355e/file/1d90c4c0-fa00-449d-8eed-143156ae49dc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e15e4bdf-cb0b-46b7-b975-56004b18355e/file/e917e4f1-e8aa-4965-ae06-473f2a5da492\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/26%2Fc8%2F72%2F26c8721aa91d42c39c3ccb6e63c71bc7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4817d062-8f6e-492a-a893-c14ec9f1099f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America",
+    "Argentina",
+    "Chile",
+    "Paraguay",
+    "Uruguay"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e15e4bdf-cb0b-46b7-b975-56004b18355e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-02870z32v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -52.01, -17.03, -41.5)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-02870z32v"
+}

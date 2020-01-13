@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Bad Nauheim and environs in the German state of Hesse. Relief shown by shading and spot heights. From: Fu\u0308hrer durch Bad Nauheim und Umgebung / Herausgegen von Leo Woerl. Leipzig : Woerl's Reisebu\u0308cherverlag, 1901.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/np193c67s",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1901]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bad Nauheim (Germany),Maps",
+    "Hesse (Germany),Maps"
+  ],
+  "dc_title_s": "Nauheim und Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7394906\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa949d70-b668-4bcd-910d-f8bbff8338db/file/b76f090e-ce4f-4aa8-82ac-95ea4a102e93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa949d70-b668-4bcd-910d-f8bbff8338db/file/407a26f9-44a0-4efa-bbd2-5017bfa9962d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2F33%2Fa0%2F9933a0fe34aa437f8871c4e87a8ef199%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56a3a26b-05f3-46dd-9898-20b14e4d436c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aa949d70-b668-4bcd-910d-f8bbff8338db",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-np193c67s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.600163, 8.812508, 50.462709, 50.275148)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-np193c67s"
+}

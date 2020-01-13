@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cf95jd986",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand McNally & Co., c1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ireland,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of Ireland [copy 2]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7778536\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/32e6bdfc-6b49-4daa-8a6d-bda2593a8b25/file/d25cd2b9-e960-4ee9-992b-c9e386463e82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/32e6bdfc-6b49-4daa-8a6d-bda2593a8b25/file/c3a8ef89-f9ec-4ce3-950d-ab1637658f44\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2Fc3%2Ff6%2F92c3f6ea246c45708fe4044672185390%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0f22fe07-95f3-4e3b-a3a4-6aac50ef27ca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-32e6bdfc-6b49-4daa-8a6d-bda2593a8b25",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cf95jd986",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-11.0, -5.0, 56.0, 51.0)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-cf95jd986"
+}

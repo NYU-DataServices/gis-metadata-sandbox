@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Gindstone. Relief shown by 20 feet contour interval. Surveyed in 1900 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/br86b516r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Grindstone (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Jefferson County) Grindstone Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866833\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd93c11f-680d-4ad5-99b6-e2f84a70e344/file/c42130ca-d783-4ffd-812d-cd0b322cf20c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b37e8678-13f7-490f-affa-f9578539ccea/file/ecd82c19-8f69-4a42-928c-579c037178cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b37e8678-13f7-490f-affa-f9578539ccea/file/8b73df80-b1a6-4e1d-9469-4ebfaa5916d2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2Fb0%2F4b%2F73b04b899fc94931b64b92052a7be499%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ede1a4e-a7e2-4cee-b8b2-17ea77537ab3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b37e8678-13f7-490f-affa-f9578539ccea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-br86b516r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 44.5, 44.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-br86b516r"
+}

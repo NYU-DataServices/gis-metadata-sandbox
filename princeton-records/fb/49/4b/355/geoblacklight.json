@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1886.\" Includes key, streets and specials index, and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fb494b355",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bridgeton,Maps",
+    "Bridgeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Bridgeton, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5410801\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18965adc-36b7-4823-b38e-28d5733db343/file/97faff28-fd87-4dc4-9c23-b9c7d537f47a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18965adc-36b7-4823-b38e-28d5733db343/file/56882e40-b9f3-4ce6-86e2-d484b7973538\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ea%2Fd0%2Fc7%2Fead0c778d68445d8afbf96f7a40f22c2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9fc3630e-2e93-4cee-babe-b4e847f137d5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-18965adc-36b7-4823-b38e-28d5733db343",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fb494b355",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.253033, -75.20384, 39.455303, 39.402758)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-fb494b355"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Freytag, Gustav, 1852-1938"
+  ],
+  "dc_description_s": "Ancillary maps: St. Petersburg (Petrograd) -- Warshau. Relief shown by hachures. Originally issued folded in cover with title: Generalkarte von West-Russland un den angrenzenden La\u0308ndern bis Wien und Budapest / entworfen und gezeichnet von G. Freytag.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x920g0394",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wien : Artaria & Co., 1915 (Wien : Druck von Th. Bannwarth)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Russia, Western,Maps",
+    "St. Petersburg (Russia),Maps",
+    "Warsaw (Poland),Maps"
+  ],
+  "dc_title_s": "Die Ostseela\u0308nder von Lemberg bis zum Nordkap, u. Wilhelmshaven bis St. Petersburg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8218819\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3036e2f8-835d-4bf8-b1d9-83d247c12ca5/file/c0b259b2-1860-4340-96e6-eef3512c77bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3036e2f8-835d-4bf8-b1d9-83d247c12ca5/file/f232fb13-f6fd-4b00-a0e1-52d01762a396\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/67%2F30%2F7b%2F67307b6dcfd14ed9a1eb2bfc4bf63e47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0d0ce03-fddd-461a-a6f3-9b65c8e339f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
+    "Europe, Eastern"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3036e2f8-835d-4bf8-b1d9-83d247c12ca5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x920g0394",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.01, 39.01, 71.3, 49.57)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-x920g0394"
+}

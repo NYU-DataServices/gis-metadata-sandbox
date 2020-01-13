@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Otley, J. W."
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes names of property owners. Insets: Plan of Trenton ; Plan of Princeton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv935533k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Camden, N.J. : L. van der Veer, 1849.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Mercer County,Maps",
+    "Mercer County (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of Mercer County, New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7168659\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b619b18e-231f-4d48-b9ea-b98c54c10ab6/file/68c3acf1-befd-441d-bcd4-03a23337953b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b619b18e-231f-4d48-b9ea-b98c54c10ab6/file/1e2f9b68-c6e6-43b3-a609-c0e2e15516b2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c2%2Faa%2Fce%2Fc2aace212ba84b009cf502145f30eeef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af564688-63fe-49c2-9b12-b2333c008ba8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b619b18e-231f-4d48-b9ea-b98c54c10ab6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv935533k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.942909, -74.481201, 40.42424, 40.136845)",
+  "solr_year_i": 1849.0,
+  "uuid": "princeton-nv935533k"
+}

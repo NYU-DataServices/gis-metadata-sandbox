@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S. Department of Agriculture. Bureau of Soils. New York State College of Agriculture. Cornell University.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/00000169z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : [s.n.], 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Soils",
+    "Jefferson County (N.Y.),Maps"
+  ],
+  "dc_title_s": "Soil map of Jefferson County. (Sheet 1).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515168\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe0268d0-0532-41f8-880b-77262b1a1453/file/ea8c4b52-b56a-4b6f-b4e6-b8440572e581\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe0268d0-0532-41f8-880b-77262b1a1453/file/5ff063ac-e442-4f67-8cef-92d315cc7381\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F3d%2Fbb%2F793dbb7197eb43a18460d71f341a8499%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/026c886a-7684-4c19-9ce1-2d3c6b1a1652/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe0268d0-0532-41f8-880b-77262b1a1453",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-00000169z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.45, -75.45, 44.4, 43.666666666666664)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-00000169z"
+}

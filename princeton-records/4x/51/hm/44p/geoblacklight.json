@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Halley, Edmond, 1656-1742"
+  ],
+  "dc_description_s": "Shows North and South Atlantic Oceans, South America, West Indies, portions of Central America, North America, Europe, and Africa. Includes text and ill.; shows track of Halley's ship, the Paramore. An unrecorded edition which may fall between the proof state and state 1 of the map. cf Barry Lawrence Ruderman Antique Maps Inc. (www.RareMaps.com).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hm44p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : s.n., 1701?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Atlantic Ocean,Maps,Early works to 1800",
+    "South America,Maps,Early works to 1800",
+    "Magnetic declination,Atlantic Ocean,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A new and correct chart shewing the variations of the compass in the western & southern oceans as observed in ye year 1700 by his Maties. command",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6330422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/682ef310-0370-42f2-8927-28a78d04b64f/file/bd585e53-1504-49cb-87ac-7ef3d8ecebc7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/682ef310-0370-42f2-8927-28a78d04b64f/file/40259c86-66d9-4d5a-be26-a9ae6075d5fa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2Fc8%2Fe8%2F66c8e8664f744c83a31f1f34fea8f92a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1a54826f-c3d2-4258-b1f7-7c7aaac12f78/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1701"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-682ef310-0370-42f2-8927-28a78d04b64f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hm44p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-98.0, 21.9, 59.5, -57.0)",
+  "solr_year_i": 1701.0,
+  "uuid": "princeton-4x51hm44p"
+}

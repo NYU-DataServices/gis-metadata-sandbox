@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Barnstable. Relief shown by 20 feet contour interval and spot heights. Triangulation, caost line and Topography of North Coast by the U.S. Coast and Geodetic Survey. Surveyed in cooperation with the state of Massachusetts. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr17k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Barnstable Quadrangle ( Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Barnstable Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837197\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1abc46b9-9bbe-4278-8849-7cc04e4840b0/file/bff25930-a469-47a5-9da1-f8bd0871a8de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c8d750b-a8d3-46a8-8bf3-c1ede100d54c/file/67fff249-c8ec-4e56-9925-ace980872576\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c8d750b-a8d3-46a8-8bf3-c1ede100d54c/file/f38f9f5d-48d6-4b32-a12c-0f0e0f25a8f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2Ff3%2F46%2F49f346b6d1fa4bed94dd6358e9e077c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f3b33797-3c02-44e9-bb1e-1b542749d02a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7c8d750b-a8d3-46a8-8bf3-c1ede100d54c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr17k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.5, -70.25, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-d217qr17k"
+}

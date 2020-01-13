@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Gilead Quadrangle in Connecticut shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g186b",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "Connecticut: Gilead sheet [1932 reprint]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd831825-6016-478a-8875-ba0cdfaf9fc8/file/cf21ffce-13cc-4735-9798-1f6b51f788be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35fd814b-bf82-49fe-a652-fd9f46d072ff/file/5f117f6a-9b2c-4786-ac43-60883a19f623\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35fd814b-bf82-49fe-a652-fd9f46d072ff/file/d3ae313d-3b97-4779-a339-399ff47f0a5f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2Fa2%2Fd5%2F0ea2d53667ef4fc096936d2555dcb423%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b809a7d8-7ffe-481e-83cd-1afbcd5fe1bf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "MC  G3781.C2.s62.U5G4 Gilead (1932)",
+    "Connecticut",
+    "Gilead",
+    "United States",
+    "Middlesex County",
+    "Hartford County",
+    "Tolland County"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-35fd814b-bf82-49fe-a652-fd9f46d072ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g186b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.5, -72.25, 41.75, 41.5)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-pv63g186b"
+}

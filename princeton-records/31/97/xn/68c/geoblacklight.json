@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1904. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3197xn68c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Wilmington (Del.),Maps"
+  ],
+  "dc_title_s": "Delaware - New Jersey: Wilmington Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868531\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b23d1b27-02bd-46b2-bb20-84e6cdd8b73c/file/f0bd7b81-d366-417c-ad0c-d283a48a3859\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3523a9dc-a93e-4525-bf1c-0c32953f33dd/file/28662e3c-f830-4445-91fd-446acab6686b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3523a9dc-a93e-4525-bf1c-0c32953f33dd/file/bafb5042-f69a-421c-962f-39e243f99318\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/de%2F53%2F5f%2Fde535f070ed54b6ea1902583ee8dbd24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eed47983-dd65-46ad-b9ab-dec44b90d708/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3523a9dc-a93e-4525-bf1c-0c32953f33dd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3197xn68c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 39.75, 39.5)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-3197xn68c"
+}

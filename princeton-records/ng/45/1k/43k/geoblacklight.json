@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. \"N.J.C.M. vol. 4.\" Historic Maps copy has sheets 80-98 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k43k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean City,Maps",
+    "Ocean City (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean City, Cape May County, New Jersey (Sheet 89)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5331467\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edef57b9-1064-4bab-a674-89587778bbec/file/7af81a98-4e14-4e29-aae0-086a580432c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edef57b9-1064-4bab-a674-89587778bbec/file/c3c9d018-bdf7-4be2-95ae-8a9450589b94\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/13%2Ffd%2F3f%2F13fd3f0d537541cf9c47fb01e74cf0e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28e3e2f6-2675-430d-b061-7ea50e3ef5f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-edef57b9-1064-4bab-a674-89587778bbec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k43k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.654871, -74.551579, 39.307774, 39.210927)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-ng451k43k"
+}

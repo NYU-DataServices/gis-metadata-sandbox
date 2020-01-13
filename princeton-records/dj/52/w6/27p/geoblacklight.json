@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Adam and Charles Black (Firm)"
+  ],
+  "dc_description_s": "World map showing ocean currents and line of greatest mean annual heat; relief shown by hachures. In margin: 3. Plate 3 from: General atlas of the world. [Edinburgh? : Adam and Charles Black?, 1889?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w627p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Edinburgh? : Published by A. & C. Black?, 1889?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean currents,Maps",
+    "Atmospheric temperature,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "The world on Mercator's projection",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4547622\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fcf91957-c7c3-4cfd-8edd-5d5ed8f20f98/file/d5bd747c-131f-484d-8ecd-8cf98850a052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75333a0a-9b3c-4f38-8b2c-17826f6151e6/file/b2b8fa90-f27b-4df5-b633-73e4bf2ab2e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75333a0a-9b3c-4f38-8b2c-17826f6151e6/file/87d33a8c-fd74-411c-8c39-c7b67842b761\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2F03%2F4b%2F16034b04a4884353af2a4c69467eb624%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aa8c6d95-38e1-4d41-ae61-0e2fe896fe2b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-75333a0a-9b3c-4f38-8b2c-17826f6151e6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w627p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.5, -78.0)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-dj52w627p"
+}

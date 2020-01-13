@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 51-72 of Hudson County, vol. 8 series, showing Weehawken.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zk51vj85z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Weehawken,Maps",
+    "Weehawken (N.J.),Maps"
+  ],
+  "dc_title_s": "Weehawken (Sheet 52)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515283\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2660395-1f9a-4445-b499-0242b256f4f2/file/e5897e73-b631-40dc-a602-8b5cf4c2590b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2660395-1f9a-4445-b499-0242b256f4f2/file/de8a44ec-05e0-49e4-9482-51cd4c50cb7c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2F27%2F6f%2Fda276f29c1064dfba2bf884a6f36a56d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/61f2dced-a69b-45f5-a83a-a0a07c7fa2b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c2660395-1f9a-4445-b499-0242b256f4f2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zk51vj85z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-zk51vj85z"
+}

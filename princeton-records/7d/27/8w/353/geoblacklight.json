@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1916.\" Includes location map, key, key map, streets and specials index, and text. \"1191.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7d278w353",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Phillipsburg,Maps",
+    "Phillipsburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Phillipsburg, Warren County, New Jersey (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5650449\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4129463d-a5d1-465b-a852-ae068a0fe132/file/2de8f02b-8f47-461a-9923-2b4af0c3852b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4129463d-a5d1-465b-a852-ae068a0fe132/file/2d2e5874-e6db-43cb-a9c8-50d90a709589\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2Fd1%2F19%2Fe3d119ae9e1c4be986f8b98897805a87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6797521b-c2a6-48ed-8ebb-fd5fd771e84f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4129463d-a5d1-465b-a852-ae068a0fe132",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7d278w353",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.204062, -75.160209, 40.706562, 40.666172)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-7d278w353"
+}

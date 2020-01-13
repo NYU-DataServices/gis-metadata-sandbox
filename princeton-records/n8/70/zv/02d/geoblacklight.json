@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Mining and Industrial Publications of Africa Ltd"
+  ],
+  "dc_description_s": "Map shows railways and proposed and sugested alternative railways routes, light railways, main and secondary roads, and tracks shown. Original map is filed in the Map and Geospatial Information Center. A map reproduction is attached to companion volume.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zv02d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads,Malawi",
+    "Roads,Malawi,Maps",
+    "Great Britain,Colonies",
+    "Africa, Southern,Maps",
+    "Africa, Southern"
+  ],
+  "dc_title_s": "Map of railways systems of Nyasaland and adjoining countries",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10157236\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c81b7148-d311-400c-bc0d-0cbaa8f744ef/file/33028030-c6bb-4fc1-9ddb-59b12456a0aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c81b7148-d311-400c-bc0d-0cbaa8f744ef/file/03c0ac5e-88c1-4ff5-b167-11dc94cb4fc0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F3e%2Fa9%2F5b3ea9277ddf4899ae3618a632de8de3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9c0993e9-2007-4406-b78f-e52733fd32c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Malawi",
+    "Africa, Southern"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c81b7148-d311-400c-bc0d-0cbaa8f744ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zv02d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.215278, 40.839444, -9.367222, -26.867778)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-n870zv02d"
+}

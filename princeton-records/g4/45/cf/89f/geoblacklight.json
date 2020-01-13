@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Barnstable, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Triangulation, coast line and Topography of North Coast by the U.S. Coast and Geodetic Survey. Surveyed in cooperation with the state of Massachusetts. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g445cf89f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Barnstable Quadrangle ( Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Barnstable Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837198\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a65781e1-4070-423d-8e4a-177738f396bb/file/4007b34c-393d-463a-a121-8da75bf2794b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/990df568-0570-48d8-929e-074b58216d64/file/8629aa67-5e73-46d5-84ff-ce0e4c856db6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/990df568-0570-48d8-929e-074b58216d64/file/8701f297-a734-42b0-9b0a-942ff34349af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2Fd2%2F6b%2Fe1d26ba25cde4325873d58d7848a1161%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e4f2262-d813-47b9-8f91-1084f59f1f09/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-990df568-0570-48d8-929e-074b58216d64",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g445cf89f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.5, -70.25, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-g445cf89f"
+}

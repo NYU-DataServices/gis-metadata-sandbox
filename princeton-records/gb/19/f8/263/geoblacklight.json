@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Elliott, William, Captain"
+  ],
+  "dc_description_s": "Shows the coastline of Great Courland Bay, Tobago. Relief shown pictorially; depths shown by soundings. \"505.\" In lower right-hand corner: Hydrographical Office.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f8263",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Published according to Act of Parliament, by Capt. Hurd R.N., Hydrographer to the Admiralty, 27th. Sept. 1820.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Courland Bay (Trinidad and Tobago),Maps"
+  ],
+  "dc_title_s": "A survey of Great Courland Bay in the Island of Tobago",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6862567\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/569e7ff3-e7e1-4d6e-bb8d-7da7b22f4aa0/file/3b67ba34-a8e8-4cd1-8b90-38d16a4725a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/569e7ff3-e7e1-4d6e-bb8d-7da7b22f4aa0/file/c85cf431-0e1c-4d6e-9b79-b0f49a21a697\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5c%2Fc6%2F9e%2F5cc69e2a366b48c7888f6418435ac8a0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0abf6e64-750e-49ec-966b-a8f644a7ea26/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Trinidad and Tobago"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-569e7ff3-e7e1-4d6e-bb8d-7da7b22f4aa0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f8263",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-60.7888071992, -60.7751601198, 11.2237433302, 11.2063682738)",
+  "solr_year_i": 1820.0,
+  "uuid": "princeton-gb19f8263"
+}

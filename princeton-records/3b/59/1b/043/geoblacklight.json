@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 37 (1913) New Jersey Geological Survey. Relief shown by 10 and 5 ft. contour intervals and spot heights. Depths are shown by soundings in feet at mean or half tide. Title was not given. Region covered: Cape May County. Original survey 1884. The shore lines of tidal waters, and the triangulation are mainly from the U.S. Coast and Geodetic Survey. The shore lines of the beaches, the highways, railroads and some other details are revised to date.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591b043",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Cape May County (N.J.),Maps"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 37",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866198\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2fbfc599-a94f-4e3c-be6e-65ed909df11c/file/bd50ee89-f64e-427b-9604-b7fe2d71ca30\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe37be0d-93e0-475d-97a8-a3626ef39c3b/file/f6d948ae-f61a-46a5-a569-d45fd1422611\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe37be0d-93e0-475d-97a8-a3626ef39c3b/file/e7be1f2c-0dd4-47ee-8319-afb8ac320094\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2F7b%2Ff0%2F917bf08313724797be510b387bccb46c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18695cca-9169-4054-bda1-45bbefef4348/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe37be0d-93e0-475d-97a8-a3626ef39c3b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591b043",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.56666666666666, 39.333333333333336, 38.86666666666667)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-3b591b043"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes 12 folded maps. Cover title. \"This map is not transferable and must not be copied, as it is copyright by and property of Sanborn Map Company, 11 Broadway, New York.\" -- Ink stamp on cover and each map. Hand colored. MAP copy is extensively annotated in pencil.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z890rv75h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, c1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Sanborn map of Princeton, N.J. : for the exclusive use of W.B. & E.L. Howe, agents (Sheet 12 1902)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f2eb574-e2b9-4da8-a720-6fc08f748e9c/file/6ef4b144-bdab-4ae0-ae6f-5739d3cb9632\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f2eb574-e2b9-4da8-a720-6fc08f748e9c/file/80017b8e-7279-4396-b0a2-f9db83831684\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5e%2Fcd%2Ffa%2F5ecdfa28754e45c59231e49a7f0b2a4a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/89c0e103-998e-4e13-8ce0-275e67079cfa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f2eb574-e2b9-4da8-a720-6fc08f748e9c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z890rv75h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-z890rv75h"
+}

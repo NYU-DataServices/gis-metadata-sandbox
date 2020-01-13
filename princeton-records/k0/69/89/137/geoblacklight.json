@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour interval. Surveyed in 1885, culture revised 1904. Surveyed in cooperation with the State of New Jersey. Triangulation by U.S. Coast and Geodetic Survey. Verso: Legend and explanatory notes, \"Description of the topographic map of the United States.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k06989137",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey, Princeton Quadrangle (1906)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6832008\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e8f4343a-afa4-4699-83e5-1c0460c27443/file/e3e27dd5-0529-4e5e-a03a-c2a85f317599\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8f4343a-afa4-4699-83e5-1c0460c27443/file/471b99d1-ef38-43b5-aed0-1a393ca57d6f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F4e%2F81%2F7c4e8195119a4003a31833b98e4cdac6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b70d9745-f81b-4edf-a4cd-9a4b621555ee/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e8f4343a-afa4-4699-83e5-1c0460c27443",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k06989137",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 40.5, 40.25)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-k06989137"
+}

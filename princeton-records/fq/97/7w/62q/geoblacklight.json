@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Guatemala. Instituto Geografico Nacional. North Decimal Degree 15.500000. South Decimal Degree 15.3333. East Decimal Degree -90.5000. West Decimal Degree -90.7500. Alternate title:Mapa geologico = Geologic map: Tiritibol, Guatemala. Universal transverse Mercator projection. Relief shown by 20 m. with supplementary 10 m. contour interval and spot heights. \"El levantamiento geologico de esta hoja se efectuo dentro de un programa colaborativo del Instituto Geografico Nacional (IGN) y el Servicio Geologico Aleman, 1967-1968.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fq977w62q",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Guatemala : Instituto Geogra\u0301fico Nacional, 1976.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Guatemala,Maps"
+  ],
+  "dc_title_s": "Mapa geologico de Guatemala = Geological map of Guatemala. Tiritibol, hoja 2062 II G",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839631\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15852228-590e-42f7-87ed-91ade6800dc1/file/26b5aa29-da2a-490a-8f9f-f20d3b863f8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15852228-590e-42f7-87ed-91ade6800dc1/file/0da40397-083f-44db-ae96-0dcf67115104\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F93%2F31%2F1d9331458565498bb00f52d02dcec8e0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2e193f9a-ea63-4ff6-ba1f-a4d58ca9119f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-15852228-590e-42f7-87ed-91ade6800dc1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977w62q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-90.75, -90.5, 15.5, 15.3333)",
+  "solr_year_i": 1976.0,
+  "uuid": "princeton-fq977w62q"
+}

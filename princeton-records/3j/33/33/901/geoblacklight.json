@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feby. 1901.\" Includes key, streets and specials index, and text. North oriented toward upper left. \"4545.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3j3333901",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Red Bank,Maps",
+    "Red Bank (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Red Bank, Monmouth County, New Jersey (10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827180\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a6c987c-edc6-4d77-8986-3a69134ef705/file/18d8ff87-5178-405a-9f82-8d494424e087\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a6c987c-edc6-4d77-8986-3a69134ef705/file/f628daca-4f2b-4437-9389-10124cb2dd3a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2F71%2Fbc%2Fb871bcefdb9444adb0704ae553c7c447%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d5a31314-d131-442a-b38a-d6aa30448562/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1a6c987c-edc6-4d77-8986-3a69134ef705",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3j3333901",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-3j3333901"
+}

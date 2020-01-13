@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1916.\" Includes location map, key, streets and specials index, and text. Oriented with the north to the upper right. \"1335\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s722f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hightstown,Maps",
+    "Hightstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Hightstown, Mercer County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595567\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a76c60-c6d9-4051-a7cf-31fe531b1544/file/6b585a42-3264-4a08-a364-059a79dcfab0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a76c60-c6d9-4051-a7cf-31fe531b1544/file/ef0785db-1af1-4349-8e6d-ebc52040069d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2Fe8%2F94%2F44e89418c8d14e59a9f854bbf13c0c60%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aca745a5-8949-4122-948d-9ce53644eeab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1a76c60-c6d9-4051-a7cf-31fe531b1544",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s722f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-2j62s722f"
+}

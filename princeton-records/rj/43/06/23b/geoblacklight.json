@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 2. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4416. Alternate title: Poienile de sub Munte, Romania. Polyconic projection. Danube zone grid. Relief shown by 100 meter contour intervals with auxiliary 25 meter intervals and spot elevations. With glossary. Set is complete, see index.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rj430623b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. Poienile de sub Munte, sheet X-19. A.M.S. M671 (G.S.G.S. 4416)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831059\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e2c95757-e0ff-439c-a93e-a519b3724b0d/file/44990370-546f-4344-9530-08f5ad6db4c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/44e6ad73-2137-411e-88c1-195637d6c1a8/file/75dd2348-06d6-40c9-8987-e535a2a7abd7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/44e6ad73-2137-411e-88c1-195637d6c1a8/file/38604c87-c844-49a3-a33d-b677029d724b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F50%2F25%2F5b5025648c78448a80c5842660804cc2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b3e2f90-cf2e-4aba-8e21-36a5cfbc7608/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-44e6ad73-2137-411e-88c1-195637d6c1a8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rj430623b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(24.333333333333332, 25.333333333333332, 48.25, 47.75)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-rj430623b"
+}

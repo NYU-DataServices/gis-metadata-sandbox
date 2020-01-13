@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Map of Cyprus with relief shown pictorially. Plate [106] from: Theatrum orbis terrarum / Abraham Ortelius. Antverpiae: Apud Ioannem Bapt. Vrintium, 1609. Descriptive text on verso has illustrated capitals. Ortelius drew the map of Lemnos himself, based on a written acount by Pierre Belon, 1555. cf. Broecke, M.P.R. van den. Ortelius atlas maps.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hk90k",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antverpiae : Apud Ioannem Bapt. Vrintium, 1609]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cyprus,Maps,Early works to 1800",
+    "Limnos Island (Greece),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Cypri insulae nova descript. 1573",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4845740\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d45f7ea7-ae97-4f67-b392-c6be35c5b0f7/file/40f20b88-0a99-4fca-b868-a3a9cb406594\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d45f7ea7-ae97-4f67-b392-c6be35c5b0f7/file/401a8b72-9753-43fb-898e-2918aeaa65a0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2Ff0%2Fda%2Fb1f0da8581bf4f4389bdac01cc231fb6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/769a62d3-6d1d-4961-a64b-f1a92d9a5e1b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cyprus",
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1609"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d45f7ea7-ae97-4f67-b392-c6be35c5b0f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hk90k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.2424, 34.6044, 35.751, 34.5201)",
+  "solr_year_i": 1609.0,
+  "uuid": "princeton-4x51hk90k"
+}

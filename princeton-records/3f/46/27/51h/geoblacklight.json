@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 36-51, 53, 55, 57, and 77-78 of Hudson County series, showing West New York.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f462751h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West New York,Maps",
+    "West New York (N.J.),Maps"
+  ],
+  "dc_title_s": "West New York (Sheet 46)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5506087\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f1f9e6b-dfc6-48ec-a3d5-ecd0a8a7ff97/file/a05e093a-34b0-4a72-ac88-ff76f022b98a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f1f9e6b-dfc6-48ec-a3d5-ecd0a8a7ff97/file/7dde2fba-6ef6-4b6a-89bd-bcba8afab249\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2Faf%2F9a%2F5faf9acfeea34434bb306cd1dd506e7b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eeeae370-2e2c-464f-81a0-331392d6534a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f1f9e6b-dfc6-48ec-a3d5-ecd0a8a7ff97",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f462751h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.023614, -73.998174, 40.796557, 40.778136)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-3f462751h"
+}

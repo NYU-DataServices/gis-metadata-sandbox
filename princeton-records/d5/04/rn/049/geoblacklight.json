@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Gloucester, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886. Surveyed in cooperation with the state of Massachusetts. Triangulation and coast line by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rn049",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gloucester (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Gloucester sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837153\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/05d329cb-3df2-4ae9-b037-474f7e6f83ed/file/028fe2dd-5143-4289-bbac-8c8f505c4297\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b208fa3f-8dca-440e-a1bc-cb137d25b241/file/3b25530c-7ec4-4494-9599-616f57aa7c30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b208fa3f-8dca-440e-a1bc-cb137d25b241/file/d619d7a7-c1b2-47d5-8381-ec2ca004b387\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Fbe%2F9e%2F5dbe9e292ff74520812beb05ab453fdb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2c997442-7664-4408-a323-bd93e0e271ec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b208fa3f-8dca-440e-a1bc-cb137d25b241",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rn049",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.75, -70.5, 42.75, 42.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-d504rn049"
+}

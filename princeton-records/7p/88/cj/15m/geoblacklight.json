@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1914.\" Includes location map, key, streets and specials index, and text. \"18.\" Title from index sheet. \"Shrewsbury, located about 1 mile s. of sheet 15\"--sheet 17.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88cj15m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Red Bank,Maps",
+    "Red Bank (N.J.),Maps"
+  ],
+  "dc_title_s": "Red Bank, Monmouth County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5812ab96-af53-426c-90a5-5ca2c9347167/file/9720d578-3034-47dc-b301-c38cd2520b21\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5812ab96-af53-426c-90a5-5ca2c9347167/file/6d154b3d-69a0-4f9c-998d-124b2b0a96bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2F01%2F08%2Fd4010879d15142e2a263a9089fa78c47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c1d31c40-6768-4c40-bb6c-0e27d09ff33f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5812ab96-af53-426c-90a5-5ca2c9347167",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88cj15m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-7p88cj15m"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"2223.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z748m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Real property,New Jersey,Acquackanonk,Maps",
+    "Passaic (N.J.),Maps",
+    "Acquackanonk (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Passaic, New Jersey : including part of Acquackanonk Township (Sheet 14)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5585865\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/66c36866-26e3-4670-8309-fb3a9d2616da/file/fbbb122e-21c3-4b8e-b883-66842ee2f25a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/66c36866-26e3-4670-8309-fb3a9d2616da/file/4b7a8cc1-c619-44f3-a3b3-881e8b3d17e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2F8f%2F0e%2F748f0e3876364f859240126dcfbb94b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4aa87d7-3a45-483c-827f-f1d3a8b130fd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-66c36866-26e3-4670-8309-fb3a9d2616da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z748m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-zw12z748m"
+}

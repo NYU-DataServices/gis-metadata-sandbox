@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bangladesh and the surrounding region with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j098zc675",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Railroads",
+    "Transportation",
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Bangladesh, 1996 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/1579336\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/149f9946-da4c-4b1d-99e2-18782fe2d79f/file/594d5aac-1667-4598-8f0d-59dda147d5ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d9f8925-3f63-4f6d-8f35-8259913e0ad8/file/db11865a-6904-4a51-94c6-1acf7546442d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d9f8925-3f63-4f6d-8f35-8259913e0ad8/file/bc170783-021c-45da-a5df-517e9eada18c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F6c%2F8f%2Fb66c8f57052e4b948cfdd89232e1c2f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd7a5986-f599-4c25-9234-6d1e1b31d5ad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bangladesh",
+    "India",
+    "Chittagong",
+    "Dhaka",
+    "Khulna",
+    "Rajshahi",
+    "Southeast Asia"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1d9f8925-3f63-4f6d-8f35-8259913e0ad8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j098zc675",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(88.0, 92.0, 27.0, 21.0)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-j098zc675"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Speyer in the German state of Rhineland-Palatinate. In lower left-hand margin: Woerl's Reisehandbu\u0308cher. Probably issued in an unidentified edition of: Fu\u0308hrer durch Speyer und Umgebung / herausgegeben von Leo Woerl.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/794080690",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wu\u0308rzburg : Kgl. Univers. Druckerei v. H. Stu\u0308rtz, [ca. 1889]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rhineland-Palatinate (Germany),Maps",
+    "Speyer (Germany),Maps"
+  ],
+  "dc_title_s": "Speyer",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7446673\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d273d1ff-f93d-4b47-9846-49e2d5a82eba/file/5fe08085-06b4-45e0-b281-5b8b8b0db204\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d273d1ff-f93d-4b47-9846-49e2d5a82eba/file/74ac5f87-f1b9-434d-9698-4f593a1b7147\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F3b%2Fe6%2Fc53be6cf8e92443193836abbacac0415%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6d3a2d8-2eda-4b20-b98b-3e22f73ee7e8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d273d1ff-f93d-4b47-9846-49e2d5a82eba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-794080690",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.422247, 8.454412, 49.329192, 49.312576)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-794080690"
+}

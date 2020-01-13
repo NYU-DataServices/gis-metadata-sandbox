@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by hachures. Shows county names and boundaries, railways in operation and approved, and turnpike roads.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57nt53w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London? : s.n., ca. 1850]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ireland,Administrative and political divisions,Maps",
+    "Ireland,Maps"
+  ],
+  "dc_title_s": "Ireland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7809134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06f149bc-3841-4aa5-ab33-498eb892bf08/file/e81867c8-13bc-4623-90d7-95d1f86af57c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06f149bc-3841-4aa5-ab33-498eb892bf08/file/29e2f215-c81c-4656-a892-7c2821e7983c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2Fde%2Fe7%2Fd4dee7c3d0c84b678d7b98cb693e63ee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65e16126-4442-4291-9952-097b939e4121/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06f149bc-3841-4aa5-ab33-498eb892bf08",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57nt53w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.59, -5.01, 55.43, 51.18)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-tq57nt53w"
+}

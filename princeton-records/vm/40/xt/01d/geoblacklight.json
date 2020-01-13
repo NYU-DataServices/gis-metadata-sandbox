@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Brownsville PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1899-1900 in cooperation with the state of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt01d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1933.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Brownsville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867406\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a402caf-7e39-448d-90df-cab0e4ee3899/file/092ad5d0-d62c-47ff-ad01-3e2b3927a213\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f695c2e7-957e-43c3-9b65-3e6ee4aee480/file/17414e92-11f4-4974-b8d2-9651612ebff9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f695c2e7-957e-43c3-9b65-3e6ee4aee480/file/58fce4e6-bec5-43c6-9c72-082b14d5d09d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2F04%2Fe3%2Fa904e315e24a4d8d97a6963fbb9bfc00%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f8ece12c-f7d6-448a-8db4-c6b70a374eae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f695c2e7-957e-43c3-9b65-3e6ee4aee480",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt01d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.0, -79.75, 40.25, 40.0)",
+  "solr_year_i": 1933.0,
+  "uuid": "princeton-vm40xt01d"
+}

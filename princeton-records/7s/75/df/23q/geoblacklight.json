@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Cartes Taride (Firm)"
+  ],
+  "dc_description_s": "Inset maps: \"Asia mineure, E\u0301gypte, Arabie, etc.\" Scale 1:17,500,00 -- [northern Europe]. Scale 1:13,000,000 Map shows pre World War I international boundaries, independendent and dependent states administrative boundaries. Sea routes distance travel are indicated, railways are shown. Prime meridians: Greenwich and Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75df23q",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : A. Taride, [between 1910 and 1918]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe,Maps",
+    "Boundaries",
+    "Trade routes",
+    "Administrative and political divisions,Europe,Maps"
+  ],
+  "dc_title_s": "Nouvelle carte de l'Europe centrale",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6821662\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c30dea89-bdc1-4e68-bbc8-89ad4b06ad2a/file/c472cf28-2e17-430f-822b-fcc7708e7d92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c30dea89-bdc1-4e68-bbc8-89ad4b06ad2a/file/b556d954-f075-4c6b-a8c6-49d691fb8a67\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F56%2Ffb%2Fdf56fba549574f8bb831a5bd77f9a6eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f86ca8a8-84bd-486e-a13b-c2608dab3742/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c30dea89-bdc1-4e68-bbc8-89ad4b06ad2a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75df23q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.616667, 36.433333, 64.033333, 34.8)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-7s75df23q"
+}

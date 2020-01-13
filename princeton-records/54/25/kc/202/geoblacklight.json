@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1902-1903. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kc202",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Jamestown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867875\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eaab3099-f7a6-4b4a-9956-cd274933497f/file/cbb30ade-287e-4962-ba6b-e1cb02acde27\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2413450a-78d5-4a0a-88dd-5aaec6bebe59/file/c9c61234-0fa8-479c-8b08-8a50be076d57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2413450a-78d5-4a0a-88dd-5aaec6bebe59/file/f75e95f4-deef-4530-8bf4-67794795b5b0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2Fa6%2F13%2F2fa613eda3a24028b61a1b9a93f14cbd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ac34550d-a03f-4288-85fc-579e30142620/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2413450a-78d5-4a0a-88dd-5aaec6bebe59",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kc202",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.25, -79.0, 42.25, 42.0)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-5425kc202"
+}

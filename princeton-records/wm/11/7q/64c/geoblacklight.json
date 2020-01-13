@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. Sheets 99-126 of Atlantic City, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wm117q64c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ventnor City,1921",
+    "Real property,New Jersey,Margate City,1921",
+    "Real property,New Jersey,Longport,1921",
+    "Ventnor City (N.J.),Maps",
+    "Margate City (N.J.),Maps",
+    "Longport (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Ventnor, Margate City and Longport, New Jersey (Sheet 125)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5221935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ae6ca51-6390-4527-b543-8dc70d8cbc86/file/5e2cca1c-ac80-4552-9490-63b247f50f68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ae6ca51-6390-4527-b543-8dc70d8cbc86/file/9850edef-889d-46ef-9b22-7ace28f4ec28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F0f%2Fe0%2F360fe02f460c4bb88a8466ba1f27323c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/636f7112-3ad3-430e-befb-df13fa2a7f81/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5ae6ca51-6390-4527-b543-8dc70d8cbc86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wm117q64c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.538, -74.464, 39.357, 39.303)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-wm117q64c"
+}

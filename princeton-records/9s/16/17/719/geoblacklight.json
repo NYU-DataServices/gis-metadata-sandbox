@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Skopje. Transverse Mercator projection. Relief shown by 20 meter contour intervals and spot elevation. \"This sheet falls within NK 34-5 and NK 34-8, 1501A, 1:250,000 and 3278 I, 3279 II, 3378 IV, 3379 III, M709, 1:50,000.\" \"Map information as of 1984. Embassy and Consulate information as of 1996\" Coordinate conversion WGS 84 to ED 50. Reprinted by NIMA 5-99. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s1617719",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1997.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geomorphology",
+    "Topographic maps",
+    "Macedonia,Maps"
+  ],
+  "dc_title_s": "The Former Yugoslav Republic of Macedonia 1:20,000. Skopje. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449581\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b58ec6cf-f3ef-46d1-b658-ff4cddfeec04/file/e2a16c0f-beee-4745-9b2c-1419e5d3d552\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a960b10d-a916-4f30-970a-affcb0c6e5a9/file/ac9a2bc6-0bb0-4b50-81ec-c7e0155454db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a960b10d-a916-4f30-970a-affcb0c6e5a9/file/58fbb2c4-4a1d-4d85-81dc-2f3d99beccde\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2Fbf%2F59%2F0abf591a071c410e8630a2ccc217d800%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25b672b4-667d-47fe-b810-0f649642936a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a960b10d-a916-4f30-970a-affcb0c6e5a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s1617719",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(21.316666666666666, 21.55, 42.03333333333333, 41.95)",
+  "solr_year_i": 1997.0,
+  "uuid": "princeton-9s1617719"
+}

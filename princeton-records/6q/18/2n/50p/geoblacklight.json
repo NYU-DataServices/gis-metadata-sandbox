@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Speed, John, 1552?-1629"
+  ],
+  "dc_description_s": "Relief shown pictorially. From: Speed, John. A prospect of the most famous parts of the world. London. 1676. Engraved by: F. Lamb. Derived from Augustine Herrman map of 1673. Text on verso: The description of Mary-land. The description of Virginia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182n50p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Sold by Thomas Basset in Fleetstreet and Richard Chiswell in St. Pauls Church yard, [1676]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maryland,Maps,Early works to 1800",
+    "Middle Atlantic States,Maps,Early works to 1800",
+    "Virginia,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A map of Virginia and Maryland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5936637\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e789d046-712e-4228-8b2d-1f15c38db595/file/caec3830-86bb-4311-8acf-694233d06f9e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e789d046-712e-4228-8b2d-1f15c38db595/file/dad7ac9d-96c1-4f4a-9c87-1bbff3829e23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F35%2Fbf%2F0835bf651d7c41d39a00544ed01b7b99%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bae474c7-d7bd-463f-80bb-54bb48733ec3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1676"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e789d046-712e-4228-8b2d-1f15c38db595",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182n50p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0916, -74.7572, 41.0132, 36.0937)",
+  "solr_year_i": 1676.0,
+  "uuid": "princeton-6q182n50p"
+}

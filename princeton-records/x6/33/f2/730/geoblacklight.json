@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x633f2730",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Wildwood Quadrangle, New Jersey, 7.5 minute series (topographic) (1972)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a5076a7-8d5d-4ad5-a2c3-c43021e03d25/file/71928d43-dbae-4886-ae75-eaa036f0f5b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41ac74fb-7a35-467c-9006-2fdc8302b457/file/de49c804-4ee4-4b03-b72b-035f91d99b8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41ac74fb-7a35-467c-9006-2fdc8302b457/file/c463982a-6cda-4d7a-b5e9-53e80cfe7e0c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2F20%2F54%2F942054a31bb541a8af737193233b3283%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bc768b0d-f8af-4b85-997f-fc6643c2addb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Wildwood",
+    "Cape May County",
+    "Wildwood Crest",
+    "Middle",
+    "Lower",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41ac74fb-7a35-467c-9006-2fdc8302b457",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x633f2730",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.875, -74.75, 39.0, 38.875)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-x633f2730"
+}

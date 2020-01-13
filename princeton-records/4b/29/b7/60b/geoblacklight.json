@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4234 Great Britain. Inter-service Topographical Department In upper left margin: France 1:5,000. Industries are located and described. Crane, power stations, gas works, water tower are located.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b760b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World War, 1939-1945",
+    "Fe\u0301camp (France),Maps"
+  ],
+  "dc_title_s": "Fecamp plan of port and town. G.S.G.S. 4234",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449428\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84757111-c65a-455d-9ff4-64d0bc42a4cc/file/d43b01aa-8d26-4478-a3e1-0b432fe76824\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56c51b48-53dd-4c51-8194-13394cc148a3/file/ff2e0de8-0932-4bc5-bcb1-2057aa81c0f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56c51b48-53dd-4c51-8194-13394cc148a3/file/03a275b8-42ac-4cab-b8eb-3563ccf7ad8f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2Fc9%2F53%2Fb8c9537c520a494d9a4a9049c7c101be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85557be4-f1db-4b6b-9a35-31f089321fd9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-56c51b48-53dd-4c51-8194-13394cc148a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b760b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.35, 0.38333333333333336, 49.766666666666666, 49.733333333333334)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-4b29b760b"
+}

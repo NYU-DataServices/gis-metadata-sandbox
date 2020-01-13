@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. North Decimal Degree 25.083333. South Decimal Degree 25.016667. East Decimal Degree 121.583333. West Decimal Degree 121.483333. Alternate title: Taihoku-Matsuyama. In upper left margin: Formosa city plans 1:10,000. Polyconic projection. Relief shown by 10 meter contour intervals and spot elevations. Place names are transcribed according to the modified Hepburn (Romaji) System. With a glossary. Name has been changed to T'ai-pei [Taipei]. Compiled in 1944 from aerial photography dated Mar., Sept., and Oct. 1944 by photo-planimeteric methods and by reference to Formosa 1:25,000, Japanese Imperial Land Survey, Sheets Taihoku East, 1927, Taihoku West, 1926; Formosa 1:50,000, Japanese Imperial Land Survey, Sheets Taihoku East, 1931, Taihoklu West, 1929 and Vicinity of Taihoku, 1:13,000 Approx., 1943. Topography adjusted from base maps by reference to aerial photography. Additional information from intelligence data.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kw52j969v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Taihoku-Matsuyama,Maps"
+  ],
+  "dc_title_s": "Taihoku-Matsuyama, Formosa (Taiwan), Taihoku-Shu. A.M.S. L991",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830686\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec8599e7-2856-490c-91d0-5e1bca917480/file/307b126e-4d47-439f-ab80-c75eed881f6a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e9f56af-54c7-4fa9-93b3-985f97752b69/file/df85e1ac-9a4f-49d0-920c-8328e09266a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e9f56af-54c7-4fa9-93b3-985f97752b69/file/333df08c-085c-49d1-a8c8-f3f08ca8df83\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F83%2F72%2Fce83724a015a4220b43788f471a443a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/310d1c93-4d0e-45c8-a53e-8d5e0a0b3289/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2e9f56af-54c7-4fa9-93b3-985f97752b69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kw52j969v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(121.483333, 121.583333, 25.083333, 25.016667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-kw52j969v"
+}

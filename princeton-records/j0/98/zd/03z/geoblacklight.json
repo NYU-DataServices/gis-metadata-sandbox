@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New Jersey coast map, nos. 5 to 20 inc.\" Includes location map, key, streets and specials index and text. \"3993.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j098zd03z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Cape May,Maps",
+    "Cape May (N.J.),Maps"
+  ],
+  "dc_title_s": "Cape May, Cape May County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5320935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3584507f-4e3a-4d4f-ada5-4d6d03dfbcf0/file/33c455bf-a3c8-4b2a-ae4d-113b4149af92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3584507f-4e3a-4d4f-ada5-4d6d03dfbcf0/file/e3a157c6-d816-468e-9e71-5fd474effa23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2Fae%2Ffa%2F5faefae9301e4e64bea38685d749bc0f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c9be8122-cc4b-4eca-b0be-45e185492147/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3584507f-4e3a-4d4f-ada5-4d6d03dfbcf0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j098zd03z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.938801, -74.871605, 38.950125, 38.928588)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-j098zd03z"
+}

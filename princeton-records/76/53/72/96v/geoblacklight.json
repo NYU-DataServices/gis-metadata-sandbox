@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Boston Bay. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1898-1900. Triangulation and shore line by U.S.C. and G. Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537296v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Boston Bay (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Boston Bay Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837212\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6fe35a0a-d118-44e3-aae3-5b37e877ebe0/file/c5d569e1-5930-4fdf-813b-4c803b523f2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7c3d3e3-3260-45ac-990a-64896dc7acca/file/a5d86972-a436-418f-9bcb-5939165f156b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7c3d3e3-3260-45ac-990a-64896dc7acca/file/df305bc8-9023-4778-a92f-37d2553a42c0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F2c%2F06%2F6b2c06a474ea4eb28b7f79c9442c4319%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25a0e968-7958-465b-b730-76e3a2305f52/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7c3d3e3-3260-45ac-990a-64896dc7acca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537296v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.0, -70.75, 42.5, 42.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-76537296v"
+}

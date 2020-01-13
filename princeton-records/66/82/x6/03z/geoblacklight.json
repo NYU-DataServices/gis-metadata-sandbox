@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. In upper margin: Hudson Co., vol. 8A. Union is a former town in Hudson Co., N.J.; in 1925 it merged with West Hoboken to form Union City. cf. Merriam-Webster's geographical dictionary, 3rd ed. Historic Maps copy has sheets 32-50 of Hudson County, vol. 8A series, showing Union.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x603z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Union City,Maps",
+    "Union City (N.J.),Maps"
+  ],
+  "dc_title_s": "Town of Union (Sheet 47)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515169\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab96f62d-1e4a-4b48-82a0-b0316452be3e/file/42febd7f-0821-4e46-b8e3-7f24d353861c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab96f62d-1e4a-4b48-82a0-b0316452be3e/file/684cbca1-7946-4eff-80d2-e11904697dc2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2Fe7%2Ff7%2Fcde7f754f9f645dcba32b7c4d46fa162%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f9e598f-2c77-4a3b-9d34-9610b9cf506a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ab96f62d-1e4a-4b48-82a0-b0316452be3e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x603z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.312226, -74.222252, 40.722268, 40.670169)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-6682x603z"
+}

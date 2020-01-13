@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 108-112 of Newark, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq38w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co. Limited, 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Irvington,Maps",
+    "Irvington (N.J.),Maps"
+  ],
+  "dc_title_s": "Irvington, N.J. (Sheet 110)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5421134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e726218d-fd45-4282-a147-7f0c32f9bad9/file/2bd06ba5-cf5c-4395-9d3e-f0edf465275e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e726218d-fd45-4282-a147-7f0c32f9bad9/file/b191fb2f-c5ec-4e11-8049-aa2542ec81dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F00%2F18%2F1800183d6ea949a3b1cbc257433c6aca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ee06c3ab-dfe5-4302-8f10-69a720e58945/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e726218d-fd45-4282-a147-7f0c32f9bad9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq38w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25629, -74.209489, 40.7434, 40.70829)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-vq27zq38w"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Bamberg in the German state of Bavaria. Street index on verso. From: Illustrierter Fu\u0308hrer durch Bamberg und Umgebung ... / herausgegeben von Leo Woerl ... Leipzig : Woerl's Reisebu\u0308cherverlag, 1905.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1n79h801r",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bamberg (Germany),Maps",
+    "Bavaria (Germany),Maps"
+  ],
+  "dc_title_s": "Bamberg, im Jahre 1905 [front]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7648654\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0cc600f9-9003-43a2-884c-85fed5d1ca08/file/38f407e2-19ae-4647-832c-82f3518cbd13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0cc600f9-9003-43a2-884c-85fed5d1ca08/file/d4b109f1-a3e8-4182-99aa-77075f620c92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2Fd3%2F31%2F91d331248ab34d328d2636279bcbe214%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/373aab9f-d10c-4727-8b00-a8c544ffad57/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0cc600f9-9003-43a2-884c-85fed5d1ca08",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h801r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.8476149, 10.9276149, 49.9326723, 49.8526723)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-1n79h801r"
+}

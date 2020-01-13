@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"4193.\" Includes text. Sheets have caption title: Morristown, N.J. Sheet 46 headed: New sheet, Aug. 1921; sheets 50-51 headed: Add'l sheet, Aug. 1921.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg63h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morris Plains,Maps",
+    "Morris Plains (N.J.),Maps"
+  ],
+  "dc_title_s": "Morris Plains (Sheet 46)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564394\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d12b4df5-3688-4110-ba83-b7249445f872/file/82ebd7bd-07f6-42c5-90d7-83e29fcaabc3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d12b4df5-3688-4110-ba83-b7249445f872/file/299b36be-cd81-4a6a-bead-421ab1e92cd7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2Fe7%2F9d%2F73e79dbbc27c4b6eaa2a8e70b418408d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3faf889b-74a5-4d04-8595-570171155952/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d12b4df5-3688-4110-ba83-b7249445f872",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg63h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-9k41zg63h"
+}

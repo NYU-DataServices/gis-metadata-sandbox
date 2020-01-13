@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "[S.n.]. North Decimal Degree 40.450000. South Decimal Degree 40.400000. East Decimal Degree -3.666667. West Decimal Degree -3.733333.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784p14f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.n] : [s.n.], [1960].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tourist maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Restaurant guide of Madrid",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816727\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d1a554f-6d12-49d6-af4f-5558d5db559a/file/7e4501e0-116d-4119-8206-0fe9f6a549a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d1a554f-6d12-49d6-af4f-5558d5db559a/file/d626743a-b741-489b-bf42-39b5cd84160b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F1e%2Ff6%2Fc91ef642d1b640f79664a7b9ab8f0500%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/79ded09f-8439-40ac-a24a-b915513d1c5a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3d1a554f-6d12-49d6-af4f-5558d5db559a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784p14f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.733333, -3.666667, 40.45, 40.4)",
+  "solr_year_i": 1960.0,
+  "uuid": "princeton-s1784p14f"
+}

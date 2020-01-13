@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Avec privilege du Roy.\" In upper right-hand margin: 117. From: L'Atlas curieux ... A Paris : Chez l'auteur, 1705.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g992p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez l'Auteur, 1705.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa, East,Maps,Early works to 1800",
+    "Arabia, Southern,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Partie orientale d'Afrique : ou se trouvent l'Egipte, la Nubie, l'Abissine, et l'Ajan et partie de la Nigritie, du Grand Desert et du Bildulgerid &c. : ou se trouvent encore l'Arabie qui fait partie de l'Asie, et la Mer Rouge",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6787509\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28d83c51-93d2-4b8e-b163-29446c5a6903/file/413ad1e2-152f-423a-b141-4f7eda7e3917\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28d83c51-93d2-4b8e-b163-29446c5a6903/file/b8513dd3-dbaa-4034-a543-600dc36647fa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f0%2F8c%2Fa9%2Ff08ca9d32d664f50a4feb93fa5c75348%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8d66813f-e2bd-46c6-8e36-9c44dd50ecea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa, Eastern",
+    "Arabian Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-28d83c51-93d2-4b8e-b163-29446c5a6903",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g992p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.88, 66.53, 39.58, 0.1)",
+  "solr_year_i": 1705.0,
+  "uuid": "princeton-1j92g992p"
+}

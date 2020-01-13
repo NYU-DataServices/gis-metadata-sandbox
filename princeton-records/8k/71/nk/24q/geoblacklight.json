@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1909.\" Includes key, key map, specials index and text. \"1667.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nk24q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Netcong,Maps",
+    "Netcong (N.J.),Maps"
+  ],
+  "dc_title_s": "Netcong, Morris County, New Jersey : including Port Morris (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564993\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b37d09d2-bb2a-4cb1-a960-bf4cf8ffc528/file/794c71ce-cd89-4960-82d0-011aa39539ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b37d09d2-bb2a-4cb1-a960-bf4cf8ffc528/file/5e4ba657-7549-4bf1-aaf0-0a864b46b3da\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cf%2F50%2F9e%2Fcf509e74452c40bf9cd036f8080824d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74e1e1ff-2375-4cae-bdcd-e4e40364ac6a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b37d09d2-bb2a-4cb1-a960-bf4cf8ffc528",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nk24q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.716822, -74.687058, 40.905204, 40.890881)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-8k71nk24q"
+}

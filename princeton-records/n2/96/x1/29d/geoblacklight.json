@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct.. 1895.\" Includes key and text. \"8272.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n296x129d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lakewood,Maps",
+    "Lakewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Lakewood, Ocean Co., N. J. (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571698\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b50aaaf-26f2-41a6-97fc-f383f1e559b9/file/7a1af9cd-541e-432e-bcd6-9c0cbe0fffbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b50aaaf-26f2-41a6-97fc-f383f1e559b9/file/d5698fe3-b22c-4915-ba36-b21a4504e07a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F7c%2Fd1%2F807cd13d15ca4958a08d2e4e4c2ddf44%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9f039a4-12d5-4184-8aa1-a5ce6cbf71e8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7b50aaaf-26f2-41a6-97fc-f383f1e559b9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n296x129d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-n296x129d"
+}

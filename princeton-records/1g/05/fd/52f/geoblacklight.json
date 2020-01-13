@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1914.\" \"7037.\" Includes location map, key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd52f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westwood,Maps",
+    "Westwood (N.J.),Maps"
+  ],
+  "dc_title_s": "Westwood, Bergen County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5317418\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73d1e37f-7990-4968-b2dc-9a7277d13fca/file/fb346b98-f1ef-468c-aab4-03dc2d534165\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73d1e37f-7990-4968-b2dc-9a7277d13fca/file/7eea5dfd-cd41-4fd8-8d59-6226e88200e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2F30%2F51%2F723051a8a4234c96953b825c04c1f67b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0bd2f55-43a6-4fba-86dc-360873d759e3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-73d1e37f-7990-4968-b2dc-9a7277d13fca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd52f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.055286, -74.004269, 41.000036, 40.973332)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-1g05fd52f"
+}

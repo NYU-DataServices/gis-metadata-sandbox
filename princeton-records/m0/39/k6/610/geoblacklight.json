@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Karcag in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k6610",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Karcag. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e89ecf04-c20e-453e-8f3d-17b066341a81/file/893d5003-2c15-4e56-adbe-785003810134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/438c37ac-1f3f-4421-aff1-156196081cb4/file/3d9bc89b-e717-414a-8375-357ecd29f825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/438c37ac-1f3f-4421-aff1-156196081cb4/file/8e789034-2184-48c7-941f-a519bc83a300\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F5b%2F39%2F005b392d277a4ca1beac559b347ea3c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7bf733c2-91d0-417f-a30e-2e64b43dec3a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Hungary",
+    "G6031.C2.s100.A7M3",
+    "Central Europe",
+    "Karcag"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-438c37ac-1f3f-4421-aff1-156196081cb4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k6610",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.3333, 21.3333, 47.5, 47.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-m039k6610"
+}

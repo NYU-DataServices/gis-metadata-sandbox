@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Paterson (1899) Alternate title: Paterson sheet. \"Surveyed in 1887. Resurveyed in 1898.\" Relief shown by contours and spot elevation. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr26n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1899.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Paterson",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449750\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d973083-d496-45ef-b215-3a5d7904daed/file/4cde5742-18ec-41e6-b3bf-60b6852726d2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a68c6ef5-f9ea-44a8-b9fa-16a7f56d06fa/file/c7637c85-04ad-4e1d-91ed-fa518e2cda11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a68c6ef5-f9ea-44a8-b9fa-16a7f56d06fa/file/e0574ff3-5792-43b0-bb54-4b77adc7dc3a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/65%2Fa8%2F7a%2F65a87a66f04a41259f537964a9d097c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e9aedbd-3408-4df6-befb-f2eecb270733/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a68c6ef5-f9ea-44a8-b9fa-16a7f56d06fa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr26n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.33333333333333, -74.11666666666666, 40.93333333333333, 40.81666666666667)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-xg94hr26n"
+}

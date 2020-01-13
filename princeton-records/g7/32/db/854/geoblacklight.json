@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -18.166667. South Decimal Degree -18.333333. East Decimal Degree -68.500000. West Decimal Degree -68.750000. Alternate title: Estancia Agua Rica, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g732db854",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1969.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Estancia Agua Rica, hoja 5839 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/273a6211-7f6c-41a3-ae8c-58527ec86c08/file/f8aa7aa4-9aa3-46e7-9057-97545499a8ec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/273a6211-7f6c-41a3-ae8c-58527ec86c08/file/002bb3ee-755b-47f2-929c-5ccb384eaaa2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ff%2F24%2F32%2Fff24322f29bd4445a8d03f96cb80a4eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f294610-17da-4972-b584-6ae70e6a3582/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-273a6211-7f6c-41a3-ae8c-58527ec86c08",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g732db854",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -18.166667, -18.333333)",
+  "solr_year_i": 1969.0,
+  "uuid": "princeton-g732db854"
+}

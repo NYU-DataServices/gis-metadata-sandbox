@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Schenectady. Relief shown by 20 feet contour interval. Surveyed in 1892 in cooperation with the State of New York. Triangulation by N.Y. State Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k404h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Schenectady Sheet (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Schenectady sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868399\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b082875-543e-43dd-967b-e09f6ecdc3ab/file/96a28d6a-ea49-45cc-9dd4-c9461b1753c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50a3ad4a-e11e-471f-b46e-2f232d078b36/file/769954e0-0265-4987-983d-bedb7435a71b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50a3ad4a-e11e-471f-b46e-2f232d078b36/file/11b6d255-e847-442c-acde-2c1c2a3ec687\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d6%2F2f%2Feb%2Fd62feb9c676a4dcd924e1922d970cd41%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47bc3fe9-d3ab-49ce-83b4-cbcbbf24f4fd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-50a3ad4a-e11e-471f-b46e-2f232d078b36",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k404h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 43.0, 42.75)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-td96k404h"
+}

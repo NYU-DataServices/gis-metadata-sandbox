@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1913.\" Includes location map, specials index, key and text. \"6003.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m8431",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ramsey,Maps",
+    "Ramsey (N.J.),Maps"
+  ],
+  "dc_title_s": "Ramsey, Bergen County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5286978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd537783-9fe4-45f9-841d-50db83eff199/file/370b2178-5118-4eb7-9afa-592fe9b6384b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd537783-9fe4-45f9-841d-50db83eff199/file/8fc4eafd-4e42-46d3-ac05-488ec636000f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F5b%2F21%2Fb25b21c7056e4f8cade26c5148540e59%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94264e55-3c52-4718-9a6a-d4447a3642f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd537783-9fe4-45f9-841d-50db83eff199",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m8431",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-5712m8431"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1914.\" Includes location map, key, streets and specials index, and text. \"28\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bq838",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Haddonfield,Maps",
+    "Haddonfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Haddonfield, Camden County, New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5397050\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5b80bcd-a949-4b8f-9dbe-6664a3c88fc5/file/ae26d7e8-a481-45d3-8be7-ac4a15601e63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5b80bcd-a949-4b8f-9dbe-6664a3c88fc5/file/c67d7ead-12a3-4c2e-b618-c78271cb7c14\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F0b%2Ff6%2Fce0bf632622d4fe2becfe573aca2b8d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9da4528a-9ff1-4c73-89b8-bb7833c0bb62/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d5b80bcd-a949-4b8f-9dbe-6664a3c88fc5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bq838",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0343, -75.0212, 39.9033, 39.8933)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-1544bq838"
+}

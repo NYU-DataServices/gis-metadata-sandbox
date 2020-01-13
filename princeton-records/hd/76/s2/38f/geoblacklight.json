@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1901.\" Includes key, key map, streets and specials index, and text. \"4838.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s238f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rahway,Maps",
+    "Rahway (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Rahway, Union Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5624289\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/800f428c-0683-4963-b6cd-c260fb2381e9/file/19799471-9773-44b3-b236-c262111f2571\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/800f428c-0683-4963-b6cd-c260fb2381e9/file/7a67cef0-a55b-460c-b60b-6f05eed2713a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2F2d%2F06%2Fb52d0649ea6e4883b384444005ccad57%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/558bb20f-9e13-4a1a-9660-e5b1a0d4dff8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-800f428c-0683-4963-b6cd-c260fb2381e9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s238f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-hd76s238f"
+}

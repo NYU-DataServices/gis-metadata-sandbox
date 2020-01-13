@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1886.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bh21m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map and Publishing Co., Limited, 1886, c1887.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rahway,Maps",
+    "Rahway (N.J.),Maps"
+  ],
+  "dc_title_s": "Rahway, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5621426\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b17cfa6-9c86-4052-a771-abc1a38537cc/file/321a1f14-92dc-4a20-8590-b0266742a75a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b17cfa6-9c86-4052-a771-abc1a38537cc/file/76d3ff6e-b67a-4f7d-8f04-4af4abc06580\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2F5e%2F0f%2F4e5e0f488b074498bf5812869cf1fb90%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5746b48-a92f-4aeb-b968-0453b27cd735/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1b17cfa6-9c86-4052-a771-abc1a38537cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bh21m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-pg15bh21m"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Sebastian M\u00fcnster"
+  ],
+  "dc_description_s": "This is a historical map of Central Asia, specifically the ancient region of Scythia, a vague area east of Europe, created around 1540.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c203g",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Heinrich Petri",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Elevation",
+    "Historical",
+    "Elevation and derived products"
+  ],
+  "dc_title_s": "Tabula Asiae VIII",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ed16133-d3a5-4285-a17f-40c8a14fce10/file/00f9c154-1a49-44e6-81c5-ff82112403a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d8b0556-ed9a-428b-b92b-57e3fa9ee64c/file/eafb820e-c27e-436b-a6a5-79d9828909ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d8b0556-ed9a-428b-b92b-57e3fa9ee64c/file/ddaef71a-32d0-442c-b78d-803618ccf2d6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F9a%2F5b%2F009a5be4f1a749cf9fd9891fcca6e864%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d313882d-5fa8-45f8-9bb5-196b3dec5c19/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Scythia",
+    "Central Asia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1540"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d8b0556-ed9a-428b-b92b-57e3fa9ee64c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c203g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(74.5522, 93.6305, 44.1, 25.487)",
+  "solr_year_i": 1540.0,
+  "uuid": "princeton-bv73c203g"
+}

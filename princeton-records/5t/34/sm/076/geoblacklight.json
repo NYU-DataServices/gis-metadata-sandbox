@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Salamanca, Antonio, d. 1562"
+  ],
+  "dc_description_s": "Relief shown pictorially. A very close copy of the world map of Mercator, published in Louvain in 1538.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sm076",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Rom\u00e6 : Ant. Lafreri exc., [ca. 1564].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800",
+    "Geography,Early works to 1800"
+  ],
+  "dc_title_s": "Quam hic vides orbis imagine[m] lector ca[n]dide ea[m] vt posteriore[m] ita & eme[n]datiorem ijs que hactenus circu[m]ferebantur esse America sarmatiaq[ue] ac India testantur ...",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4472500\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08592422-4804-41a9-bc95-b93a86fd4aa3/file/046c9a06-447a-4b5a-bb5a-4fa919e682f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a620d84-ccff-4c3c-aa1d-eb24e1cae3ee/file/03108740-7f74-4e73-b5ea-1e93e51226d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a620d84-ccff-4c3c-aa1d-eb24e1cae3ee/file/ef2c145e-3b94-46ff-91ae-15e1f44b3785\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F28%2Fd1%2Fc628d10ca8684ec8a8a551134e7ac7f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3031459a-080e-4b8a-8583-3acdbf9c2230/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1564"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2a620d84-ccff-4c3c-aa1d-eb24e1cae3ee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sm076",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1564.0,
+  "uuid": "princeton-5t34sm076"
+}

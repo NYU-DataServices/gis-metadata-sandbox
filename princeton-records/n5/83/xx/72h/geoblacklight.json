@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States. National Imagery and Mapping Agency"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Depths shown by isolines and soundings in meters. \"Copyright 1996 by the United States Government. No copyright claimed under Title 17 U.S.C.\" Includes glossary, source diagram and index to next larger scale of charts.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xx72h",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "[Bethesda, Md.] : National Imagery and Mapping Agency, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Seine, Bay of the (France),Navigation",
+    "English Channel,Navigation",
+    "Harbors,France,Maps"
+  ],
+  "dc_title_s": "English Channel, France--north coast : Fe\u0301camp to Cap de la Hague",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9549166\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42455c09-3d10-406c-be16-2b8fb1adbbda/file/c640125d-07f3-4cbf-b003-6b0959386d11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42455c09-3d10-406c-be16-2b8fb1adbbda/file/857409fe-eb26-4e55-b5f2-7b3b10afb256\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2Fa1%2Ff3%2F97a1f3a39d75478b94a95058038e3012%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5cfdf9f6-7f00-4d0d-a0ea-647b850ba29f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France",
+    "North Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-42455c09-3d10-406c-be16-2b8fb1adbbda",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xx72h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.956667, 0.393333, 50.216667, 49.18)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-n583xx72h"
+}

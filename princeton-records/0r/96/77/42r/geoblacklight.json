@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Pharus-Verlag"
+  ],
+  "dc_description_s": "Pictorial map of Rothenburg ob der Tauber in the German state of Bavaria. Street directory and advertisements on verso. Separately included is map of Rudolstadt.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0r967742r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Berlin : Pharus-Verlag, [1903]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Rothenburg ob der Tauber,Maps"
+  ],
+  "dc_title_s": "Rothenburg on the Tauber [verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7619953\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d6630d9-4640-4000-8861-214389d93e3e/file/94ed611f-9bea-4c6f-96a1-f301d6b93feb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d6630d9-4640-4000-8861-214389d93e3e/file/dcb1ed1d-6cb7-4c9f-8087-db01cdb14f98\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d3%2F11%2Fe4%2Fd311e4f9980e4ab5811727359559898c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31f459e2-765f-4a1b-86e3-2103da25f547/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2d6630d9-4640-4000-8861-214389d93e3e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0r967742r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-0r967742r"
+}

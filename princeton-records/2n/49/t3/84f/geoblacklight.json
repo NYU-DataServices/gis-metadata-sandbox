@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, key map, streets, specials, and villas, estates, &c. index, and text. \"4020.\" North oriented towards upper right. \"July, 1921.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2n49t384f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Madison,Maps",
+    "Madison (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Madison, Morris County, New Jersey (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560078\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8db9448c-df16-45b5-842f-73b9ff712d2f/file/b1a4d073-8ee6-46d1-afe4-077e09b4df59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8db9448c-df16-45b5-842f-73b9ff712d2f/file/c1639e26-d4f2-4722-8d33-9c339bbfda18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e7%2Fb0%2F62%2Fe7b062822229489380b97a3ffd921126%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dfcd541d-ffef-4e00-b572-b200ad6918f1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8db9448c-df16-45b5-842f-73b9ff712d2f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2n49t384f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-2n49t384f"
+}

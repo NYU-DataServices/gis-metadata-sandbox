@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1902 in cooperation with the State of New York. Triangulation by U.S. Coast and Geodetic Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vx021g630",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Copake (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York- Massachusetts: Copake Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866801\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/323bb6f9-e1c7-4773-a1e2-873763855068/file/888d090c-2403-4281-afb5-7ac22d69a21e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f07cdb9a-c5e3-402d-8275-25226be658d6/file/0d0ec415-2f7d-445a-badb-d36d6798c74c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f07cdb9a-c5e3-402d-8275-25226be658d6/file/3ebca9e6-e702-4b8d-b2cb-1e325212aeec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F5e%2F16%2F185e166a12194526bcac1766f8f5f562%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5367a906-9653-4cfd-8c31-a93209b4dcea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f07cdb9a-c5e3-402d-8275-25226be658d6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vx021g630",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 42.25, 42.0)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-vx021g630"
+}

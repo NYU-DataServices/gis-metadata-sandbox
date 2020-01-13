@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key. Originally issued as single sheet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53k047v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904, c1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Central business district of Newark, New Jersey [Part 2]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5703553\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b08e7dd-ef0b-4608-a94d-49c603bfd59c/file/7dc3336f-0ada-47d7-b1b2-d341cf023075\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b08e7dd-ef0b-4608-a94d-49c603bfd59c/file/4b467208-cd3c-41a5-903f-602c77d13628\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fc8%2Ff2%2F03c8f2a7f8104e81b57320f87e15f459%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/986346db-a389-4224-8136-1ade8f670bfb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4b08e7dd-ef0b-4608-a94d-49c603bfd59c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53k047v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-1v53k047v"
+}

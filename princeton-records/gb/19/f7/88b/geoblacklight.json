@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Saunders, Charles Francis, 1859-1941"
+  ],
+  "dc_description_s": "Shows mining claims with survey numbers, company groups, gulches, tunnels, Leadville streets, ranges and townships. Includes index of company names keyed to section number.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f788b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : Chas. F. Saunders, c1901 (Denver : Denver Litho Co.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Leadville (Colo.),Maps",
+    "Mining claims,Colorado,Leadville,Maps"
+  ],
+  "dc_title_s": "The Leadville Mining District",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5555718\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2208ae16-222b-4b7c-8f97-ce18bf57b4ae/file/8819ce62-3685-4b9f-878d-7c6285dd1261\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2208ae16-222b-4b7c-8f97-ce18bf57b4ae/file/a1ecd4fe-2939-4495-acc3-1d3c9dc38ee5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2Fc1%2F3d%2F4ac13d8c91ee4a3ba9b1d9ebdd033eda%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd35e170-e228-4f3f-996b-d3e35c3bd131/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2208ae16-222b-4b7c-8f97-ce18bf57b4ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f788b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-106.308362, -106.277935, 39.259801, 39.237535)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-gb19f788b"
+}

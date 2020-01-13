@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of the Mediterranean Region, showing Italy and parts of Spain, France and Austria. Relief shown by shading. Insets: Algeria -- Egitto.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8p58pg46b",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Italy? : s.n., ca. 1850]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Italy,Maps",
+    "Mediterranean Region,Maps"
+  ],
+  "dc_title_s": "Mediterrarean Region",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8007811\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d0caecd-1c5f-4a03-8a26-226ea6fc9e8e/file/27e6620d-7366-4b50-9068-5d803bee3d4d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d0caecd-1c5f-4a03-8a26-226ea6fc9e8e/file/ca647b31-8a09-4cf2-8b8f-03608b4d47b2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F62%2F0b%2F14620bf1022e43019f8457f3b42b7d12%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b1501694-be00-4d22-ba82-09f2d59b6876/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3d0caecd-1c5f-4a03-8a26-226ea6fc9e8e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8p58pg46b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.5, 17.26, 47.26, 36.76)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-8p58pg46b"
+}

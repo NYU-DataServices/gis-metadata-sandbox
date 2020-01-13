@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Princeton University"
+  ],
+  "dc_description_s": "This is a map of the grounds of Princeton University. It has been scanned from the Princeton University Catalogue 1882-1883.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25xb03s",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Princeton University",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Campus",
+    "Princeton University",
+    "Streets"
+  ],
+  "dc_title_s": "Princeton Campus Map 1882-1883",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bfcdf57-758c-44aa-b1da-02bad1307ac9/file/04e6c085-9649-4706-aacd-eb1f0f66ba18\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ebc6381f-612b-4a51-97d6-2573aacd6a03/file/e87717b6-2088-476a-8a51-f5af8f3fad2e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ebc6381f-612b-4a51-97d6-2573aacd6a03/file/4a8c799f-9af2-4ba4-9807-1c2f53c3e8d0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F1f%2F16%2F0c1f16178e794963a0fe8574639067aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/86d93a93-3b62-4816-a4c1-cce5e53c4b4c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mercer County",
+    "United States",
+    "Princeton",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ebc6381f-612b-4a51-97d6-2573aacd6a03",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25xb03s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.939246, -74.48246, 40.424427, 40.135958)",
+  "solr_year_i": 1883.0,
+  "uuid": "princeton-zs25xb03s"
+}

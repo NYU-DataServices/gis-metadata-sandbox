@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1917.\" Includes location map, key and text. \"2089.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1c18dh33d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Berlin,Maps",
+    "Berlin (N.J.),Maps"
+  ],
+  "dc_title_s": "Berlin, Camden County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352843\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74adcb94-04c1-4408-9c7c-dbc36c09e7f7/file/697660d8-d7f7-4347-9d87-5c4d78db82f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74adcb94-04c1-4408-9c7c-dbc36c09e7f7/file/dd5475c8-e4f8-458a-85b9-f1b44dd026f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F3a%2F87%2Fc03a87c1c7dd4421b6be7cf791c88ea8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ed0633db-1a46-4270-87c5-ad34722d5f1f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-74adcb94-04c1-4408-9c7c-dbc36c09e7f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1c18dh33d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-1c18dh33d"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. Provisional G.S.G.S. no. 4241. In upper left margin: French Morocco 1:5,000. Projection approximate.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/df65v961z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Ouezzane,Maps"
+  ],
+  "dc_title_s": "Ouezzane city plan. G.S.G.S. 4241",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830898\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/143bedbd-a85b-4e09-b3a6-54c40b7e53d6/file/646abc03-fb26-49cd-8015-f056155d3b8d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b598f5a-92a3-498d-8412-11fc75b8d4f8/file/d792b88d-7afe-4b52-8a09-84d117e82787\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b598f5a-92a3-498d-8412-11fc75b8d4f8/file/f627d095-0f98-48cb-90d1-643e4e0c0eb4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e9%2F19%2Fc3%2Fe919c3f77431423b9629fec6d478c19b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/affb2694-6347-450e-b917-89e5d63d9cb4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b598f5a-92a3-498d-8412-11fc75b8d4f8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-df65v961z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.583333333333333, -5.566666666666666, 34.8, 34.78333333333333)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-df65v961z"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA Shamokin. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1889. Triangulation by S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wh76p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Shamokin sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868072\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/78300e40-f5f1-43b8-823e-6b476b619823/file/67fffcb5-21e5-4577-bb19-36c5cfa7dfc2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27c2b38a-4b83-4446-bc38-535e6a1a2850/file/0d9e4421-02b5-434d-9828-353a0ecd3fd0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27c2b38a-4b83-4446-bc38-535e6a1a2850/file/5c7c4c20-1e98-4d33-975e-caf101a44b5c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2F8e%2Fc6%2Fad8ec6f80f3c4fce9963453cc655e7c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e54a6dfd-e07e-40cb-912e-790a59299cf3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27c2b38a-4b83-4446-bc38-535e6a1a2850",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wh76p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 41.0, 40.75)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-r781wh76p"
+}

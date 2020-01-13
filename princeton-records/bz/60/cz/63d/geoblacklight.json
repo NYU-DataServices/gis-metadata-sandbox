@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Hayward, George, b. ca. 1800"
+  ],
+  "dc_description_s": "Also shows ward and fire district boundaries. Hand colored. Inset: Map of New York from 53rd St. to Spuyten Duyvel Creek on a reduced scale.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz63d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : New York Common Council, 1856]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps",
+    "Manhattan (New York, N.Y.),Administrative and political divisions,Maps",
+    "Fire protection districts,New York (State),Manhattan (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the City of New York, 1856",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030062\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/cd9a8c95-bf79-4d98-b5ba-2c5d510ab95a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/d2aaad03-8e14-4d7c-85fe-c7815759bb32\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F28%2Fa6%2F0c28a6ed73084b01a10128fd7a667cfd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb243069-f50e-47eb-a65e-63e17e6d413f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-652f556d-9597-4e17-a064-c26ed35f54f3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz63d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.020918, -73.958605, 40.769814, 40.700127)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-bz60cz63d"
+}

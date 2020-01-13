@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1912.\" Includes key, streets and specials index, and text. North oriented towards upper right. \"4535.\" At head of sheet 4: At Annandale, 2 miles N.E. of Clinton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k06989194",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clinton,Maps",
+    "Real property,New Jersey,Annandale,Maps",
+    "Clinton (N.J.),Maps",
+    "Annandale (N.J.),Maps"
+  ],
+  "dc_title_s": "Clinton, Hunterdon County, New Jersey : including Annandale (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4786631\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/971f9381-a169-471e-b55c-bd2751ccc45c/file/dc7c6e3e-6829-4985-89ad-968d6c424c7e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/971f9381-a169-471e-b55c-bd2751ccc45c/file/33956b43-023e-4362-9357-acc5bbf45be4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2F69%2Fbb%2F1a69bbc42e9c4f8684fea4b76d2f8613%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/44f504e6-d22e-4780-b9f4-a51089d25d68/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-971f9381-a169-471e-b55c-bd2751ccc45c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k06989194",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931, -74.787, 40.693, 40.574)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-k06989194"
+}

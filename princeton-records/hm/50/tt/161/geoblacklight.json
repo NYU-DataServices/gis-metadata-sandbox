@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.500000. South Decimal Degree 40.375000. East Decimal Degree -74.125000. West Decimal Degree -74.250000. Alternate title: Keyport, NJ--NY. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curves and soundings in feet- datum is mean low water. Shoreline shown represeants the apporoximate line of mean high water. The mean range of tide is 4 feet. \"Mapped by the Army Map Service; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1941. Field check 1943. Culture revised by the Geological Survey 1954.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tt161",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Keyport Quadrangle, New Jersey--New York 7.5 minute series (topographic) [bathymetric]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844295\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aa6773f8-e9fc-41da-9c0c-6a6065244304/file/f4ff2ccd-4733-48e4-b6a5-a413b03ea230\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8552f58d-c3d4-4222-afb4-09c3659544e3/file/507828f6-3a4f-459c-9c1a-23b255a8982c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8552f58d-c3d4-4222-afb4-09c3659544e3/file/a1e33627-b246-490e-9c5f-5a571e9ea770\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2d%2Fa9%2F42%2F2da9421660c8403c89d3da75d94cb716%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a36f2efd-604d-4994-85ff-cc3d82113859/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8552f58d-c3d4-4222-afb4-09c3659544e3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tt161",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 40.5, 40.375)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-hm50tt161"
+}

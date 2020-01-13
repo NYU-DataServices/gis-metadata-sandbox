@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1923.\" Includes location map, key, streets and specials index, and text. North oriented toward upper right. \"1095.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ww72bc95m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Matawan,Maps",
+    "Matawan (N.J.),Maps"
+  ],
+  "dc_title_s": "Matawan, Monmouth County, New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4826008\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd444897-e9f2-4c0e-89e1-1f813736d24b/file/872d12a3-23c1-4a38-b060-df17d9d1d0bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd444897-e9f2-4c0e-89e1-1f813736d24b/file/56268eef-c438-412d-8b0e-2dbf949b650b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F88%2Fef%2F2188ef0830e0406fbb30da1d0fa186f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d564538b-91b9-4204-8f43-f7f991492f95/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd444897-e9f2-4c0e-89e1-1f813736d24b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ww72bc95m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.249, -74.221, 40.431, 40.391)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-ww72bc95m"
+}

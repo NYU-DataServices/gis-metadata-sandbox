@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g172z",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Contour line",
+    "Topographic map",
+    "7.5 Minute Quadrangle Map",
+    "Elevation",
+    "Roads"
+  ],
+  "dc_title_s": "Wawayanda Quadrangle, New Jersey, 7.5 minute series (topographic) (1954)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef150c17-e24c-41c9-9e99-a4b3bcc4b4d6/file/85c29ffc-cfe8-49be-98e6-c26e8a0bd1a9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/338afc46-053f-47dd-aea8-e6cb9d6eca21/file/f306414a-d4fc-4f7d-bdf6-03105afd9eff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/338afc46-053f-47dd-aea8-e6cb9d6eca21/file/0ff02796-75d9-4ffb-8c78-d71bdb435198\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/70%2Fd9%2Fe8%2F70d9e829e3c946a9ad4600ca41f0f7e8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/55df846a-f1ee-4123-9ea4-a26236e20f3f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Sussex County",
+    "Vernon",
+    "Wawayanda",
+    "West Milford",
+    "New Jersey",
+    "Passaic County"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-338afc46-053f-47dd-aea8-e6cb9d6eca21",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g172z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 41.25, 41.125)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-pv63g172z"
+}

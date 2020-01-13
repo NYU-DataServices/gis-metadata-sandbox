@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1920.\" Includes text. Historic Maps has sheets 30-31 and sheet 37 of Hackensack, N.J. series, showing Teaneck Township.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57ns94r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Teaneck,Maps",
+    "Teaneck (N.J.),Maps"
+  ],
+  "dc_title_s": "Teaneck Township (Sheet 31)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5314101\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cea5983b-6fa2-46bd-8df8-4f1607c40649/file/aff31837-ef06-4881-8321-86320d0a08d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cea5983b-6fa2-46bd-8df8-4f1607c40649/file/a0aecc25-97b0-4b3d-b8b9-5eaec281dfeb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2F5d%2F47%2F035d4793bbe448f68d048b4aeb54e5e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/017af9b8-2405-4178-8f59-1807b9105dc8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cea5983b-6fa2-46bd-8df8-4f1607c40649",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57ns94r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.036556, -73.98739, 40.917079, 40.859899)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-tq57ns94r"
+}

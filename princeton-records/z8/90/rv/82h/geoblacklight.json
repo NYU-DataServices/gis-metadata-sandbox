@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Millersburg. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1891. Triangulation by S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z890rv82h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Millersburg (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Millersburg sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868048\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d24b05f9-baab-4cf4-969e-9bc41bbfdd70/file/2734060a-0bfd-40c9-b044-9b2fd5b98462\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/07b6a02a-93a2-4411-a763-00b0a0bdd60b/file/e3f2f9b5-1afa-4752-8672-a48de4787ebf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/07b6a02a-93a2-4411-a763-00b0a0bdd60b/file/9305ec3d-6f3c-475c-9cb2-21486df62483\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F49%2F98%2F86499898d49249b8a7e55d1fb743d1e4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/987322d5-3368-43c4-9211-d4ed105efd33/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-07b6a02a-93a2-4411-a763-00b0a0bdd60b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z890rv82h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.0, -76.75, 40.75, 40.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-z890rv82h"
+}

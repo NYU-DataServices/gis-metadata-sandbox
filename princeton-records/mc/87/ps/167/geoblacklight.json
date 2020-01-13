@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 12-, 29-32, 37-43, and 47-48 of Garfield, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87ps167",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rutherford,Maps",
+    "Rutherford (N.J.),Maps"
+  ],
+  "dc_title_s": "Rutherford (Sheet 48)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5312351\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b8bae10-4bd4-4c41-b1dc-fabba6cd92d5/file/6b2fdc6f-bd75-4d9b-815a-3231f3e7ed8b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b8bae10-4bd4-4c41-b1dc-fabba6cd92d5/file/45b7779b-4d05-4376-84d1-5f3a32a54eea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F02%2F4c%2F7a024c87593b42eaa0a6f5f1f1ee4e93%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a592cdb-8981-4a11-be35-871442957bd8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9b8bae10-4bd4-4c41-b1dc-fabba6cd92d5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87ps167",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.124176, -74.082403, 40.847184, 40.787197)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-mc87ps167"
+}

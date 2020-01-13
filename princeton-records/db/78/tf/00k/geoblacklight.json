@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 52-99 of vol. 5 of: Insurance maps of Newark, New Jersey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/db78tf00k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newark,Maps",
+    "Newark (N.J.),Maps"
+  ],
+  "dc_title_s": "Newark, N.J. vol. 5 (Sheet 62)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5425682\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e463c10-8237-4640-aa5e-f44968405d5b/file/30b7ff20-7829-489e-825f-f9add86e26dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e463c10-8237-4640-aa5e-f44968405d5b/file/72e8e4fa-df82-4786-8020-006a9ec868c8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b8%2F3d%2F29%2Fb83d29fbc51c40c98d8b9da736bea12e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64d7b26b-7f71-4e50-95be-a76fab01a54a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7e463c10-8237-4640-aa5e-f44968405d5b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-db78tf00k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-db78tf00k"
+}

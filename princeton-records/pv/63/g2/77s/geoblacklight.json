@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by contours, spot heights, and landform drawings. Sheets numbered at end of title: 1, 2, etc. Maps 3-11 have title at upper left: Peiraieus, 1:10 000. Coverage complete in 11 sheets?",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g277s",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "[Athens? : s.n., between 1950 and 1970?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Athens (Greece),Administrative and political divisions,Maps",
+    "Piraeus (Greece),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Charte\u00afs perioche\u00afs tes dioike\u00afseo\u00afs [sheet 10 of 11]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7697510\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fb68f25-ab38-4827-ad2d-6a88d2c645ae/file/193ea3ba-e759-4da4-96d5-e61f09e9e74e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fb68f25-ab38-4827-ad2d-6a88d2c645ae/file/90ee6d0e-9e77-4c5f-bf4d-a24c25f389d8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F7c%2F55%2F187c5551664b454891bd4999fa30d31b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d7bf963-80d9-4c76-8d50-d38f2e0e145d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5fb68f25-ab38-4827-ad2d-6a88d2c645ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g277s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.5679843, 23.8879843, 38.1441493, 37.8241493)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-pv63g277s"
+}

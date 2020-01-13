@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Apr. 1909.\" Includes text. Historic Maps copy has sheet 13-15 of Collingswood, N.J., series, showing West Collingswood.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sf268679b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Collingswood,Maps",
+    "West Collingswood (N.J.),Maps"
+  ],
+  "dc_title_s": "West Collingswood (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5364387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36ebb2fa-1324-4b9c-9feb-03c18bb59eb4/file/8895f97e-4d2c-4855-b650-785f3abfb2ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36ebb2fa-1324-4b9c-9feb-03c18bb59eb4/file/4dc7b80f-4baa-4e64-a59d-f517565fe1cc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2Fa2%2F9d%2Fbca29dadd1c54ff0bcb444da7f322e5b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e129057f-d784-4112-9705-d08286cfb9f5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-36ebb2fa-1324-4b9c-9feb-03c18bb59eb4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sf268679b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-sf268679b"
+}

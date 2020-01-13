@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Surveyed in 1885.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz44t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Abington (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Abington sheet [1886]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837421\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ba17937-c532-48d3-961c-c6b7c764c8cb/file/056c6b36-f8ad-41b1-b0de-4bb696b5946b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ba17937-c532-48d3-961c-c6b7c764c8cb/file/49200ed8-5d81-427c-92c0-2e16c9f8ca9f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2Fc7%2Fe3%2Ffac7e328c81b470ea8defb476e309cc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9afb2415-2c6b-4ac8-8239-de4da3be35a5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2ba17937-c532-48d3-961c-c6b7c764c8cb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz44t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.0, -70.75, 42.25, 42.0)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-6d56zz44t"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1902.\" Includes key, streets and specials index, and text. \"No. 5569\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kc23h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hightstown,Maps",
+    "Hightstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Hightstown, Mercer Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595528\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41aae57c-cebe-4474-97c2-0f1af400c389/file/c5c415e3-39af-4fd7-a9b4-037463a9f318\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41aae57c-cebe-4474-97c2-0f1af400c389/file/84d001d0-4674-4d87-a8c7-16eb4b77332b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ea%2F71%2Fcc%2Fea71cc7ed6924dcfb6f1a3992d7002d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/16cdf5d3-8685-4109-87d3-3d3ccaf8908c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41aae57c-cebe-4474-97c2-0f1af400c389",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kc23h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-5425kc23h"
+}

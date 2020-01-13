@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Sanranoni. Relief shown by 20 feet contour interval. Surveyed in 1901 in cooperation with the State of New York. Triangulation by E. L. Mc Nair. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988m461",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Santanoni (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Santanoni Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868394\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/26c7c04f-eac7-4c19-ba7d-d49320ae3dd8/file/09f24a1f-3bae-46d6-b2df-7dd6f6af76c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2eccaa21-bb3b-457a-9b19-1bd7348048f2/file/fdb962d1-0fb2-4e91-b1a7-ac99e04f781a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2eccaa21-bb3b-457a-9b19-1bd7348048f2/file/73f53f16-c790-4327-b62c-f427e321fd7b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2Fc7%2Fb5%2Fccc7b501151343a0929a3d69e23e9255%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7130045-0518-404f-a0a9-12d314b4db13/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2eccaa21-bb3b-457a-9b19-1bd7348048f2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988m461",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 44.25, 44.0)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-wp988m461"
+}

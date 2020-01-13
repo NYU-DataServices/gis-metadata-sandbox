@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Harlem, N.Y.-N.J. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1888-89 and 1897 in cooperation with the State of New York. Partial revision of shore line in 1924. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z603r0155",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Harlem (N.Y.),Maps"
+  ],
+  "dc_title_s": "New Jersey-New York: Harlem Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867853\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f7fd424e-7366-420f-a8b6-e0332debfd2b/file/0b634b01-538a-4c59-9616-c472fc625b1f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7db81c3d-b413-4079-83d4-320bddeee3bd/file/2b1e902f-4356-4d17-9888-49f3a8cebd35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7db81c3d-b413-4079-83d4-320bddeee3bd/file/13f7fce8-d9cc-4ad5-856f-82a1d8b67337\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b4%2F24%2F36%2Fb42436b807d94305af79634d14cdd55b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0697e66c-274d-4235-8c5a-b35e78affc1a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7db81c3d-b413-4079-83d4-320bddeee3bd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z603r0155",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 41.0, 40.75)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-z603r0155"
+}

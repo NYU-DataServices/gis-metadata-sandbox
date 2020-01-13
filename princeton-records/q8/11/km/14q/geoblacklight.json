@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1897.\" Includes key, streets and specials index, and text. \"973.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km14q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lambertville,Maps",
+    "Lambertville (N.J.),Maps"
+  ],
+  "dc_title_s": "Lambertville, Hunterdon Co., N. J. (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4783467\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/772e28ce-df1c-48f5-a85c-0cd745981654/file/f51e2c9c-26e8-477f-a1c8-b69d799513c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/772e28ce-df1c-48f5-a85c-0cd745981654/file/8821679e-8691-4237-943c-e3ca43955b64\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2F1c%2Fb3%2Fac1cb35f901c429b907b0809634cdcbc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c1e53512-4ce1-4e04-82a2-7b1dfb1085ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-772e28ce-df1c-48f5-a85c-0cd745981654",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km14q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.953, -74.931, 40.386, 40.356)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-q811km14q"
+}

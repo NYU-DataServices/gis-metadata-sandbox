@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, streets and specials index, and text. \"June 1919.\" \"2726.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nj605",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clementon,Maps",
+    "Clementon (N.J.),Maps"
+  ],
+  "dc_title_s": "Clementon, Camden County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5360319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd521530-58de-4d10-aa20-b91aef7ee998/file/3781df5e-a820-4e8b-b748-d1000326c073\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd521530-58de-4d10-aa20-b91aef7ee998/file/2da35454-8f54-4190-9db1-d59d5d0c5a7b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F19%2F58%2F2b19581dba004c048b33d380200c37fa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1e245f5-912a-4818-b3ad-bc96a56603b2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fd521530-58de-4d10-aa20-b91aef7ee998",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nj605",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-8k71nj605"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1920.\" Includes location map, key, key map, streets and specials index, and text. \"3358.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wm117r113",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sayreville,Maps",
+    "Sayreville (N.J.),Maps"
+  ],
+  "dc_title_s": "Sayreville, Middlesex County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5536269\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb0fa727-021e-42c3-82b8-385643d7c761/file/d0283dcd-42ec-44b3-8de9-81d8ab727223\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb0fa727-021e-42c3-82b8-385643d7c761/file/1178780d-365b-4a88-955f-f3777e9cedfd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2Fe4%2F6a%2F4be46a3fe79b4bda9194fa7dce72a6d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41f616eb-4282-4240-811b-1c4435e6779a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bb0fa727-021e-42c3-82b8-385643d7c761",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wm117r113",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.386158, -74.257791, 40.509307, 40.416597)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-wm117r113"
+}

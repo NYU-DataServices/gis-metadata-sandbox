@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"4392.\" Includes location map, key, specials index and text. North oriented toward upper right. \"October 1921.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fq977w25c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,High Bridge,Maps",
+    "High Bridge (N.J.),Maps"
+  ],
+  "dc_title_s": "High Bridge, Hunterdon County, New Jersey (Index Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4784025\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f07240c-31a1-423a-abfa-787d99801efc/file/b2f2b9fc-62b3-4e41-90cc-95552668f480\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f07240c-31a1-423a-abfa-787d99801efc/file/4399e357-b6e4-4e69-9418-864d50d07217\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F67%2F02%2F5a67029ddd044b359cba462ea2b9fbae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e759df73-8642-4e22-9f26-883f306e2993/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f07240c-31a1-423a-abfa-787d99801efc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977w25c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.912, -74.873, 40.681, 40.655)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-fq977w25c"
+}

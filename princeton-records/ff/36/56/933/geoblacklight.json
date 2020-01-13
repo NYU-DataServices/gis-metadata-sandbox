@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"December 1921.\" Includes location map, key, specials index, and text. \"4543.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff3656933",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921, c1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englishtown,Maps",
+    "Englishtown (N.J.),Maps"
+  ],
+  "dc_title_s": "Englishtown, Monmouth County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4799053\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4b8016b-8bba-4932-b3da-0c1236e1f725/file/5d2be3d0-fee1-4ad6-b8b1-0b2687c3a407\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4b8016b-8bba-4932-b3da-0c1236e1f725/file/9321946f-020f-441c-b5be-04b65c5820f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2Fb4%2Fcb%2Ff4b4cb7b3ca348df813cc0ca9e81b001%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d7551a7c-8fc4-40aa-a51a-03d6762b0a95/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a4b8016b-8bba-4932-b3da-0c1236e1f725",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff3656933",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.372, -74.353, 40.304, 40.289)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-ff3656933"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"N.J.C.M. vol. 2.\" Sheets 72-89 inclusive; from vol. 2 of the New Jersey coast map series. Includes key and text. Oriented with the north to the upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1307",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Belmar,Maps",
+    "Belmar (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Belmar, Monmouth County, New Jersey (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794432\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae3e3232-a17a-48cd-9dce-9cf9e967afc9/file/94371210-4c6e-436a-8948-bd5732d85cfa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae3e3232-a17a-48cd-9dce-9cf9e967afc9/file/94dd6290-6b7c-4743-bf8c-042270d53198\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/76%2F8a%2F71%2F768a71f79e774cfaac74b9afdf135894%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65a26cf8-597f-4e25-8bdf-addb7497a344/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae3e3232-a17a-48cd-9dce-9cf9e967afc9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1307",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.042, -74.007, 40.187, 40.166)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-4j03d1307"
+}

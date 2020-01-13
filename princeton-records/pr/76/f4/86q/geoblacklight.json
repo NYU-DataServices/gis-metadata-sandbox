@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Ruscelli, Girolamo, d. ca. 1565"
+  ],
+  "dc_description_s": "Relief shown pictorially. Latin text on verso. From: La geografia de Claudio Tolomeo Alessandrino / nuovamente tradotto di Greco in Italiano ... In Venetia : Appresso Vincenzo Valgrisi, 1561.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pr76f486q",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Venetia : Appresso Vincenzo Valgrisi, 1561]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800",
+    "Western Hemisphere,Maps",
+    "Eastern Hemisphere,Maps"
+  ],
+  "dc_title_s": "Orbis descriptio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4443952\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c399e21c-8f0f-487c-bc3c-58c14072b869/file/795e3f25-60e8-448c-9eb9-8ac304d749f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17090ae9-be88-4fe4-a568-65375fa9d0a9/file/0e7c6eae-b2eb-468a-bc5d-736bbcb930b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17090ae9-be88-4fe4-a568-65375fa9d0a9/file/f125ce6f-0e82-4db3-b852-b9a1007afd6c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2F55%2F9f%2F1a559fb5a3734e6bbbadb0d907fedb53%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d49d5924-c283-4fa5-a61d-5dd5f76b4bc7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1561"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-17090ae9-be88-4fe4-a568-65375fa9d0a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pr76f486q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1561.0,
+  "uuid": "princeton-pr76f486q"
+}

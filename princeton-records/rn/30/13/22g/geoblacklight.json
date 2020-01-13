@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 44.0000. South Decimal Degree 43.0000. East Decimal Degree -7.0000. West Decimal Degree -8.0000. Alternate title: Lugo, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Iberian Peninsula, 1:250,000, Geographical Section General Staff, 1941, sheets S 2480-2488-3680; Road Map of Spain and Portugal, 1:400,000, A.M.S. sheet 41 Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S. 1941, corrected from intelligence Reports, 1942-44. Partially revised from aerial photography 1942-43.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rn301322g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Lugo, sheet 3. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839150\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e2c5dfc-443f-43a3-9907-d2bee5f666ae/file/e051a0e1-ab91-42c6-8e92-58ba994a3b77\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e2c5dfc-443f-43a3-9907-d2bee5f666ae/file/9e451b8e-40a3-4114-813a-2bec31f1890b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/be%2Fba%2F17%2Fbeba172f8b5c4c2b89bd8aefe48fbf0a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/67c4f63d-871f-4b1d-b9ca-a1dec7e6d85a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9e2c5dfc-443f-43a3-9907-d2bee5f666ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rn301322g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.0, 44.0, 43.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-rn301322g"
+}

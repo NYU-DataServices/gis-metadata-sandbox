@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Wiesbaden in the German state of Hesse. Street index on verso. Probably issued in an unidentified ed. of: Illustrierter Fu\u0308hrer durch die Regierungsbegirkshauptstadt Wiesbaden und Umbegung / herausgegeben von Leo Woerl.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qf85nd823",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1901?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hesse (Germany),Maps",
+    "Wiesbaden (Germany),Maps"
+  ],
+  "dc_title_s": "Wiesbaden [verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7573398\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28633672-7524-4c5b-a3e1-4a6d8b038a8e/file/7fb2cba6-2150-406b-a136-9954bb7c2a4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28633672-7524-4c5b-a3e1-4a6d8b038a8e/file/2100ecd5-e04f-4368-9342-cd29f2acceb2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F8c%2Fb2%2F478cb2d8038249d9a678038dfb9f234c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/255bedf9-b1bd-4ea4-bdd3-62f98000b2af/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-28633672-7524-4c5b-a3e1-4a6d8b038a8e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qf85nd823",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-qf85nd823"
+}

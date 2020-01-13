@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"New sheet, Apr. 1920.\" \"Camden, vol. 2.\" North oriented towards upper left. Sheets 64 and 78-84; additional sheets to Camden, N.J., vol. 2 series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1831cm611",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Camden,Maps",
+    "Camden (N.J.),Maps"
+  ],
+  "dc_title_s": "Camden (Sheet 84)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359860\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d4ebb2a-fe78-4d04-a724-14e21223e6ff/file/328d9638-8cb9-4710-bce0-09e510054b18\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d4ebb2a-fe78-4d04-a724-14e21223e6ff/file/907cdc01-8bb8-46b4-924f-d4c6700096dc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2Fe7%2Fce%2F61e7ce01f6b846d29b504e6401da70f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/58023c3d-8ea9-4bb4-97df-a1978f41f792/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8d4ebb2a-fe78-4d04-a724-14e21223e6ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1831cm611",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-1831cm611"
+}

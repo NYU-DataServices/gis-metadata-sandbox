@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4275. In lower right margin: \"Copied from Les Guides Bleus; Algerie Tunisie\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c8766",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Bou Saada,Maps"
+  ],
+  "dc_title_s": "Bou Saada. G.S.G.S. 4275",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830538\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/568a1311-6ba2-4e33-be9c-fbb40cc3cb5c/file/1d51b3a9-74e2-44df-b9c6-5afa6a0f06b4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8e1d710-e1d5-4f8d-8dc4-84bc78900677/file/afbd0d5d-8cb3-40c8-abde-2ebc93f9e5a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8e1d710-e1d5-4f8d-8dc4-84bc78900677/file/cd1f8377-7811-4a72-a3c8-c99e7c9dfc9a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F38%2Fb6%2Fb638b6172fc24c2f91ffd35bce967f75%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7783064f-c50a-4a45-87cb-5f0858198f08/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a8e1d710-e1d5-4f8d-8dc4-84bc78900677",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c8766",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.15, 4.166666666666667, 35.166666666666664, 35.15)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-x059c8766"
+}

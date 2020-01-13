@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "American Geographical Society of New York"
+  ],
+  "dc_description_s": "Shows administrative divisions within the Ottoman Empire ca. 1914.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks31g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : American Geographic Society, [ca. 1914]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Turkey,Administrative and political divisions,Maps",
+    "Armenia (Republic),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Anatolia and Armenia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4996680\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9ee26c8-ba49-4d00-b5c3-0fe1b9eec66e/file/7b4f6dcb-47ab-4966-a6b4-9d86062c4889\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9ee26c8-ba49-4d00-b5c3-0fe1b9eec66e/file/13b2ceb0-dd1f-4e5a-ba30-5f74c9db0bc3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2F12%2F5b%2F46125b05d901487c95cbe199676ddda5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c27e799-d1e8-4929-b50a-293584508d2b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9ee26c8-ba49-4d00-b5c3-0fe1b9eec66e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks31g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.0022, 48.0076, 42.5097, 33.0146)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-8c97ks31g"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Walsall mit militaergeographischen Eintragungen. Grossblatt 8, Blattbereich 17h. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560. Accompanied by 35p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 8 Midlands\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343t91d",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "Walsall (England),Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Walsall, BB 17h",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831959\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/77fda207-0972-4478-a44a-da1cc7172000/file/bdfa621b-cc41-43dd-b70e-571a6dfd8144\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8293b248-c399-4495-b524-a1c4cf631b3f/file/f04f2c7c-f151-45e1-942a-7ad3ea99c1d6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8293b248-c399-4495-b524-a1c4cf631b3f/file/8725ec58-5729-43fe-bd67-ccef2a057f9d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2Fe4%2F7e%2F34e47e06755344fab15ab8e856d79c82%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/743fda9f-06df-4903-9cbe-d92f9a597ebc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8293b248-c399-4495-b524-a1c4cf631b3f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343t91d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.05, -1.9833333333333334, 52.583333333333336, 52.56666666666667)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-jh343t91d"
+}

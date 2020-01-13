@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key map, streets, specials, villas, estates, &c. index, and text. Sheets 68-92 of South Orange, N.J. series, showing Millburn Township.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj1393910",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1912]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Millburn Township,Maps",
+    "Millburn (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Millburn Township (Sheet 83)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5421212\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cbcae22f-03d5-4465-b462-f27c3e90197d/file/42e679f9-afe1-45a3-964d-4bb5d57d7f50\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cbcae22f-03d5-4465-b462-f27c3e90197d/file/f14ee6c0-5f46-4225-bd6b-3a28a4a65aa8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F7a%2F60%2F9f7a60e557b14db18fee1b6a708f3814%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8dd81f3a-6de3-4b06-91e9-ac8f5dd3bf34/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cbcae22f-03d5-4465-b462-f27c3e90197d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj1393910",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.3725599, -74.28549, 40.7608679, 40.7133)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-sj1393910"
+}

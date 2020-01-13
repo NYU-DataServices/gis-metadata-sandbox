@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces, divisions, native court areas, and tribal areas in Southern Cameroons for 1951. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/mc87pt74c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Southern Cameroons extracted historical administrative boundaries, 1951",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c558e35-169e-49b7-90b2-e8f714d1b5a4/file/4d7778c2-6999-42e8-9f21-5f00b2f322df\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e782cdc9-80d4-4a20-ab84-494a5704ea46/file/218b06fe-7988-4ca9-8d6d-325c03b917e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e782cdc9-80d4-4a20-ab84-494a5704ea46/file/1b2fdbb5-b160-4ed1-be67-10d487b7fa64\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Cameroons",
+    "British Cameroons",
+    "Southern Cameroons",
+    "Cameroons Trust Territory"
+  ],
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-e782cdc9-80d4-4a20-ab84-494a5704ea46",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pt74c",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(8.484366, 11.210441, 7.041901, 3.896245)",
+  "solr_year_i": 1951.0,
+  "uuid": "princeton-mc87pt74c"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. United States. Army Map Service. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4415. Alternate title: Durres (Durazzo). Lambert conical orthomorphic projection. Mediterranean zone grid. Relief shown by form linea from air photographs at 15 metres intervals. Compiled and drawn by C.I.U. Photolithographed at the War Office. Ground information supplied by I.S.T.D.C.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pr94f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Albania,Maps"
+  ],
+  "dc_title_s": "Albania 1:8,000. Durres (Durazzo) city plan. G.S.G.S. 4415",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830622\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36e5fc23-b423-4f20-89e6-eac9c76abee1/file/5852eac1-cfc1-42f8-9e6a-e75911531121\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/036fad6e-8f24-442a-9a0d-1763f432de65/file/ae138f64-c835-4797-9872-d80383190ec2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/036fad6e-8f24-442a-9a0d-1763f432de65/file/f2660aa8-5df3-4714-9518-30c10287c2c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F5d%2F71%2F185d710100114f7386544b191563cb27%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb21ca7a-bece-4f00-922c-cb14722bf38b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-036fad6e-8f24-442a-9a0d-1763f432de65",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pr94f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(19.433333333333334, 19.45, 41.333333333333336, 41.31666666666667)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-mc87pr94f"
+}

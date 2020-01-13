@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Tardieu, P. F. (Pierre Franc\u0327ois), 1757-1822"
+  ],
+  "dc_description_s": "Map of France and northern Italy. Shows postal routes with number of hours required to cover distances between locations. No relief shown. Inset: Environs de Paris. In lower left-hand corner: De\u0301partemens de l'Empire Franc\u0327ais.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354h69s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : P.F. Tardieu, 1806.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Post roads,France,Maps",
+    "France,Maps",
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Carte ge\u0301ome\u0301trique des routes de postes de l'Empire franc\u0327ais : dresse\u0301e par ordre du Conseil d'Administration des Postes aux Chevaux pour l'an XIV, et l'anne\u0301e 1806",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7130527\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/694f9a10-1a1b-4057-a96d-70e1e7d83e2b/file/330a46d3-03eb-42af-81db-618480e5995a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/694f9a10-1a1b-4057-a96d-70e1e7d83e2b/file/e1342e47-2c7e-439f-96cc-c15c0a35f453\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2Fd7%2F8e%2Fb3d78e3c82094b289d01f219ff006b2d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/742a2611-625f-4323-8f13-7a8f9aec3cea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1806"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-694f9a10-1a1b-4057-a96d-70e1e7d83e2b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354h69s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.9384, 10.0551, 51.8754, 42.3106)",
+  "solr_year_i": 1806.0,
+  "uuid": "princeton-0g354h69s"
+}

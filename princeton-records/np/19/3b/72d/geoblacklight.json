@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Annual Report of the State Geologist 1890 Geological Survey of New Jersey Companion text: New Jersey Geological Survey. Annual Report of the State Geologist for the Year 1890 / John C. Smock. 305p.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/np193b72d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Water-supply",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "A map of New Jersey showing water-sheds : report on water-supply and water-power",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448899\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec364d89-3680-4197-bb3b-f98bfc09d95c/file/24108805-b969-4ebc-97b8-40e9c3adf0cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1244a012-55aa-4fbb-8a72-b1b24cfb52c2/file/8158bf33-e638-4758-be9d-ae350ec6ffc7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1244a012-55aa-4fbb-8a72-b1b24cfb52c2/file/fdaea85d-b174-432d-b5af-f05a4406886a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5e%2F15%2Fd5%2F5e15d549c7b2422e8871fd336b995d51%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f4a58883-c13c-4276-8d8e-c231667c94d1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1244a012-55aa-4fbb-8a72-b1b24cfb52c2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-np193b72d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-np193b72d"
+}

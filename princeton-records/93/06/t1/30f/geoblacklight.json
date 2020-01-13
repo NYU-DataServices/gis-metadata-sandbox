@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper right. Historic Maps copy has sheets 61-67, 99, and102 of The Oranges series, showing West Orange.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9306t130f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co. Limited, 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Orange,Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange and West Orange, N.J. (Sheet 99)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5478431\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e04db76-6877-4b5d-89b8-9268264a1ffa/file/630cfe5e-f784-40d9-8cee-033882093ba6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e04db76-6877-4b5d-89b8-9268264a1ffa/file/f0850005-217d-499b-afd6-023687aac07c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2F18%2F01%2Fb91801751ac44ff7ab806ad2144bb064%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca212ed1-d807-4982-bdde-a0c4bb462567/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8e04db76-6877-4b5d-89b8-9268264a1ffa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9306t130f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-9306t130f"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Vallardi, Francesco"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0r967628b",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano : Dotte. Francesco Vallardi, [1866?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Austro-Italian War, 1866,Maps",
+    "Italy, Northern,Maps"
+  ],
+  "dc_title_s": "Nuova carta del teatro della guerra in Italia dal Brenner al Gran Sasso d'Italia e da Torino all'isola di Lissa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8576059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/324a8a27-5321-4a17-bfc0-3b91f3479f1f/file/d1eb026d-e345-43d6-b64c-ca43619f8dac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/324a8a27-5321-4a17-bfc0-3b91f3479f1f/file/0fb1a0e2-6b05-46f6-8278-e966aa1d231a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F94%2Fd5%2F2194d5226911475eb4ff9aa5a0b678da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1de59d9-2419-4e88-9906-da53730fdbdc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-324a8a27-5321-4a17-bfc0-3b91f3479f1f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0r967628b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.59, 15.6, 47.51, 41.89)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-0r967628b"
+}

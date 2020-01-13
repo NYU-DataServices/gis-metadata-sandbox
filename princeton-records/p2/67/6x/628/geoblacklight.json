@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "John Bartholomew & Co."
+  ],
+  "dc_description_s": "Street map showing railways, omnibus and tramway routes. Originally issued in: Visitors' guide to London.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p2676x628",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Edinburgh] : John Bartholomew & Co., [1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streets,England,London,20th century,Maps",
+    "London (England),Maps"
+  ],
+  "dc_title_s": "Bartholomew's plan of London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5572279\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/776b8445-8a07-456f-ba2c-43c6211c3fbb/file/30938d39-2f1d-42de-a7ee-276ad23e4125\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/776b8445-8a07-456f-ba2c-43c6211c3fbb/file/42952712-07b4-4b49-a9fc-d5fea6d5c8c6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2F0a%2Fe3%2F4e0ae3b4965f43aab76b0276f7c10154%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75426e15-8d49-4fac-ad38-66166f5eb60f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-776b8445-8a07-456f-ba2c-43c6211c3fbb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p2676x628",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.229178, 0.000161, 51.566706, 51.461373)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-p2676x628"
+}

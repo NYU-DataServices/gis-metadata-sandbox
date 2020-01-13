@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Tirion, Isaak"
+  ],
+  "dc_description_s": "Polar projection. Relief shown pictorially. Scale determined by using graticule method. Place and date of publication taken from Capt. Kit. J. Kapp bookseller's catalog no. 28, p. 16. Kershaw describes a similar map published by Guillaume De l'Isle in 1740. cf. Kershaw, K. A. Early printed maps of Canada, no. 416.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5q47rq56b",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Venice : s.n., 1738]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Northern Hemisphere,Maps,Early works to 1800",
+    "North Pole,Maps,Early works to 1800",
+    "Arctic regions,Maps,Early works to 1800",
+    "Arctic Ocean,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Nuova carta del polo Artico secondo l'ultime osservazioni a Amsterdam",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4662077\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/570f5624-bb94-45fd-b292-d771322b659a/file/72122969-a903-4cc8-aad5-ee9c42c4a406\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/570f5624-bb94-45fd-b292-d771322b659a/file/c2c6b7a5-b754-422c-af60-071ce8becd42\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F80%2Fd8%2F3b80d8747c794982914cdc495dc9f635%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/084e53c2-2f82-4e75-bbd8-427c32ef4afa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1738"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-570f5624-bb94-45fd-b292-d771322b659a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5q47rq56b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 35.0)",
+  "solr_year_i": 1738.0,
+  "uuid": "princeton-5q47rq56b"
+}

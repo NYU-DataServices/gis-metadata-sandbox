@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"Nov. 1918.\" Historic Maps copy has sheets 21-22 of Ridgefield Park, N.J. series, showing Ridgefield. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q237ht853",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ridgefield,Maps",
+    "Ridgefield (N.J.),Maps"
+  ],
+  "dc_title_s": "Ridgefield Park, N.J. (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5287680\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/527b66dc-2fc4-403a-ab50-c232e0d47541/file/d928b7a6-0338-45be-a444-91d818d71dfa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/527b66dc-2fc4-403a-ab50-c232e0d47541/file/0db6f397-ce4a-42f3-abe3-510c46a5d90b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d5%2Fdd%2Ff1%2Fd5ddf12817514479a4d1d07cd1f4b42d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2fff87d6-50e7-47fc-bc2b-f4f2a64b58d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-527b66dc-2fc4-403a-ab50-c232e0d47541",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q237ht853",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-q237ht853"
+}

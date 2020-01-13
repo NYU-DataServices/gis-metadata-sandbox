@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Visscher, Nicolaes, 1649-1702"
+  ],
+  "dc_description_s": "Map of the Rhine River Valley. Relief shown pictorially. \"Cum privil. ordin. general Belg. Foedn.\" Probably issued in: Atlas minor, sive, Geographia compendiosa ... Amstelaedami : Ex officina Nicolai Visscher, [1690?]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55zb18r",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam? : s.n., 1690?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Alsace (France),Maps,Early works to 1800",
+    "Baden-Wu\u0308rttemberg (Germany),Maps,Early works to 1800",
+    "Rhine River Valley,Maps,Early works to 1800",
+    "Sundgau (France),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Superioris Alsati\u00e6 nec non Brisigavi\u00e6 et Suntgavi\u00e6 geographica tabula : in qua subjacentia territoria distincte ostenduntur",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7136920\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/596f9b77-f132-4c5b-83e2-55373add71db/file/d42ab903-3094-4719-a147-72c3c208400a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/596f9b77-f132-4c5b-83e2-55373add71db/file/03f615a7-1cf3-48e8-87fd-857e6ab83e7a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2Ff9%2F54%2F7ef9544d97414ebebc378c1261af3735%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9bd2885c-7888-4ca4-a57f-f8862e38fac9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France",
+    "Germany (West)"
+  ],
+  "dct_temporal_sm": [
+    "1690"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-596f9b77-f132-4c5b-83e2-55373add71db",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55zb18r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.8335, 8.6625, 48.4383, 47.3002)",
+  "solr_year_i": 1690.0,
+  "uuid": "princeton-rf55zb18r"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sept. 1895.\" Includes key and text. \"8214.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc89c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Tuckerton,Maps",
+    "Tuckerton (N.J.),Maps"
+  ],
+  "dc_title_s": "Tuckerton, Ocean Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574428\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/23a97876-32c6-4ab4-a52f-6bd320be06b3/file/00f5afae-6fc4-4c51-946e-d372b99f1351\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/23a97876-32c6-4ab4-a52f-6bd320be06b3/file/d35edf95-6e4b-4aa3-bc37-7f1a612694c0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2F8c%2F63%2F348c63858eb14e5582fa580363486699%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43e1f231-67fc-4fa1-8fe5-bbc4090e0d49/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-23a97876-32c6-4ab4-a52f-6bd320be06b3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc89c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.350706, -74.310831, 39.616915, 39.575962)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-pk02cc89c"
+}

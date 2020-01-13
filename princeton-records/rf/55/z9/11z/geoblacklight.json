@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 57 has title: Moonachie & Woodridge. Includes text. Sheets 56-57 of Garfield, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55z911z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wood-Ridge,Maps",
+    "Real property,New Jersey,Moonachie,Maps",
+    "Wood-Ridge (N.J.),Maps",
+    "Moonachie (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodridge & Moonachie (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5273527\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a62977-582a-4189-90ad-ee981fcfe52a/file/2b044fdf-d6f9-4974-9fcf-8609abcdcefe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a62977-582a-4189-90ad-ee981fcfe52a/file/51aa14b1-010b-452a-a6e8-44307c435593\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2F97%2F42%2F6697422c4c524656a5989327cdacfdcc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ed8d9c78-4cb9-4dac-a2ed-64ce3f57bec7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1a62977-582a-4189-90ad-ee981fcfe52a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55z911z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.099, -74.039, 40.865, 40.831)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-rf55z911z"
+}

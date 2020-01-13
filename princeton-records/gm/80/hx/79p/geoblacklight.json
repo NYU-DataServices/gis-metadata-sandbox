@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Geological and Geographical Survey of the Territories (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by contours. Title in upper right margin: Geology of the Unita Mountains.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx79p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington? : The Survey?, 1875?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Green River Valley (Wyo.-Utah),Maps",
+    "Green River (Wyo.-Utah),Maps"
+  ],
+  "dc_title_s": "Green River from the Union Pacific Rail Road to the mouth of White River, 1873",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6814399\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ed926fa-2cc1-435f-897f-2406f65d7377/file/80a99a0c-441a-4efd-b231-cdcc258e8587\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ed926fa-2cc1-435f-897f-2406f65d7377/file/8865a91d-8419-4104-b5a7-b1108d121c8b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2F8f%2Fd1%2F918fd14a107347588ced7f324c236799%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d588ef70-1f98-492c-bd2e-49d8133edd26/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1875"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5ed926fa-2cc1-435f-897f-2406f65d7377",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx79p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-109.8227, -108.4933, 41.6935, 40.0403)",
+  "solr_year_i": 1875.0,
+  "uuid": "princeton-gm80hx79p"
+}

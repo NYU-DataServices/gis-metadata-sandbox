@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: New Castle, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1901-1902 in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/736666162",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Newcastle (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Newcastle Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836935\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/045ab3ef-139d-4b59-be26-b2e8efc0d15f/file/4e713d28-bb26-4bb6-8230-09f3cd89a60d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2379e7ba-83cb-435e-9689-9cb557ebf1c3/file/57e31bc1-7d96-4f5a-abe8-2ee8d1e85920\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2379e7ba-83cb-435e-9689-9cb557ebf1c3/file/8f22cde8-6701-4bfc-b65a-1c44a2a83e7e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2Fda%2F18%2Ff5da18f237ee45798dd0f04cdedc94d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29fa62eb-ea0d-4e14-a9c3-bb6f37d474d5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2379e7ba-83cb-435e-9689-9cb557ebf1c3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-736666162",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.5, -80.25, 41.0, 40.75)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-736666162"
+}

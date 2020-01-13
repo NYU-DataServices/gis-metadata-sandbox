@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. North Decimal Degree 40.50000000. South Decimal Degree 40.37499619. East Decimal Degree -74.37500000. West Decimal Degree -74.50000000. Alternate title: New Brunswick, NJ. Polyconic projection. Relief shown by 10 ft. contour interval, datum is mean sea level.\"Control by USGS, USC&GS, USCE, and New Jersey Geodetic Survey. Topography by plane-table surveys 1939. Revised 1953-1954.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36v026b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : U.S.G.S. 7.5 minute series (topographic), 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "New Brunswick Quadrangle, New Jersey. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6843029\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e86746c-d0db-438c-bad3-688a644fea47/file/4d136e96-4f28-4d7b-981f-cf0fd4b74a9d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04d028d5-a95e-425a-b1ea-4be36bf12dc8/file/dc975127-ec0c-4332-a14f-30c8fa65c99d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04d028d5-a95e-425a-b1ea-4be36bf12dc8/file/b2e675d7-b03b-4c66-b877-513eef653a6c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F16%2F01%2F5b16013ffdc340feb39df8e709636186%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/37a44372-7232-48b6-a809-a65a336658b8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-04d028d5-a95e-425a-b1ea-4be36bf12dc8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36v026b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.375, 40.5, 40.37499619)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-2r36v026b"
+}

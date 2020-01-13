@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Kefallinia, Greece, shown at a 1:250,000. The map was created for use by War and Navy Department agencies during and after World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w0892c37d",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "The Balkans 1:250,000. Kefallinia, sheet G-10. A.M.S. M506 (G.S.G.S. 4410)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7068327d-9454-408a-b10b-80c245c76d9e/file/e0682f7d-cd14-4d0d-afb8-1f61ab4c9196\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc582e5c-f1a1-4c76-90c2-fcbe00cf9b31/file/e34da8b5-3f83-4381-96b7-0101c4cf2873\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc582e5c-f1a1-4c76-90c2-fcbe00cf9b31/file/95a7d2d1-c80a-4921-8dd7-0a9f421d3207\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/63%2F88%2F5e%2F63885ec2e6ec44aa95b2f91a3fe6e4fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e8f0834-0169-40a4-9321-672623532bfa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Kefallinia",
+    "Greece",
+    "Cephalonia",
+    "Kefallinia, Nisos",
+    "MAX G6801.C2.s250.A7M3 sh G-10"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc582e5c-f1a1-4c76-90c2-fcbe00cf9b31",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w0892c37d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.2, 21.7, 38.5, 37.5)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-w0892c37d"
+}

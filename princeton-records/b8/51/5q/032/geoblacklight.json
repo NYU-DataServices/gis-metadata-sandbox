@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Cambodia with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q032",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Trail",
+    "Administrational and Political Boundaries",
+    "Railroad"
+  ],
+  "dc_title_s": "Cambodia, 1991 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e9d43a1-719b-4b44-8b59-d5f874d0c828/file/4b2d47d1-fe01-437e-a8a5-b8b1ed5b7675\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fb1b932-1ea8-4c60-a33a-e8b230d60baa/file/bc20dabf-f0e8-467f-a4ba-e9aaf2b10298\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fb1b932-1ea8-4c60-a33a-e8b230d60baa/file/bf43c3b6-bdc8-4ec1-ad6e-b72c93d93d0d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F43%2Fcf%2F3343cfdfa9014fd686598d187d4cb56d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cf42f017-529f-4d55-a33a-387e551b9904/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cambodia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2fb1b932-1ea8-4c60-a33a-e8b230d60baa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q032",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(102.0, 108.0, 16.0, 8.0)",
+  "solr_year_i": 1991.0,
+  "uuid": "princeton-b8515q032"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -17.116667. South Decimal Degree -17.166667. East Decimal Degree -69.500000. West Decimal Degree -69.566667. Alternate title: Rio Cusi Cusini, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3r074w812",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1971.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Rio Cusi Cusini, hoja 5642 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839911\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34a12e6d-b9e9-468a-9e84-3a54a0705516/file/134d5705-e5e4-4c5e-9877-cda22314bdef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34a12e6d-b9e9-468a-9e84-3a54a0705516/file/cbfd955e-5069-4c98-9b32-87af56f826a0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/54%2Fb1%2Fe1%2F54b1e19b68b54c85a535090520112a13%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aed67d68-182c-4d01-bcaa-039363ff00a7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-34a12e6d-b9e9-468a-9e84-3a54a0705516",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074w812",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.566667, -69.5, -17.116667, -17.166667)",
+  "solr_year_i": 1971.0,
+  "uuid": "princeton-3r074w812"
+}

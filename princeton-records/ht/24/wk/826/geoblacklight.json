@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Columbia with relief, shown at a 1:4,000,000 scale. Included is additional information covering population, land use and economic activity. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ht24wk826",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Population",
+    "Railroads",
+    "Land Use",
+    "Industry",
+    "Transportation"
+  ],
+  "dc_title_s": "Columbia. (1970/relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7553a0f6-5eac-4f20-a5c4-b5a6fe236f6f/file/6511dd7d-845c-4c41-a42c-0fe587f9a786\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f89f6363-8ac4-4f82-a9d6-b6209de74895/file/30f6b105-60d5-46ed-8aeb-7c20d1347f03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f89f6363-8ac4-4f82-a9d6-b6209de74895/file/c5b51baa-4395-4940-8026-74e90d57af17\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/59%2Fee%2Ff1%2F59eef14a00314a478aa30353d7ecea65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/91a488a0-ef51-474d-863d-3252d002b68b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Columbia",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f89f6363-8ac4-4f82-a9d6-b6209de74895",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ht24wk826",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.0, -66.0, 13.0, -5.0)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-ht24wk826"
+}

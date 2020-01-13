@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Kiepert, Heinrich, 1818-1899"
+  ],
+  "dc_description_s": "Relief shown by shading. Historic Maps copy imperfect: sheets IV and VI wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89db31p",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Berolini : editit Ditericus Reimer (Ernestus Vohsen), 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asia, Central,Maps",
+    "Iran,Maps",
+    "Turkey,Maps"
+  ],
+  "dc_title_s": "Imperia Persarum et Macedonum in usum scholarum descripta / ab Henrico Kiepert. [shhet 1 of 4]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7025335\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ceb87be-bf25-41df-9eba-482eea90ae15/file/d4eff250-2a51-4ac4-b92e-19b3161d9334\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ceb87be-bf25-41df-9eba-482eea90ae15/file/52e6016b-a395-4783-b02d-940d5009778c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2F5f%2F36%2F8d5f367c899a4fcb9c673650e905d0d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c7db70a-cf30-4a3c-af03-2a883bfd0b14/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iran",
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8ceb87be-bf25-41df-9eba-482eea90ae15",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89db31p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(46.493672, 87.315415, 55.441984, 35.12876)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-pn89db31p"
+}

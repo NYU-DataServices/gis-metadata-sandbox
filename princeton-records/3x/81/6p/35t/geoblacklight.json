@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4379 United States. Army Map Service Great Britain. Inter-service Topographical Department In upper left margin: Sicily 1:5,000. From Italian chart 337 of 1935 and from air photographs up to 1943. Relief shown by form lines. Depths contours in fathoms from Italian chart. Southern Italy grid. Grid north is 0-degree 11' W of True North.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816p35t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Termini Imerese (Italy),Maps"
+  ],
+  "dc_title_s": "Sicily, Termini Imerese. G.S.G.S. 4379",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449833\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/76eec066-376b-4ff9-840b-f87f6d474e7b/file/224960a2-2d2f-4f55-8e9f-b4286650eac3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c2c1b57-644f-4db7-81d7-d382f2732cc1/file/d07ec96f-426e-4e08-b0a8-cef803e9947f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c2c1b57-644f-4db7-81d7-d382f2732cc1/file/ee296168-a94c-4cf7-8f64-43bf7bad7202\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fd6%2Fb2%2F47d6b23403704908a961f2bdc0889e6f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e0dfc99-a994-4319-8cac-4adfe841d890/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6c2c1b57-644f-4db7-81d7-d382f2732cc1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816p35t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.666666666666666, 13.733333333333333, 38.016666666666666, 37.95)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-3x816p35t"
+}

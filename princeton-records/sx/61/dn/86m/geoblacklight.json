@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Dover mit militaergeographischen Eintragungen. Grossblatt 12, Blattbereich 40. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560; 1932, 1934, 1936, 1937. Major city access roads are color coded. Accompanied by booklet: \"Militargeographische Einzelangaben ueber England; Objektbilder zu den militargeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 12 Suedost-England und London\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map). (Booklet 12 is missing.)",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dn86m",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1941.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "England,Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Stadtplan von Dover, BB 40",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831120\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/254b166c-bf5b-47af-98d0-33e1e119bf17/file/08b63f9f-850f-4112-9e6f-7ff06e158b29\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c20fd6c7-5ed4-4c11-b891-13dfbdf0ece3/file/d738df2b-71ab-4721-9308-c1c25024d1c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c20fd6c7-5ed4-4c11-b891-13dfbdf0ece3/file/0253bd4c-e91a-49ae-a718-6516947b7c38\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Fa0%2Fbe%2Fb5a0be99203c4468a1e6172190701fc2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b5318e0c-2817-454b-a6ae-a99b393f78f2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c20fd6c7-5ed4-4c11-b891-13dfbdf0ece3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dn86m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.2833333333333332, 1.3333333333333333, 51.15, 51.1)",
+  "solr_year_i": 1941.0,
+  "uuid": "princeton-sx61dn86m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1920.\" Includes location map, key, streets and specials index, and text. \"3284.\" Historic Maps copy has sheets 1-29 and 34, showing Hackensack; sheets 30-37, showing Bogota, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9019s483h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hackensack,Maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hackensack, Bergen County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5265934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6301fcd7-0762-4880-901a-59bc40b62c73/file/14c5b489-bd2d-47f6-a51b-cc68cfb26e92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6301fcd7-0762-4880-901a-59bc40b62c73/file/daac018c-b3ef-41c5-ad68-e3d83f36a2fc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2F75%2Fb5%2Fd875b54480044b2e97e61dcf975ab9b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/424b60b8-4dd8-40eb-92cc-47f55565fb3e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6301fcd7-0762-4880-901a-59bc40b62c73",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9019s483h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.068385, -74.024737, 40.913285, 40.858698)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-9019s483h"
+}

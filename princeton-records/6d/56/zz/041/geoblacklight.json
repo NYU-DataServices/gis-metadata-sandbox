@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1885.\" Includes key, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz041",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map and Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Camden,Maps",
+    "Camden (N.J.),Maps"
+  ],
+  "dc_title_s": "Camden, New Jersey (Sheet 12)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355749\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fae498f-6b9c-4f21-b25b-912de79e46b6/file/a7de5d43-0933-4d2f-9b4d-76d438b6252d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fae498f-6b9c-4f21-b25b-912de79e46b6/file/0aadffdf-be96-4abf-b24a-746fc931802f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2d%2Fe8%2Fbc%2F2de8bca25d3d4007b082b3e8200b56b1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd836b9e-a8a0-443e-95a0-ed275b330996/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5fae498f-6b9c-4f21-b25b-912de79e46b6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz041",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.128, -75.072, 39.969, 39.9)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-6d56zz041"
+}

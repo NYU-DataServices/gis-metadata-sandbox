@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes 12 folded maps. Cover title. \"This map is not transferable and must not be copied, as it is copyright by and property of Sanborn Map Company, 11 Broadway, New York.\" -- Ink stamp on cover and each map. Hand colored. MAP copy is extensively annotated in pencil.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dw90k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, c1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Sanborn map of Princeton, N.J. : for the exclusive use of W.B. & E.L. Howe, agents (Sheet 8 1902)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6aecdbf6-f117-4845-b008-f54c52acb506/file/3f684b74-1b34-4797-8d29-2c999e1d5fc1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6aecdbf6-f117-4845-b008-f54c52acb506/file/1d699b2e-2656-422c-abd4-c4225bf62e22\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/81%2F68%2Fad%2F8168ade8b20847de8351efbcc730aadd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e6b2cc5-cc11-4314-a9e4-72a3342f2dfa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6aecdbf6-f117-4845-b008-f54c52acb506",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dw90k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-4m90dw90k"
+}

@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Guilford Quadrangle in Connecticut shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wh246t71r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Contour",
+    "historical maps",
+    "Boundaries",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "Connecticut: Guilford sheet [1944 reprint]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bf3b21d2-d847-4048-a393-25cf0292d3c5/file/b94183b8-2dc2-4e95-ad58-b100604899d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b18610c4-a426-4652-9f4d-327adfd01912/file/e8dc9e7b-0944-4432-a59b-c461bdd7dbce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b18610c4-a426-4652-9f4d-327adfd01912/file/2b2ec6fc-3f5e-4649-af89-c13d25c8257a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0d%2F47%2F6a%2F0d476a5a2f5240588b9ca45dbc43ff35%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f95f457-b325-4365-b57f-4cd5c81a7dc4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "MC  G3781.C2.s62.U5G4 Guilford (1944)",
+    "Connecticut",
+    "New Haven County",
+    "Middlesex County",
+    "Guilford",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b18610c4-a426-4652-9f4d-327adfd01912",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wh246t71r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 41.5, 41.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-wh246t71r"
+}

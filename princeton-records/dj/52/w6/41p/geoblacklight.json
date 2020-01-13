@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Gouverneur, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1912 and 1913. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w641p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gouverneur (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (St. Lawrence County) Gouverneur Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866824\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0991c756-ca44-45e7-b6cd-0dd6adf58d3a/file/2b82ae71-1fda-47ed-a66f-35e7ab14ab8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4dfab401-444f-4722-9178-e2baf6d048bc/file/59d79aac-07f1-43e6-acd9-c4c243097cd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4dfab401-444f-4722-9178-e2baf6d048bc/file/67665d07-a3c0-496c-9e91-02ec19279751\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/63%2F51%2F5e%2F63515ed861884d2aa3ed30126e414926%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e02ba6aa-2d8e-49e4-9491-bb59de77fc87/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4dfab401-444f-4722-9178-e2baf6d048bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w641p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 44.5, 44.25)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-dj52w641p"
+}

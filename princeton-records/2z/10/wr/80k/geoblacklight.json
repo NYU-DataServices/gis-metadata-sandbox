@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Newly Independent Balkan States. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10wr80k",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Cities",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Newly Independent Balkan States, 1992",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff78c31b-3ace-4fc2-9094-95736be944cd/file/372fdda8-6916-4d01-9480-ab8e25368236\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03d5b309-eeb4-49cf-b312-f63a1a4e5994/file/8e678141-6390-42a4-a115-13292720d292\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03d5b309-eeb4-49cf-b312-f63a1a4e5994/file/77672722-acb3-4ed5-b2f6-c25ad9cdd336\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2F32%2F5d%2F72325d6e1cef4af5840ee2daeaa655ce%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1538ffc-da37-49c7-a0f0-cf051998451c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Balkan Region",
+    "Croatia",
+    "Eastern Europe",
+    "Boznia and Herzegovnia"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03d5b309-eeb4-49cf-b312-f63a1a4e5994",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10wr80k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.8895, 19.6325, 47.466, 42.087)",
+  "solr_year_i": 1992.0,
+  "uuid": "princeton-2z10wr80k"
+}

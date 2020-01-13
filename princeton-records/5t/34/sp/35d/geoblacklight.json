@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Cover title. Scale of maps 1-17: 1 mile to an inch. At head of title : Geological Survey of New Jersey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sp35d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York, Julius Bien & Co., [1884-1888]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps, Topographic"
+  ],
+  "dc_title_s": "Atlas of New Jersey (page 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/1943935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4fd010bf-08d9-483e-afac-192b07677bbd/file/b05fcf20-0d82-4a9a-bbd3-0ff25f41bc29\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4fd010bf-08d9-483e-afac-192b07677bbd/file/3c07aaa8-22ca-41f4-ad3a-c2a9a84f0b32\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F01%2Fd9%2Fe101d961d7c846198c4049e6ac245bc4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b6d3ffe-a515-4ca8-b0b9-e2ca890269f4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4fd010bf-08d9-483e-afac-192b07677bbd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sp35d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-5t34sp35d"
+}

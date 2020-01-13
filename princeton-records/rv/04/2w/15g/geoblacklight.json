@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "Sauthier, Claude Joseph"
+  ],
+  "dc_description_s": "Prime meridian: New York. Relief shown pictorially. Shows administrative divisions in New York and New Jersey. Historic Maps only has lower sheet, showing New Jersey and part of New York (37 x 57 cm.).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042w15g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Augsburg : Matthew Albert Lotter, 1777.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (State),Maps,Early works to 1800",
+    "New York (State),Administrative and political divisions,Maps,Early works to 1800",
+    "New Jersey,Maps,Early works to 1800",
+    "New Jersey,Administrative and political divisions,Maps,Early works to 1800",
+    "Northeastern States,Maps,Early works to 1800",
+    "Que\u0301bec (Province),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A map of the provinces of New-York and New-Jersey : with a part of Pennsylvania and the Province of Quebec",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576684\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/9a3cce2b-6fee-4cc1-ba99-3c3753c9c6e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/b8ba57de-4e6b-4cdb-9c4f-2e94d8604f33\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ee%2F5a%2F83%2Fee5a831fa96b45b89b714f6eb65028cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a116351-97d3-4ab5-88da-c2d80d5d593e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey",
+    "Northeastern States",
+    "Qu\u00e9bec (Province)"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f26cdcf6-8202-48f9-87bb-1132777b7887",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042w15g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.4533, -70.444, 42.3424, 38.8483)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-rv042w15g"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: The geology of the Syracuse Quadrangle / Thomas Cramer Hopkins. Albany : New York State Museum. Bulletin 171, 1914. 80p. 20pls. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cx73f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Syracuse (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of Syracuse Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515136\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c25038d5-b9b1-49a2-9248-411047646c13/file/8f093899-2fc8-4de2-8757-483fe88ddb6b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/079bc575-2035-40b2-b560-4076ba64a2e4/file/ce786c37-1ebe-49c2-be5c-b7bbf30b3bb6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/079bc575-2035-40b2-b560-4076ba64a2e4/file/a07c372b-f05b-49e1-861f-a5956b51fe73\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8c%2F68%2F73%2F8c6873b691f74335835371f97567d4d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e8ecd4a-9d02-4e15-81e8-36ad7a6c157a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-079bc575-2035-40b2-b560-4076ba64a2e4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cx73f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 43.25, 43.0)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-bz60cx73f"
+}

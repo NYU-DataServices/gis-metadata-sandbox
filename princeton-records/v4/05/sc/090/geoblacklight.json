@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Gorazde. Transverse Mercator projection. Relief shown by 40 meter contour intervals s and spot elevations. \"Coordinate conversion WGS-84 to European 1950.\" This sheet falls within NK 34-1, 1501A, 1:250,000 and 2882II, M709, 1:50,000. \"Map informations as of 1993. Compiled in 1995 from best available sources.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v405sc090",
+  "dc_language_s": "English",
+  "dc_publisher_s": "St. Louis, MS : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Bosnia and Herzegovina,Maps"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina city graphic 1:15,000. Gorazde. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449391\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/99572cf7-a4c4-4dc9-a138-77578b9c03a4/file/41daf29a-c773-468e-8767-1e9c99f7744a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d4bbd95-e5dd-4c3e-b9e3-36aa647d3f21/file/08f1e681-bd2a-4e12-bb80-04b4eabbdd37\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d4bbd95-e5dd-4c3e-b9e3-36aa647d3f21/file/36c64321-0e02-41db-be87-c6a99fe77315\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c2%2F16%2Fb0%2Fc216b020949d418c885f65dc34fe34a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4addb15-26f0-4aac-992c-5866583ca339/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3d4bbd95-e5dd-4c3e-b9e3-36aa647d3f21",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v405sc090",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.916666666666668, 19.016666666666666, 43.666666666666664, 43.6)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-v405sc090"
+}

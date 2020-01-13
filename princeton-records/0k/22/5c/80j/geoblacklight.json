@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "California State Mining Bureau.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225c80j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Sacramento, CA?] : [s.n.], 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "Cross section",
+    "Inyo County (Calif.),Maps"
+  ],
+  "dc_title_s": "Geologic map of Inyo County, California. Sheet 2.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6815936\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63e77238-9666-4a0d-98e1-6a1f61e5ba29/file/6825a2c2-0465-49f6-8bcc-adfced137391\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63e77238-9666-4a0d-98e1-6a1f61e5ba29/file/d29ee599-b1e0-48aa-a765-02941e7b9c6e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F93%2F74%2Faf93744b1b5d45f78eed3494f96f6bfb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/21426933-9f19-4fdc-87a2-7b6821eaebd6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-63e77238-9666-4a0d-98e1-6a1f61e5ba29",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225c80j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-118.78333333333333, -115.63333333333334, 37.46666666666667, 35.78333333333333)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-0k225c80j"
+}

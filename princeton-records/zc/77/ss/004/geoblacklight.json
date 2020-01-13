@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 47 to 53 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 47. \"N.J.C.M. vol. 2.\" Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zc77ss004",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean Grove,Maps",
+    "Real propery,New Jersey,West Ocean Grove,Maps",
+    "Ocean Grove (N.J.),Maps",
+    "West Ocean Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean Grove and W. Ocean Grove (Sheet 51)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827664\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d66e5094-ab3b-44be-b9ca-e9b15ced20de/file/62cdaec4-276d-4108-a0c8-06894029492d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d66e5094-ab3b-44be-b9ca-e9b15ced20de/file/44b2c8b2-5980-42db-9aed-559c2eac9d53\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2F90%2Fa6%2F5290a6b8655c415b87a5d927a8660b66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6b7aad7-c977-4e86-b2e8-e96354afb1d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d66e5094-ab3b-44be-b9ca-e9b15ced20de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zc77ss004",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-zc77ss004"
+}

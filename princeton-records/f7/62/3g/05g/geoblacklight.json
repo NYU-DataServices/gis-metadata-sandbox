@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Lapie, M. (Pierre), 1779-1850"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"De\u0301pose\u0301e au Bureau des Estampes.\" Prime meridian: Paris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f7623g05g",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : chez Basset, md. d'estampes, Rue St. Jacques, no. 64, 1833.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Europe",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7097136\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe8c05c5-f42d-488f-88bc-20df93e25f4c/file/f22053ab-0105-4836-b3ac-5ad37c82f9fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe8c05c5-f42d-488f-88bc-20df93e25f4c/file/7450ea18-5beb-4fac-8518-3c217463f829\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5e%2Fd5%2F2d%2F5ed52df80f6d4d658fde503a7f44c07c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/952323e5-dd8f-499a-ab51-8a4bfd552db3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe8c05c5-f42d-488f-88bc-20df93e25f4c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f7623g05g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-37.0, 87.0, 72.5, 28.0)",
+  "solr_year_i": 1833.0,
+  "uuid": "princeton-f7623g05g"
+}

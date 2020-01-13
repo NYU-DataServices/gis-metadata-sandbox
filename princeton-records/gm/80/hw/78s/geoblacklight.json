@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Port Jervis. Relief shown by 20 feet contour interval. Surveyed in 1884 and 1904-1906. Surveyed in cooperation with the States of New York, New Jersey and Pennsylvania. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hw78s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Port Jervis (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-New Jersey-Pennsylvania: Port Jervis Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868351\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ce0ba54e-ec5b-466c-8c6b-d7ed9ba3dea9/file/8a14a225-7b52-4ff4-a819-546e48ee8679\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3535c2cd-9d7e-4d39-9f46-f718a4e6a6f4/file/d853ef7d-065f-4a29-a7ef-302ce2b883ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3535c2cd-9d7e-4d39-9f46-f718a4e6a6f4/file/7e95a7d3-6d95-488b-bd15-1c2912777697\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3f%2F4c%2Fd3%2F3f4cd3fa10c0410ba1f7f3ba25895ea5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/077f11cc-4984-4904-98d7-fa24252e6038/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3535c2cd-9d7e-4d39-9f46-f718a4e6a6f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hw78s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.5, 41.25)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-gm80hw78s"
+}

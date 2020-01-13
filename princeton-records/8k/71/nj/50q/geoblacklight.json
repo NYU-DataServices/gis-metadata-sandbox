@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Franklin, Mass.-R. I. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887. Surveyed in cooperation with the state of Massachusetts. Triangulation by Borden Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nj50q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Massachusetts-Rhode Island: Franklin sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837142\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a7c24c3-2211-48bf-a4ef-e6642404dcad/file/bab6a16c-29c0-4e59-987b-ee4bc68c8627\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cead699d-d3c4-48dd-8223-0da0a2798423/file/fe8a4976-a905-4652-8cfc-aef8b4969e6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cead699d-d3c4-48dd-8223-0da0a2798423/file/1fe3e4cf-e7da-491a-95db-f37eb358b4d9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F10%2Faa%2Fe410aac339944d3a850ea4ed251cecf5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/758533fd-e74b-4fd1-a890-b3a88e9d493a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cead699d-d3c4-48dd-8223-0da0a2798423",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nj50q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.5, -71.25, 42.25, 42.0)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-8k71nj50q"
+}

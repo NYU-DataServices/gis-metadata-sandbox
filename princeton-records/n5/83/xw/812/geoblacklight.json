@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786"
+  ],
+  "dc_description_s": "Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xw812",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : che\u0301z l'autheur ... , 1771.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa,Maps"
+  ],
+  "dc_title_s": "Afrique divise\u0301e en ses principaux empires et royaumes",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4563974\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bf1b060-b008-4bf9-aa70-582767cd61d1/file/59655371-83bd-4df4-87cc-4f02823ea487\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bf1b060-b008-4bf9-aa70-582767cd61d1/file/8b11b0fe-d6f0-4618-a0e5-b8a4bfe23754\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2Faf%2F5f%2F44af5f9d0fe24a129d5e6cb4cce615e4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fcd7fc92-9d9b-4bd7-ba04-3680a3915dc9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1771"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5bf1b060-b008-4bf9-aa70-582767cd61d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xw812",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-26.0, 78.1, 38.1, -39.0)",
+  "solr_year_i": 1771.0,
+  "uuid": "princeton-n583xw812"
+}

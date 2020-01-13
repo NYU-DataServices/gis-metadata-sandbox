@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Horn of Africa, shown at a 1:4,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sf427",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Port",
+    "Road",
+    "Relief",
+    "Airfield",
+    "Administrative and Political Boundaries",
+    "Archeology",
+    "National Park",
+    "Rail",
+    "Transportation",
+    "Antiquity Site"
+  ],
+  "dc_title_s": "Horn of Africa, 1994",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aa48bd04-3777-468d-8cf5-bc986c514bd9/file/71a24aab-ef79-4b18-923e-37c38d9b4566\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/207b84b1-b30d-4271-9186-d8727b69668e/file/3554d434-2a68-4e99-af3d-103e707b2c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/207b84b1-b30d-4271-9186-d8727b69668e/file/c74cde31-6700-4b64-9e1d-1c60e7a2b679\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2Ff9%2F26%2Fadf926788844490da0a3659a21826f6c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f809bec-7e2e-4305-8cf5-02ad00ff7298/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Horn of Africa",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-207b84b1-b30d-4271-9186-d8727b69668e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sf427",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(28.5, 55.0, 20.0, -7.5)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-mp48sf427"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing areas of tsetse presence in Northern Rhodesia (Zambia) for 1938. Boundaries of these areas were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/x346d7806",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Health"
+  ],
+  "dc_title_s": "Zambia tsetse fly presence, 1938",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b00e13eb-f23c-4ab7-846f-7b1ff0e3aa76/file/325431e4-dbfb-41c5-922a-34774521f8eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bb30077-389c-4284-a4cc-c7cd2385456d/file/b380f27d-e836-4820-99a6-a57220b9758f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bb30077-389c-4284-a4cc-c7cd2385456d/file/a64f5936-ac8e-45c4-8402-4d7bcdf465a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Rhodesia",
+    "Northern Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-5bb30077-389c-4284-a4cc-c7cd2385456d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x346d7806",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(23.94217, 33.311266, -8.259892, -17.582956)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-x346d7806"
+}

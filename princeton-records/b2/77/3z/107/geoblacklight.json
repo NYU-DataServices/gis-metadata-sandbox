@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree -5.866944. South Decimal Degree -5.956667. East Decimal Degree 29.253333. West Decimal Degree 29.172222. Alternate title: Kalemie.Transverse Mercator projection. Relief shown by 5 m. contour interval and spot heights. Supplementary contours at 2.5 meters. Horizontal datum World Geodetic System (WGS) 1984. Vertical datum mean sea level. \"Standard map series designation: Series Z901.\" Guide to numbered features on the map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773z107",
+  "dc_language_s": "English",
+  "dc_publisher_s": "St.Louis, MO : United States. Defense Mapping Agency, 1980.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Zaire,Maps"
+  ],
+  "dc_title_s": "Zaire city graphic 1:12,500. Kalemie. Series Z901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845272\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b8c445f-80ce-436f-a379-50a7de1c2497/file/00edb7b1-eed9-42a1-8946-7d33ae48c572\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b8c445f-80ce-436f-a379-50a7de1c2497/file/21d5d693-f848-4d46-953f-22858d8d6a47\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2Fc2%2Feb%2F36c2eb1263ce40c682e93a8961db5bd0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87643d8d-a45f-4fc4-9382-3e836d19a07e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7b8c445f-80ce-436f-a379-50a7de1c2497",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773z107",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.172222, 29.253333, -5.866944, -5.956667)",
+  "solr_year_i": 1980.0,
+  "uuid": "princeton-b2773z107"
+}

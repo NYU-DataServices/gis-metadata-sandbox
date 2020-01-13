@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Kitchin, Thomas, d. 1784"
+  ],
+  "dc_description_s": "Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h415pc444",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : T. Kitchin, between 1741 and 1784]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "North America,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "North America",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5276967\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac4b75e4-1cc9-430a-a51e-9e600598cdbb/file/cae30ffb-ee0e-4d7b-b1b6-ebe8cc3652d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac4b75e4-1cc9-430a-a51e-9e600598cdbb/file/0fe89180-27d6-4f93-84c0-a0a4ebc2bf8c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/69%2Fd9%2F57%2F69d957a6dd244fc7b9f530099e3bdb97%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0155580d-4878-4d09-a8da-a91235cc5584/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1741"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ac4b75e4-1cc9-430a-a51e-9e600598cdbb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h415pc444",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-174.01, -50.51, 75.01, 19.0)",
+  "solr_year_i": 1741.0,
+  "uuid": "princeton-h415pc444"
+}

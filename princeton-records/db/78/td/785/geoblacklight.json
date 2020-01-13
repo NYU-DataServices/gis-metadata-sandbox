@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.750000. South Decimal Degree 39.625000. East Decimal Degree -74.750000. West Decimal Degree -74.875000. Alternate title: Hammonton, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped, edited and published by the United States Geological Survey. Control by USCE, USC&GS and New Jersey Geodetic Survey. Topography by photogrammetric methods from aerial photographs taken 1951. Field checked 1953. Revised 1966.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/db78td785",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1966.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Hammonton Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844279\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04b15551-d960-44f8-9b31-7b5dc80afe15/file/df97a583-cc2c-46f2-bde0-2a988bcf614b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84f36d3c-1455-40d0-8805-5740184d753a/file/e7417d3e-22ac-43a9-a2b7-ee0bb63e91e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84f36d3c-1455-40d0-8805-5740184d753a/file/6ff9e687-c752-4c01-b4ae-523240f28ac5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F49%2F1d%2F45491d12500c4ac399a9aaa8be3734d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e32a68e6-e1b0-41c6-8b25-cd3f0f931589/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-84f36d3c-1455-40d0-8805-5740184d753a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-db78td785",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.875, -74.75, 39.75, 39.625)",
+  "solr_year_i": 1966.0,
+  "uuid": "princeton-db78td785"
+}

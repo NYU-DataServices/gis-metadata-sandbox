@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "American Geographical Society of New York"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9z903237w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : American Geographical Society, [ca. 1914]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Italy",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8018979\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6028bc61-f184-49c9-b369-9c445dfc17d7/file/d1120661-1d71-4e96-9ec9-62e5725d1fdd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6028bc61-f184-49c9-b369-9c445dfc17d7/file/6b12e9d3-2c2d-4656-a23c-22016f18510a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Feb%2Fe3%2Fb5ebe3f977eb4a0da51ee899dd2bab87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e091cb23-8f16-4109-a140-8541617a1696/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6028bc61-f184-49c9-b369-9c445dfc17d7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9z903237w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.11, 24.0, 46.75, 35.84)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-9z903237w"
+}

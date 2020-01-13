@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Hartnagel, C. A. (Chris Andrew), 1874-"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Another copy of map in source publication. Companion text: Upper Siluric and Lower Devonic formations of the Skunnemunk Mountain region / C. A. Hartnagel. Geological Papers. Albany: New York State Museum. Bulletin 107, 1907. pp.39-54. 3pls.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv26z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, State Museum, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology,New York (State),OrangeCounty,Maps",
+    "Orange County (N.Y.),Geology,Maps",
+    "Cornwall (N.Y. : Town),Geology,Maps",
+    "Geology",
+    "Cornwall Station (N.Y.),Maps"
+  ],
+  "dc_title_s": "Stratigraphic map of the region about Cornwall station",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515148\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c2ccd5c3-853f-418c-9948-bf61f837cb5a/file/dabcdf4b-422a-49eb-bfba-b6b0608750b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3540d677-5577-4480-a88b-f58171ac6306/file/c172a1c0-ab7d-47f1-9279-8bf4608336d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3540d677-5577-4480-a88b-f58171ac6306/file/79a7c2ac-7ad9-4912-9843-9ef1e08a50e5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2d%2F07%2F0c%2F2d070cda6c8d4c6c8d3bccc2d0c84c62%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6fc2bb41-a428-4b74-9d5d-976f731092e8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3540d677-5577-4480-a88b-f58171ac6306",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv26z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.104444, -74.061944, 41.446389, 41.406667)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-kd17cv26z"
+}

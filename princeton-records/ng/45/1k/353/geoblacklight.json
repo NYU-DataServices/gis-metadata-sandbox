@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "At top of map: Library atlas of the world. [Algeria, Tunis, and Morocco]. 95. Relief shown by hachures. From: The library atlas of the world. Chicago, New York : Rand McNally & Co., c1912.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k353",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Chicago] : Rand-McNally & Co., c1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Algeria,Maps",
+    "Tunisia,Maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of Algeria, Tunis and Morocco",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4625130\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2def8891-88e3-4985-b914-63b58e4e6998/file/3167677a-40c3-49c3-8908-4d8a9118b32c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2def8891-88e3-4985-b914-63b58e4e6998/file/0d46f2a7-0add-45ba-9841-602f2857e017\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d2%2F6f%2F54%2Fd26f5486f45c4dde88841276bb08f96d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f176872-628e-42fd-839d-1dd9ab38d69a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Morocco",
+    "Tunisia"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2def8891-88e3-4985-b914-63b58e4e6998",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k353",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-12.5087, 12.01, 38.0152, 24.0083)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-ng451k353"
+}

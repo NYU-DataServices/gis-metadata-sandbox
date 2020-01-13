@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Hopkins, Griffith Morgan, Jr."
+  ],
+  "dc_description_s": "In upper margin: [p.] 33, 34, 35, 36. From: Atlas of Philadelphia and environs ... Philadelphia : G.M. Hopkins, 1877. \"Entered according to Act of Congress in 1877 by G.M. Hopkins ... \" Cadastral map showing names and acreage of property owners.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75dh082",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia] : G.M. Hopkins, c1877.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Haddon (N.J. : Township),Maps",
+    "Haddonfield (N.J.),Maps",
+    "Merchantville (N.J.),Maps"
+  ],
+  "dc_title_s": "Haddon, Camden Co., N.J. ; Borough of Haddonfield, Camden County ; Borough of Merchantville, Camden County [1of 2]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7914781\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7309fbb-81fd-44c1-b8e3-a1667f37c26f/file/2ada1ca6-7a94-4f33-b6a7-64a4abd4f1b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7309fbb-81fd-44c1-b8e3-a1667f37c26f/file/4503af9f-a40a-4704-8c2a-4931249abff3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6d%2F31%2F47%2F6d31471c5dc9447db091539f1e210d7e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53f43f6a-0e1c-4f08-9bab-fabe6e40afc8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a7309fbb-81fd-44c1-b8e3-a1667f37c26f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75dh082",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.1033099, -75.037615, 39.9252853, 39.888518)",
+  "solr_year_i": 1877.0,
+  "uuid": "princeton-7s75dh082"
+}

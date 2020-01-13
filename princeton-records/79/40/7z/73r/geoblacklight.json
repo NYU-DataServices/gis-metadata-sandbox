@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1921.\" Includes location map, key, streets and specials index, and text. \"4102\". Historic Maps copy includes sheets 18-19 (Additional sheets, June 1922, no. 5223).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/79407z73r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Merchantville,Maps",
+    "Merchantville (N.J.),Maps"
+  ],
+  "dc_title_s": "Merchantville, Camden County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5406183\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1fa8298a-4072-4751-9187-8e445f838b3d/file/e4a12005-f4b4-4146-9d4d-6c65474ccc89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1fa8298a-4072-4751-9187-8e445f838b3d/file/3175f777-549a-469a-bb93-49eff1de97f3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7b%2F8f%2Fd2%2F7b8fd23101094221afa7ae9ae810a7ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fa51935b-1bd0-4e28-970b-b00f8a2a6e03/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1fa8298a-4072-4751-9187-8e445f838b3d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-79407z73r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-79407z73r"
+}

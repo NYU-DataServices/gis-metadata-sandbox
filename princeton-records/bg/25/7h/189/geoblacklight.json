@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1901.\" Includes key, key map, streets and specials index, and text. \"4668.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h189",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,South Amboy,Maps",
+    "South Amboy (N.J.),Maps"
+  ],
+  "dc_title_s": "South Amboy, Middlesex Co., N. J. (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5537417\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c50e2fde-f108-4ead-9d15-1c967de15902/file/cf438a21-c0fd-4bb1-9b67-0b9d00f9c4c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c50e2fde-f108-4ead-9d15-1c967de15902/file/6bfa7e73-3a71-4907-ad8a-9e4fd79d3443\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F0e%2F93%2Fa50e935550534f7e815012cfdecdc576%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d31d85fd-ff65-424d-a541-3ecfb9f41065/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c50e2fde-f108-4ead-9d15-1c967de15902",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h189",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-bg257h189"
+}

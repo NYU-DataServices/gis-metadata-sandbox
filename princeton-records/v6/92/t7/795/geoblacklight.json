@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J. coast vol 1.\" North oriented toward upper left. Sheets 64-67 inclusive of vol. 1 of New Jersey coast map series. Includes inset of Sea Bright (sheet 67).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v692t7795",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Monmouth Beach,Maps",
+    "Real property,New Jersey,Sea Bright,Maps",
+    "Monmouth Beach (N.J.),Maps",
+    "Sea Bright (N.J.),Maps"
+  ],
+  "dc_title_s": "Monmouth Beach (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/163020ea-5345-4d5e-8977-49febdaf69b4/file/58ac523c-30e7-4cab-9efb-bf9065e9d150\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/163020ea-5345-4d5e-8977-49febdaf69b4/file/0b78a78f-0099-4fca-b76e-64600b2a0afe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2F3e%2Fb9%2F043eb98f387a404c9bf18c244a936b9a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29a97bc9-705b-4aa4-b837-cff5adc6c13e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-163020ea-5345-4d5e-8977-49febdaf69b4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v692t7795",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.999, -73.972, 40.346, 40.322)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-v692t7795"
+}

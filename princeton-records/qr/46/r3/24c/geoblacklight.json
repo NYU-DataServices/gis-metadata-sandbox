@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows names of modern landowners and locations of old buildings. Oriented with north to the upper left. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qr46r324c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1864]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Stewart, J. A. (James A.),Homes and haunts,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of property formerly belonging in the 12th Ward of the City of New York belonging to the estate of James A. Stewart, deceased",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6226539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b418c5a8-9dc6-4957-996f-8231b8dcffb6/file/fefda1be-71bc-4d09-8863-36cd2f93f1a5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b418c5a8-9dc6-4957-996f-8231b8dcffb6/file/eed522b8-aa6a-4110-a1a5-f301f9e15d55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2Fec%2F51%2F1dec5132f513439db8db0b636dd078f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/851d2d84-ef85-4174-8963-664480d1148d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b418c5a8-9dc6-4957-996f-8231b8dcffb6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qr46r324c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0010911721, -73.9855129022, 40.7546264228, 40.7439463915)",
+  "solr_year_i": 1864.0,
+  "uuid": "princeton-qr46r324c"
+}

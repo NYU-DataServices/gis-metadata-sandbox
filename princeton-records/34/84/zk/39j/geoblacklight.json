@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "John Bartholomew & Co."
+  ],
+  "dc_description_s": "\"Copyright John Bartholomew & Co., Edinr.\" Also shows steamship routes between the islands. Includes inset \"Environs of London.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3484zk39j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh [Scotland] : John Bartholomew & Co., [1902?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads,England,London Metropolitan Area,Maps",
+    "Railroads,Great Britain,Maps",
+    "Steamboat lines,Great Britain,Maps"
+  ],
+  "dc_title_s": "Railway map of the British Isles : \"for satchel guide\"",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7199599\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/83cb8018-c026-45fc-9005-148f688d4452/file/c7e26cfe-b90d-486e-a5a8-c13e94e0001e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83cb8018-c026-45fc-9005-148f688d4452/file/ab830113-6c4e-408d-9212-d5115705d993\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F66%2F3e%2F5a663efa9a1f4e2fae6f5e28610d483a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ec8c73b-90ec-4f91-8974-5565940ace4b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-83cb8018-c026-45fc-9005-148f688d4452",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3484zk39j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.51, 1.96, 58.71, 49.89)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-3484zk39j"
+}

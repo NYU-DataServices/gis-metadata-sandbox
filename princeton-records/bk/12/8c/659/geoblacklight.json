@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. Depth of sea shown by contour lines on upper portion of map. N.W. Africa Zone grid. Lambert conical orthomorphic projection. Map is 3 of 7 sheets. Sources: uncontrolled mosaic by the Army Map Service, 1942 and aerial photography by R.A.F.. 1942. The Map Library does not have the rest of the set. On verso: \"New York: West Point and vicinity: Grid Zone 'A' \" (1:29,000), as both an aerial photograph and a topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128c659",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Photo maps",
+    "Algiers (Algeria),Maps"
+  ],
+  "dc_title_s": "Alger. Algeria. Alger and vicinity (uncontrolled mosaic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830546\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b03a038c-009b-497e-8d63-3bfbcfa0f16f/file/b783afe1-2e51-419c-89e4-8fcf9e70cfd2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48cf30e2-e676-49bd-bcd3-63c7c1a8ae28/file/be0cdc43-74d2-4c80-9034-8b859aa10242\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48cf30e2-e676-49bd-bcd3-63c7c1a8ae28/file/580d7758-e371-48a5-b6d7-95e65cefa3fb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F02%2Fa3%2Fc502a3b2d85d4534873a7a779a6cd562%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b372c5c6-5d61-4727-8470-6bbd37cdd226/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-48cf30e2-e676-49bd-bcd3-63c7c1a8ae28",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128c659",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.033333333333333, 3.066666666666667, 36.78333333333333, 36.75)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-bk128c659"
+}

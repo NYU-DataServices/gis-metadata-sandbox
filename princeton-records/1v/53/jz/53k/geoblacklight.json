@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 6 to 63 inclusive; from New Jersey coast map, vol. 1. Includes text. \"N.J. coast vol. 1.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53jz53k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Long Branch,Maps",
+    "Long Branch (N.J.),Maps"
+  ],
+  "dc_title_s": "Long Branch (Sheet 32)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4810059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d676408d-ec4a-4255-a004-36230e959f08/file/53d783cd-3809-406b-95b4-37c11a04a403\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d676408d-ec4a-4255-a004-36230e959f08/file/5011a0d1-c756-4468-a754-11bf96027ad9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2Fed%2F46%2F68ed460ba3964f05bd14a621882152ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/efacfe94-1d96-4d40-9be8-d136f4e83c21/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d676408d-ec4a-4255-a004-36230e959f08",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53jz53k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.014, -73.975, 40.328, 40.259)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-1v53jz53k"
+}

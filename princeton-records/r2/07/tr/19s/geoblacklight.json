@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Fiji. Lands and Survey Department. North Decimal Degree -16.000000. South Decimal Degree -19.1667. East Decimal Degree 179.0000. West Decimal Degree 177.0000. Cassini's projection. Relief shown by hachures and spot heights. Insets: Lau Croup. Natural scale 1 : 1,000,000. Thikombia. 1 : 500,000. Rotuma. 1 : 500,000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r207tr19s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Suva, Fiji : [s.n.], 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Fiji,Maps"
+  ],
+  "dc_title_s": "Colony of Fiji",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839811\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4229cb79-7357-4a46-bdbc-e4fdb44e5033/file/aea76a90-a581-45f2-b7f0-034c2336e839\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4229cb79-7357-4a46-bdbc-e4fdb44e5033/file/fc0e6dde-7795-476e-9ad6-850321789ed7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2F10%2Fca%2F9610ca6677f348548d7dbc91ae920e14%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c4bc46a1-444f-4f04-9e53-215b38de441b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4229cb79-7357-4a46-bdbc-e4fdb44e5033",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r207tr19s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(177.0, 179.0, -16.0, -19.1667)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-r207tr19s"
+}

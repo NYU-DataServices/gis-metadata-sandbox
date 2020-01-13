@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Publication information in Spanish. Relief shown pictorially. Prime meridian: [Ferro]. \"Descripcio\u0301n del mapa: Estrecho de Magallanes y Tierra del Fuego. Original de 1666.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wh246v58n",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Nutley, N.J. : Hoffmann - La Roche, [1945?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Magellan, Strait of (Chile and Argentina),Maps,Facsimiles"
+  ],
+  "dc_title_s": "Tabula Magellanica : qua\u0302 Tierrae del fuego, cum celeberrimis fretis a F. Magellano et I. Le Maire detectis novissima et accuratissima descriptio exhibetur",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6590710\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/36fc78b0-0436-4f0a-a1f7-2a5a22add436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/a4793d77-e1ba-4629-8842-3f6c7a1db7e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F64%2F75%2F416475201f5f40cb90676dea7611487f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6fce955-05c4-4c5e-8c39-a421cac000ed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Chile",
+    "Argentina"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5ae98d0b-2836-4d0b-807e-b2648f824153",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wh246v58n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.83, -64.13, -51.18, -58.42)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-wh246v58n"
+}

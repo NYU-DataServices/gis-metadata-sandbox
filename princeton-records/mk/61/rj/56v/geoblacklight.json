@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Guyot, A. (Arnold), 1807-1884"
+  ],
+  "dc_description_s": "\"Card series. Mercator's projection.\" \"Entered according to Act of Congress in the year 1866 by Charles Scribner & Co. in the Clerks Office of the District Court of the United States for the Southern District of New York.\" Relief shown by hachures and form lines. Includes insets of western and eastern hemispheres, 3 comparison diagrams, and profile of \"Comparative altitude of the plateaus and mountains of the world.\" Historic Maps copy 2 lacks hand coloring, not mounted on cloth.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mk61rj56v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Published by Ch. Scribner & Co., 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps, Physical"
+  ],
+  "dc_title_s": "The world : wall-atlas",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4542855\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bbc8fb80-e42b-460c-b97d-99becdfd0633/file/8704f79d-5edf-4875-befe-5550c0301802\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b11e0bd-df9c-42e7-8cab-bda100d9b763/file/3066282e-4a71-4b62-94e0-88a00d7bf506\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b11e0bd-df9c-42e7-8cab-bda100d9b763/file/d7891924-29f2-4ef8-bbf2-6494389c4a45\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F8b%2F98%2Fb18b98629a204fe3b5ad9ee5593e18c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b17312d-ef54-4e93-89b6-620642877c47/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b11e0bd-df9c-42e7-8cab-bda100d9b763",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mk61rj56v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-mk61rj56v"
+}

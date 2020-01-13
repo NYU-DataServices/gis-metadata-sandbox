@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Finlayson, J."
+  ],
+  "dc_description_s": "Relief shown by hachures. Shows major roads, mines, areas of Indian habitation, extent of rivers, cities, and military posts. Includes notes, dates, and text. Prime meridians: Washington and London. In left and right margins: Mexico, No. 38.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xf362",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l. : s.n., between 1825 and 1836]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Indians of Mexico,Maps",
+    "Mines and mineral resources,Mexico,Maps",
+    "Roads,Mexico,Maps",
+    "Mexico,Maps",
+    "Southwestern States,Maps"
+  ],
+  "dc_title_s": "Mexico and internal provinces Prepared from Humboldt's map & other documents",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7974983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c28f6f4-b523-4493-b990-fcbc1991ee43/file/722c7adc-a279-41c5-a8ba-0817c2acc94f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c28f6f4-b523-4493-b990-fcbc1991ee43/file/37c4b805-299a-446b-96ab-55a09579f458\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F3b%2F56%2F003b56dd76d34eb1b3f6a88285b7d7a5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d5f12e65-0a56-4356-96a0-401e2362aa31/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Mexico",
+    "Southwest, New",
+    "Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6c28f6f4-b523-4493-b990-fcbc1991ee43",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xf362",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-115.0, -86.0, 40.51, 15.01)",
+  "solr_year_i": 1825.0,
+  "uuid": "princeton-rb68xf362"
+}

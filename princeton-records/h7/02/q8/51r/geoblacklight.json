@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key sheet, streets and specials index, and text. \"2441.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q851r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morristown,Maps",
+    "Real property,New Jersey,Whippany,Maps",
+    "Real property,New Jersey,Morris Plains,Maps",
+    "Real property,New Jersey,Tabor,Maps",
+    "Morristown (N.J.),Maps",
+    "Whippany (N.J.),Maps",
+    "Morris Plains (N.J.),Maps",
+    "Tabor (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Morristown, Morristown suburbs, Whippany, Morris Plains and Mt. Tabor, New Jersey (Sheet 33)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564339\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/465d9341-c0fe-469c-a04d-f09fd4f13680/file/5d0c5e2a-1232-410e-b44c-c1ea963e59ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/465d9341-c0fe-469c-a04d-f09fd4f13680/file/71b0b236-a19e-4b04-9cdb-c7e404252df9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F7c%2F80%2F087c80f8ff8f4abdb33a4a222f456b4b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea18c443-8e44-4d6a-8235-d9e60c6597c1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-465d9341-c0fe-469c-a04d-f09fd4f13680",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q851r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-h702q851r"
+}

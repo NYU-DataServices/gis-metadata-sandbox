@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Smethport, PA.-N.Y. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1932-1933. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mw22v6929",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1937.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania-New York: Smethport Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868298\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eb744c45-1ca2-4521-847d-af88317edd3d/file/fd13c8db-7d36-429f-a445-7458240ed986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e20b94d5-759e-41bb-b158-7c5a6f8a4bc0/file/d7b472c3-785f-488f-8506-5d56409e41d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e20b94d5-759e-41bb-b158-7c5a6f8a4bc0/file/64612659-bbef-4355-a919-1a8d1ee9aa92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2Ff7%2F4c%2Fecf74cb72efc4d56a858be6e58d610e9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a41fc485-d13e-426c-a5a8-6650c82fa533/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e20b94d5-759e-41bb-b158-7c5a6f8a4bc0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mw22v6929",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.5, -78.25, 42.0, 41.75)",
+  "solr_year_i": 1937.0,
+  "uuid": "princeton-mw22v6929"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -14.500000. South Decimal Degree -14.6667. East Decimal Degree -67.7500. West Decimal Degree -68.0000. Alternate title: Arroyo Esmeralda, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qb98mh33q",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : [s.n.], 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Arroyo Esmeralda, hoja 6050 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08bc79ed-9a2c-4bf9-8c9c-deb3a8c4dda2/file/50d1d7a1-ea78-43db-b1a2-baae51cb7882\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08bc79ed-9a2c-4bf9-8c9c-deb3a8c4dda2/file/dd449fe4-4ffe-4dd0-989d-a98b80a5f385\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2F71%2F9e%2F34719e7699c840aca144620b41fd0bf3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3174f3c8-21be-443b-8648-f54d2126e82b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-08bc79ed-9a2c-4bf9-8c9c-deb3a8c4dda2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qb98mh33q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.0, -67.75, -14.5, -14.6667)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-qb98mh33q"
+}

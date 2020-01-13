@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. New Brunswick (1928) New Jersey. Department of Conservation and Development. Division of Geology and Topography Alternate title: New Brunswick sheet. \"Surveyed in 1883. Resurveyed in 1927.\" Relief shown by contours and spot elevation. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv29d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1928.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. New Brunswick",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449740\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7569733-e7fa-4a86-8e08-c8cfa3c72a93/file/b2d19468-25b4-476e-9974-0eea61a90004\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cad63c4a-fc50-4a9a-bd8a-7cb725566cb6/file/bcb0ab26-7e95-4a72-8ae9-820403efb749\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cad63c4a-fc50-4a9a-bd8a-7cb725566cb6/file/d3a2d6fe-fad0-45dd-8644-d5496994b097\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2F2d%2F88%2F8e2d8837f91847d3a0682873799c330b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/421df55f-2861-4cf4-be21-f18efe064633/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cad63c4a-fc50-4a9a-bd8a-7cb725566cb6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv29d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.55, -74.33333333333333, 40.583333333333336, 40.46666666666667)",
+  "solr_year_i": 1928.0,
+  "uuid": "princeton-kd17cv29d"
+}

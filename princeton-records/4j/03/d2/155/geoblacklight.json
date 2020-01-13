@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Cook, George Hammell, 1818-1889"
+  ],
+  "dc_description_s": "At head of title: Geological survey of New Jersey. Companion text is filed in RECAP. Call number 8565.672.01.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d2155",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Newark, N.J.] : Geological Survey of New Jersey, 1868.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology, Stratigraphic,Paleozoic,Maps",
+    "Geology, Stratigraphic $y Archaean,Maps",
+    "Geology, Stratigraphic,Precambrian,Maps",
+    "Geology, Stratigraphic,New Jersey,Maps",
+    "Iron ores,New Jersey,Maps",
+    "Limestone,New Jersey,Maps",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Azoic and paleozoic formations : including the iron-ore & limestone districts [sheet 2]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6842974\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98349c63-2f3d-4212-9162-2cf1587562b7/file/aa9b84bc-a98b-4396-af2c-7c444128ebc0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98349c63-2f3d-4212-9162-2cf1587562b7/file/689144a4-92d8-4c1e-8d1f-9b3ecd7c24b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2F50%2F13%2F75501300993244df9788479425ee172b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d0f2205-a6fa-44b2-8afe-8acdac619ed6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1868"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-98349c63-2f3d-4212-9162-2cf1587562b7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d2155",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.3, -73.833333, 41.45, 40.7)",
+  "solr_year_i": 1868.0,
+  "uuid": "princeton-4j03d2155"
+}

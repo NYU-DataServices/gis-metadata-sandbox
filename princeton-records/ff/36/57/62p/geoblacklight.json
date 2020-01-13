@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Picquet, Charles"
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes street and place name index with supplementary table. \"De\u0301die\u0301 & pre\u0301sente\u0301 a\u0300 Mr. Le Comte Frochot.\" Historic Maps copy has label on map verso: Plan de Paris, a\u0300 Paris, chez Charles Picquet, geo\u0301graphe; 1814 in ms.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365762p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Picquet, 1814.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Plan routier de la ville de Paris, divise\u0301 en XII arrondissements ou mairies et en 48 quartiers : sur lequel sont indique\u0301 tous les changements & projets ordonne\u0301s par le gouvernement",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062734\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef41f232-fb7a-41c2-bdc5-16f7dbc79508/file/4176efbb-4c7b-4c61-bf58-2b1201876f3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef41f232-fb7a-41c2-bdc5-16f7dbc79508/file/7a860eb7-0679-41ba-aa50-cf294ebcc877\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2F65%2F63%2F1f6563c34d994f1fa18cfb1874cead6e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9fce1c69-2f95-41dc-b54e-877a61edf4b4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1814"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ef41f232-fb7a-41c2-bdc5-16f7dbc79508",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365762p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.287664, 2.403621, 48.886096, 48.828947)",
+  "solr_year_i": 1814.0,
+  "uuid": "princeton-ff365762p"
+}

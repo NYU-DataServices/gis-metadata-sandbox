@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Sokolac. Transverse Mercator projection. Relief shown by 20 meter contour intervals and spot elevation. This sheet falls within NK 34-1, 1501, 1:250,000 and 2882IV, M709, 1:50,000. \"Map information as of 1994.\" \"Coordinate conversion WGS 84 to ED 50.\" \"Printed by DMAHTC 4-95.\" With a glossary. \"This map is red-light readable.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f1881n63j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Bethesda, MD : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Bosnia and Herzegovina,Maps"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina city graphic 1:10,000. Sokolac. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449388\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/768eed93-61b7-44a1-8b22-0faee2f275b6/file/865f6220-8522-45f5-ad4e-7398d77c3320\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1a46d1b-71a1-4ffe-b11f-5c783e1db3fa/file/8eb4f6bf-688a-4985-8ae4-f28b64307750\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1a46d1b-71a1-4ffe-b11f-5c783e1db3fa/file/5d259188-e6d9-4276-8e30-61f70598e44b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2F02%2Fa6%2Fa902a69bfe0644eb844a02edb8f96907%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d935fdb6-9fc0-45ad-b24e-154342e84e2b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e1a46d1b-71a1-4ffe-b11f-5c783e1db3fa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f1881n63j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.766666666666666, 18.833333333333332, 43.96666666666667, 43.916666666666664)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-f1881n63j"
+}

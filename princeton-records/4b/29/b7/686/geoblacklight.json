@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1908.\" Includes key, streets and specials index, and text. \"#481.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b7686",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Fort Lee,Maps",
+    "Fort Lee (N.J.),Maps"
+  ],
+  "dc_title_s": "Fort Lee, Bergen County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5255710\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40013c95-4b3f-401b-9f66-c03bdaa20540/file/84032322-cb76-4c2c-83ca-9c13c6c04374\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40013c95-4b3f-401b-9f66-c03bdaa20540/file/93fca9ef-cccc-4029-9db9-43cb5c867805\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/42%2Fcc%2Fe7%2F42cce7b6b37a43e2b8185e62d329a935%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c5cb40c2-c737-4106-877e-fd3ac715aebc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-40013c95-4b3f-401b-9f66-c03bdaa20540",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b7686",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.992, -73.953, 40.869, 40.828)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-4b29b7686"
+}

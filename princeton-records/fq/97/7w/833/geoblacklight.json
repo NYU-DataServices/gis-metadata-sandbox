@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, key, streets and specials index, and text. \"Entered according to act of Congress in the year of 1873 by Spielmann & Brush ... Entered according to act of Congress in the year of 1896 by Sanborn-Perris Map Co. Limited ... \" Vol. 3 covers Jersey City, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fq977w833",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Jersey City,Maps",
+    "Hudson County (N.J.),Maps",
+    "Jersey City (N.J.)"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 3 (Sheet 20)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5195330\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5763cbd7-8741-41a9-8a37-ba20bd0ce0f6/file/d337d2ba-5925-4454-9636-d3765347cc85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5763cbd7-8741-41a9-8a37-ba20bd0ce0f6/file/5232eb65-d67a-40cb-a915-d6ad1f43f3b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2F91%2F4f%2Fc4914fbe129b4e76896c5b482bf0a47a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/88f37a41-289a-443f-b602-91985af2b1e5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5763cbd7-8741-41a9-8a37-ba20bd0ce0f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fq977w833",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-fq977w833"
+}

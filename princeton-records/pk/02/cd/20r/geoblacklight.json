@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Relief shown by shading, form lines, hachures and spot heights. In upper margin: Karte von Mesopotamien. \"2c.\" Includes guide to adjoining maps. \"Nur fu\u0308r den Dienstgebrauch! Nachdruck sowie Benutzung zur Bearbeitung anderer Karten verboten.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cd20r",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Kartogr. Abteilung der Kgl. Preuss. Landesaufnahme, Dezember 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dayr al-Zawr (Syria : Province),Maps"
+  ],
+  "dc_title_s": "De\u0302r es-So\u0302r",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7027317\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0e4b15c-e172-4c0d-8b1b-38d24a190601/file/88f71cb7-d009-44f9-b253-9f557ce09680\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0e4b15c-e172-4c0d-8b1b-38d24a190601/file/a2256264-d07f-4ab5-97cb-947184ecedb5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2Ffb%2F50%2F82fb50bde4ad44588cda62d562856a09%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4777791b-82e2-42de-bfef-029cf0d44b42/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Syria"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c0e4b15c-e172-4c0d-8b1b-38d24a190601",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cd20r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(38.258, 40.2575, 36.0106, 34.0086)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-pk02cd20r"
+}

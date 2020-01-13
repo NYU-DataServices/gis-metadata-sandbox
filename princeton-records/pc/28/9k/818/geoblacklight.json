@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1902.\" Includes key, streets and specials index, and text. \"No. 5792\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pc289k818",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Gloucester City,Maps",
+    "Gloucester City (N.J.),Maps"
+  ],
+  "dc_title_s": "Gloucester City, Camden Co., New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5365916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e936886-e519-4be0-96ec-498f3523f065/file/ee3afb23-c251-4c56-af37-90d6f681c4c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e936886-e519-4be0-96ec-498f3523f065/file/19b31ccb-cf5e-478a-8a89-6f9a0e12d052\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2F28%2F0a%2Fb9280ab01028454eaff1970dd76c8dc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57ca8bef-4784-41e7-bbdd-1a5b731ded58/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1e936886-e519-4be0-96ec-498f3523f065",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pc289k818",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.1265, -75.1202, 39.9051, 39.8983)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-pc289k818"
+}

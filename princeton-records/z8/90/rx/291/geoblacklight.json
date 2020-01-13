@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Theinert, A."
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Ferro. Map shows Dutscher Bundesstateen, Provinz, and Ko\u0308nigr administrarive boundaries, population statistics, canals and railways. This map was scanned with an HD Ultra i4290s scanner and Nextimage 4.5.2 software at 400 DPI in 256 colors, and georeferenced using ArcGIS 10.2 software.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z890rx291",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Glogau : Druck und Verlag von C. Flemming, [1851?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Maps",
+    "Germany,Maps"
+  ],
+  "dc_title_s": "Deutschland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10352379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b9c0644-febd-4fa0-b548-50def111f0f9/file/210d9ecb-9685-47a2-b52d-aa1fe4009c63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b9c0644-febd-4fa0-b548-50def111f0f9/file/f51815b2-4a8c-4014-8aeb-f58bc3bc04f1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F13%2Fd6%2Fd013d66a03284a4c9ccc1a22553c55a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7e99c84f-c274-4b7a-8511-5016d26b47a6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b9c0644-febd-4fa0-b548-50def111f0f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z890rx291",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.638333, 22.852778, 54.531667, 44.891944)",
+  "solr_year_i": 1851.0,
+  "uuid": "princeton-z890rx291"
+}

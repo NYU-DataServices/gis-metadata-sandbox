@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Includes index of streets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2f75rb44p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez Esnault le jeune editeur ... , 1815.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps, Tourist",
+    "Streets,France,Paris,Maps"
+  ],
+  "dc_title_s": "Plan routier de la ville de Paris et de ses faubourgs : ou se trouvent indique\u0301s tous les changemens ope\u0301re\u0301s jusqu'a ce jour avec les projets d'embellissemens, les nouvles. rues et pts. pour servir de guide aux voyageurs, divise\u0301 en 12 mairies municipales et par quartiers",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/fe62661f-cbc3-4c31-8fde-5d939553b84a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/9ef73af2-034f-4539-af33-31d0d7b6f63b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2Fc5%2F60%2F9ec5605c83c34fd9801dd6c6c8974b07%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28eb5384-5615-4533-a15b-890c849936bc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1815"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bb9f9564-b02d-4ad3-b7d6-40978c80c3fb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75rb44p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.286937, 2.386715, 48.876156, 48.833405)",
+  "solr_year_i": 1815.0,
+  "uuid": "princeton-2f75rb44p"
+}

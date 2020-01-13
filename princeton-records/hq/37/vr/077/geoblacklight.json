@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "G.W. Bacon & Co."
+  ],
+  "dc_description_s": "Originally issued sectioned into 30 and folded into wallet containing index. Alphanumeric grid.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hq37vr077",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : G.W. Bacon & Co., [ca. 1885]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Liverpool (England),Maps"
+  ],
+  "dc_title_s": "Bacon's map of Liverpool : corrected to the present time",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7249162\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/653a0779-ae39-47fc-bc10-84bb6c5bd39b/file/2f18bb91-ef10-400b-a073-d3cc8fadb931\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/653a0779-ae39-47fc-bc10-84bb6c5bd39b/file/77ff26aa-ad3c-43ac-a850-a8bbf13fcb43\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2F02%2Ffa%2Fe202fa5ab6194f8792d0e08e6650979b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae1fa8a8-467f-46b8-b048-02fcb34d880e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-653a0779-ae39-47fc-bc10-84bb6c5bd39b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hq37vr077",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.014388, -2.930296, 53.445288, 53.378677)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-hq37vr077"
+}

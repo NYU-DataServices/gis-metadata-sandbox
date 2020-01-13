@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "General Drafting Company"
+  ],
+  "dc_description_s": "Panel title: Map of Mercer County, New Jersey : showing principal highway routes. \"Prepared for public distribution by the Mercer County Board of Chosen Freeholders\"--Panel. \"List of roads under jurisdiction of the Board of Freeholders, Mercer County, N.J.,\" which also serves as index, on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0c483p11w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : Mercer County Board of Chosen Freeholders, 1925.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mercer County (N.J.),Maps",
+    "Mercer County (N.J.),Road maps"
+  ],
+  "dc_title_s": "Road map of Mercer County, New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7863858\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/393d4bf4-6731-406d-87b9-fb29c06a6479/file/03034226-8668-4a57-943e-f5e923aac16d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/393d4bf4-6731-406d-87b9-fb29c06a6479/file/761e5a8b-e844-4ec0-9938-1ec44be8088e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F5d%2F3a%2F835d3a4ac3da42c6a7027b38addc54e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ff7a099-368e-4d2b-aab3-05c4f10cfef0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-393d4bf4-6731-406d-87b9-fb29c06a6479",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0c483p11w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.941622, -74.481202, 40.424156, 40.136843)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-0c483p11w"
+}

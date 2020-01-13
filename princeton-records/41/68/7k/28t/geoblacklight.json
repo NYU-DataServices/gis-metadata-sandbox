@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Bureau de recherches geologiques et minieres [BRGM]. Carte geologique 1:80.000 CG-132(1952) France. Service de la carte geologique de France North Decimal Degree 46.9729 South Decimal Degree 46.6131 East Decimal Degree 1.0752 West Decimal Degree 0.2342 Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/41687k28t",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1952.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Chatellerault",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518492\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86aeb6a8-4f9d-4fda-ad7c-b1b31de850ee/file/4f0c00a9-2bd3-47cc-a58e-2fc9f7ae3edb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86aeb6a8-4f9d-4fda-ad7c-b1b31de850ee/file/c339e286-3856-4886-b17e-4169c3414aa6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F41%2F4f%2F83414f4ff9cd4e9b84d0e769b557d267%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f16cbea-8dc4-42b6-a0b5-617f74ba7048/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-86aeb6a8-4f9d-4fda-ad7c-b1b31de850ee",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-41687k28t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.2342, 1.0752, 46.9729, 46.6131)",
+  "solr_year_i": 1952.0,
+  "uuid": "princeton-41687k28t"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Alicante city plan. Copied from I.S.I.S. report 1:10,000; Alicante, CB/81.1 no. 19, 1942. Grid and projection approximate.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z316q324h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Alicante city plan. A.M.S. 981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816879\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81ed7811-78d6-4ea7-807b-37700c1b27f8/file/7a7162cf-e6e0-43ba-820e-b8b30131b57f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/708b4c21-dac1-420f-9c27-c0f873d27426/file/1bd32429-b43a-4a0d-9eb1-f59b80eab365\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/708b4c21-dac1-420f-9c27-c0f873d27426/file/f3f58c4a-8ea7-461b-acd1-fbfd83d9c4c9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2F2f%2Ff5%2F232ff58312ef42b2b51713e4220e0c03%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/661a86df-b6bb-4b0f-b3bf-d6d05b289bda/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-708b4c21-dac1-420f-9c27-c0f873d27426",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z316q324h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.5166666666666667, -0.4666666666666667, 38.36666666666667, 38.31666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-z316q324h"
+}

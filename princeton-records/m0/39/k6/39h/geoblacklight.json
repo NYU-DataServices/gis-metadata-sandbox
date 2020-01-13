@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Somerset, PA. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1912-1913. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k639h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Somerset (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Somerset Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868303\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/50768e37-bc1b-4173-9c21-c5437266118c/file/7cf576e5-a0e9-4c13-b560-76d0c1f891fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e75c0484-32d0-4858-83f7-14e956b2d25e/file/16ec7de1-ace0-4c4f-8869-a27793c4aa69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e75c0484-32d0-4858-83f7-14e956b2d25e/file/1cce5833-4058-4e68-89e1-287cfd184126\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F2f%2Fee%2Fe82fee04c7ed45bb9f03c2439e2fb035%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd4521a4-2bd4-41e4-890d-1096cb270a28/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e75c0484-32d0-4858-83f7-14e956b2d25e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k639h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.25, -79.0, 40.25, 40.0)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-m039k639h"
+}

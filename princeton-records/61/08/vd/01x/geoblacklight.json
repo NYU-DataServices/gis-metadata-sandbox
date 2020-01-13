@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Blue Mountain, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1899-1900. Surveyed in cooperation with the State of New York. Triangulation by W.J. Peters and W.T. Griswold. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6108vd01x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Blue Mountain (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Blue Mountain Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866995\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e689dd7-603c-4288-8739-bd272acc9794/file/26de2fdc-cf2f-4029-bfe3-2205988a6571\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb8754ba-1c84-499d-be99-cce2077a981d/file/2a967b24-0443-47cf-b4cc-ab8e7f77d5e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb8754ba-1c84-499d-be99-cce2077a981d/file/1034ca94-a238-4ab6-b0b4-1b0f6b99525b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4d%2F0e%2F31%2F4d0e311c6631461da3863847ce0f370c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d19e7233-3d2f-41f6-93f6-f43a1704f81b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb8754ba-1c84-499d-be99-cce2077a981d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6108vd01x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 44.0, 43.75)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-6108vd01x"
+}

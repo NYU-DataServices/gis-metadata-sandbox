@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Nowy Sacz, Poland, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xk81jm903",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Poland 1:100,000. A.M.S M651. Nowy Sacz, sheet U-15. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afa52d32-470b-4c73-bbbb-c94e13138102/file/f48aee8a-ee12-44ef-8887-ab9dad55cffd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af7c5eeb-83ed-4843-9fd2-2339e9d92a73/file/f98138a1-46e9-4565-aee8-177e163210ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af7c5eeb-83ed-4843-9fd2-2339e9d92a73/file/1cb9b1a4-128e-458c-97b1-34270c42aca9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2F2f%2F55%2Fac2f55044fac4e7cbf611819d375d318%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/497fc3e5-c143-4491-9119-1542923d359b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Lithuania",
+    "Novyy Sonch",
+    "Memel",
+    "G6521.C2.s100.A7M3 G-15",
+    "G6521.C2.s100.A7M3 U-15",
+    "Nowy Sacz",
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-af7c5eeb-83ed-4843-9fd2-2339e9d92a73",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xk81jm903",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.3333, 21.3333, 49.75, 49.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-xk81jm903"
+}

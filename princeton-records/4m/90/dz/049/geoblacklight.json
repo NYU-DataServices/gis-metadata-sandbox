@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map showing borders of Italy, Albania and Greece during the Greco-Italian War of 1940-41. Includes portraits of King George II of Greece and prime minister Ioannis Metaxas. Inset: Do\u0304dekanne\u0304sa.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dz049",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "[S.l. : s.n., ca. 1940]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World War, 1939-1945,Campaigns,Greece,Maps",
+    "Albania,Maps",
+    "Greece,Maps",
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Charte\u0304s tou helle\u0304no-italikou meto\u0304pou",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8787963\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/782ce271-ca2a-400a-82c1-aae9ff82fd58/file/e5fb8cf4-24c5-4e32-96fa-718cdc3a2961\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/782ce271-ca2a-400a-82c1-aae9ff82fd58/file/6e6d6e5a-f37c-40b3-90de-b353879e2ea1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2F34%2Fa2%2F3934a2e0b72a4d45944c06cd2fa6966c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d44e15ad-f727-42c2-8595-ae6a69813863/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Albania",
+    "Greece",
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-782ce271-ca2a-400a-82c1-aae9ff82fd58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dz049",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(16.6566, 22.0124, 41.6669, 38.9889)",
+  "solr_year_i": 1940.0,
+  "uuid": "princeton-4m90dz049"
+}

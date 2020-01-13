@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 79-80 and 99-143 of Hudson County series, showing North Bergen and Guttenberg.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096894p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,North Bergen,Maps",
+    "Real property,New Jersey,Guttenberg,Maps",
+    "North Bergen (N.J.),Maps",
+    "Guttenberg (N.J.),Maps"
+  ],
+  "dc_title_s": "North Bergen, Guttenberg (Sheet 122)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5496529\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64d8729c-8fe3-4d57-aa4e-ac3fbb105abf/file/f5b00e4c-0f29-40af-8a60-8c41b7da5a60\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64d8729c-8fe3-4d57-aa4e-ac3fbb105abf/file/2043292b-4bcc-44d1-8b3f-133d43f1b30b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F54%2F19%2Fc95419d102784d5e8d2d46f8ae4ae343%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/363a5cdf-34ee-41d0-833d-24b07794a3b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-64d8729c-8fe3-4d57-aa4e-ac3fbb105abf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096894p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-0p096894p"
+}

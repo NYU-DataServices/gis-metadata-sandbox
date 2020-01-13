@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Central Africa, shown at a 1:12,400,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042v73s",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Central Africa, 2000",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/664f21a4-269b-446c-943c-cd59a8151af8/file/ce841655-8108-4b3c-b475-fb64e6a69f4b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/819d335f-0280-44f0-b60e-a34df57fc210/file/21500f76-6b20-445f-94c6-59cfd42fd64c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/819d335f-0280-44f0-b60e-a34df57fc210/file/27013030-67dc-4920-8e02-e0a7edc576ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2Fbd%2F90%2F1fbd907a3fcd488f897274d8f88f7578%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cba55c71-5343-4abb-9d6c-fd8cd657e6e6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Africa",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-819d335f-0280-44f0-b60e-a34df57fc210",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042v73s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.0, 40.0, 10.0, -10.0)",
+  "solr_year_i": 2000.0,
+  "uuid": "princeton-rv042v73s"
+}

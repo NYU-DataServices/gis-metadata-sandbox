@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"3728.\" Includes location map, key, key map and text. In upper margin: N.J. coast map vol. 3 Sheets 24 and 85-87 of N.J. coast map, vol. 3, series, originally issued in 1905; sheet 24: New sheet, Apr. 1921; sheets 85-87: Add'l sheets, Apr. 1921.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cj82k964j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921, c1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Manasquan,Maps",
+    "Manasquan (N.J.),Maps"
+  ],
+  "dc_title_s": "Manasquan, Monmouth Co., New Jersey (Sheet 85)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5706508\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4e5e0f4-5d36-4c56-8896-e83037933da3/file/99003f2c-ce7b-4c49-9888-07eb0386f739\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4e5e0f4-5d36-4c56-8896-e83037933da3/file/db69dd8f-df30-46f9-a56c-3c4f5ff67b09\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/53%2F70%2Fd3%2F5370d324f462435b8d1c73a4d14301bd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/84e67654-a779-41c2-ae35-ce3c204e5929/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a4e5e0f4-5d36-4c56-8896-e83037933da3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cj82k964j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.062032, -74.026635, 40.132633, 40.100818)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-cj82k964j"
+}

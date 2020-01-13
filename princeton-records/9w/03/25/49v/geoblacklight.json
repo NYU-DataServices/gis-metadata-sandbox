@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Hughes, William, 1817-1876"
+  ],
+  "dc_description_s": "Relief shown by hachures. Inset map: Part of Arabia including Mount Sinai and the wanderings of the Israelites : on the same scale.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9w032549v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published ... by Chapman & Hall ... , March 15th 1843.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Syria,Antiquities,Maps",
+    "Syria,Historical geography,Maps",
+    "Middle East,Antiquities,Maps",
+    "Middle East,Historical geography,Maps"
+  ],
+  "dc_title_s": "Ancient Syria",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7022095\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6fd6ff5d-bf95-402f-b4bc-e1ab1ebdd17f/file/109104b9-224e-451d-aa97-9d9516f89636\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6fd6ff5d-bf95-402f-b4bc-e1ab1ebdd17f/file/62a7cd56-9341-499c-ab7a-a3b8c30aec18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2F5e%2Faf%2F285eaf7ed8e2420a9deea1cd77e5aed6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3798b7e9-d008-43ce-b073-dd87bea74d19/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Syria",
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6fd6ff5d-bf95-402f-b4bc-e1ab1ebdd17f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9w032549v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.089, 41.4169, 38.1721, 30.7545)",
+  "solr_year_i": 1843.0,
+  "uuid": "princeton-9w032549v"
+}

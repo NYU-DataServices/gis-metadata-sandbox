@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Base map showing international boundaries, and major cities. \"Boundary representation is ot necessarily authoritative\". \"803067AI 6-04.\" Shipping list no.: 2005-0004-S.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n009w552b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 2004.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "East Asia,Maps"
+  ],
+  "dc_title_s": "East Asia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866072\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca783961-f2be-4114-96a0-778940b4dc14/file/caa6b6f5-dab5-48e6-b550-c986ff7c6bb5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca783961-f2be-4114-96a0-778940b4dc14/file/d0174235-f5df-4601-96b6-9485e3291c03\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F6a%2F69%2F5b6a69905a7b4c61b19332e55a83a5ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e8c730d9-0d7b-4f01-ac5f-405c4a30ed07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca783961-f2be-4114-96a0-778940b4dc14",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n009w552b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(69.166666, 145.8, 55.583333, -19.5)",
+  "solr_year_i": 2004.0,
+  "uuid": "princeton-n009w552b"
+}

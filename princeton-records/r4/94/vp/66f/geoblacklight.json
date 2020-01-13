@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Northern Rhodesia (Zambia) for 1938. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/r494vp66f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Zambia extracted historical administrative boundaries, 1938",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/544c50a3-d1a5-4222-88b5-bd3ee615e589/file/7c4d92a2-ad5d-44ae-b0b0-fe86d1de459e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d830413-ecd4-4185-ae23-c5aade5636cc/file/85986402-f637-4afa-a74e-996e7cc91c30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d830413-ecd4-4185-ae23-c5aade5636cc/file/ba3ecf8e-fcf3-4db4-b8ca-7b992fe2c6b9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Northern Rhodesia",
+    "Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-4d830413-ecd4-4185-ae23-c5aade5636cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r494vp66f",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(21.890116, 33.96409, -8.168153, -18.003475)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-r494vp66f"
+}

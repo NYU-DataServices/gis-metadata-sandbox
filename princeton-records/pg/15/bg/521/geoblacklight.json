@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Ontario west sheet. Map is 22 sheets stored in box on top of New York map cases.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bg521",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Ontario (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: Ontario west sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866455\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef41406a-996c-4a39-8e69-18292cb4776f/file/77f8a50a-00f2-4911-85f8-23f6f171b129\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f961b7ef-4c87-4206-8a32-c1679e194487/file/025564f2-281c-4b3a-8216-5ef25df7dd59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f961b7ef-4c87-4206-8a32-c1679e194487/file/20ed6b03-e562-4df3-808e-2e397b90f38d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2Fb8%2F6c%2F21b86c69503a48ec850e61065842a63a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65e00c12-2122-4240-b8ae-bdbd2624d447/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f961b7ef-4c87-4206-8a32-c1679e194487",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bg521",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.5, -78.16666666666667, 44.0, 43.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-pg15bg521"
+}

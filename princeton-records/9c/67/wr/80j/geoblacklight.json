@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by contours. Includes 1 index map and 1 diagram. Data sheet includes text and 4 colored cross sections. Sheet 2 has the cross sections for northern and central New Jersey bedrock. Copy 2 is located in Map Case. G3811.C5.1996.U5G4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wr80j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Reston, VA : U.S. Department of the Interior, U.S. Geological Survey, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology, Structural,New Jersey,Maps",
+    "Geology,New Jersey,Maps",
+    "Geological cross sections",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Miscellaneous investigations series, map I-2540-A (sheet 2 of 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6458434\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db6d2d21-496f-4a53-9f0e-52b6b8ff0e10/file/0d7518a9-6aa1-4abc-9d08-f3a8bb96accb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db6d2d21-496f-4a53-9f0e-52b6b8ff0e10/file/713522e4-cdb2-433b-89cc-f6c5cc1a3d71\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/94%2Fa9%2F36%2F94a9361a1adb48ec8231bcd8f5eae7e3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5e590ea8-9504-4ed0-8593-c2946ff0a51c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-db6d2d21-496f-4a53-9f0e-52b6b8ff0e10",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wr80j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.206944, -73.898889, 41.356111, 40.5)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-9c67wr80j"
+}

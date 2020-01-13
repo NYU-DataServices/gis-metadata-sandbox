@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1906.\" Includes key, key map, streets and specials index, and text. \"8999\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085n11m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Madison,Maps",
+    "Madison (N.J.),Maps"
+  ],
+  "dc_title_s": "Madison, Morris County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560058\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/57dcab27-65a4-4efd-8db3-87c8daf14aa7/file/7cdfc015-42e6-45de-b928-a689dd4bb3d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57dcab27-65a4-4efd-8db3-87c8daf14aa7/file/17d7b8e4-5073-46bd-b38e-7889feeccb95\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F4e%2F4a%2F414e4ae433d2464e97896081f375b0de%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1530351c-c2b2-48fc-8b26-68c03f53e6ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-57dcab27-65a4-4efd-8db3-87c8daf14aa7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085n11m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-jq085n11m"
+}

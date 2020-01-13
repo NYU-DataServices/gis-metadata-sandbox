@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of the island of San Lorenzo off the coast of Peru; relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7h149s31s",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Italy? : s.n., ca. 1585]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "San Lorenzo Island (Peru),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "S. Lorenzo",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6539916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ce971a2-dd89-4383-90b8-019cffd5fd82/file/e3d1c04e-6d69-4b9e-882c-b85839090337\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ce971a2-dd89-4383-90b8-019cffd5fd82/file/3e4fa727-4dc4-439f-b819-dee8a8faf5df\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2F5b%2Fb2%2Fdc5bb2c263564df98688daa0e33ffd15%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a53ff408-750e-485e-9816-9bfaec51993f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1585"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8ce971a2-dd89-4383-90b8-019cffd5fd82",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7h149s31s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.252193, -77.178035, -12.058123, -12.131138)",
+  "solr_year_i": 1585.0,
+  "uuid": "princeton-7h149s31s"
+}

@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "Mortier, Pierre"
+  ],
+  "dc_description_s": "Map showing northern Egypt, the Arabian Peninsula, and the island of Cyprus, with portraits of St. Paul and St. Anthony on either side of title; relief shown pictorially. From: Atlas antiquus, sacer, ecclesiasticus et profanus ... / collectus ex tabulis geographicis Nic. sansonis ... Amstelodami : P. Mortier, 1705.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25xb29k",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Amsterdam : Chez Pierre Mortier, [1705]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Desert Fathers,Maps",
+    "Geography, Ancient,Maps",
+    "Africa, North,Maps",
+    "Egypt,Maps",
+    "Arabian Peninsula,Maps",
+    "Cyprus,Maps",
+    "Desert Fathers"
+  ],
+  "dc_title_s": "L'ancienne Thebaide, ou, Les deserts d'Egypte : habitez par les Ss. pe\u0300res des deserts",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4630106\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/349b8a24-ea93-4ebb-a64a-8d7a519ffe91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/dd970089-f82a-4736-80ab-44a85eb71307\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/69%2Fe1%2F53%2F69e15391383c42a39e66bf2bfd77b3c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/292a5cbd-ce03-466d-ab27-3437dde57a70/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa, North",
+    "Egypt",
+    "Cyprus"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e2c63683-bb0c-43ce-8d0f-9ccf631d36ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25xb29k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(24.97, 41.23, 38.02, 21.93)",
+  "solr_year_i": 1705.0,
+  "uuid": "princeton-zs25xb29k"
+}

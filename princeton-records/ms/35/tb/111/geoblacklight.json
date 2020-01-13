@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1923.\" \"1129.\" Includes location map, key, streets and specials index, and text. North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb111",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hammonton,Maps",
+    "Hammonton (N.J.),Maps"
+  ],
+  "dc_title_s": "Hammonton, Atlantic County, New Jersey (Sheet 10)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5217225\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afd99786-8539-45de-8f56-f8d78e1270fa/file/168dcd3a-70a4-416b-909b-2e362ecdff75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afd99786-8539-45de-8f56-f8d78e1270fa/file/f4a1f867-5aa0-4c43-9d0d-0f5939e16b81\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2Fa0%2F40%2F72a0401babb046bdbec1269724dc3e6d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c67690f-5525-4388-bdf8-952c6781fb51/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-afd99786-8539-45de-8f56-f8d78e1270fa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb111",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.861, -74.676, 39.73, 39.583)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-ms35tb111"
+}

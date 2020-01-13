@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "J.H. Colton & Co."
+  ],
+  "dc_description_s": "Identifies wards, streets, some buildings and points of interest. \"Entered accoring to Act of Congress, in the Year 1855, by J.H. Colton & Co. in the Clerks office of the District Court of the United States for the Southern District of New York.\" Informal text on the state of Delaware on verso; latest census date mentioned in text is 1860. In upper right corner: No. 39. Probably issued in: Colton's general atlas ... New York : J.H. Colton & Co., 1860.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p919z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York, N.Y. : J.H. Colton & Co., c1855.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Philadelphia (Pa.),Maps"
+  ],
+  "dc_title_s": "Philadelphia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531201\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a93459b3-761d-42e7-926a-eed679bb54be/file/21b944b2-7d90-4491-b418-6e59062c158a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a93459b3-761d-42e7-926a-eed679bb54be/file/a4d62caf-0e20-4eb8-956a-b99d5cf19d9b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F9d%2F1c%2F959d1c9180b54e009e6038b9e312f197%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b273937-0d79-4a48-8c95-674ccb8f3067/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a93459b3-761d-42e7-926a-eed679bb54be",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p919z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.200014, -75.121833, 40.008498, 39.920907)",
+  "solr_year_i": 1855.0,
+  "uuid": "princeton-qj72p919z"
+}

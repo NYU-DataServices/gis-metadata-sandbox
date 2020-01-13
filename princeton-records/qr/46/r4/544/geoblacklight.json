@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Rogatica. Transverse Mercator projection. Relief shown by 20 meter contour ingervals and spot elevation. This sheet falls within NK34-1, 1501, 1:250,000 and 2882 I, M709, 1:50,000. \"Coordinate conversion WGS 84 to ED 50.\" \"Map information as of 1994.\" This map is red-light readable.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qr46r4544",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Bethesda, MD : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Bosnia and Herzegovina,Maps"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina city graphic 1:10,000. Rogatica. Series M903.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449370\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/beef2e68-31b2-4b81-a6a9-3740411828ce/file/18b91884-e6b0-4562-8852-82c329c935dc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/beef2e68-31b2-4b81-a6a9-3740411828ce/file/9bf15f76-3396-447e-af9b-e18d1414dff8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2Fe3%2Ff9%2Fcee3f99e29ac46bf99f695d7b0f83dea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c845165-5750-4142-92f0-61a7cbeff61a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-beef2e68-31b2-4b81-a6a9-3740411828ce",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qr46r4544",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.966666666666665, 19.016666666666666, 43.81666666666667, 43.766666666666666)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-qr46r4544"
+}

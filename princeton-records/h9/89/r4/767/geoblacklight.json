@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson"
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r4767",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Geological Survey of New Jersey. New Jersey Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Contour",
+    "Railroad Stations",
+    "historical maps",
+    "Boundaries",
+    "Mineral resources",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "A topographical map of the vicinity of Trenton, New Brunswick and Bordentown.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca3be059-5dbf-4151-8f9c-be2d402e3583/file/7702a72f-e55b-4fa5-9e0c-9476b8284033\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f606ce0-c4a4-4a6d-9778-f01cdf1873dd/file/fe5603b3-101f-48b9-8f2c-0b7d0b61598d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f606ce0-c4a4-4a6d-9778-f01cdf1873dd/file/ebe7edff-2981-455b-a980-7320259e7891\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2F15%2Fa4%2F8b15a48cac1842d7b29f60a98b469783%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78e2e1af-4496-4914-b941-daa67a8927e2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Somerset",
+    "Middlesex",
+    "Central New Jersey",
+    "MC  G3811.C2.s63.N4J4 no.8 (1894)",
+    "Monmouth",
+    "Mercer"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f606ce0-c4a4-4a6d-9778-f01cdf1873dd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r4767",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.8167, -74.35, 40.5667, 40.0833)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-h989r4767"
+}

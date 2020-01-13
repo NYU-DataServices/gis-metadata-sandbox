@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Ptolemy, active 2nd century"
+  ],
+  "dc_description_s": "\"Insculptum est per Iohan[n]e Schnitzer de Armszheim\". Map from the 4th edition of Ptolemy's Cosmographia, printed by Leinhart Holle at Ulm in 1482. Woodcuts by Johannes Schnitzer. Title supplied by cataloger.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290c83h",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Ulm : Leinhart Holle, 1482]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "The world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7562409\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9262c9c4-7458-475f-a1ab-fe4e4a1c7584/file/9d444fed-72af-42d8-8823-9bf9e8fef09d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9262c9c4-7458-475f-a1ab-fe4e4a1c7584/file/1be5ffb3-8934-48af-aa7b-0bd9e7cb9064\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2F26%2Ff9%2F5826f9d2d68d43f2a38601f252b98055%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0feac1a1-4308-4382-9918-589ab06700e6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1482"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9262c9c4-7458-475f-a1ab-fe4e4a1c7584",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290c83h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1482.0,
+  "uuid": "princeton-9p290c83h"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1909.\" Includes key, streets and specials index, and text. \"1654\". North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b5644t22v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Carlstadt (N.J.),Maps"
+  ],
+  "dc_title_s": "Carlstadt, Bergen County, New Jersey (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5223757\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c8752752-f000-49a0-90d5-f8eae1710424/file/276cca54-e36c-41d4-8ed3-84a0423cd3ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c8752752-f000-49a0-90d5-f8eae1710424/file/52faf8f4-9b10-4cc0-a9ee-6c81fcc144af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F25%2F9c%2Fbd259cdd98f141cd9a00944c978d8e97%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b18b5b30-9475-44c8-9c4c-7d4eb42eaa69/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c8752752-f000-49a0-90d5-f8eae1710424",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b5644t22v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.103, -74.031, 40.85, 40.807)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-b5644t22v"
+}

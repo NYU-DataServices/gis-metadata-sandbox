@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Also shows names of landholders, locations of old roads and buildings and original shoreline and drainage. Oriented with north to the upper right. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xv00b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1870?] (N[ew] Y[ork] : Miller's Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the James W. Beekman, Catherine Livingston, Breevoort & Odell, Spring Valley, Thomas Buchanan, Thomas C. Pearsall, Mount Vernon & Abraham & William Beekman estates",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6279290\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cd9bbf6-932e-4095-93ca-65c3c4f46ab7/file/5df49e9c-5ca7-4ae6-8d5c-6202991c5076\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cd9bbf6-932e-4095-93ca-65c3c4f46ab7/file/e65add44-ba4d-4c75-a596-80893a9f31e1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/01%2F50%2Fbd%2F0150bdcf22d445239f2ec512d2ed1e8a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fded483f-8c6f-4c79-beb2-1de3cd9c20b8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7cd9bbf6-932e-4095-93ca-65c3c4f46ab7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xv00b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.975771, -73.956373, 40.768774, 40.751319)",
+  "solr_year_i": 1870.0,
+  "uuid": "princeton-vm40xv00b"
+}

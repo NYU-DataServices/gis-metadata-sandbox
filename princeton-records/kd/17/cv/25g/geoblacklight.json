@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Whitehall, N.Y.-VT. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1893 in cooperation with the State of N. Y. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv25g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Whitehall (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-Vermont: Whitehall Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868433\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6780feb1-36c0-4f66-b714-5ea8774a35fa/file/a03cc3e9-0a74-4324-b9d2-0945b4f13b23\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0f4ca85-3f9c-417a-896b-2184792baee5/file/3db62cb8-add3-4b05-976b-24ca2f09620b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0f4ca85-3f9c-417a-896b-2184792baee5/file/7d2ff12c-7600-4afc-bcc6-f50f5c631ac9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F1a%2Fae%2Faf1aae52bb66400993cea300847ffcaf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2553919-2004-4bf9-9384-be83d9e8af6a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0f4ca85-3f9c-417a-896b-2184792baee5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv25g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 43.75, 43.5)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-kd17cv25g"
+}

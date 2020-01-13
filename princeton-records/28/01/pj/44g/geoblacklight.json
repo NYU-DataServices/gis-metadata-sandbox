@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, specials index, and text. \"July 1904.\" \"7217.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj44g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Jamesburg,Maps",
+    "Jamesburg (N.J.),Maps"
+  ],
+  "dc_title_s": "Jamesburg, Middlesex County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5477890\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a6cf97d-9ff5-4e31-8e3b-1149fe6773dc/file/2acb2bb6-cd8d-40c1-8d6a-99cb7702879a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a6cf97d-9ff5-4e31-8e3b-1149fe6773dc/file/ecd0c899-670d-4ce6-98ba-875f5bf162fb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Fe2%2Ffb%2F5de2fb4dc56241bc9656a0ae9f77ff46%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8dfaabc1-f9d9-494f-8942-54fd40488805/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6a6cf97d-9ff5-4e31-8e3b-1149fe6773dc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj44g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.454142, -74.423158, 40.360981, 40.342219)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-2801pj44g"
+}

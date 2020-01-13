@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alteranate title: Koriyama. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 20 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:15,000\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gm21g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Koriyama, Fukushima Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830421\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c3e6fc21-fd13-41ae-9f68-7cc46d1fa9e6/file/a107d5a9-933b-4f90-8315-5ed53178badc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a73221be-e6f9-4207-9181-24b76df16eeb/file/dfe1fda3-4040-4526-b1d5-661679aecb07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a73221be-e6f9-4207-9181-24b76df16eeb/file/fe18de61-f95a-461e-9e24-44262384ecf5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b7%2Fe3%2F4e%2Fb7e34ea90caa4f118a9f5420ce04706e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1cabd2d-3e73-4ec7-be36-98f762baf6ca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a73221be-e6f9-4207-9181-24b76df16eeb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gm21g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(140.35, 140.41666666666666, 37.43333333333333, 37.36666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-c821gm21g"
+}

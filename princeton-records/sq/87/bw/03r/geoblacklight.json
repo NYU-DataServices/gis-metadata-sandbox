@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey. Department of Conservation and Development. Division of Geology and Waters. Atlas Sheet no. 39 (1925) (County/municipality) New Jersey Geological Survey. Political boundaries as of June 1, 1924. In upper margin: Atlas sheet no. 39. Surveyed 1877-1887. Base compiled and engraved 1910-1912.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sq87bw03r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1925.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "County and municipality map of New Jersey: political boundaries as of June 1, 1924",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6803746\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c11a8fe5-8091-4812-a650-4c93efa88db3/file/57b447b4-1500-4c1e-9559-19370a26acb3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb469b5d-dd9b-444e-97e2-d405921ed8bc/file/74bf34db-66b0-4d80-96a2-905943b50bd1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb469b5d-dd9b-444e-97e2-d405921ed8bc/file/3816b663-22d6-4ea2-8c48-634b3d5f548c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F1d%2F20%2F821d2000195340028fb74ef86a8fed4f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b70bea93-339a-4536-82bb-00b983ae36c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb469b5d-dd9b-444e-97e2-d405921ed8bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sq87bw03r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-sq87bw03r"
+}

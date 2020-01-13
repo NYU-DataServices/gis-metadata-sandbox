@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. In upper left margin: Korea city plans 1:20,000. Polyconic projection. Relief shown by form lines and spot elevation. Depth shown by fathoms. Korean names transcribed according to the McCune-Reischauer system. Japanese forms of Korean names (shown in parentheses) transcribed according to the modified Hepburn (Romaji) System. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w6634511v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "North Korea,Maps"
+  ],
+  "dc_title_s": "Najin (Rashin), Hamgyong-pukto (Kankyo-hokudo), Korea. A.M.S. L951",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830547\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/66b37f67-763c-41a1-b18e-811da528ba1b/file/0ffd9441-c49b-40c8-8e05-9d480551aba2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9de26d1-7c12-4dce-82d7-1277872ee94b/file/f71ab3c3-1393-426a-93ae-a5bd556d1105\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9de26d1-7c12-4dce-82d7-1277872ee94b/file/7f06b9d7-0d96-41f7-b6c9-933fa628e38f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2Fdc%2F42%2F74dc421e9c3d468b9b66598b8fd7f57c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1624ec9f-794d-47dd-a8a6-e7f53093fe58/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a9de26d1-7c12-4dce-82d7-1277872ee94b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w6634511v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(130.23333333333332, 130.35, 42.28333333333333, 42.18333333333333)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-w6634511v"
+}

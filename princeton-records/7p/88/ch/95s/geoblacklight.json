@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dc_description_s": "Streets are named. \"Copied from a map prepared by Manila Fire Insurance Association, 1925\". Alternate title: Pototan. In upper left margin: Philippine Islands city plans. Copied from a map prepared by Manila Fire Insurance Association, 1925. AMS 1.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88ch95s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Philippines,Maps",
+    "Pototan (Philippines),Maps",
+    "Iloilo (Philippines : Province),Maps",
+    "Panay Island (Philippines),Maps",
+    "Pototan,Maps"
+  ],
+  "dc_title_s": "Pototan, Philippine Islands, Iloilo Province. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830604\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed445ecf-6c26-4fd8-983f-461aebf5bd2b/file/723de60c-5ba0-4d62-b93b-e97b19a20fc4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/641cf767-ca33-4deb-9ef2-00dcd5fe5808/file/9cb703e4-316e-40e5-8cf3-e5c474e4125d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/641cf767-ca33-4deb-9ef2-00dcd5fe5808/file/736d256f-1943-4b41-b101-391dbc529215\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F72%2Fa4%2F9372a4d5e29c47d4a564a072f26d9edc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c834d74-70eb-4faf-b284-0086b41dc571/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-641cf767-ca33-4deb-9ef2-00dcd5fe5808",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88ch95s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(122.630833, 122.639167, 10.945556, 10.938889)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-7p88ch95s"
+}

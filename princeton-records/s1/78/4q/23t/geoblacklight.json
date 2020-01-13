@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and divisions in British Cameroons for 1923. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/s1784q23t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "British Cameroons conflated historical administrative boundaries, 1923",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9102fd78-1ddd-49a5-be3d-e1da3a320725/file/70f6bd05-0612-415f-a1a5-d1f63495e339\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4fe6649-18df-4366-aec7-4a3a33ae7418/file/51c2bcab-c6be-4569-b292-96d4027a3b15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4fe6649-18df-4366-aec7-4a3a33ae7418/file/26c3c36d-b85a-4fe2-81a8-fa608833483e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroons",
+    "British Cameroons",
+    "Cameroon",
+    "Nigeria"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-d4fe6649-18df-4366-aec7-4a3a33ae7418",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784q23t",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(8.498749, 14.68007, 12.623056, 3.919943)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-s1784q23t"
+}

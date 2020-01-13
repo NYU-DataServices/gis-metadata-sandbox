@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Edward Stanford Ltd"
+  ],
+  "dc_description_s": "Relief shown by shading. From: The land of Moab : travels and discoveries on the east side of the Dead Sea and the Jordan / by H. B. Tristram ... London : J. Murray, 1873.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z777g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : J. Murray, 1873]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Moab (Kingdom),Historical geography,Maps",
+    "Syria,Historical geography,Maps"
+  ],
+  "dc_title_s": "Map of Moab : shewing the route of the Revd. H.B. Tristram to accompany \"The land of Moab\"",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7049360\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f0fdbfdd-de59-420b-83f0-3c494c391607/file/e270b9e7-9bcc-4da4-b301-19c790991ae6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f0fdbfdd-de59-420b-83f0-3c494c391607/file/4d33c6d0-bf9b-44c6-93ec-3d3e9a80fd43\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2Ffc%2Fa4%2F68fca42aa3344d5abe91f6d00477e6e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7f60e3d3-07a1-4754-88b1-bbfa9abc5a0a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Syria"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f0fdbfdd-de59-420b-83f0-3c494c391607",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z777g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.350161, 36.183577, 31.916834, 31.00005)",
+  "solr_year_i": 1873.0,
+  "uuid": "princeton-zw12z777g"
+}

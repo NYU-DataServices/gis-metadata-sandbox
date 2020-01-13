@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -15.333300. South Decimal Degree -15.5000. East Decimal Degree -67.2500. West Decimal Degree -67.5000. Alternate title: Estancia Tohomonoco, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jm214r01d",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Estancia Tohomonoco, hoja 6147 IV. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839612\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b49f646-632c-4f8d-9881-bfa51589df25/file/5e20a801-2309-445a-bb1b-530a20132bbe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b49f646-632c-4f8d-9881-bfa51589df25/file/415ac922-69f9-4c1f-b02c-86bd8d2824fc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2Fd3%2F74%2F9cd374e337f34dc294ef14d3bebe3e0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/751b94a2-49a6-4748-bf64-dd139c190ce9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b49f646-632c-4f8d-9881-bfa51589df25",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jm214r01d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.5, -67.25, -15.3333, -15.5)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-jm214r01d"
+}

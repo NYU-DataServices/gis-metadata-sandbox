@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bartholomew, John, 1805-1861"
+  ],
+  "dc_description_s": "At head of map: II-II. World maps showing plant, animal and bird distribution. Plate II-II from: General atlas of the world ... / engraved on steel ... by Sidney Hall, William Hughes ... New ed. Edinburgh : Adam and Charles Black ... , 1854.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zc77sr76r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Animals,Dispersal,Maps",
+    "Birds,Dispersal,Maps",
+    "Plants,Dispersal,Maps",
+    "Crops and climate,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Zoological chart of the world shewing the distribution of some of the principal members of the animal kingdom ...",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4534430\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e09036f4-da35-4025-9990-e3f67a5a649d/file/08b272d4-e5d9-4ae0-b6ee-d5ad7b84920d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4a393e3-b21b-4e72-a647-4fff3cd2e074/file/30a0ee63-52a0-4814-b47d-a7ff81ebd6f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4a393e3-b21b-4e72-a647-4fff3cd2e074/file/d281e80f-bc28-4694-a9a7-1a9427f4c553\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2Fb1%2Fec%2F04b1ecb841574b2ab9aafd4c7991eb2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cafb2a09-06b8-4f0e-8988-512a419f0742/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c4a393e3-b21b-4e72-a647-4fff3cd2e074",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zc77sr76r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -70.0)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-zc77sr76r"
+}

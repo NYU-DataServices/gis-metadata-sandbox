@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Norwich, Conn. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1890-91. Surveyed in cooperation with the State of Connecticut. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jw827d23p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Norwich (Conn.),Maps"
+  ],
+  "dc_title_s": "Connecticut: Norwich sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868494\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/efed3b1a-4d44-494d-8695-8b81d10ca664/file/1c96ab64-b30c-4bcc-807f-43fd3f8cceec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51694893-d0d5-49f4-b834-9189f8960191/file/1a8a0bcb-828b-4953-a46c-494b4bff6482\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51694893-d0d5-49f4-b834-9189f8960191/file/d0deb53f-d5d8-4427-b73b-e87f5575616b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F1c%2Fea%2Fbc1ceaad103f41cfbb2aa06ab79340f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3fe7df77-a0b9-4914-8aa8-59fc5d06558c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-51694893-d0d5-49f4-b834-9189f8960191",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jw827d23p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.25, -72.0, 41.75, 41.5)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-jw827d23p"
+}

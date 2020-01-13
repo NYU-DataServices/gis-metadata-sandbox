@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Projection approximate. Copied from a French map, 1:10,000, Plan de la ville de Rouen, 1933",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515p964",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rouen,Maps"
+  ],
+  "dc_title_s": "France 1:12,500. Rouen city plan. A.M.S. M961",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449539\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b480b961-29d6-4b3e-9b8e-e132db390215/file/545784f5-e361-4468-9442-0016398b5d67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7dfe1342-edad-4684-8e19-405eea1fb56a/file/6a07599c-b2e1-4fa8-893c-9b85cf17eada\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7dfe1342-edad-4684-8e19-405eea1fb56a/file/743e948b-42b6-4a57-981a-056cc28b45e8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F37%2F65%2F9b37651e73ec4bc48a4513ad4816046b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/92551ffd-bcaf-4dcf-92b4-96e581432499/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7dfe1342-edad-4684-8e19-405eea1fb56a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515p964",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.0333333333333334, 1.15, 49.46666666666667, 49.4)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-b8515p964"
+}

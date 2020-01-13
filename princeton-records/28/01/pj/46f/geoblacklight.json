@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1916.\" Includes location map, key, key map, streets and specials index, and text. \"1439.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj46f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbridge,Maps",
+    "Woodbridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbridge, Middlesex County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5544201\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ea68dd5-f00c-4fa7-a189-d8872e76d343/file/19e54fd6-d685-43d7-9fa5-ff44eb68daf6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ea68dd5-f00c-4fa7-a189-d8872e76d343/file/e2e76522-b625-45b0-a274-eab2782746d2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2F72%2F8d%2Fcd728d4b964546e6b96f5ac23db745f4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90232f67-8241-4ad7-b043-b39b10883e9f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8ea68dd5-f00c-4fa7-a189-d8872e76d343",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj46f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-2801pj46f"
+}

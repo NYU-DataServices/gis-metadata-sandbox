@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: New Holland, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1905 and 1906. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/db78td709",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "New Holland (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: New Holland Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836928\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d6a2e2f-24fe-4d84-9ac9-fe3a73af930c/file/2bf5dd56-cb8b-4764-adfc-b6d371ce609e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1861972-c9d2-41c6-9f8a-053a72bdc61b/file/bf23bdde-9a24-42a2-bd59-d2d5e70ba502\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1861972-c9d2-41c6-9f8a-053a72bdc61b/file/356bd998-9b34-455f-b682-f278a54201d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2F2b%2F4c%2Fb32b4c5c6e9c453382b8ac74e0b5c822%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0dc3348b-e903-48de-ba32-d623186355a7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d1861972-c9d2-41c6-9f8a-053a72bdc61b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-db78td709",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 40.25, 40.0)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-db78td709"
+}

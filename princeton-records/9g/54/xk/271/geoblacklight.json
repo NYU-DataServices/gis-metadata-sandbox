@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Nunda Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9g54xk271",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "New York: Nunda Quadrangle, 1912 reprint",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e8e468c-1a83-450a-88fa-53707c2facd3/file/f77c620f-43b3-4c6f-af5d-6f19063ba19f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17fda7f9-0f6a-41b0-a669-777fee67056f/file/39554611-8909-4775-8327-d758f2953818\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17fda7f9-0f6a-41b0-a669-777fee67056f/file/71e6149b-a13b-43dc-a630-05626e91ee1e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2F36%2Fb0%2F9536b0fb48334e94a53c40f298200096%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/377d6d19-1647-43de-bf7d-8e72008276af/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Livingston County",
+    "New York",
+    "Nunda",
+    "Allegany County",
+    "Wyoming County",
+    "United States",
+    "MC  G3801.C2.s62.U5G4 Nunda"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-17fda7f9-0f6a-41b0-a669-777fee67056f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9g54xk271",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 42.75, 42.5)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-9g54xk271"
+}

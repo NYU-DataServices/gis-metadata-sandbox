@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Civil Aeronautics Board. Bureau of Air Operation. North Decimal Degree 80.000000. South Decimal Degree -80.000000. East Decimal Degree 180.000000. West Decimal Degree -180.000000. Inset: Caribbean area air routes. Air carriers listed by country.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87ps10b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [s.n.], ca. 1951.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Airways",
+    "Transportation",
+    "World,Maps"
+  ],
+  "dc_title_s": "Routes of foreign air carriers operating to the U.S., September 30, 1951.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810611\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd36b9af-6518-4f12-9675-dadc585f3354/file/50206b06-7f12-42ed-8e40-67661ca37b56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd36b9af-6518-4f12-9675-dadc585f3354/file/86351b6c-12c7-4849-882c-90e2f7ae154f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d3%2Ff7%2F82%2Fd3f78293d1a04d019e8642a5a2b0814a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3bf25637-70c7-4cbf-b4ce-4126af78d546/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1951"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fd36b9af-6518-4f12-9675-dadc585f3354",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87ps10b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -80.0)",
+  "solr_year_i": 1951.0,
+  "uuid": "princeton-mc87ps10b"
+}

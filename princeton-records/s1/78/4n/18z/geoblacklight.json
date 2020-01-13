@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 41.000000. South Decimal Degree 40.875000. East Decimal Degree -74.250000. West Decimal Degree -74.375000. Alternate title: Pompton Plains, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; edited, and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geogetic Survey. Topography from aerial photographs by photogrammetric methods. Aerial photographs taken 1942. Field check 1943. Culture revised by the Geological Survey 1955.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784n18z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pompton Plains Quadrangle, New Jersey, 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845019\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bfb4620-ae39-49fb-baec-c21f438a6880/file/adb548d1-3e09-4b34-aa24-077ce04da567\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/81c62463-ded7-46b7-a9aa-a0b02a1c76a1/file/73103e90-aad5-4da9-a6b8-351fde01cb77\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/81c62463-ded7-46b7-a9aa-a0b02a1c76a1/file/2f6294cb-98a2-4655-ae1a-f79126963ff1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2Fa3%2F71%2Fe3a371f7ea9c4329b476aab3507c707c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68da1788-4a0a-425f-9987-f8a236658b96/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-81c62463-ded7-46b7-a9aa-a0b02a1c76a1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784n18z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.375, -74.25, 41.0, 40.875)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-s1784n18z"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1915.\" Includes location map, key, streets and specials index, and text. North oriented towards upper left. \"540.\" Sheets 1-3 show John Roebling Sons Co., Kinkora works.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9g54xk54x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Roebling,Maps",
+    "Roebling (N.J.),Maps"
+  ],
+  "dc_title_s": "Roebling, Burlington County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5157873\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0def147-3952-45fd-aea2-9d4af5d8baf4/file/91872958-d695-497b-89e8-a842d58b7d1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0def147-3952-45fd-aea2-9d4af5d8baf4/file/0e7369d7-94a6-42ac-81e2-f01ff24ee6e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2Fe6%2F20%2Fc3e62070e25c4e079e18b3efea88e847%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/079c0b8f-ca9a-4611-aa86-18fed8faa209/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e0def147-3952-45fd-aea2-9d4af5d8baf4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9g54xk54x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-9g54xk54x"
+}

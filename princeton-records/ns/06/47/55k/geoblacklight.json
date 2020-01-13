@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887. Surveyed in cooperation with the state of Massachusetts. Triangulation and coast line by the U.S. Coast and Geodetic Survey. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ns064755k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gay Head (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Gay Head sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837150\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f4cdb2e9-3ae5-46c2-9c56-9debd14f34de/file/77c9c089-e918-4803-adf2-74570b05ba14\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97fcf942-5d86-4cd4-8005-52e5707c06b3/file/b60d581f-342c-4e5b-8746-9982a59db449\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97fcf942-5d86-4cd4-8005-52e5707c06b3/file/706e2f39-f38e-4a57-90ee-1e97ade6918a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F00%2Fc4%2F2200c4b47e0e4da4bc1145be8169fdb1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47717cc2-f7ce-4979-88de-9e0ac99f8328/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-97fcf942-5d86-4cd4-8005-52e5707c06b3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ns064755k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.95, -70.7, 41.5, 41.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-ns064755k"
+}

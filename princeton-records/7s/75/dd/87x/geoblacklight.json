@@ -1,0 +1,54 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75dd87x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Toms River Quadrangle, New Jersey, 7.5 Minute series (topographic) (1989)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61639cb6-c54f-4c0d-86c1-56ed65919929/file/e6392638-caa6-4b2c-8871-31dcb5ab95f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c891b8f-c0d1-42d9-a260-3bcd566deb1b/file/27faa956-b151-43ab-a025-27769eda92ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c891b8f-c0d1-42d9-a260-3bcd566deb1b/file/e7a83327-c9a2-4530-8c75-3d7510b9734a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2Fe4%2Ff5%2F77e4f58d617f49f2a92cbe20c0283dab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0be284a5-e0ae-4e8f-a161-8ee47233d6a5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Berkeley",
+    "Beachwood",
+    "South Toms River",
+    "Toms River",
+    "Manchester",
+    "Dover",
+    "Lacey",
+    "Ocean Gate",
+    "Island Heights",
+    "Ocean County",
+    "Pine Beach",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c891b8f-c0d1-42d9-a260-3bcd566deb1b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75dd87x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 40.0, 39.875)",
+  "solr_year_i": 1989.0,
+  "uuid": "princeton-7s75dd87x"
+}

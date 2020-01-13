@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Department of Environmental Protection. Division of Coastal Resources. In lower right margin: Sea Isle City, N.J. Mapped by the Army Map Service, edited and published by the Geological Survey. \"This map is for visual purposes, for detailed analysis refer to the original sources.\" Blue line copy. This map is sheet 15 of a series of nineteen sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m3248",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Department of Environmental Protection, 1981.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Shorelines",
+    "Geomorphology",
+    "NJ, shoreline,Maps"
+  ],
+  "dc_title_s": "Historical shoreline changes in New Jersey 1835-1972. 15) Sea Isle City Quadrangle, New Jersey-Cape May Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866438\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/423348c7-c1d5-4403-a1da-9d83b0813177/file/b9eb52e0-bff4-465d-8f72-96b400f55bc9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88f4bfdc-ff7b-42d3-b5fb-4159049c2d3d/file/fa411f83-7b42-486d-85d3-027faa1bf971\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88f4bfdc-ff7b-42d3-b5fb-4159049c2d3d/file/497566f1-1bb1-41bb-8161-df142012e48a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2F32%2F66%2F5732666fd755425cbf97b963e48a6983%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/079af5dc-cea8-4e9d-9e68-b2feb472206b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-88f4bfdc-ff7b-42d3-b5fb-4159049c2d3d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m3248",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.61666666666666, -74.5, 39.25, 39.11666666666667)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-m326m3248"
+}

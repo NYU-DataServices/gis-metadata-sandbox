@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.875000. South Decimal Degree 39.750000. East Decimal Degree -75.000000. West Decimal Degree -75.125000. Alternate title: Runnemede, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped edited and published by the United States Geological Survey. Control by USGS, USC&GS, and New Jersey Geodetic Survey. Planimetry by photogrammetric methods from aerial photographs taken 1951. Topography by planetable surveys 1952. Revised from aerial photographs taken 1965. Field checked 1967. Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fq45p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Roselle, New Jersey. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845030\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d9eee25-ba98-4b02-9456-2bef948a2d6e/file/bf200205-6b72-4188-a14d-5cf07175ba13\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4dda2a4a-39d3-4baf-b09e-4feae3b944f3/file/56e2e16d-00ac-4510-a1d5-e65bc39f24d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4dda2a4a-39d3-4baf-b09e-4feae3b944f3/file/72465f32-376a-46d9-aefb-5a85f51ed537\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8c%2Ff0%2F11%2F8cf0114d5d2b40e1b7449ea80181281f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b014e295-0036-4ddd-a0e2-3b3b44318322/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4dda2a4a-39d3-4baf-b09e-4feae3b944f3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fq45p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.125, -75.0, 39.875, 39.75)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-c534fq45p"
+}

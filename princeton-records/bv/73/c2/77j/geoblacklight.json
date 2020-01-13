@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"5136.\" Sheets 27-28, 61, 72, and 79-82 of Palisades, N.J., series; sheet 27 shows Fairview; sheet 28 shows Fairview and Ridgefield; sheet 61 shows Fort Lee; sheet 72 shows Leonia; sheets 79-82 shows Palisades Park. Sheets 27-28, 61 and 72: New sheet, Sept. 1923; sheets 79-82: Add'l. sheet, Sept. 1923.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c277j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Fairview,Maps",
+    "Real property,New Jersey,Ridgefield,Maps",
+    "Real property,New Jersey,Fort Lee,Maps",
+    "Real property,New Jersey,Leonia,Maps",
+    "Real property,New Jersey,Palisades Park,Maps",
+    "Fairview (Bergen County, N.J.),Maps",
+    "Ridgefield (N.J.),Maps",
+    "Fort Lee (N.J.),Maps",
+    "Leonia (N.J.),Maps",
+    "Palisades Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Palisades, N.J. (Sheet 80)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5659325\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dbb7141f-05bf-44d2-9e13-1e42036cde88/file/3e88a8e2-4193-4c37-aef5-6f9e71d10e07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dbb7141f-05bf-44d2-9e13-1e42036cde88/file/4ee079e9-b672-4909-a102-23069a82d020\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F32%2F6b%2Fdf326bb1d8b84c19b9c3aef15efad0f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29bc2918-b92b-4476-8251-3be99aa9f02b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dbb7141f-05bf-44d2-9e13-1e42036cde88",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c277j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.029505, -73.927943, 40.914496, 40.798873)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-bv73c277j"
+}

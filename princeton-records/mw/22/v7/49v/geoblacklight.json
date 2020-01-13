@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1909.\" Includes key, key map, streets and specials index, and text. \"1140.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mw22v749v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westville,Maps",
+    "Real property,New Jersey,Newbold,Maps",
+    "Westville (N.J.),Maps",
+    "Newbold (N.J.),Maps"
+  ],
+  "dc_title_s": "Westville and Newbold, Gloucester County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5489085\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a39bacaa-80ba-43a8-b4d5-cd252f9d0b52/file/8ad13c8e-2a4e-4847-be2d-48f08e1ab489\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a39bacaa-80ba-43a8-b4d5-cd252f9d0b52/file/87c25503-7865-419f-8fa0-bbf513ff5146\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F00%2F93%2F610093cdea0540e5ad15a26d5322fc14%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6df3b680-3393-4e6d-b346-b13a3096a49f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a39bacaa-80ba-43a8-b4d5-cd252f9d0b52",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mw22v749v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.141891, -75.1128, 39.881931, 39.856054)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-mw22v749v"
+}

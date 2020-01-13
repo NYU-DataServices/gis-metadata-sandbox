@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings and isolines. Includes sailing directions and information on tides. \"Harbor map no.\"--Upper left margin. \"Electrotype copy no. 2 by G. Mathiot, U.S.C.S.\"--Upper right margin. \"Final reduction for engraving by M.I. McClery, asst. Engraving principally by S.T. Pettit. Printed by H. Benner.\"--Lower margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343v83b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1848.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Connecticut,Norwalk,Maps",
+    "Harbors,Connecticut,Westport,Maps",
+    "Cockenoe Harbor (Conn.),Maps",
+    "Norwalk (Conn.),Maps",
+    "Norwalk Islands (Conn.),Maps",
+    "Sheffield Island (Conn.),Maps",
+    "Westport (Conn.),Maps"
+  ],
+  "dc_title_s": "Harbors of Sheffield Island and Cawkin's Island",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7682241\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02f38668-ad28-46fc-be83-85d07475d03d/file/4bd0aff0-5042-4713-830e-dc57160923f8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02f38668-ad28-46fc-be83-85d07475d03d/file/25edf8ec-98da-4606-807b-7e4408ac6518\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F8c%2F12%2F628c12c936bc4457aa70f5bfa7174063%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e55823f3-0b1e-4be9-9806-b0b536dd8e37/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-02f38668-ad28-46fc-be83-85d07475d03d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343v83b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.463905, -73.350266, 41.125063, 41.041865)",
+  "solr_year_i": 1848.0,
+  "uuid": "princeton-jh343v83b"
+}

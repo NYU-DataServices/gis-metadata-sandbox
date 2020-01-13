@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Giersch, Ulrich, 1954-"
+  ],
+  "dc_description_s": "Includes index,",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v405sd25c",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Bien & Giersch Projektagentur GmbH, [2007]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Berlin (Germany),Aerial views",
+    "Berlin (Germany),Maps"
+  ],
+  "dc_title_s": "Luftbildplan Berlin 1953. Bereich: Ernst-Reuter-Platz bis Stralau",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10137171\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4792dd69-8c25-4da3-a7ca-d72c142f0d89/file/2e77de3d-6618-40a6-a7c0-70d21fc0c95b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4792dd69-8c25-4da3-a7ca-d72c142f0d89/file/37cacf2d-e7e8-4b2e-9101-4ab8f2443c1c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3c%2F8c%2F4f%2F3c8c4fe6169e48ddb308fc78e5e20124%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b00a2b6f-0e5e-4f6c-a5d2-5911a8d5dd24/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4792dd69-8c25-4da3-a7ca-d72c142f0d89",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v405sd25c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.320532, 13.436173, 52.531123, 52.486437)",
+  "solr_year_i": 2007.0,
+  "uuid": "princeton-v405sd25c"
+}

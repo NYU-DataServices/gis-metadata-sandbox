@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Eastern sector of the China-USSR border, shown at a scale of 1:12,000,000. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff3656952",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "China-USSR border: Eastern sector. (1988).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a9daae12-d74a-48d9-99b0-732c625f9398/file/1013f832-fc12-4a05-9d49-6887a522b0a6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dac9ffe1-f56f-47e7-a3bc-139f74d6c2aa/file/aa6d841f-b737-47e9-a59b-ddaef2ce0863\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dac9ffe1-f56f-47e7-a3bc-139f74d6c2aa/file/3f64aab0-cf49-42de-bcbf-8186f24b1142\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2Fc4%2F63%2Fbdc463ae74494db8b2cfecd97f90c866%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3438d1f7-8701-4707-bee4-0524e2d89145/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "East Asia",
+    "USSR",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dac9ffe1-f56f-47e7-a3bc-139f74d6c2aa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff3656952",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(114.0, 138.0, 54.0, 42.0)",
+  "solr_year_i": 1988.0,
+  "uuid": "princeton-ff3656952"
+}

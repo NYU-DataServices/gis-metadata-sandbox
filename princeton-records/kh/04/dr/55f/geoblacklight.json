@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Civil Aeronautics Board. Bureau of Air Operations, Routes and Carriers Relations Division. North Decimal Degree 90.000000. South Decimal Degree -90.0000. East Decimal Degree 180.0000. West Decimal Degree -180.0000. Ancillary map: Caribbean area. \"Routes shown on this map do not neccesarily conform to air tracks of actual operation.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dr55f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [s.n.], 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Airways",
+    "Air travel",
+    "World,Maps"
+  ],
+  "dc_title_s": "International air routes of United States carriers: September 30, 1955",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810613\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e04e594d-c9b7-4bb3-ae38-e2d04350a53a/file/c493347f-bc7f-4e1a-875a-8127f04ff8e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e04e594d-c9b7-4bb3-ae38-e2d04350a53a/file/3c8e1f5b-d21a-41ed-ae1d-7abcc678f99c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2Fc8%2F43%2F93c843e0c912475d81f107c954579b65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2fcf994-8f3a-4805-8b62-c3cafdd11873/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e04e594d-c9b7-4bb3-ae38-e2d04350a53a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dr55f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-kh04dr55f"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency, issuing body"
+  ],
+  "dc_description_s": "\"801755 (R00014) 4-92.\" Includes comparative area map. Map shows province administrative boundaries, roads, railroads, ports, and airfields. \"Boundary representation is not necessarily authoritative.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qq82g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1992.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps,Cuba,Maps",
+    "Cuba,Administrative and political divisions,Maps",
+    "Cuba,Maps",
+    "Guanta\u0301namo Bay Naval Base (Cuba),Maps",
+    "Havana (Cuba),Maps"
+  ],
+  "dc_title_s": "Cuba (1992/relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6843253\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4b0f7fb-1647-4d52-9515-441c22c6d8ae/file/77548333-ee61-4e1c-8a22-34dfcbeec944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4b0f7fb-1647-4d52-9515-441c22c6d8ae/file/861e8045-7977-4ac6-88e8-88a33859cd5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2F81%2F4b%2Fb3814b7edbdf49a49985dbd3cabb0163%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57464efc-a1bf-47df-b8c3-faea42340c55/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b4b0f7fb-1647-4d52-9515-441c22c6d8ae",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qq82g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-84.949167, -74.131389, 23.275833, 19.823611)",
+  "solr_year_i": 1992.0,
+  "uuid": "princeton-mg74qq82g"
+}

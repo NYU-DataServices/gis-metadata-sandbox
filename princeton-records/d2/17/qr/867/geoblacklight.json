@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New sheet, Oct. 1922.\" \"5464.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr867",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Atlantic City, N.J. (Sheet 67)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5657341\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93915a6c-7ccd-4338-b6fb-7010e3c5300a/file/6365d0e2-211a-4348-8981-c65b80355802\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93915a6c-7ccd-4338-b6fb-7010e3c5300a/file/3c5715d0-a9bc-4856-955b-1e93e265a3ac\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3f%2Ff8%2F87%2F3ff887134773487bb338b28e60a011aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ad958745-c9ae-4d03-ac0a-80eaddfd2c8f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-93915a6c-7ccd-4338-b6fb-7010e3c5300a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr867",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501592, -74.402886, 39.417678, 39.335544)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-d217qr867"
+}

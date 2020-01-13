@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Walch, Johannes"
+  ],
+  "dc_description_s": "Map of Greece and the Balkan Peninsula; relief shown by hachures. Inset: Ins. Candia. Probably issued in: Allgemeiner Atlas ... Augsburg : J. Walch, [ca. 1799].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t722hc304",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Augustae Vind. [Augsburg] : Sumtibus Joannis Walchii, 1797.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Balkan Peninsula,Maps,Early works to 1800",
+    "Greece,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Imperii Osmanici sive Turcici Europaei tabula ad normam recentissimarum observationum concinnata = Das osmansche Reich in Europa nach den neuesten Nachrichten und bewa\u0308hrtesten Hu\u0308lfsmitteln Ao. 1797 entworfen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7401606\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f1963da-836a-49a7-9c2a-b7f8b07fb355/file/8e2b5b08-f1a7-4e24-96ed-50ddabe1dd8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f1963da-836a-49a7-9c2a-b7f8b07fb355/file/443f6918-4c4d-4683-b016-f6bc5188c0bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e7%2F37%2F5d%2Fe7375dd24b864f4e8925d63f660c9274%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cac52615-6673-463d-b7be-60f1a24118ae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece",
+    "Balkan Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2f1963da-836a-49a7-9c2a-b7f8b07fb355",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t722hc304",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.02, 37.09, 49.51, 34.67)",
+  "solr_year_i": 1797.0,
+  "uuid": "princeton-t722hc304"
+}

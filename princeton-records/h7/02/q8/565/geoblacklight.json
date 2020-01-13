@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"3585.\" Sheet 87 of Passaic, N.J. series, headed: New sheet, Feb. 1921.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q8565",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Passaic,Maps",
+    "Passaic (N.J.),Maps"
+  ],
+  "dc_title_s": "Passaic, N.J. (Sheet 87)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5589711\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7a4db51-6e0a-4c4b-9c62-89a80811a5b5/file/8f9577c3-ac5f-4172-b198-99c8bb6f6bdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7a4db51-6e0a-4c4b-9c62-89a80811a5b5/file/20741afd-28a7-49da-9118-81df4d5ae849\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F21%2F96%2F7921962f52914c0dbd3e825a9739d5bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/97787c28-72cb-431c-a68f-b764dbcf7d69/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c7a4db51-6e0a-4c4b-9c62-89a80811a5b5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q8565",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-h702q8565"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. \"Verified by I.I. Stevens, Lieut. U.S. Engrs. & Bvt. Major, asst. in charge of office.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bn01m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, Published in 1850.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,Oregon,Maps",
+    "Pacific Coast (Or.),Maps"
+  ],
+  "dc_title_s": "Reconnoissance of the western coast of the United States from Monterey to the Columbia River",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7816728\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e0d44ed-1eca-4d27-8d3a-6c87f6e7135f/file/17a2d823-fbf6-4d79-955d-ee98f9bd91a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e0d44ed-1eca-4d27-8d3a-6c87f6e7135f/file/c2810c6b-6ab3-4465-a986-18969418d3bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a2%2F13%2F47%2Fa213476b3eef4715b1f6b2204a8eae0d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5e265e29-a506-49cf-a86e-e2a182cb77ac/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Oregon"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1e0d44ed-1eca-4d27-8d3a-6c87f6e7135f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bn01m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-125.0, -123.0, 47.0, 43.0)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-g158bn01m"
+}

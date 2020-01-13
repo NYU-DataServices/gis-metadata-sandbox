@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Carlisle, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1901 in cooperation with the state of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/736666016",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Carlisle (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Carlisle Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867487\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e658cfbb-886d-4184-bd8f-6e2d50cc15e1/file/2602e37e-999e-488d-b4b7-a8820d10aa34\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5b412822-3827-4374-8119-4d9ca547059a/file/311587f3-6242-4864-914f-fe4a146ad51d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5b412822-3827-4374-8119-4d9ca547059a/file/5d56f430-a3a5-4e12-8c7a-b663906a6609\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F70%2F2b%2Fe5702b5a79004e28b736a49d2a81d63d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6bc4b9a3-e3a8-4fad-8c0e-02adb814dc6f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5b412822-3827-4374-8119-4d9ca547059a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-736666016",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.25, -77.0, 40.25, 40.0)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-736666016"
+}

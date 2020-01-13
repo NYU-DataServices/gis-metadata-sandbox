@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by contours and soundings. Shows bottom types, buoys, and lighthouses. Includes information on tides, sailing directions, and 2 views of approaches to the harbor. \"Reduction by J.M. Wampler, draughtsman. Views by J. Robertson. Engraving of topography &c. by F. Dankworth & O.A. Lawson, assisted by J.H. Young. Views by O.A. Lawson. Lettering by J. Knight & W. Smith. Printed by H. Benner.\"--Lower margin. \"Harbor map no.\"--Upper left margin. \"Electrotype Copy No. 1 by G. Mathiot U.S.C.S.\"-Upper right margin. Differs from another ed. of 1848 without printer's name in lower margin, and with text in upper center margin: \"Presented to ... under the authority of an act of the Congress of the United States of June 3d, 1844 ...\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x6485",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1848.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,Massachusetts,Nantucket,Maps",
+    "Nantucket (Mass.),Maps",
+    "Nantucket Harbor (Mass.),Maps"
+  ],
+  "dc_title_s": "Nantucket Harbor",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7683688\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9c356b3-2a57-456c-be5b-97fa3a73e7d9/file/b59762eb-1a61-4c99-b296-e68c49494245\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9c356b3-2a57-456c-be5b-97fa3a73e7d9/file/6a987603-6e4a-4738-b8fd-25ca0f2da935\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/71%2Feb%2Ff8%2F71ebf8b3395d4aafa8db24b43aba7ac8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af87cdf9-e598-4c5d-b357-9a339aacd13a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1848"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e9c356b3-2a57-456c-be5b-97fa3a73e7d9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x6485",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.129364, -70.025165, 41.325078, 41.271041)",
+  "solr_year_i": 1848.0,
+  "uuid": "princeton-6682x6485"
+}

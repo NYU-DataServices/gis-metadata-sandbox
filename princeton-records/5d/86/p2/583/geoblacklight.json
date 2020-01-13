@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "From: From Atlas universel de geographie politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827. Shows Indian tribes, city populations, etc. Relief shown by hachures and landform drawings. Includes parts or all of Belize, Honduras, Nicaragua and Mexico.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5d86p2583",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Belize,Maps",
+    "Guatemala,Maps",
+    "Honduras,Maps"
+  ],
+  "dc_title_s": "Partie du Guatemala",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722190\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ff05365-f3b6-4610-857d-1fddba3a03a3/file/4006c73b-47ba-472c-b7af-0db69b3e34d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ff05365-f3b6-4610-857d-1fddba3a03a3/file/5241c6ed-5a9b-4454-bdbd-5b69a28f0016\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F84%2F8d%2F2f848dd4c9e2475f9f101ac6d6659a1b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65b8561e-255b-41d6-bbfe-f4757df7a469/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2ff05365-f3b6-4610-857d-1fddba3a03a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5d86p2583",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.6769, -81.6678, 18.0113, 12.0084)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-5d86p2583"
+}

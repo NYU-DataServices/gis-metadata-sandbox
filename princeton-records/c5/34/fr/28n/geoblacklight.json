@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Skeleton maps of Paterson, N.J.; sheets 1-10, 13-18 and 23-24 of Paterson, N.J., vol. 1, series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fr28n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1915?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paterson,Maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "Paterson, N. J., vol. 1 : skeleton (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5690136\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/329f3990-275e-4e99-904e-c1d9e6bff54a/file/727564f4-7e57-4a97-b752-7b92ed641ec4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/329f3990-275e-4e99-904e-c1d9e6bff54a/file/20695db4-41a7-464d-bfa7-6dd4a63255ec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ae%2F8d%2F7c%2Fae8d7c02f41247899eeca6000ad554ca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f6f5885f-ba88-4863-a7ae-a6e435a34423/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-329f3990-275e-4e99-904e-c1d9e6bff54a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fr28n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-c534fr28n"
+}

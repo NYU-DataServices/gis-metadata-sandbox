@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -21.666667. South Decimal Degree -21.833333. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Cerro del Inca, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55z957n",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1971.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Cerro del Inca, hoja 5928 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841073\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e2162b9-889c-44b2-add6-102d780fe70d/file/09ee8481-0715-42f9-ba7b-6fc36a09cb96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e2162b9-889c-44b2-add6-102d780fe70d/file/4dc6db06-f7f3-4e97-a3e9-274654658a31\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2Ff2%2F9a%2F14f29aa252bc47589c2b395acdb1e0e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/acb6001e-aed5-42ce-9716-c9596cb7e51e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1e2162b9-889c-44b2-add6-102d780fe70d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55z957n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -21.666667, -21.833333)",
+  "solr_year_i": 1971.0,
+  "uuid": "princeton-rf55z957n"
+}

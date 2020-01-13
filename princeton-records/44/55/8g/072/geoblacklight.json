@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Carthage, N.Y. Polyconic projection. Relief shown by 20 feet countour interval. \"This map reprinted with minor changes. For later and more detailed surveys see 1:24000 scale maps of the Carthage 1942, Copenhagen 1942, New Boston 1943, and West Lowville 1943 quadrangles.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/44558g072",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1958.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Carthage (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Carthage Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866652\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1df7f5ee-2769-4bd5-b77c-c69373229559/file/2c333234-7730-48ec-9360-500e1ffeec16\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/919935c0-6723-432b-8bbe-4585c0c6e1bf/file/7e003c10-953b-4d09-9bd1-87bacffa23e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/919935c0-6723-432b-8bbe-4585c0c6e1bf/file/ea41324d-19fb-4435-835e-ede7bc3d1bf1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F5f%2F84%2Fd05f84cbab944a6db9996cced7338f11%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2d07ca94-2d48-4529-af47-3c53a70ea688/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1958"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-919935c0-6723-432b-8bbe-4585c0c6e1bf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-44558g072",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 44.0, 43.75)",
+  "solr_year_i": 1958.0,
+  "uuid": "princeton-44558g072"
+}

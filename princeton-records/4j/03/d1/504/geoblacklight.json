@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 19 to 45 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 19. \"N.J.C.M. vol. 2.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1504",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Asbury Park,Maps",
+    "Real propery,New Jersey,West Asbury Park,Maps",
+    "Asbury Park (N.J.),Maps",
+    "West Asbury Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Asbury Park and West Asbury Park (Sheet 41)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792514\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8bc13906-09c7-4692-975d-b0cd271752f0/file/74fd3f55-7f30-4746-a7f5-f1154c762af6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8bc13906-09c7-4692-975d-b0cd271752f0/file/c9d7d5dd-b06a-4095-8283-09aaa3c636f5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/81%2F19%2Fe7%2F8119e7526c2747a4a380f336bab7b350%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1e21c6b-1107-4c46-bb2d-8f68093d3eb6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8bc13906-09c7-4692-975d-b0cd271752f0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1504",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-4j03d1504"
+}

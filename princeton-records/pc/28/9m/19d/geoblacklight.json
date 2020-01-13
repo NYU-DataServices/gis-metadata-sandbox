@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes map of congested district, key, key map, streets and specials index, and text. \"4541.\" Preliminary sheet [2] has title: Map of congested district of New Brunswick, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pc289m19d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,New Brunswick,Maps",
+    "Real property,New Jersey,Highland Park,Maps",
+    "New Brunswick (N.J.),Maps",
+    "Highland Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the city of New Brunswick, New Jersey : and borough of Highland Park (Sheet 41)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5546401\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b6ab861-f234-48a2-82e6-0f075d2cb2d7/file/bb130ee2-9a31-4628-979b-b3ea4e6a6944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b6ab861-f234-48a2-82e6-0f075d2cb2d7/file/c08cbb42-b860-4c4c-9f3d-57f5fbe8a941\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fab%2F9e%2F8dab9e04e4974da8abbd9ff2553be2e8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a72dfd73-0109-47b2-98fe-91b777f05be2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b6ab861-f234-48a2-82e6-0f075d2cb2d7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pc289m19d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-pc289m19d"
+}

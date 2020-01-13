@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Global Mapping (Firm : Great Britain)"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Map shows international and administrative boundaries, ceasfire line, roads, and railways. Includes chart showing flags, population data, time zones, and calling codes. At head of title: Global Mapping.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591c78k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Brackley, England] : Global Mapping, [2013].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Europe,Maps",
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Europe: Continental series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8215434\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a71ea889-6925-40b2-87af-ee1a246f21b3/file/e60dbd63-b7ae-4784-a21c-803744671b3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a71ea889-6925-40b2-87af-ee1a246f21b3/file/0a3a08f8-030a-48a8-b92b-b979f00a1fa1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2Fbe%2F7f%2F04be7fef7e64414a944bb0432108244e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dbdbbe53-7f44-40c3-824e-0eb5ef404fb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a71ea889-6925-40b2-87af-ee1a246f21b3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591c78k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-26.25, 65.501667, 71.133889, 20.0)",
+  "solr_year_i": 2013.0,
+  "uuid": "princeton-3b591c78k"
+}

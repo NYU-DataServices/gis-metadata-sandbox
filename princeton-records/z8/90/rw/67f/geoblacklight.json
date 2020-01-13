@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z890rw67f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1874] (N[ew] Y[ork] : Louis E. Neuman, lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Roads,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of the common lands from 59th to 76th Street : showing the old streets and plots as surveyed and mapped in 1796 by Cassimer T.H. Goerck, City Surveyor, and resurveyed by Isaac T. Ludlam in 1822 and the distance between those old streets and our present streets",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6325180\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5493715-9390-4222-99b1-ef7a8ababe8b/file/dd0e794b-c5da-4c27-95c0-b9676304f2ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5493715-9390-4222-99b1-ef7a8ababe8b/file/d17d430c-a72f-4111-8266-11e84939b29d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2Fa1%2F4d%2Fdaa14dd679dd4ad780b74e66aeced81a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/190a97e8-7095-4560-b3b0-f7c8529f1d8c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d5493715-9390-4222-99b1-ef7a8ababe8b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z890rw67f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.979368, -73.941732, 40.783342, 40.758316)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-z890rw67f"
+}

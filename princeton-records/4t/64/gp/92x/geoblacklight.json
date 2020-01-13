@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Major ethnic groups in Central Asia. It was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4t64gp92x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Ethnic Groups"
+  ],
+  "dc_title_s": "Major ethnic groups in Central Asia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3e7a427-67a8-4faf-bdfb-950752da0228/file/fde0f944-3b7c-4b5e-8033-cbcfe1b994c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/106c97eb-78aa-4df9-8fa8-ea54c5d47a49/file/cc8c827d-7b3b-4f72-a7f0-7e3465854faf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/106c97eb-78aa-4df9-8fa8-ea54c5d47a49/file/8dcbf9e0-6c26-4075-ada3-6650231e0fb5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2F1b%2F6e%2Fe21b6e3bb7944bf0830ceea108b5cba1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/433b5956-b482-4a49-b3b7-3b00f2860d71/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iran",
+    "Afganistan",
+    "Uzbekistan",
+    "Russia",
+    "Central Asia",
+    "Kyrgyztan",
+    "Tajikistan",
+    "Kazakhstan",
+    "Turkmenistan",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-106c97eb-78aa-4df9-8fa8-ea54c5d47a49",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4t64gp92x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(45.8876, 88.6626, 59.0294, 34.7185)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-4t64gp92x"
+}

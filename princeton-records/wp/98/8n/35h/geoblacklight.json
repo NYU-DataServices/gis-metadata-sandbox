@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Lodge, John, -1796"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Published as the act directs Octr. 31st, 1780.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988n35h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : J. Bew, 1780.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Northeastern States,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A new and accurate map of the province of New York and part of the Jerseys, New England and Canada shewing the scenes of our military operations during the present war : also the new erected state of Vermont",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8242471\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff1b278c-7a2c-4584-b9ed-6b0cc418b489/file/2182026d-6e17-4042-bc26-e58ac6731bed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff1b278c-7a2c-4584-b9ed-6b0cc418b489/file/e3e07a67-0d62-4057-ab28-ec0d32584cb1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F60%2F5e%2F0c605ef3b1544ada88608b51f1d50adc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fbdc4883-57b0-413a-8a94-0fc71687fd4d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff1b278c-7a2c-4584-b9ed-6b0cc418b489",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988n35h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.2125, -72.1752, 45.6206, 40.2658)",
+  "solr_year_i": 1780.0,
+  "uuid": "princeton-wp988n35h"
+}

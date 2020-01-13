@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheet 21 of New Jersey coast map series. \"July 1890.\" \"New Jersey coast map.\" Includes key and text. \"3851.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/37720f58h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Neptune City,Maps",
+    "Neptune City (N.J.),Maps"
+  ],
+  "dc_title_s": "Neptune City, Monmouth Co., N. J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825503\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86487557-73e8-4c29-b067-8f7b14f4add8/file/06363fb8-3765-483e-8213-034dcdb4e8e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86487557-73e8-4c29-b067-8f7b14f4add8/file/36c1911d-d1a2-4c57-aee8-527eac38d2d5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2Feb%2Fb7%2F6febb74abc1c49dc99c511efac97f6be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8800e72a-6fb3-4797-9434-07ea3d9e92a8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-86487557-73e8-4c29-b067-8f7b14f4add8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-37720f58h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.051786, -74.019739, 40.20741, 40.190983)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-37720f58h"
+}

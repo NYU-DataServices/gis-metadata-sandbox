@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Gay Head, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1887. Surveyed in cooperation with the state of Massachusetts. Triangulation and coast line by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xw57m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gay Head (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Gay Head sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837152\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/371ef2eb-8819-4d03-93f5-e37f682abdd7/file/c628695a-bb62-4cbb-98b6-40ff379d8337\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18203203-b94b-4766-ba7d-16ba82d60896/file/12766c6d-67ee-41a2-92cd-bf86c85294c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18203203-b94b-4766-ba7d-16ba82d60896/file/61a99efc-ffb3-4723-8cb6-61895a58c2ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2F5d%2Fc8%2F1f5dc885f55e4a619e8be714231ac3da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd55a61e-8dde-4826-a941-8308702ccdcc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-18203203-b94b-4766-ba7d-16ba82d60896",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xw57m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.95, -70.7, 41.5, 41.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-n583xw57m"
+}

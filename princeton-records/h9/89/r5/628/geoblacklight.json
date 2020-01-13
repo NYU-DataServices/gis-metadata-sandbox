@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree 30.433333. South Decimal Degree 30.600000. East Decimal Degree 47.866667. West Decimal Degree 47.633333. Transverse Mercator Projection. Ancillary maps: Southeast Iraq (1:1,500,000). Includes glossary and location map. Standard map series designation: Series K942; \"Suitable for reference purposes only.\" Map shows shipyards, petroleum storage facilities, mined areas. Available also through the Library of Congress website as a raster image http://hdl.loc.gov/loc.gmd/g7614b.ni000004.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r5628",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Bethesda, MD : United States. National Imagery and Mapping Agency, 2003.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City blocks",
+    "Land use",
+    "Oil wells",
+    "Petroleum pipelines",
+    "Transportation",
+    "Iraq,Maps"
+  ],
+  "dc_title_s": "Al Basrah, Iraq",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839771\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e7e06101-10c1-45c6-8962-b0b04164b821/file/a58d9563-3300-42f5-a688-628238fb95e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e7e06101-10c1-45c6-8962-b0b04164b821/file/a7b9f071-2725-4c19-b18e-c0f2c5cbb750\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2F75%2F45%2F85754556aab54c0b91398964c7576228%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4e7bf66-0110-4838-8f2e-b79fa4ab2b22/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e7e06101-10c1-45c6-8962-b0b04164b821",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r5628",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(47.633333, 47.866667, 30.6, 30.433333)",
+  "solr_year_i": 2003.0,
+  "uuid": "princeton-h989r5628"
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Waldseemu\u0308ller, Martin, 1470-1519"
+  ],
+  "dc_description_s": "Map of Great Britain and Ireland. Relief shown pictorially. Latin text on verso with caption title: Tabula I Europae. From: Claudii Ptolom\u00e6i Alexandrini mathematicor[um] principis, Opus geographi[a]e ... [Strasbourg]: Ioannes Grieninger ... opera et expensis proprijs id opus insigne, [a]ereis notulis excepit, laudabiliq[ue] fine perfecit, xii. die Marcij anno M.D. XXII.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/02871054h",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Strasbourg : Gru\u0308ninger, 1522]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Maps,Early works to 1800",
+    "Ireland,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Tabula I Euro",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7184712\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03f8749f-a63f-45a4-9c6e-1012c789736f/file/bb0abb05-1c41-4d0e-a131-92f72fae5290\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03f8749f-a63f-45a4-9c6e-1012c789736f/file/8bd04c5d-fdc1-40b8-af13-0367d6c756d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2F48%2F4f%2F85484f93f3914913be900c4422d5393a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c04807f-b2f6-4f5e-a43c-08f26e134f14/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Great Britain",
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1522"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03f8749f-a63f-45a4-9c6e-1012c789736f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-02871054h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-14.0155169, 2.0919117, 61.061, 49.674)",
+  "solr_year_i": 1522.0,
+  "uuid": "princeton-02871054h"
+}

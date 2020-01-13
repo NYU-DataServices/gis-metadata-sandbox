@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726"
+  ],
+  "dc_description_s": "Relief shown pictorially. From: Atlante novissimo ... In Venezia : Presso Giambattista Albrizzi q. Gir., 1740-1750.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v405sc92n",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[In Venezia : Presso Giambattista Albrizzi q. Gir., 1750]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Campania (Italy),Maps,Early works to 1800",
+    "Terra di Lavoro (Italy : Region),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carta geografica della Terra di Lavoro o sia della Campagna Felice",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8558295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd7f641b-9282-4018-b5d9-64e72e35c286/file/72d30b97-837c-4a67-897c-cd50d93fa5f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd7f641b-9282-4018-b5d9-64e72e35c286/file/5bbc338d-19e3-46c9-b943-48a10c8153fd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/aa%2F72%2F30%2Faa7230a0df3242e2b31ec691aa19a266%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6a04ed9-45d6-4dfc-8477-7eea9bbc4199/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd7f641b-9282-4018-b5d9-64e72e35c286",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v405sc92n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.7624, 15.8199, 41.5084, 39.9743)",
+  "solr_year_i": 1750.0,
+  "uuid": "princeton-v405sc92n"
+}

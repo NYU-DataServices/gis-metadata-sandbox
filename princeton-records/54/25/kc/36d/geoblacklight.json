@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"N.J.C.M. vol. 3.\" Sheets 19-22 inclusive; issued in vol. 3 of New Jersey coast map series. Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kc36d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sea Girt,Maps",
+    "Sea Girt (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Girt (Sheet 20)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4836478\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79a8308b-e835-4cc9-9bb5-6c9defafe747/file/7ea98d86-071c-4861-8497-09424431157f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79a8308b-e835-4cc9-9bb5-6c9defafe747/file/bb7aa36f-0e0d-40d5-ad33-a74b48fd9a93\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F94%2Fd5%2F0894d55f0d1e4e7f917415a330f3e10d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3b2aee98-a60e-4786-9dbe-8cbf0bbe540d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-79a8308b-e835-4cc9-9bb5-6c9defafe747",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kc36d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.047, -74.026, 40.141, 40.118)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-5425kc36d"
+}

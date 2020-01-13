@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by shading. Depths shown by soundings and bathymetric tints. Includes notes and sailing directions. At head of title: Harbor of refuge no. In upper margin: Harbor map no. \"Verified by A.A. Humphreys, lt. topl. engrs. & ast.\" In lower margin: Final reduction for engraving by M.I. McClery, draughtsman. Topography engd. by O.A. Lawson, & lettering by J. Knight. Electrotyped by S. Siebert. Includes 2 coastal profiles: S.W. view of the entrance to Little Egg Harbor by the north or sod channel -- View of the entrance to Little Egg Harbor by the north channel.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6108vd78f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington] : U. S. Coast Survey Depot, 1846.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harbors,New Jersey,Maps",
+    "Little Egg Harbor (N.J.),Maps"
+  ],
+  "dc_title_s": "Little Egg Harbor",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7688569\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/66ad71d2-0343-4153-993e-b381c87ba3b3/file/3afcb83d-ba75-42db-9e75-e7c8bd30aa81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/66ad71d2-0343-4153-993e-b381c87ba3b3/file/05ebae21-0606-4f74-9d69-28ca64d0802a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2F80%2F8d%2Fda808dcf5ac94434badd44a01dc6de47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06988a32-0b85-4d64-9c7b-ef4c8ffee9ad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1846"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-66ad71d2-0343-4153-993e-b381c87ba3b3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6108vd78f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.495886, -74.271009, 39.550171, 39.370986)",
+  "solr_year_i": 1846.0,
+  "uuid": "princeton-6108vd78f"
+}

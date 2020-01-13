@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Takaoka, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals. Depth shown by meter. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\". Inset: Location map (1:312,500).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3n2040755",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Takaoka, Toyama Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450001\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a3a1e30-b7a3-481d-89a4-5ee88b38addb/file/5359461c-01a3-4364-9c58-cd2b8f8726b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca2d72f0-1ceb-4e3a-8861-2708f50a9796/file/ad25a37e-f43f-404c-93b3-9b84484e2c4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca2d72f0-1ceb-4e3a-8861-2708f50a9796/file/f54ccc2d-6f25-4e3c-96be-8b7e537cada6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2Fb0%2Fc6%2F8eb0c682999947dcb43eeb0771397602%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8abb2b5e-d08a-4f3f-bf40-d2de024e83fa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca2d72f0-1ceb-4e3a-8861-2708f50a9796",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3n2040755",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(136.96666666666667, 137.06666666666666, 36.766666666666666, 36.71666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-3n2040755"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New Jersey coast map. Nos. 44 to 48 inc.\" Includes text. \"Sepr. 1890.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k137",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sea Bright,Maps",
+    "Sea Bright (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Bright, Monmouth Co., N. J. (Sheet 46)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4835562\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe42d97d-a257-4ef6-a300-f523f6dc8dc3/file/381f212e-1cbf-46b3-a15c-e20ab48e64a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe42d97d-a257-4ef6-a300-f523f6dc8dc3/file/cd2b8ec5-d836-471d-a228-11499a9b52b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2F10%2F68%2Fc41068b83526486ab32716e74c2d3496%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8a455444-3351-4f45-97de-27a669c77476/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fe42d97d-a257-4ef6-a300-f523f6dc8dc3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k137",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.988, -73.972, 40.399, 40.346)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-ng451k137"
+}

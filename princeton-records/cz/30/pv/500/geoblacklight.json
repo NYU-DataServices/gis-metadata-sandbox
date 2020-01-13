@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 40.0000. South Decimal Degree 39.0000. East Decimal Degree -2.0000. West Decimal Degree -3.0000. Alternate title: La Roda, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, undated and 1886-1941; Spain, 1:200,000, Cuartel General del Generalisimo, 1935-39; Road Map of Spain and Portugal, 1:400,000, A.M.S., sheet 47, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1942, corrected from Intelligence Reports, 1942-1944.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv500",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: La Roda, sheet 53. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839263\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93c8d03e-b6d3-45b6-9332-c1b707ffa894/file/d0aee18e-3a1f-44ad-8fba-3283f3f90c7f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93c8d03e-b6d3-45b6-9332-c1b707ffa894/file/3dcd9b54-9fff-4be6-9d0c-8f12cc01b4a1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2f%2F9f%2F1a%2F2f9f1a507ea347caa6c90f51b12ef16b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c34c397-e83d-4fce-9ea9-c0d97926c25d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-93c8d03e-b6d3-45b6-9332-c1b707ffa894",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv500",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.0, -2.0, 40.0, 39.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-cz30pv500"
+}

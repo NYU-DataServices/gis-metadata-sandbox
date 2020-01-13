@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Dessau in the German state of Saxony-Anhalt. From: Illustrierter Fu\u0308hrer durch Dessau und Umgebung ... Leipzig : Woerl, [ca. 1903] Street index on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042w596",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [ca. 1903]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dessau (Germany),Maps",
+    "Saxony-Anhalt (Germany),Maps"
+  ],
+  "dc_title_s": "Dessau [verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7548583\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c18a47e7-a118-41eb-97f6-5e808e97cb2e/file/3e13ea66-93ef-445f-bd49-843757041d33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c18a47e7-a118-41eb-97f6-5e808e97cb2e/file/6dd42bbd-3c38-4a65-b9b2-5eb13bce42b8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/26%2Fed%2F73%2F26ed73da98cb477aad11386a4d4a7664%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f7eb7fb-9e78-4d05-9eba-d9b46118e816/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c18a47e7-a118-41eb-97f6-5e808e97cb2e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042w596",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.2029261, 12.2829261, 51.8711104, 51.7911104)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-rv042w596"
+}

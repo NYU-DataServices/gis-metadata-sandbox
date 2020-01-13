@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Meyer, Joseph, 1796-1856"
+  ],
+  "dc_description_s": "Relief shown by hachures. Includes statistical and distance tables. \"Meyers Handatlas No. 95.\" Prime meridians: Ferro and Washington.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6t053j06z",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Hildburghausen [Germany] ; Philadelphia : Geographische Graviranstalt, Bibliographisches Institut, [1860]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen fu\u0308r Dampfschiffe, nach den bessten Quellen verbessert, 1846 (Copy 2 - HM 1807)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5580065\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86902946-5480-492c-a10f-f0d01bbc1082/file/1944ed5f-0c48-4dfe-a519-92080fb8ed43\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86902946-5480-492c-a10f-f0d01bbc1082/file/8c21b4c1-ec21-4eb7-8162-4fd91356b9e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F4c%2F89%2F224c89c691d24bd3b923aca4bab44088%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9123c912-9ad1-415b-b4b6-c2333e7edfe6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1860"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-86902946-5480-492c-a10f-f0d01bbc1082",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6t053j06z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.8666666667, 41.3666666667, 38.9166666667)",
+  "solr_year_i": 1860.0,
+  "uuid": "princeton-6t053j06z"
+}

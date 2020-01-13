@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Burlington, VT. Relief shown by 20 ft. contour intervals and spot heights. Surveyed in 1904.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gj07c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Burlington (Vt.),Maps"
+  ],
+  "dc_title_s": "Vermont: Burlington Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838668\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89ba30e0-720f-41d5-8fbc-dd296c60f88c/file/9a82d8d8-1ed5-46a7-a256-55997b816dae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1f2cca6-55e0-4875-a2f0-d1527d10a10d/file/8bac8585-e6ee-4596-ac6c-7dc7c758a69f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1f2cca6-55e0-4875-a2f0-d1527d10a10d/file/4f7f1572-8229-4543-a174-aac4d1bcf18b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/42%2Fda%2F9f%2F42da9f4498a44eac8e1150ea82585a9b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78c550e2-331c-4cc5-865d-4717d14713b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1f2cca6-55e0-4875-a2f0-d1527d10a10d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gj07c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.25, -73.0, 44.5, 44.25)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-kp78gj07c"
+}

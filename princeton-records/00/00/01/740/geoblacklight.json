@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "California State Mining Bureau Prime meridians: Greenwich and Washington.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/000001740",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[San Francisco, CA] : [s.n.], 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "California,Maps"
+  ],
+  "dc_title_s": "Geological map of the state of California. Sheet 4.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6458249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5efee931-9cc6-41ab-94e4-e3d5735f37ea/file/d356a3ba-e9e3-4773-a1a5-8b2ab0bc0495\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5efee931-9cc6-41ab-94e4-e3d5735f37ea/file/9b009df5-0576-4b83-9b7d-b96d88aaa9e7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Fab%2F13%2F19ab138ece2840fa881c1e08202e1161%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cde86ef3-bf15-40c8-b99f-4b2480287fd2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5efee931-9cc6-41ab-94e4-e3d5735f37ea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-000001740",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.41666666666667, -114.11666666666666, 42.0, 32.53333333333333)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-000001740"
+}

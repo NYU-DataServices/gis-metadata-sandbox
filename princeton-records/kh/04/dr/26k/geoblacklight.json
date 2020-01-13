@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sheets no. 1 to 39 incl., New Jersey coast map.\" Includes key, streets and specials index, and text. \"4064.\" Title from index sheet. North oriented toward upper left. Historic Maps copy imperfect: sheet 33 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dr26k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Long Branch,Maps",
+    "Long Branch (N.J.),Maps"
+  ],
+  "dc_title_s": "Long Branch, Monmouth Co., New Jersey (Sheet 29)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4809132\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c44e2b2-3ff6-490b-81fa-de5794b71d02/file/0edd88d0-3f89-41b1-8954-3b32cd4cc70e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c44e2b2-3ff6-490b-81fa-de5794b71d02/file/ebe2b953-f39e-4464-89d9-94d45898d911\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2F55%2Ff5%2F9a55f5bf3f444124bf9922d676882e10%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2e96498-e17e-4d1e-b070-03eae253483e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c44e2b2-3ff6-490b-81fa-de5794b71d02",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dr26k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.014, -73.975, 40.328, 40.259)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-kh04dr26k"
+}

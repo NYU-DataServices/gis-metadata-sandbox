@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1896.\" Includes key and text. \"206.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zg64tn32n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Palmyra,Maps",
+    "Palmyra (N.J.),Maps"
+  ],
+  "dc_title_s": "Palmyra, Burlington Co., N.J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5146810\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbec0dcd-d4c0-4114-8c00-a1086e214c58/file/6c3d5622-799f-42d3-b680-a462054fc0d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbec0dcd-d4c0-4114-8c00-a1086e214c58/file/ea3eea0e-92b8-4635-a4b2-d8628eb7a8e8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2Fcd%2F76%2F18cd76dfe69042bdbda7d992183ca4cf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f238000-5b01-4371-b66d-6c630bc18778/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bbec0dcd-d4c0-4114-8c00-a1086e214c58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zg64tn32n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.055, -75.01, 40.012, 39.992)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-zg64tn32n"
+}

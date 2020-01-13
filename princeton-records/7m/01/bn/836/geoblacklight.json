@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1901.\" Includes key, key map, specials index, and text. \"4900.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bn836",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Chester,Maps",
+    "Chester (N.J.),Maps"
+  ],
+  "dc_title_s": "Chester, Morris Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5553502\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fedd5786-c8e4-4e67-8931-833a8ecdb612/file/5c651efd-0af5-47f1-a558-04e16bed59fa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fedd5786-c8e4-4e67-8931-833a8ecdb612/file/a5ac6a5d-32b0-46cd-a859-fbb02ea6ef6a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cb%2F4e%2Fdb%2Fcb4edb67246a4e5095e2f1c1b3949fb2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4595a121-2a88-440a-8edb-1226ab7e0d1b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fedd5786-c8e4-4e67-8931-833a8ecdb612",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bn836",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.710382, -74.669689, 40.795033, 40.777834)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-7m01bn836"
+}

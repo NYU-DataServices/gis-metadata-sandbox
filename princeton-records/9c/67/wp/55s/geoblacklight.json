@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Saranac, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1902 in cooperation with the State of New York. Triangulation by E. L. Mc Nair. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wp55s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Saranac (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Saranac Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868396\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3070a84-2fd7-4c9b-bd7e-bddcb8af6e1d/file/ee02cfd6-fa4b-43f8-8807-78e19539dcc8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a270b43b-1ef9-4647-8e80-0e0153f18eec/file/0a9e50cc-5da4-4a9e-96e1-6c560d4024bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a270b43b-1ef9-4647-8e80-0e0153f18eec/file/7dd00e04-219f-4098-bee3-774b1626d2cc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F0f%2F20%2F4a0f20bbb85d4c1aae33ea1a976a9563%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/413820de-070c-4d65-81ac-aab846cf6a0e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a270b43b-1ef9-4647-8e80-0e0153f18eec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wp55s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 44.5, 44.25)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-9c67wp55s"
+}

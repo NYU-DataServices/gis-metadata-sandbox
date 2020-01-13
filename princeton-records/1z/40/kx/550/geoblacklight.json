@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Magdeburg in the German state of Saxony-Anhalt. Street index on verso. Probably issued in an unidentified edtion of: Illustrierter Fu\u0308hrer durch Magdeburg und Umgebung : mit einem Stadtplan, einer Karte der Umgebung und 24 Abbildungen / herausgegeben von Leo Woerl.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1z40kx550",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1904?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Magdeburg (Germany),Maps",
+    "Saxony-Anhalt (Germany),Maps"
+  ],
+  "dc_title_s": "Magdeburg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7524587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c378b15-352e-42d4-99f6-11d4952c5411/file/3cca9231-828f-4df3-aa05-b33d8fa1be3d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c378b15-352e-42d4-99f6-11d4952c5411/file/793f6fc9-d855-4ff4-8b69-b2b27f9f5774\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/de%2F73%2F55%2Fde73558994b140b6b0cf7a51b39ebf7b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/125cdd4e-7852-4f60-9182-cf60f4b6d2f3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c378b15-352e-42d4-99f6-11d4952c5411",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1z40kx550",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.5177765, 11.7666902, 52.2282553, 52.0238362)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-1z40kx550"
+}

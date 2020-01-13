@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. New Brunswick (1914) Alternate title: New Brunswick sheet. \"Surveyed in 1883. Resurveyed in 1913.\" Relief shown by contours and spot elevation. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj074",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "New Brunswick (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. New Brunswick",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449739\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0cac5eef-6b15-4ab8-b3c8-a29d11aa8020/file/f3c3e8e5-f14c-40f1-bff9-0293b4ab4fd3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed72438f-3506-4e9c-979c-c1039c554da6/file/83d6d239-f4b3-4934-9e38-a05b6a3dc61f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed72438f-3506-4e9c-979c-c1039c554da6/file/dba08ce5-f427-4c4b-8953-f80968175b30\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F76%2F9b%2F1d769ba563b14f038da8dc0d90195558%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be818f44-f6ca-4413-b18e-a12281be80cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ed72438f-3506-4e9c-979c-c1039c554da6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj074",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.55, -74.33333333333333, 40.583333333333336, 40.46666666666667)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-2801pj074"
+}

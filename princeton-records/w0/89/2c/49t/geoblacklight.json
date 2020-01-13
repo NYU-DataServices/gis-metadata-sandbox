@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "\"Tom. I pag. 1.\" Double hemispherical map of the world, showing route of circumnavigation of frigates Duke and Dutchess of Bristol. From: Voyage autour du monde, commence\u0301 en 1708 & fini en 1711 / par le capitaine Woodes Rogers. Amsterdam : Chez la veuve de P. Marret, 1716.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w0892c49t",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Amsterdam : Chez la veuve de P. Marret, 1716]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Duchess (Frigate)",
+    "Duke (Frigate)",
+    "Voyages around the world,18th century",
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "Mappe-monde avec la route que les fregates le Duc & la Duchesse ont suivie pour faire le tour du globe depuis 1708 jusqu'en 1711",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4492809\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8000bb2-4446-4b51-b18d-0803d3bf14ae/file/8c9ad3cb-0c04-44db-9902-42da651ed267\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4018a18e-cbb2-4b37-bb68-d5ff5b9c6e30/file/bdc2c469-318e-48ff-812b-29348554a183\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4018a18e-cbb2-4b37-bb68-d5ff5b9c6e30/file/e9a10791-1576-403d-813b-8beee4c4ef0a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2F6b%2F25%2F1a6b2566d5bd4870a6d49718681ed0ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52063f5f-a215-4577-81b5-99169ab89da7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1716"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4018a18e-cbb2-4b37-bb68-d5ff5b9c6e30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w0892c49t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1716.0,
+  "uuid": "princeton-w0892c49t"
+}

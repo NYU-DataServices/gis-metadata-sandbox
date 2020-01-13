@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Burghers, Michael, 1647 or 1648-1727"
+  ],
+  "dc_description_s": "Double hemispherical map of the world with decorative border. Plate 1 from: A new set of maps both antient and present ..., Edward Wells, Oxford. 1700.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ns0647632",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Oxford : University, [1700]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "A new map of the terraqueous globe according to the ancient discoveries and most general divisions of it into continents and oceans",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4493750\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3fc0a682-47d7-4785-ad15-01ad36119cba/file/95a8f2fe-1686-48d6-8cab-096a6688c3f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e957ea2-d9bd-4248-b5c2-ddfb94689f44/file/79ff68d9-21e6-410b-8af6-d4456f6af033\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e957ea2-d9bd-4248-b5c2-ddfb94689f44/file/f0bbf206-de92-4259-93d2-9bcdff8ff0ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2F91%2Fbc%2F6891bc0335934f0dbb931908db9794df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8e1b442c-d4c0-4c1f-8210-f03301ada554/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e957ea2-d9bd-4248-b5c2-ddfb94689f44",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ns0647632",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1700.0,
+  "uuid": "princeton-ns0647632"
+}

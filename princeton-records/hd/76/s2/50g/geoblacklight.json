@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Manier, J."
+  ],
+  "dc_description_s": "Maps have individual titles: La France sachant e\u0301crire -- La France sachant lire.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hd76s250g",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : chez l'autuer ; en vente chez tous les libraires, marchands d'estampes & de journaux ... , 1867.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Education,France,19th century,Maps",
+    "France,Maps"
+  ],
+  "dc_title_s": "L'instruction en France en 1867",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6268696\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03f5903c-156e-452d-9f88-41b723d47802/file/5a772735-ce32-4ea4-bfe8-d58fc44fe1e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03f5903c-156e-452d-9f88-41b723d47802/file/6b59fa4a-e2b0-4636-835b-472dea11692a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F5e%2Ff6%2Ff35ef6853f4a49e68830c5bdea1c5e0f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8827f921-0753-44b3-889f-f08238663bb2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03f5903c-156e-452d-9f88-41b723d47802",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hd76s250g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.93, 8.4, 51.2, 42.13)",
+  "solr_year_i": 1867.0,
+  "uuid": "princeton-hd76s250g"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Bournemouth mit militaergeographischen Eintragungen. Grossblatt 11, Blattbereich 38. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560; 1934, 1935, 1936. Major city access roads are color coded. Accompanied by 35p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 11 Sued-England\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36v020f",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1941.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945"
+  ],
+  "dc_title_s": "England 1:10 000, Stadtplan von Bournemouth, BB 38",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831112\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1f0c475-19d6-4a59-a0f0-bd5c5e4e383e/file/f4741a37-8c9c-4fea-bec4-5a3b0f39057e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea1d55b9-e2b9-4d71-920e-6908a7500555/file/70541918-b512-4bd9-873c-414669ad6c52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea1d55b9-e2b9-4d71-920e-6908a7500555/file/a30862e5-31f4-4dbc-aa3c-3323d5e25964\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2F5b%2F92%2F165b92a2242849a2862b9ad5a9b4a6af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b39f226-ee71-40c6-9f5d-3813cd2c4346/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ea1d55b9-e2b9-4d71-920e-6908a7500555",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36v020f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.9166666666666665, -1.7666666666666666, 50.766666666666666, 50.7)",
+  "solr_year_i": 1941.0,
+  "uuid": "princeton-2r36v020f"
+}

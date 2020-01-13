@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1890.\" Includes key, key map and text. \"3890\". The name of South Bound Brook was changed to Bloomington in 1869. In 1891, the name reverted back to South Bound Brook. cf. Wikipedia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pr76f5648",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bound Brook,Maps",
+    "Real property,New Jersey,South Bound Brook,Maps",
+    "Bound Brook (N.J.),Maps",
+    "South Bound Brook (N.J.),Maps"
+  ],
+  "dc_title_s": "Bound Brook & Bloomington, Somerset Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5600853\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db96fdef-ede5-4784-b2ca-aae0b6455f06/file/9f218a02-bf75-4954-aefe-3b7e618df637\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db96fdef-ede5-4784-b2ca-aae0b6455f06/file/7e828955-f622-4865-a142-69cad5cbaba8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F5d%2F96%2F205d96a030b344b19bd7acd418a2cf93%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be62f2f9-63e8-4907-923d-7a54f232c473/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-db96fdef-ede5-4784-b2ca-aae0b6455f06",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pr76f5648",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-pr76f5648"
+}

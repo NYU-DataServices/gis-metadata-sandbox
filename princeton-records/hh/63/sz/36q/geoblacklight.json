@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Clarke, W. B."
+  ],
+  "dc_description_s": "Includes \"A comparison of the principal buildings in Brussels\" and \"The environs of Brussels.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hh63sz36q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Baldwin & Cradock, 1837.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brussels (Belgium),Maps"
+  ],
+  "dc_title_s": "Brussels (Bruxelles)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6909293\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7eb07c35-115c-41fb-9ef9-65ed3744ab50/file/94e95d1f-e88a-4ce5-980f-7a3c7a483a96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7eb07c35-115c-41fb-9ef9-65ed3744ab50/file/99013e07-738d-46c6-a323-f85e70f464f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F4d%2F75%2Fdf4d750004514aa2b7b4825968af1c16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f42a19d8-fdb7-4f9e-b46c-0d3704574204/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "1837"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7eb07c35-115c-41fb-9ef9-65ed3744ab50",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hh63sz36q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.336947, 4.37012, 50.859234, 50.832109)",
+  "solr_year_i": 1837.0,
+  "uuid": "princeton-hh63sz36q"
+}

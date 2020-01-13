@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Edgewater, N.J., formerly called the Borough of Undercliff, was originally called Bull's Ferry; on the boundary between Bergen and Hudson counties. cf. Wikipedia. Historic Maps copy has sheets 81-82 of Hudson County series, showing Bull's Ferry Chemical Co., Barrett Mfg. Co., and General Chemical Co. in present day Edgewater, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz707",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1900]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bergen County,Maps",
+    "Real property,New Jersey,Edgewater,Maps",
+    "Bergen County (N.J.),Maps",
+    "Edgewater (N.J.),Maps"
+  ],
+  "dc_title_s": "Bergen County (Sheet 81)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515716\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4af41c13-88d3-4cd8-9f9a-3bd842b1eb51/file/a4206828-c998-4c70-8677-d24549b5d302\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4af41c13-88d3-4cd8-9f9a-3bd842b1eb51/file/dc8f6c13-8d18-4ab6-b491-a8614f54abc4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a2%2Fb7%2F46%2Fa2b7461a57234296aa1c0168bc037522%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57ae810e-b388-44a3-bcc7-bcd20c6c2be6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4af41c13-88d3-4cd8-9f9a-3bd842b1eb51",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz707",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.994412, -73.962588, 40.84776, 40.800683)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-6d56zz707"
+}

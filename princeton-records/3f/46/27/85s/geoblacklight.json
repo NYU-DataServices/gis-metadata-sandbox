@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)"
+  ],
+  "dc_description_s": "Cadastral map. Oriented with north to the upper left. Hand colored. Includes text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f462785s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : City Surveyor, 1869]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bayard, Nicholas,Homes and haunts,New York (State),New York,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Landowners,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Map of Bayard's East Farm : accurately made from old maps, not in the Register's Office, from conveyances on record from Nicholas Bayard, sheriff's sales, lottery lots, &c., &c., New York, September 1869",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6279197\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3a7d893-c1a6-4bf9-a604-d3a33641265c/file/5dd0b1f9-1060-4c55-b080-fc3ee121434f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3a7d893-c1a6-4bf9-a604-d3a33641265c/file/93a44764-c0de-4cef-a9be-7f688f626367\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F5a%2F5f%2F365a5f865dec469aacdfd04cc3564017%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dcd2df45-6bc0-4cf4-86b8-df67ec685e0a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3a7d893-c1a6-4bf9-a604-d3a33641265c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f462785s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.010123, -73.99403, 40.725846, 40.714958)",
+  "solr_year_i": 1869.0,
+  "uuid": "princeton-3f462785s"
+}

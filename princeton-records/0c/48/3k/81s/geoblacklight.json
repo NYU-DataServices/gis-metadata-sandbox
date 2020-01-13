@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Churubusco. Relief shown by 20 feet contour interval. Surveyed in 1921. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0c483k81s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Churubusco (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Churubusco Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866775\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/02e44f99-1e31-4a41-bccc-305615d0ad2b/file/882aa807-4187-4f33-8b1a-05666a11b2a5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9eeed44-fa1f-4dac-924b-62d25e90dbca/file/51f82f12-c977-4c23-98b6-d5f02e0fee28\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9eeed44-fa1f-4dac-924b-62d25e90dbca/file/a64516c6-45b3-45d1-91f0-3b0b8278e474\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Ff8%2F51%2Fb5f851c11dcd42c897e4d229e0b15d1b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/793be962-828e-4f19-b8e9-2895028e82eb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d9eeed44-fa1f-4dac-924b-62d25e90dbca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0c483k81s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 45.0, 44.75)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-0c483k81s"
+}

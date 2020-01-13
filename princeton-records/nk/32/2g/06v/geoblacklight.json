@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of the Watkins and Elmira quadrangles; accompanied by a geologic map / John M. Clark, D. Dana Luther. Albany : New York State Museum. Bulletin 81, 1905. 29p. Another copy of map with source publication. Relief shown by contour lines in 20 ft intervals.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322g06v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Watkins (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Watkins and Elmira quadrangles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515153\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/abbd240c-6f21-475f-8989-aa36fefef9fa/file/92ded304-1b39-41fb-ad79-0faeafff01b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98652f81-f7b0-4782-86e8-ba02d28b4c52/file/23a8fa59-eee4-4834-bf3e-359fe11d5ea0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98652f81-f7b0-4782-86e8-ba02d28b4c52/file/1e292f1f-af94-4728-a80d-d6adf7ff1edd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3a%2F05%2F05%2F3a05051795a94a8dbbcee8c6637fd245%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8a4bf48b-2f44-4969-baee-fd2b3f49c29e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-98652f81-f7b0-4782-86e8-ba02d28b4c52",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322g06v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.0, -76.75, 42.5, 42.0)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-nk322g06v"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Spain. Servicio Hidrografica. Alternate title: San Fernando city plan. Copied from Spanish H. O. chart no. 82 A, 1928. Iberian Peninsula grid. Lambert conical orthomorphic projection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s1617668",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. San Fernando city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816743\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/161c71b0-8a0b-4612-9040-571c1833fe67/file/6059d9e2-482c-4eb2-9775-d95eeacb886d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d62cf3f5-9b61-4510-b724-6d892d4d0e88/file/a42e3fa2-7d53-4f48-8ea7-eede0a02ab46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d62cf3f5-9b61-4510-b724-6d892d4d0e88/file/5d46aca6-63a8-4a27-9bbe-2a598e47947b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F2b%2F4f%2F622b4faee9434e9799271adeb0bb4eab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6835d9e-ace5-4065-8790-faba929dcc6b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d62cf3f5-9b61-4510-b724-6d892d4d0e88",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s1617668",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.216666666666667, -6.183333333333334, 36.5, 36.45)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-9s1617668"
+}

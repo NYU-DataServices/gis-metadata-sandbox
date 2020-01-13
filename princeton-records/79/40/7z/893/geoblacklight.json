@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Bordiga, Giovanni Battista, b. 1799"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/79407z893",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano : Presso gli Editori dell'Atlante ; Pietro e Giusepppe Vallardi ... , [1822?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "Mappamondo, per uso degli studiosi della moderna geografia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4526705\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/52757437-5cb7-44d1-8afa-caa7907cf3a3/file/a3d17124-cf35-46f0-b841-140aa8103ff0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b76d8b1f-3970-4292-b557-9c1cf4d61b78/file/ee56d1cb-8f39-47ba-a02e-ed7970b45727\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b76d8b1f-3970-4292-b557-9c1cf4d61b78/file/339df222-bc7d-482f-a003-bfca7e141b8a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F11%2Fcc%2F1411cc7006a74dafaeafcf2d024b482b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/46c4d645-7d49-4273-bd5a-62431d2117cb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1822"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b76d8b1f-3970-4292-b557-9c1cf4d61b78",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-79407z893",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1822.0,
+  "uuid": "princeton-79407z893"
+}

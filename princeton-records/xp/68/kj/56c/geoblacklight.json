@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1892.\" Includes key, key map, specials index, and text. \"5470.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xp68kj56c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Washington,Maps",
+    "Washington (N.J.),Maps"
+  ],
+  "dc_title_s": "Washington, Warren Co., N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5652400\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65d5a590-e3a0-4f40-a3e5-66fbcb3fa3dc/file/d2f12558-a660-4f04-a9ac-38cf776e7878\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65d5a590-e3a0-4f40-a3e5-66fbcb3fa3dc/file/ad40e4b7-7725-470e-98f6-1d777d81baf1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2F91%2F92%2F0a9192d376214c7eb5ac760581462d34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/de924c33-28dc-419c-a717-de1170e24aa0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-65d5a590-e3a0-4f40-a3e5-66fbcb3fa3dc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xp68kj56c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.999381, -74.962106, 40.768524, 40.744654)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-xp68kj56c"
+}

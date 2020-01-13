@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4378 \"Form lines from air photographs at intervals of 20 meters.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf08k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geomorphology",
+    "Topographic maps",
+    "Carbonia (Italy),Maps"
+  ],
+  "dc_title_s": "Sardinia. Carbonia, scale 1:10,530. G.S.G.S. 4378",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449671\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8aa7484d-b997-4c9c-ae04-8f73646dbec0/file/fce7f6a1-6a80-485d-99f7-8c36e956755a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a713ff9-7d74-4c6b-886e-bb6e03a560c0/file/77ed4283-e0d7-4133-8f4b-2836cc70b232\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a713ff9-7d74-4c6b-886e-bb6e03a560c0/file/5a53458e-48a3-4a75-b9da-a50cc0a6550b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/04%2F50%2Fbf%2F0450bf776d924795acded908c7111e06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab0f7495-a797-4a58-adb3-b93e92fd8e7a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8a713ff9-7d74-4c6b-886e-bb6e03a560c0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf08k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.483333333333333, 8.55, 39.2, 39.13333333333333)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-zp38wf08k"
+}

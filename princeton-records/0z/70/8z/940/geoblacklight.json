@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Bad Wildungen and environs in the German state of Hesse. Relief shown by shading. In lower margin: Alle Rechte vorbehalten. From: Fu\u0308hrer durch Bad Wildungen und Umgebung / herausgegeben von Leo Woerl ... Leipzig : Woerl's Reisebu\u0308cherverlag, 1901.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708z940",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1901]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bad Wildungen (Germany),Maps",
+    "Hesse (Germany),Maps"
+  ],
+  "dc_title_s": "Bad Wildungen und Umgebung",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7394080\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3292c5a-dde2-4de7-bc35-e106a91ec945/file/f81ee92c-6d35-4d7a-9f15-bf186c6443f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3292c5a-dde2-4de7-bc35-e106a91ec945/file/4ffe5a3a-f11a-48af-bbde-15b1ec1d9efc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F43%2Fdd%2F5043dd8a01dc458ca1e85c0063d98531%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/425b099b-1c6d-4570-ba21-4aab6fcd8aa9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3292c5a-dde2-4de7-bc35-e106a91ec945",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708z940",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.929311, 9.29598, 51.216683, 51.025215)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-0z708z940"
+}

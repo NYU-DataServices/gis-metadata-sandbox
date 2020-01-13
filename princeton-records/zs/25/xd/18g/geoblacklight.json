@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Thu\u0308ringer-Wald-Verein"
+  ],
+  "dc_description_s": "Map of Erfurt and environs in the German state of Thuringia. Relief on regional map shown by shading and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25xd18g",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Erfurt : Thu\u0308ringer-Wald-Verein, [ca. 1900] (Zurich : Art. Institut Oreil Fu\u0308ssli)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Erfurt (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Erfurt ; Umgebungskarte von Erfurt",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7622846\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28c20439-ebea-4d86-87f1-49474de54a8d/file/ea04da3f-92ac-41f8-95bb-d888ee879d3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28c20439-ebea-4d86-87f1-49474de54a8d/file/a8d78ed7-9fbd-4e8b-88af-0a4019f0ca60\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ee%2F11%2Fec%2Fee11ec285abe42788bd04d54109d8f4b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1a9a2173-0006-4f54-a6bd-d936f00a785c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-28c20439-ebea-4d86-87f1-49474de54a8d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25xd18g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.8696459, 11.1896459, 51.1378285, 50.8178285)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-zs25xd18g"
+}

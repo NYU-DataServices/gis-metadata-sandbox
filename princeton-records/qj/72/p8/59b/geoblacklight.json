@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.000000. South Decimal Degree 39.875000. East Decimal Degree -74.000000. West Decimal Degree -74.125000. Alternate title: Seaside Park, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curves and soundings in feet- datum is mean low water. Shoreline shown represents the approximate line of mean high water. The mean range of tide is 1 foot in inland wateres and 4 feet along the ocean. \"Mapped by the United States Coast and Geodetic Survey; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1951. Topography by plane-table surveys 1951. Field check 1953. Hydrography from USC&GS chart 825 (1954) and surveys dated 1936.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p859b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1953.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Sea Side Park Quadrangle, New Jersey--Ocean Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845033\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/182f1be8-6047-4b8e-b8d3-6ea47ca2601c/file/958d40a7-3ecf-498a-a292-fa84f62e8c59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7978257-0420-43e7-8994-d92ec019a142/file/2954f16d-a939-4129-a635-00cf62507809\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7978257-0420-43e7-8994-d92ec019a142/file/4fd9d74d-e9c7-4c42-b578-6312a58107bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2Fdc%2F6a%2F85dc6a36f87243c3bebff3dacb377bf6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2d240fe6-2292-4ecc-a67a-482586885f28/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f7978257-0420-43e7-8994-d92ec019a142",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p859b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.125, -74.0, 40.0, 39.875)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-qj72p859b"
+}

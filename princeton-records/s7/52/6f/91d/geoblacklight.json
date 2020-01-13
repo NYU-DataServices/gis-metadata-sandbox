@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. From: Geological survey of New Jersey : maps. [Trenton, N.J. : State Geologist, 1868]. At head of title: Geological survey of New Jersey. \"Lith. of J. Bien.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526f91d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : Geological Survey of New Jersey, 1864.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ringwood Iron Mines (Ringwood, N.J.)",
+    "Passaic County (N.J.),Maps"
+  ],
+  "dc_title_s": "Map of the Ringwood Iron Mines, Passaic County (Copy 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5619268\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5a9c9d7-be57-4735-b06e-94dfb8b32aca/file/5a958a2a-5ff5-4230-9d00-326ab9ff7ded\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5a9c9d7-be57-4735-b06e-94dfb8b32aca/file/5e5ba1f1-83b6-4f88-8819-19ff30e9d0b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F4a%2Fef%2Fed4aef31d616456ba656e4b4fdc28dd9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2c6af8b-9ea4-4455-80d2-6b002691e0f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d5a9c9d7-be57-4735-b06e-94dfb8b32aca",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526f91d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.35012, -74.213287, 41.166929, 41.050004)",
+  "solr_year_i": 1864.0,
+  "uuid": "princeton-s7526f91d"
+}

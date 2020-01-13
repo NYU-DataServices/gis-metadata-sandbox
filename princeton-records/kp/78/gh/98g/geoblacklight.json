@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Hornell. Relief shown by 20 feet contour interval. Surveyed in 1914-1915. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gh98g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hornell (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Hornell Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867868\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/efd24027-4743-4603-95c2-ea7222cb9d4c/file/1c75cbab-23a0-4444-a816-fad72b30569d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60e11896-c676-4355-82d9-3f164842f267/file/40aad705-6471-4a2d-8928-c1be8bb3379b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60e11896-c676-4355-82d9-3f164842f267/file/200d411e-4c56-4b77-8bd4-54344d6d65bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2Fca%2F27%2F55ca272b57d54fcc9a584d2cf6281906%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/435a79ab-956a-45cc-9eac-6723b596b031/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-60e11896-c676-4355-82d9-3f164842f267",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gh98g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.75, -77.5, 42.5, 42.25)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-kp78gh98g"
+}

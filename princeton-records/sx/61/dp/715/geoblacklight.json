@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Generalplanavdelingen. Oslo Reguleringsvesen"
+  ],
+  "dc_description_s": "s.n. Shows planned zoning for Oslo. 1949",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dp715",
+  "dc_language_s": "Norwegian",
+  "dc_publisher_s": "Oslo : [s.n.], 1949.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Zoning",
+    "City blocks",
+    "Norway,Maps"
+  ],
+  "dc_title_s": "Generalplan for Oslo",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837453\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a77eed31-9955-4ef8-b048-29752b4628f5/file/149e2e5e-7f87-4fb6-9340-93603d62c269\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a77eed31-9955-4ef8-b048-29752b4628f5/file/89a3ec4a-f29e-4088-9ebc-1b12e1a1cea3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2F5d%2Fec%2F995decdabcb7468a88c253ceb74b3d5a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a395345-d7b8-48b2-903b-0c3195b991f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a77eed31-9955-4ef8-b048-29752b4628f5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dp715",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.666666666666666, 10.933333333333334, 60.03333333333333, 59.85)",
+  "solr_year_i": 1949.0,
+  "uuid": "princeton-sx61dp715"
+}

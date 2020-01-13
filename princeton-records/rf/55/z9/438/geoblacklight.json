@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1903-1904. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55z9438",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Kasoag Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867786\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/87066011-f7e8-42be-aaa4-841b16f89438/file/a4f450d3-bcb0-4f85-b803-a0dad2b5419b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/05551a29-15f2-4db5-a038-24093b718e9c/file/bb73db2d-9175-4152-88e5-c04e9752b163\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/05551a29-15f2-4db5-a038-24093b718e9c/file/a2bee1d3-3f37-43be-bdc7-1162034ca3e0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F93%2F53%2Fbc93536d1b3c49788e937970f8a0c27d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb1dc55d-01c7-44fd-8f81-0e4fee5bdc45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-05551a29-15f2-4db5-a038-24093b718e9c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55z9438",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.0, -75.75, 43.5, 43.25)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-rf55z9438"
+}

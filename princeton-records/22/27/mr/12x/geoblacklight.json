@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1909.\" Includes key, streets and specials index, and text. \"1638.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2227mr12x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Eatontown,Maps",
+    "Eatontown (N.J.),Maps"
+  ],
+  "dc_title_s": "Eatontown, Monmouth County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4799163\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8cdeec6-5d01-4ffb-946a-622584455cbe/file/d9ba567c-afe4-4544-9401-f05b4c5b3771\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8cdeec6-5d01-4ffb-946a-622584455cbe/file/e6ce9b1a-dee6-43e1-a3eb-4365791e2076\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2Fe0%2F08%2F85e0080e47664fb09e847de2e7636095%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e5c3389-cb69-42d6-9b9f-24c49026d175/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b8cdeec6-5d01-4ffb-946a-622584455cbe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2227mr12x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.081, -74.027, 40.315, 40.27)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-2227mr12x"
+}

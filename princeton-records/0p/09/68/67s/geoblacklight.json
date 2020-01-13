@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Lowville. Relief shown by 20 feet contour interval. Surveyed in 1910-1911. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096867s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Lowville (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Lewis County) Lowville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867908\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6b130a35-2a65-44c9-bac6-b13e4c9ddb6c/file/7ef3b1da-ca6a-458a-91ae-79f25b29678b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d7045f5-e3ad-4342-b4cf-e11b69d7e19d/file/5c9db08b-bcc4-4402-9135-58447db4a1fa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d7045f5-e3ad-4342-b4cf-e11b69d7e19d/file/f0861ea2-295e-4a93-89f8-4a9aa0a89d2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2F38%2Fe8%2F9d38e8e7077f46e783c4683e5d325ceb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b7841e4a-4d4d-4987-96bf-25c0dd4ab098/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0d7045f5-e3ad-4342-b4cf-e11b69d7e19d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096867s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 44.0, 43.75)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-0p096867s"
+}

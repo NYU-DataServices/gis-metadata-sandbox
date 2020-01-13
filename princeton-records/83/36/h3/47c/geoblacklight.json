@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Cortland. Relief shown by 20 feet contour interval. Surveyed in 1900-01 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8336h347c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cortland (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Cortland County) Cortland Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867726\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/10ce9371-90aa-42c3-9654-ea5453176e81/file/d20d7833-040e-4f77-b1e8-129ebae82736\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b70da04f-848a-4017-b56f-e9af1f8585b6/file/f7b0ad21-cbe0-4b46-9aaf-6422a5d2eaed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b70da04f-848a-4017-b56f-e9af1f8585b6/file/eb036b43-4594-4739-9c53-7aae3a42fa3e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F14%2F16%2F4914162545e549829ab5dd43fd587fb5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d46e4a4d-8580-466d-b672-3cf7f47d02c3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b70da04f-848a-4017-b56f-e9af1f8585b6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8336h347c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 42.75, 42.5)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-8336h347c"
+}

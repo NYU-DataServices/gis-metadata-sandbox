@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1920.\" Includes location map, key, streets and specials index, and text. \"3284.\" Historic Maps copy has sheets 1-29 and 34, showing Hackensack; sheets 30-37, showing Bogota, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sf681",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hackensack,Maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hackensack, Bergen County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5265934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f4a2961-c04c-4151-b85b-ffe28d517702/file/b5dd3024-25e5-4924-82c6-b5210f761a83\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f4a2961-c04c-4151-b85b-ffe28d517702/file/24fe7221-93f7-446d-8ed2-cbae65e61474\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F02%2F5b%2F15025bae873e44e9bfd9c6e8c851feba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/79c22f6f-81b9-456c-8d26-0b947e32650c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2f4a2961-c04c-4151-b85b-ffe28d517702",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sf681",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.068385, -74.024737, 40.913285, 40.858698)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-mp48sf681"
+}

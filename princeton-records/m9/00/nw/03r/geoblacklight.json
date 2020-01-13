@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1915.\" Includes location map, key, streets and specials index, and text. \"601.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m900nw03r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Collingswood,Maps",
+    "Collingswood (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Collingswood, Camden Co., New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5362797\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c47ba3d7-976b-4828-82eb-eea4e5c4ea92/file/d5998c48-779e-4e2e-ac3e-9500e987058b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c47ba3d7-976b-4828-82eb-eea4e5c4ea92/file/4ddcff0d-e828-412d-a653-7be4739af1a3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F84%2F5c%2Fb0845ccf98a944429428da97e525c7fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e464f63f-c245-42c5-93fd-8882cde9e5b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c47ba3d7-976b-4828-82eb-eea4e5c4ea92",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nw03r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.096, -75.056, 39.926, 39.904)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-m900nw03r"
+}

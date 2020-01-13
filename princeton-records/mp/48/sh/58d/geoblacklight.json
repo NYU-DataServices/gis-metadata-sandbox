@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Hong Kong. Crown Lands & Survey Office Relief shown by form lines and contour lines in 25 meter intervals.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sh58d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Hong Kong : Crown Lands & Survey Office, 1956.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City planning",
+    "Zoning",
+    "Topographic maps",
+    "Hong Kong (China),Maps"
+  ],
+  "dc_title_s": "Kun Tong new town",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449816\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7831d592-669f-4be1-8124-a4ad0031f5f4/file/f26fecbb-0a71-4bbf-8ef5-aa0a4c460c68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7831d592-669f-4be1-8124-a4ad0031f5f4/file/d2531670-5bd2-4b37-8b0e-3f698ae827b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/42%2F0b%2F0e%2F420b0eab39724bf0b745fcc60020ffdb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9e6b9501-a59d-4e24-930a-aec38129ad7a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7831d592-669f-4be1-8124-a4ad0031f5f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sh58d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(114.21666666666667, 114.23333333333333, 22.316666666666666, 22.3)",
+  "solr_year_i": 1956.0,
+  "uuid": "princeton-mp48sh58d"
+}

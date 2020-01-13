@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jany. 1897.\" Includes key, streets and specials index, and text. \"917.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sn00b023f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Haddonfield,Maps",
+    "Haddonfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Haddonfield, Camden Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5392507\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/396f29f7-dff6-4351-b9f0-1600401be675/file/bc486d45-e15a-4b89-9d38-20d011ae77c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/396f29f7-dff6-4351-b9f0-1600401be675/file/65be9d0a-fccf-4e6d-900e-84e1887add84\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F21%2F17%2F3b2117df485e4a758fd6b88890c9d9f9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f61bd09-5ec7-4ba1-8711-ddeafd7e8a24/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-396f29f7-dff6-4351-b9f0-1600401be675",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sn00b023f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0346, -75.0291, 39.895, 39.8913)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-sn00b023f"
+}

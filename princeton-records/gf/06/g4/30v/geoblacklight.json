@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Gettysburg. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1906-1907. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gf06g430v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gettysburg (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Gettysburg Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868561\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0dfdfc17-9782-4b4b-b684-62c557fe6db0/file/44c241e1-ed8c-4da6-97ee-2b4d061e339a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d41898b0-6909-471a-96ba-4bd7d112895c/file/27e5a09b-32f8-4b46-890c-3e631c562179\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d41898b0-6909-471a-96ba-4bd7d112895c/file/1f032803-e404-42b1-b663-913130dac6c9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2F99%2Fc7%2Fdb99c77b42aa4aef9c6ae028b4c648f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09fc24e0-6b1b-4448-b2d1-2fc2d7b991a7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d41898b0-6909-471a-96ba-4bd7d112895c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gf06g430v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.25, -77.0, 40.0, 39.75)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-gf06g430v"
+}

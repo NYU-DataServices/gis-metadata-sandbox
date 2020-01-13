@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rf55zb16s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Bruxelles : chez A. Tessaro, e\u0301diteur ... , [1852?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brussels (Belgium),Maps"
+  ],
+  "dc_title_s": "Plan de Bruxelles 1852",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6909306\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/cf6684a7-2780-4161-a158-4577601c780c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/6880055e-998d-4288-ae7e-32f0efaee537\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dd%2Fe8%2F11%2Fdde811c214814997acf7cd20f21c9fbb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c52b4613-98d8-4ecb-8ed8-d443aa57222b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rf55zb16s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.329522, 4.377244, 50.865789, 50.826878)",
+  "solr_year_i": 1852.0,
+  "uuid": "princeton-rf55zb16s"
+}

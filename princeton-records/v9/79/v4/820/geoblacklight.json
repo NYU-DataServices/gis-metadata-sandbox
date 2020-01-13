@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Kyoto north, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v4820",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Kyoto north, Kyoto Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449959\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/51409d42-1c8d-404f-a4a8-660a1c40b3cc/file/a39018a1-7603-4682-8b88-33d1ea33d873\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e7229a9-b440-499a-bdb4-860dfb7892d7/file/a1473b59-0d25-472e-8d09-c1f7029cf611\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e7229a9-b440-499a-bdb4-860dfb7892d7/file/73f46576-29aa-420f-a39f-a56701ee366f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2Fb7%2Fe9%2F45b7e904276d43a59f204fd393b55176%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04b00895-d4be-4cfe-8cc7-aadb8f36cff6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2e7229a9-b440-499a-bdb4-860dfb7892d7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v4820",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(135.71666666666667, 135.8, 35.06666666666667, 35.0)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-v979v4820"
+}

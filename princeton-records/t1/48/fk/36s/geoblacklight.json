@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1887.\" Includes key, key map, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fk36s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1887.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Raritan,Maps",
+    "Raritan (N.J.),Maps"
+  ],
+  "dc_title_s": "Raritan, N. J. (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5603115\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e16a85b-e2e5-47f4-8159-7b908e9e6ff3/file/02f862ea-5c84-414c-9155-29829aa6e082\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e16a85b-e2e5-47f4-8159-7b908e9e6ff3/file/bb6bc119-354b-497b-9e94-fe30326e9610\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a9%2Ff1%2Ff3%2Fa9f1f38792b34bb8a29ca73c29a6e409%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4cf5ef99-79ff-4c64-84fb-215ce5bae634/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9e16a85b-e2e5-47f4-8159-7b908e9e6ff3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fk36s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.662026, -74.623412, 40.586044, 40.556202)",
+  "solr_year_i": 1887.0,
+  "uuid": "princeton-t148fk36s"
+}

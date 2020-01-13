@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Homann, Johann Baptist, 1663-1724"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1r66j483h",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Nuremberg : J. B. Homann, 1715?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lucas, Paul, 1664-1737",
+    "Nile River Delta (Egypt),Maps",
+    "Nile River,Maps"
+  ],
+  "dc_title_s": "\u00c6gyptus hodierna",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4634383\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d78d9f32-b0ad-4a38-9af3-e6231b8b521e/file/fe685753-8bf0-4d41-9e73-6feebf5f3186\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d78d9f32-b0ad-4a38-9af3-e6231b8b521e/file/fdfdc6ca-452c-4937-a227-9b98afd500ee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5c%2Fdc%2Fad%2F5cdcad32c9754674b5d34e313cb5984b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3850661c-f59e-43ea-8510-c94cdc960acb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "1715"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d78d9f32-b0ad-4a38-9af3-e6231b8b521e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1r66j483h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.93, 37.38, 32.5, 21.34)",
+  "solr_year_i": 1715.0,
+  "uuid": "princeton-1r66j483h"
+}

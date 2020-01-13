@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Cebu. In upper left margin: Philippine Islands city plans. Copied from U.S.C.&G.S. Chart 4447. Relief shown by form drawings. Depth shown by soundings in [fathoms?].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k420g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bathymetric maps",
+    "Land use",
+    "Cebu,Maps"
+  ],
+  "dc_title_s": "Cebu, Philippine Islands, chartered city of Cebu. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830592\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2dbdbc3c-20dc-4c10-a4d7-46428fc563b5/file/52ae968d-5c43-4300-aa17-86437a27d92c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb14fde6-bca1-4170-aeb7-15fb20f3dfde/file/b1740331-82e6-4296-87fe-f4763709d19c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb14fde6-bca1-4170-aeb7-15fb20f3dfde/file/02c19958-1883-43c3-a5ae-269e44f446a0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F71%2F14%2F7c71142f401749799fc020f6e21751b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2333fc3f-fe9b-4237-9cbf-588460d6446c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb14fde6-bca1-4170-aeb7-15fb20f3dfde",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k420g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(123.88333333333334, 123.91666666666667, 10.316666666666666, 10.3)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-td96k420g"
+}

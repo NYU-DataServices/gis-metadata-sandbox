@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Vezou, Louis Claude de."
+  ],
+  "dc_description_s": "Relief shown by hachures and soundings. Includes text. Shows depths, anchorages, and prevailing currents. Publication date from Institut cartogra\u0300fic de Catalunya.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks61t",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : chez Lattre\u0301 graveur ... , [1756]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Gibraltar, Bay of (Spain),Maps,Early works to 1800",
+    "Gibraltar, Bay of (Spain),Charts, diagrams, etc,Early works to 1800"
+  ],
+  "dc_title_s": "Plan topo-hydrographique de la Baye de Gibraltar",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5622119\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4dc5438-bf9d-4421-8eac-43702b4430ef/file/175a8e7a-cd5f-48c0-84a0-448b5bc98633\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4dc5438-bf9d-4421-8eac-43702b4430ef/file/ad300ff9-9454-43f5-ad4a-870508c5e194\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2F2a%2F65%2F072a6547d31c4ab69bda65c26b5fc5cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0f3062e3-01a4-4bc5-9631-dd12cee068c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Gibraltar",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d4dc5438-bf9d-4421-8eac-43702b4430ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks61t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.500093, -5.316758, 36.200033, 36.041679)",
+  "solr_year_i": 1756.0,
+  "uuid": "princeton-8c97ks61t"
+}

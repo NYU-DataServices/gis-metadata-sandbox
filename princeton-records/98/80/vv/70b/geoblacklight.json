@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Kiepert, Heinrich, 1818-1899"
+  ],
+  "dc_description_s": "Relief shown by hachures. At head of map: Atlas antiquus. Tab. III. Possibly issued in: Atlas antiquus. Berlin : D. Reimer, 1861.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vv70b",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Berlin : D. Reimer, [1861?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Turkey,Maps",
+    "Middle East,Maps"
+  ],
+  "dc_title_s": "Asia Citerior",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4861201\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31aefa98-ab62-4f00-968a-9d5231102350/file/dad56380-fb16-467f-8935-83d41ddee977\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31aefa98-ab62-4f00-968a-9d5231102350/file/202e5a0c-f6f5-4b30-90da-8721541fd40d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2F3c%2F3f%2F843c3f7dadf14f9884c1625d4a01137a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/24e93d4d-88da-41c2-bee1-ec7a0f08aba7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Turkey",
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-31aefa98-ab62-4f00-968a-9d5231102350",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vv70b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.51, 46.01, 42.67, 30.51)",
+  "solr_year_i": 1861.0,
+  "uuid": "princeton-9880vv70b"
+}

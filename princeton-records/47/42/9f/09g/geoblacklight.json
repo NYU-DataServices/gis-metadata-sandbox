@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Isidore, of Seville, Saint, -636"
+  ],
+  "dc_description_s": "World map showing the three known continents, Asia, Europe and Africa within a circle. Title supplied by cataloger. From: Isidori Iunioris Hispalensis Episcopi Epistola ... [known as the Etymologiae]. [Augsburg] : Per Gintherum Zainer ex Reutlingen progenitum literis impressi ahenis, 1472, 19 die mensis Noue[m]bris.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/47429f09g",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Augsburg : Gu\u0308nther Zainer, 1472]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "T-O map (side 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7562282\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ec61d15-c336-4640-95b3-e9ca065dbba3/file/5ccb2875-5609-4f72-abd9-34e0dc5942b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ec61d15-c336-4640-95b3-e9ca065dbba3/file/4e1808d2-68df-49b3-ae16-da5864a0ac2e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2Ff8%2F80%2Fc5f88020556440578ff196b82ce164d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53238932-6757-451b-9e53-05bd9c830948/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1472"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7ec61d15-c336-4640-95b3-e9ca065dbba3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-47429f09g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1472.0,
+  "uuid": "princeton-47429f09g"
+}

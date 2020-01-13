@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Justel, Henri, 1620-1693"
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes inset: L'isle de Terre Neuue. This map appeared in an identical state in a 1674 edition of Recueil de divers voyages. cf. Burden, P. The mapping of North America II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p2676x85m",
+  "dc_language_s": "French",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,Virginia,Maps,Early works to 1800",
+    "Coasts,Maryland,Maps,Early works to 1800",
+    "Coasts,New England,Maps,Early works to 1800",
+    "Coasts,Middle Atlantic States,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Costes et riuieres de Virginie, de Mariland, et de Nouuelle Angletere",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5739922\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/2e87cbde-9d02-4dab-aa52-78c01f089659\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/9f511924-30ec-45ca-a8d9-14844763179c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2F72%2Fa6%2F4372a652f2544da3b4bc7a7efe11ea77%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd48dae3-5457-4e88-828b-e3668d6c3024/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Maryland",
+    "New England",
+    "Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1674"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-265e331e-954c-41d9-860c-5a8e3c6a7b69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p2676x85m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.0046, -57.9502, 50.8336, 36.75)",
+  "solr_year_i": 1674.0,
+  "uuid": "princeton-p2676x85m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1886.\" Includes key and text. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rx913s01j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbridge,Maps",
+    "Woodbridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbridge, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5544123\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21785fc7-aa28-438c-9fc0-94c04ae4735a/file/afed804c-b05d-4353-a647-369a40dc91de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21785fc7-aa28-438c-9fc0-94c04ae4735a/file/0b13cd86-0037-45d4-86d8-e1e5504e3516\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2Fd9%2Fad%2F79d9ad5546084fda8678c0fa89c53206%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef6e9555-8366-4fd6-8712-6d6cfd4fc268/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-21785fc7-aa28-438c-9fc0-94c04ae4735a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rx913s01j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-rx913s01j"
+}

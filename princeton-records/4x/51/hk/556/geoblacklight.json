@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Senex, John, -1740"
+  ],
+  "dc_description_s": "Map of Jamaica has title: A new map of the island of Jamaica / most humbly inscrib'd to the Right Honble. Thomas Earl of Stamford &c. Date of publication from Tooley.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hk556",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : s.n., 1719]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Jamaica,Maps",
+    "West Indies,Maps"
+  ],
+  "dc_title_s": "A new map of the English empire in the ocean of America or West Indies",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4529436\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a49d9251-2424-4230-8b00-6b9f042b87ec/file/4d185063-5c25-4ebf-9080-5fee98725a70\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc88f3b1-2e99-4b2c-939a-cf947e292577/file/471bf09f-d99e-4503-a9fc-23b00b090f40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc88f3b1-2e99-4b2c-939a-cf947e292577/file/acbf6e7f-b6c4-4241-9957-db0006fd5472\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/51%2F39%2F4e%2F51394ecc0aae4cfc884a96119e8384ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/98eb160f-6549-495c-a95b-45b03b49e7ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1719"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dc88f3b1-2e99-4b2c-939a-cf947e292577",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hk556",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-103.01, -70.01, 32.0, 6.01)",
+  "solr_year_i": 1719.0,
+  "uuid": "princeton-4x51hk556"
+}

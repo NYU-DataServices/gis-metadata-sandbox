@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper left. Historic Maps copy has sheets 103-107 of The Oranges series, showing South Orange.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/000002029",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co. Limited, 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,South Orange,Maps",
+    "South Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "South Orange, N.J. (Sheet 103)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5477901\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb55c63f-6b4e-4fe7-a73b-7f6e3d84a55f/file/0891bec4-603d-4441-9b0a-33f08cff6126\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb55c63f-6b4e-4fe7-a73b-7f6e3d84a55f/file/cd14f97a-5e44-42c5-9a17-483d8f3bb5a6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2F7b%2F50%2F917b5052fa0c4fff823b75456535da09%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2ed5abe8-895c-4f96-898a-f0675e528291/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eb55c63f-6b4e-4fe7-a73b-7f6e3d84a55f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-000002029",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-000002029"
+}

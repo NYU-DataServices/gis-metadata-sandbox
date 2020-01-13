@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786"
+  ],
+  "dc_description_s": "Relief shown pictorially. \"Avec privile\u0300ge 1755.\" Title on verso: \"Cours de l'Ohyo.\" Covers the area from the Great Lakes to South Carolina and from the Atlantic coast to the Mississippi River. Shows provinces, counties, towns and cities, riviers, Indian villages and tribal territory, forts, numerous place-names, and relief. Appears in the author's Atlas universal. 1757 [i.e. 1758]. Includes \"Supple\u0301ment pour la Caroline.\" Historic Maps copies 2 and 4 lack title on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v6788",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris? 1755]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "East (U.S.),Maps,Early works to 1800",
+    "Middle Atlantic States,Maps,Early works to 1800",
+    "New England,Maps,Early works to 1800",
+    "Ohio River Valley,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Partie de l\u2019Ame\u00b4rique septentrionale, qui comprend le cours de l\u2019Ohio, la Nlle. Angleterre, la Nlle York, le New Jersey, la Pensylvanie, le Maryland, la Virginie, la Caroline (Copy 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5951332\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb91a86d-3bd9-4e57-b381-b885960dfc39/file/dfcca856-cf90-4aef-875d-3b3d71177f94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb91a86d-3bd9-4e57-b381-b885960dfc39/file/17337e07-0d67-4a3b-80cd-f2dceb2cd073\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/85%2F0b%2F62%2F850b627b85a04d62a2c9cbde3a01c53f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd1ae470-7b42-4670-a9f4-ed5eb4a979b9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio River",
+    "Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1755"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cb91a86d-3bd9-4e57-b381-b885960dfc39",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v6788",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.53, -68.44, 46.37, 33.89)",
+  "solr_year_i": 1755.0,
+  "uuid": "princeton-v979v6788"
+}

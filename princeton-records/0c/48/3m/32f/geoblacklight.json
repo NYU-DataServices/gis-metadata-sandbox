@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Chapman, Silas"
+  ],
+  "dc_description_s": "\"Entered according to Act of Congress in the year 1856 by Silas Chapman.\" \"Lith. of Ferd. Mayer & Co., 96 Fulton St., N.Y.\" Historic Maps copy removed from cover and placed in state's flat file.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0c483m32f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Milwaukee, Wis. : Dyer & Pasmore, 1856.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Minnesota,Maps"
+  ],
+  "dc_title_s": "Chapman's new sectional map of Minnesota",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5302052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/6009d625-9a4a-4d25-ae51-421fc03333e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/da342499-593f-46e5-8fd8-1620548fe071\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2Fd1%2F31%2F17d131e8e868421f9173c5f0ac33fb67%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1d699be-f453-4d09-9d30-264d7213f9b4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ddb0b301-9923-4535-9e2f-9d8c13145c26",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0c483m32f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-96.5012, -91.1783, 47.5043, 43.5002)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-0c483m32f"
+}

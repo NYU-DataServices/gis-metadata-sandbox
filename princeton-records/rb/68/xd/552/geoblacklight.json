@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Stoneboro, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1911. Surveyed in cooperation with the State of Pennsylvania.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xd552",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1913.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Stoneboro (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Stoneboro Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868310\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/243c6c91-5e13-4f3b-9deb-aeee82b4b415/file/c2dfb097-4ac0-4c22-9d83-0b8e4643aaf4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e96d1945-2142-4a83-8674-eea2d731ca0d/file/467400e9-ccf3-4f95-ab4f-7611eda79ef9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e96d1945-2142-4a83-8674-eea2d731ca0d/file/60a92d76-1876-4f5b-b8dc-5b44292d68c7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F82%2Fe5%2F7382e557a94c4e6a908b7181f109a92a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec280fc9-0e95-4f38-ab28-bea6d8dc2ae0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e96d1945-2142-4a83-8674-eea2d731ca0d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xd552",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.25, -80.0, 41.5, 41.25)",
+  "solr_year_i": 1913.0,
+  "uuid": "princeton-rb68xd552"
+}

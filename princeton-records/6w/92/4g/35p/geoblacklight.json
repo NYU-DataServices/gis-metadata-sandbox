@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Nigeria. Survey Department"
+  ],
+  "dc_description_s": "Map shows international, provincial, boundaries of the mandated territories administered as part of Adamawa, and as part of Southern Provinces, provincial and divisional headquarters, and railways in operation and under construction. Original map is filed in the Map and Geospatial Information Center. A map reproduction is attached to companion volume. Crown copyright reserved.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "ark:/88435/6w924g35p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+
+  ],
+  "dc_title_s": "Map of the Colony and Protectorate of Nigeria, 1929",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10031454\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7e183af-e80c-4373-a162-8a66f5d14f8b/file/e2e38435-6765-4f46-b1eb-f9716b61525b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7e183af-e80c-4373-a162-8a66f5d14f8b/file/40fb8863-63dd-4e01-bb7c-6b915392610d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "public-figgy:p-d7e183af-e80c-4373-a162-8a66f5d14f8b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6w924g35p",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.677222, 14.678333, 13.885278, 3.884722)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-6w924g35p"
+}

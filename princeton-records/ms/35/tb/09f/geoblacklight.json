@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Franklinville, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1923. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb09f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1924.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Franklinville (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Franklinville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867357\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25c294fb-10a5-4d8c-8b21-001ca503de26/file/bca630c7-130f-454f-9a34-275643e52eca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7678e0c2-6fa4-42e2-bbe3-0a31d06f989f/file/0141df0a-5a94-42c0-8b3f-4b7b0d03212c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7678e0c2-6fa4-42e2-bbe3-0a31d06f989f/file/d8122957-3ae8-45ec-9055-c4592f3375fd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2Fe8%2F46%2F92e846f0b3104fbb9408a1a91c5503df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53ceec1c-7243-4bcb-a9d0-97ff122ce6aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7678e0c2-6fa4-42e2-bbe3-0a31d06f989f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb09f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.5, -78.25, 42.5, 42.25)",
+  "solr_year_i": 1924.0,
+  "uuid": "princeton-ms35tb09f"
+}

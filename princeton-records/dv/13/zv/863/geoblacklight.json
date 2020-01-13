@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "\"800371 7-86.\" Relief shown by shading and spot heights. \"Boundary representation is not necessarily authoritative.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zv863",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency], 1986.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Latin America,Maps"
+  ],
+  "dc_title_s": "Caribbean America",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7215389\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/895041c5-392e-4999-9e18-b16f67cfbd9c/file/86dca83e-5230-44ac-b125-b47d3e506ea6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08f5b88c-51d4-424f-85f2-fde1ec695a8f/file/b40a9518-4791-4a54-b94b-958dddab3944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08f5b88c-51d4-424f-85f2-fde1ec695a8f/file/e7634961-0c41-462e-a8b0-640a638886ba\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2Fb2%2Fd0%2F93b2d026281b4350afd0b52644b6b6ee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7734c87b-316f-4fc0-80bb-59c50027e3b6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Caribbean Area; Caribbean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-08f5b88c-51d4-424f-85f2-fde1ec695a8f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zv863",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-104.0, -56.0, 32.0, 0.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-dv13zv863"
+}

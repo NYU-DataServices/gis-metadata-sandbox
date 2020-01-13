@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Northern Cameroons (present-day Nigeria) for 1927. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/2f75rc52k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Northern Cameroons extracted historical administrative boundaries, 1927",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cc0c32a2-45a6-4a6c-8c20-80932944f7b6/file/aeba9853-974c-47bb-be93-aeb6ea766e53\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c1e0d68-a0be-45fe-b9dd-26dc9ae917ff/file/87c47749-7ba8-4c21-b670-5eb54cdd2e61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c1e0d68-a0be-45fe-b9dd-26dc9ae917ff/file/5dbe942e-b733-494d-8181-36be0016d1ac\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroons",
+    "British Cameroons",
+    "Northern Cameroons",
+    "Nigeria",
+    "Cameroons Trust Territory"
+  ],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-1c1e0d68-a0be-45fe-b9dd-26dc9ae917ff",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75rc52k",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(10.142265, 14.643995, 12.698525, 6.46905)",
+  "solr_year_i": 1927.0,
+  "uuid": "princeton-2f75rc52k"
+}

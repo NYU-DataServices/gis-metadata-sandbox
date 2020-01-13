@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Admont in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w1369",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation",
+    "World War II"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Admont. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/23cefc54-290f-4ce5-a2c1-6ef81fd7423f/file/b7a68480-267b-40eb-8716-29059958c362\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fa3d68f-c324-4b61-b8c0-676f7c7266a2/file/96f50c4d-dc38-42a5-bac6-188c8de6d275\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fa3d68f-c324-4b61-b8c0-676f7c7266a2/file/cccee6e3-de09-4ed5-a42d-1425d2b7dc2c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F25%2F82%2F082582053b74494ab9e0c0163b2b47c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a0048d5c-cdda-4977-82c1-29638d43cc1f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Europe",
+    "G6031.C2.s100.A7M3",
+    "Austria",
+    "Admont"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2fa3d68f-c324-4b61-b8c0-676f7c7266a2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w1369",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.3333, 15.3333, 47.75, 47.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-vd66w1369"
+}

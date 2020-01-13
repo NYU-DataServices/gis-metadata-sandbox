@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Cary, John, approximately 1754-1835"
+  ],
+  "dc_description_s": "Relief shown pictorially and by shading.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj40j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by J. Cary, engraver, map & printseller, No. 188, Strand, Jany. 1, 1791.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streets,England,London,18th century,Maps",
+    "London (England),Maps,Early works to 1800",
+    "Westminster (London, England),Maps,Early works to 1800",
+    "Southwark (London, England),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Cary's new pocket plan of London, Westminster and Southwark : with all the adjacent buildings in St. George's Fields &c. &c. : to which are annexed (from authority) the exact boundary of the rules of the King's Bench Prison, the situation of the receiving houses of the general & penny post offices, references to the public buildings &c. : also a correct list of upwards of 350 hackney coach fares",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5557511\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e715a04c-584d-495a-85ea-2e0fa11163a6/file/096d2d56-f8ef-4bba-9695-80161358efdb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e715a04c-584d-495a-85ea-2e0fa11163a6/file/38a52632-9efd-49dd-a938-480ac8e3e60a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4f%2F4d%2Fec%2F4f4dec74047045d4bf6c36dbc0ff7b73%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40a7ec73-e9f1-4304-92db-be4d3490f9cc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e715a04c-584d-495a-85ea-2e0fa11163a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj40j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.172474, -0.03772, 51.532038, 51.48615)",
+  "solr_year_i": 1791.0,
+  "uuid": "princeton-2801pj40j"
+}

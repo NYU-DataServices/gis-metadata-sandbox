@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1900 and 1901 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt47m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Binghamton (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Broome County) Binghamton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866992\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5bd9ec58-0dba-447d-bd6e-ed6c665c4ad4/file/e2c2791c-af9f-483e-a651-8820d5962ff1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4cf55c3-2fd4-4181-b226-3741e0b7a33c/file/20204bf0-1b3e-416f-bb0a-67c4fdcd2d88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4cf55c3-2fd4-4181-b226-3741e0b7a33c/file/a297a339-7971-4d6d-859e-40a045607dfe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/84%2F5b%2Fb2%2F845bb2607a334ad0a5f360037a8a7e5d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/851ee254-c822-45fe-99e8-1eb1d3ae8e6b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c4cf55c3-2fd4-4181-b226-3741e0b7a33c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt47m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.0, -75.75, 42.25, 42.0)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-5m60qt47m"
+}

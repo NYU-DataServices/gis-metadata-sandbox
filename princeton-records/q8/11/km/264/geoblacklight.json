@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Hsia-Mien. In upper left margin: China city plans 1:12,500. Polyconic projection. Relief shown by 20 meter with auxiliary 10 meter contours and spot elevations. Depth shown by fathoms. Pinyin name for this city: Xiamen. Chinese place names transcribed according to the modified Wade-Giles system. With Chinese-English glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km264",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Hsia-men (Amoy), China, Fukien Province",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830411\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6abf99af-5a2e-4895-9c0c-2b68e6e191e5/file/6efff439-68df-450d-acba-950f9885f7eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a03f853a-82cf-407a-ab55-a7e16c1cd814/file/602313fa-e0db-473e-83cc-6848edcced4d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a03f853a-82cf-407a-ab55-a7e16c1cd814/file/f7a2f3e3-e539-4281-8a7b-ebcaf29eed14\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e0%2F9a%2F44%2Fe09a44ac6d7c44c3bba4627cadab9dc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b768275b-98a7-4ecc-95a3-792985adc649/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a03f853a-82cf-407a-ab55-a7e16c1cd814",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km264",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(118.05, 118.1, 24.483333333333334, 24.433333333333334)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-q811km264"
+}

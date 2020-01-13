@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1886.\" Includes key, streets and specials index, and text. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs70r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bordentown,Maps",
+    "Bordentown (N.J.),Maps"
+  ],
+  "dc_title_s": "Bordentown, N. J. (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5028094\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df8314e0-a617-4958-b295-4df10f09edc1/file/ceb64d7e-b27e-4f78-93eb-5b40017be537\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df8314e0-a617-4958-b295-4df10f09edc1/file/c2386f6a-8f82-4739-a0f6-e0e6ae1c0c71\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Fec%2Fef%2F57eceff274c84072bc6bfb144cd558ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b572e673-3273-4fce-acf8-9cd977548961/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-df8314e0-a617-4958-b295-4df10f09edc1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs70r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-n870zs70r"
+}

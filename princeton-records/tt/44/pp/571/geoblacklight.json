@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Neitzschitz, Georg Christoph von, fl. 1635"
+  ],
+  "dc_description_s": "\"Hipschman scul.\" From: Sieben-ja\u0308hrige ... Welt-beanschauung ... / Georg Christoff von Neitzschitz ... Nu\u0308rnberg : zu finden bey Johann Hoffmann ... , 1666. Later editions appeared in 1673, 1674 and 1686.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tt44pp571",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Nu\u0308rnberg : Johann Hoffmann, 1666]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800",
+    "Western Hemisphere,Maps",
+    "Eastern Hemisphere,Maps"
+  ],
+  "dc_title_s": "[World map].",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4472509\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ac1184ec-581e-4125-b894-82c136036038/file/3a0b2f11-872c-46d6-b11b-85670cd951a2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ca4e5ed-3d62-42b9-bd01-261372965ded/file/22024a25-9b65-4db6-a5e2-e9a6132d5f54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ca4e5ed-3d62-42b9-bd01-261372965ded/file/3705b89b-8e1c-48c0-8668-39e49225aa2b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2F28%2Fad%2F2c28ad9a21ff44aba38583e113c553d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc222797-378b-4a24-bcc4-6b33fc0058f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1666"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9ca4e5ed-3d62-42b9-bd01-261372965ded",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tt44pp571",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1666.0,
+  "uuid": "princeton-tt44pp571"
+}

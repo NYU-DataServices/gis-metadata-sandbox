@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "World map with relief shown pictorially. German text on verso with caption title: Der gantzen Welt Kreyss. Signature: I. From: Theatrum oder Schawplatz des Erdbodems ... [Antorff : Gielis von Diest, 1572]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fg57p",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antwerp : Diesth, 1572]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "Typus orbis terrarum",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7568151\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71918ad5-4741-4118-bc9c-63f564e83c56/file/ef2d8e0c-4b09-43f9-8b09-6d0900bd660d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71918ad5-4741-4118-bc9c-63f564e83c56/file/d6c53992-1be9-4afb-8b05-8edd234ce44c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2F0e%2Ff0%2Ffc0ef02df4824dde963af0d40c13fa4c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/abe19fa5-dafc-4c41-875a-a604db9d8090/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1572"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-71918ad5-4741-4118-bc9c-63f564e83c56",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fg57p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1572.0,
+  "uuid": "princeton-1g05fg57p"
+}

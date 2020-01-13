@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Skeleton maps of Orange and West Orange, N.J.; sheets 53-54 and 67-68 of Orange and W. Orange, N.J., series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg84w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1912]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Real property,New Jersey,West Orange,Maps",
+    "Orange (N.J.),Maps",
+    "West Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange and W. Orange, N. J. : skeleton (Sheet 67)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5665297\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d04a99e-5f18-41a8-9286-ec9c236e71bf/file/e9e270fd-3fc9-43ea-be3e-39dcb492dfd4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d04a99e-5f18-41a8-9286-ec9c236e71bf/file/06315a62-215c-4057-a65c-d238ea050891\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2Fd6%2F26%2Fc5d6260f675f45fd844c796e91b4c3ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5673fabb-3aad-41ea-9625-a208990957bc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1d04a99e-5f18-41a8-9286-ec9c236e71bf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg84w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-9k41zg84w"
+}

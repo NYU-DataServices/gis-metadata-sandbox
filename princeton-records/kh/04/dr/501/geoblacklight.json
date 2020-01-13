@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France Explanatory text: 6p. in MC folder. North Decimal Degree 50.9362 South Decimal Degree 50.5766 East Decimal Degree 2.7925 West Decimal Degree 1.8819 Alternate title: Saint-Omer. Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dr501",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Saint-Omer",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518405\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddde392d-5e12-4b6f-869b-9530543623a9/file/a674b056-c8fa-4519-bf95-28e723deb6db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddde392d-5e12-4b6f-869b-9530543623a9/file/d971a218-fbf5-4caa-8e28-cbc5eabe569d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F48%2F7f%2F5a487fcd6cac4d4c99f3b8b445351f08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d944f1fa-113b-4b21-bc29-bb54a6f721fe/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ddde392d-5e12-4b6f-869b-9530543623a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dr501",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.8819, 2.7925, 50.9362, 50.5766)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-kh04dr501"
+}

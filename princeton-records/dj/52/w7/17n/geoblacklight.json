@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Irminger, Carl Ludvig Christian, 1802-1888"
+  ],
+  "dc_description_s": "Oceanic surface temperatures shown in degrees Fahrenheit. 48\u00b0 Fahrenheit isotherms are shown for September 1840, May and September 1844, May 1846, and May and September 1868. Ice-streams and principal glaciers of Greenland and snow-fields in Greenland and Iceland are shown. Routes and dates of voyages from 1838 to 1868 are shown. Mean air temperatures in May and September shown for locations in Scotland, Iceland, and Greenland. From: The Journal of the Royal Geographical Society of London. Vol. 40, (1870), pp. 441-48; held in Firestone Library. Call number: G7 .J687 v.47 1877",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w717n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London: published for the Journal of the Royal Geographical Society, by J. Murray, Albemarle Street, 1870.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean temperature,North Atlantic Ocean,Maps",
+    "Ice sheets,Greenland,Maps",
+    "North Atlantic Ocean,Maps",
+    "Greenland,Maps"
+  ],
+  "dc_title_s": "Surface temperatures of the North Atlantic between Shetland & Greenland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7167049\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/664c74e6-1ca6-4dd1-aca4-2e2468f44481/file/d018d9ef-42f6-4c2f-97bf-104151fc757c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/664c74e6-1ca6-4dd1-aca4-2e2468f44481/file/b372b441-125f-41b9-ad6e-2e5a2463c0ed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F69%2F9f%2Faf699f66e92f483e945ece9650c94629%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0239c729-c131-44df-85fe-16414867c5ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-664c74e6-1ca6-4dd1-aca4-2e2468f44481",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w717n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-54.0, 2.0, 66.666667, 56.0)",
+  "solr_year_i": 1870.0,
+  "uuid": "princeton-dj52w717n"
+}

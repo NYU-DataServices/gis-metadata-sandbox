@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Wm. M. Bradley & Bros"
+  ],
+  "dc_description_s": "In margin: 2. Double hemispherical world map on a globular projection; relief shown by hachures. Probably issued as plate 2 of: Bradley's atlas of the world for commercial and library reference. Philadelphia : Wm. M. Bradley & Bros., 1884.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x29m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia : Wm. M. Bradley & Bros., 1884?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps",
+    "Eastern Hemisphere,Maps",
+    "Westerrn Hemisphere,Maps"
+  ],
+  "dc_title_s": "The world in hemispheres",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4547836\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e3a95aed-abd5-4705-9471-8ebc919cc34f/file/abc1b271-4fc1-421a-af5b-d157e711c760\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14c413e3-c1bb-4612-861b-816c4c1bdb4e/file/9fc60a40-e92b-44f6-8abe-7477c0317593\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14c413e3-c1bb-4612-861b-816c4c1bdb4e/file/d8af19af-fde1-4a39-b6b9-89d64a439ec8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2Fd5%2F58%2Ffcd55869d6f84c82afb8d1ec6ab5362c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca9bc05e-d21d-4609-9115-3be014a60abc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-14c413e3-c1bb-4612-861b-816c4c1bdb4e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x29m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-b2773x29m"
+}

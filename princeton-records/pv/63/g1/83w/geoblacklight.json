@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.875000. South Decimal Degree 39.750000. East Decimal Degree -74.250000. West Decimal Degree -74.375000. Alternate title: Brookville, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army map Service. Published for civil use by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Topography from aerial photographs by photogrammetric methods. Aerial photographs taken 1947. Planimetric detail revised from aerial photographs taken 1956.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pv63g183w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1957.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Brookville Quadrangle, New Jersey--Ocean Co. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844637\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/15e80200-ff10-4325-a62a-f8d0480c1f61/file/2239959b-5151-4aad-afad-07116fbc14c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/700c14f0-c98c-4090-b5a0-29b74faf96f9/file/7bc2efd4-cde1-4774-a961-fc930c8b399a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/700c14f0-c98c-4090-b5a0-29b74faf96f9/file/4a3fd014-28ed-434d-98a3-2022702dc3b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F6f%2Fcc%2Fc56fcc6af6c04476a06cfe2102d397da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2e7cdeaf-6205-4987-9792-8ba4d4d6bd12/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-700c14f0-c98c-4090-b5a0-29b74faf96f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pv63g183w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.375, -74.25, 39.875, 39.75)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-pv63g183w"
+}

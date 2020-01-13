@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Canada. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pr76f491r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Canada, 1972",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/490e7c50-1df3-4b76-b595-875ce9086428/file/7a2d4c6e-8002-4097-9747-f3118447126b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d6cd41b-2864-45db-ad64-a86c48e31663/file/1c9e1da0-93a8-4612-9d3d-23eca39e0273\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d6cd41b-2864-45db-ad64-a86c48e31663/file/08ddf8b3-9984-4c26-bbc1-40b23221ee85\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f0%2F1c%2F89%2Ff01c89c76c9644b2b209940ad5a8b6b4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c90310e-e803-4d06-8c75-39d43d2b7998/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9d6cd41b-2864-45db-ad64-a86c48e31663",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pr76f491r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-135.0, -45.0, 85.0, 43.0)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-pr76f491r"
+}

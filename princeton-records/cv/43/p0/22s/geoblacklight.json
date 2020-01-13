@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geokarta. Municipal boundaries are shown as are city districts.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43p022s",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Espoo : Geologian tutkimuskeskus, 1953.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City blocks",
+    "Serbia,Maps"
+  ],
+  "dc_title_s": "Plan Beograda",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837363\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82c987fd-1ac7-49da-9948-06787072feba/file/2281e35c-98f2-4b48-962a-77cdd2f4e6ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82c987fd-1ac7-49da-9948-06787072feba/file/73ca7981-644b-446a-8d7e-dad78ff19976\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2F9d%2F38%2Fec9d38e1e2e948adb665fe9bced8051b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/213e3cc7-2119-41fb-9ef3-c1cba55ed469/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-82c987fd-1ac7-49da-9948-06787072feba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43p022s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(20.35, 20.583333333333332, 44.86666666666667, 44.71666666666667)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-cv43p022s"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Auburn, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1896 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/08612p99b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Auburn (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Auburn Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867662\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f7a4eb51-8d72-4028-947b-96385b39b734/file/d4c55b2f-fbe5-4087-ba4a-2e79889a4598\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8953efd3-fa32-45c7-b2c9-0d023a97a18e/file/b36c589c-9ab9-4810-8d47-bec2be328c22\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8953efd3-fa32-45c7-b2c9-0d023a97a18e/file/cada3be2-a52d-45ae-a089-028b60435414\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/89%2Fa7%2F03%2F89a703b1a10247a7a099f6ec6fcfa99e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a2ef13c-4c74-4226-8e13-3d99deccd844/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8953efd3-fa32-45c7-b2c9-0d023a97a18e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-08612p99b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 43.0, 42.75)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-08612p99b"
+}

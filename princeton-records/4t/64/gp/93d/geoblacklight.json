@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4380 United States. Army Map Service In upper left margin: Italy 10,000. Compiled and drawn from air photographs, by C.I.U. July 1943. Relief shown by 10 m. contour lintervals and hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4t64gp93d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Italy,Maps"
+  ],
+  "dc_title_s": "Piombino. G.S.G.S. 4380",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449660\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d1b983d7-a81a-4689-95ec-970323cebc72/file/174ccb87-3b4b-4c3f-860f-0ca677bc26ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca5fe536-3172-41b0-b698-717585cf3568/file/0b523622-8daa-46f8-975f-def2e8f03a7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca5fe536-3172-41b0-b698-717585cf3568/file/3b0e26d9-6a39-419e-a696-69b913825f1e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4f%2F78%2F29%2F4f78290fc4ea4ab2a0b832346b9115ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56dcd755-7584-4660-9efa-ca997864fb78/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ca5fe536-3172-41b0-b698-717585cf3568",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4t64gp93d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.516666666666667, 10.55, 42.93333333333333, 42.9)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-4t64gp93d"
+}

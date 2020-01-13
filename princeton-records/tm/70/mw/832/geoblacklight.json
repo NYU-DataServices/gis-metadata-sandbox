@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Hungnam, Korea. In upper left margin: Korea city plans 1:10,000. Polyconic projection. Relief shown by 10 meter contour interval and spot elevation. Depth shown by fathoms. With glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mw832",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "North Korea,Maps"
+  ],
+  "dc_title_s": "Hungnam (Konan), Hamyong namdo (Kankyo nando), Korea. A.M.S. L951",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830471\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/193062fd-5f82-4558-8f60-d559e9993fc3/file/dfd2f1e4-6c1e-4fb1-b708-e4f124427baa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e1c07a9-82c4-4558-8f16-edae0859b15b/file/91c6550a-9b47-428e-a4d7-78311a0babee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e1c07a9-82c4-4558-8f16-edae0859b15b/file/301c6bed-c87c-4ae8-bb26-7f8e237c976b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2Fd9%2F35%2Fe1d935e54c03418098b01a1e3031260d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5fdc28f2-fb32-4ae2-b36e-d174d1df2a07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3e1c07a9-82c4-4558-8f16-edae0859b15b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mw832",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(127.56666666666666, 127.66666666666667, 39.86666666666667, 39.81666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-tm70mw832"
+}

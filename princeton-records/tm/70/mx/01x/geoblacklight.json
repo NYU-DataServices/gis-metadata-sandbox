@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "Map showing east coast and small portion of west coast of North America, and portion of east coast of Russia; relief shown pictorially. In lower margin: Tome XV, no. 4. From: Histoire ge\u0301ne\u0301rale des voyages ... Paris : Didot, 1746-1789.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mx01x",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : Didot, 1758?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Arctic regions,Maps,Early works to 1800",
+    "Northern Hemisphere,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carte re\u0301duite des parties septentrionales du globe, situe\u0301es entre l'Asie et l'Amerique : pour servir a\u0300 l'Histoire generale des voyages",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4174083\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da18ee66-5388-4814-8f68-7505c13d159a/file/18fc0457-5747-4973-91dd-ae61cde55c88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da18ee66-5388-4814-8f68-7505c13d159a/file/03e4e5e2-4875-4913-8233-ff453a8d7fb8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2F2e%2F2a%2F2c2e2a62b2ee4648b59cf1efd0bf8ee3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c70b691d-385b-4b72-abbd-42e64ab4dbdf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Arctic Ocean; Arctic regions",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-da18ee66-5388-4814-8f68-7505c13d159a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mx01x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 40.01)",
+  "solr_year_i": 1758.0,
+  "uuid": "princeton-tm70mx01x"
+}

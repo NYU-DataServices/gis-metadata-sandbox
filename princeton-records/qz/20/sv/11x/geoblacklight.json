@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bridgeport, Conn. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1889. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20sv11x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bridgeport (Conn.),Maps"
+  ],
+  "dc_title_s": "Connecticut: Bridgeport sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836969\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9b239a8-e02e-418d-9cc8-cf42dcbd4402/file/81374561-7fe7-47a3-914e-c0816b83fb2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64706bb6-58e2-46dd-89ae-d64591353a86/file/18007e46-72b3-45c1-a615-a78459a108c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64706bb6-58e2-46dd-89ae-d64591353a86/file/ebb9748f-504e-4395-a651-a488d6bbc149\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F90%2F2b%2Fe1902bc3440243f7a52855b9f99a6a2b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b32959f5-7967-4ccd-9b38-e8b563b66954/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-64706bb6-58e2-46dd-89ae-d64591353a86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20sv11x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.25, -73.0, 41.25, 41.0)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-qz20sv11x"
+}

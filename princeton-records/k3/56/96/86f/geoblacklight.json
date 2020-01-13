@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by contours, spot heights, and landform drawings. Sheets numbered at end of title: 1, 2, etc. Maps 3-11 have title at upper left: Peiraieus, 1:10 000. Coverage complete in 11 sheets?",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k3569686f",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "[Athens? : s.n., between 1950 and 1970?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Athens (Greece),Administrative and political divisions,Maps",
+    "Piraeus (Greece),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Charte\u00afs perioche\u00afs tes dioike\u00afseo\u00afs [sheet 11 of 11]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7697510\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e5f9637-8a98-478b-b5f3-fbc928e2bf4d/file/2683c124-839d-4b74-a3d4-2cee01239df7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e5f9637-8a98-478b-b5f3-fbc928e2bf4d/file/589e8994-d3a0-4c72-9918-fc06de373d91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2F02%2F2b%2F4a022bb8f4bc48a9a517db897b805fee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1bb8e1b0-d3d5-4114-b821-7d5987d3fafb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4e5f9637-8a98-478b-b5f3-fbc928e2bf4d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k3569686f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.5679843, 23.8879843, 38.1441493, 37.8241493)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-k3569686f"
+}

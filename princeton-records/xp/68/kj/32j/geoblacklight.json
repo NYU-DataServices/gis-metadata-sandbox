@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"221.\" \"April 1908.\" The present town of Carteret was created as the borough of Roosevelt in 1906, from portions of Woodbridge Township. The name was changed back to Carteret in 1922.--cf. Wikipedia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xp68kj32j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Co., 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carteret,Maps",
+    "Carteret (N.J.),Maps"
+  ],
+  "dc_title_s": "Roosevelt, Middlesex County, New Jersey : formerly Carteret (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5535330\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61fbd98b-0d71-495e-864b-13109e199624/file/3dd7a56c-ee89-4cd6-b9ad-7056f70ab4ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61fbd98b-0d71-495e-864b-13109e199624/file/387937f0-46e6-406c-958b-ee5b37716ad5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9d%2F4c%2F6a%2F9d4c6aea356640c090fc617e80448782%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e05e469b-04cc-403c-9b39-c6c2b71ba0ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-61fbd98b-0d71-495e-864b-13109e199624",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xp68kj32j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254701, -74.203688, 40.604074, 40.557452)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-xp68kj32j"
+}

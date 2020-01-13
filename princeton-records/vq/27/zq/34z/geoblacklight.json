@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 28, 33-35, and 44-46 of Garfield, N.J. series, showing East Rutherford and Wallington.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq34z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,East Rutherford,Maps",
+    "Real property,New Jersey,Wallington,Maps",
+    "East Rutherford (N.J.),Maps",
+    "Wallington (N.J.),Maps"
+  ],
+  "dc_title_s": "E. Rutherford and Wallington (Sheet 28)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5312385\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9f6958b-5057-4b37-b70a-03b0d1be67ce/file/87afd59e-6e27-45a4-85a2-0113d46b5138\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9f6958b-5057-4b37-b70a-03b0d1be67ce/file/1637fa74-4def-48de-aee5-ae53f8f9f465\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F79%2F19%2F417919effb674855a8559c8c5a00a6f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64471932-bcb4-433b-bd75-b2b6397cb609/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f9f6958b-5057-4b37-b70a-03b0d1be67ce",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq34z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.124176, -74.082403, 40.847184, 40.787197)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-vq27zq34z"
+}

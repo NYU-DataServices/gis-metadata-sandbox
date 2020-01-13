@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1915.\" Includes location map, key, streets and specials index, and text. \"739.\" Historic Maps copy has sheets 1-11; sheet 12, showing Oaklyn, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g732db924",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Audubon,Maps",
+    "Audubon (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Audubon, Camden Co., New Jersey : including Oaklyn (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5351951\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd9e862e-efc4-4a24-ae0f-89f9f0f0f7dd/file/34b44c41-915d-4052-9291-769b5a051870\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd9e862e-efc4-4a24-ae0f-89f9f0f0f7dd/file/fdc39a12-545e-4065-beb0-7f3f483ca0e9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F03%2F80%2Fa70380ee6a304f54ad5d152918316bba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e802a4b3-2bbc-4f73-a411-51d3166076dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bd9e862e-efc4-4a24-ae0f-89f9f0f0f7dd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g732db924",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-g732db924"
+}

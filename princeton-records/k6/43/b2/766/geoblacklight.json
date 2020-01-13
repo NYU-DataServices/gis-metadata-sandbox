@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Mount Holly. On side margins: descriptions of conventional signs. Relief shown by 10 feet contour intervals. Triangulation by the U.S. Coast and Geodetic Survey. Topography by C.C. Vermeule. Surveyed in 1885. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k643b2766",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mount Holly Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Mount Holly sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831180\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/091d235c-a660-42e7-91b6-44dae4c894f5/file/c40f7612-fdc6-4176-8dec-11a87304ec2e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15983a26-ddcf-4c4c-9263-ed7ca0e1c39a/file/4a16ada1-ae69-4d13-9b1f-b5681758dc26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15983a26-ddcf-4c4c-9263-ed7ca0e1c39a/file/d4f26e32-d8eb-4a5b-962b-ef01d95a73d6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F0d%2F69%2Faf0d69c15eee41a0b48abbdefe766cfb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8e8a3e10-8506-4bdd-947e-4b9ae776b945/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-15983a26-ddcf-4c4c-9263-ed7ca0e1c39a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k643b2766",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 40.0, 39.75)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-k643b2766"
+}

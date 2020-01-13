@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hunger, Max"
+  ],
+  "dc_description_s": "Map of Jena in the German state of Thuringia. In lower margin: No. 306. Booklet contains street guide.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92gb003",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Jena : Rassmann's Buchhandlung, 1908 (Jena : Lith. Anst. v. M. Hunger)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Jena (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von Jena u. Wenigenjena",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7587810\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/615c4617-cec5-49b2-8d84-64a9e448b483/file/44bcd586-d100-4aa5-aa61-bb3d628a46e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/615c4617-cec5-49b2-8d84-64a9e448b483/file/88e5572b-275a-4d77-9041-d0d098cfbb22\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F90%2Fd2%2Fa790d2a4d3664529afeb91b05f4c23fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c854469-f861-4ac8-ac02-bac4e1d71995/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-615c4617-cec5-49b2-8d84-64a9e448b483",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92gb003",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.558366, 11.608491, 50.945895, 50.916738)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-1j92gb003"
+}

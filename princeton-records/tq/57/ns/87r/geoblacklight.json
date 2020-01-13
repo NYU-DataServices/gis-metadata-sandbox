@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheet 49; issued in New Jersey coast map series. Includes text. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57ns87r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Navesink,Maps",
+    "Navesink (N.J.),Maps"
+  ],
+  "dc_title_s": "Navesink Beach, N.J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ecb02f2-89ad-47ce-a872-11bab561b740/file/bc5d84f2-872b-4180-801b-f258848f5f90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ecb02f2-89ad-47ce-a872-11bab561b740/file/495df639-e62e-49c0-a64d-850d8216a293\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fbb%2Fd8%2F03bbd88f1ee649c68090f78d6311af87%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fdbddfa7-b10d-48fc-9dfb-504baa6978b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2ecb02f2-89ad-47ce-a872-11bab561b740",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57ns87r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.055417, -74.015417, 40.419553, 40.379553)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-tq57ns87r"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "De\u0301po\u0302t de la guerre (France)"
+  ],
+  "dc_description_s": "Relief shown by hachures and shading.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pz50gz47p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : De\u0301po\u0302t de la guerre], 1839.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Seine (France),Maps",
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Carte du de\u0301partement de la Seine",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6047590\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29a71fba-283e-4bf7-af6a-b3d29b196cf6/file/05ee46c0-62b7-4f2d-8cd7-8b11b4eebd88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29a71fba-283e-4bf7-af6a-b3d29b196cf6/file/9a49e595-fede-40e6-b4c0-d0b198b7a6c3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F61%2F23%2F226123ca3ed34b998bea4e342e36291a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/107d805a-1335-4ee9-8894-c0d8da0cc2da/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-29a71fba-283e-4bf7-af6a-b3d29b196cf6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pz50gz47p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.971003, 2.700134, 49.029357, 48.666747)",
+  "solr_year_i": 1839.0,
+  "uuid": "princeton-pz50gz47p"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Wm. M. Bradley & Bros"
+  ],
+  "dc_description_s": "In margin: 3. World map on Mercator's projection, showing the route of Challenger Expedition in 1873-1874. Probably issued as plate 3 in: Bradley's atlas of the world for commercial and library reference. Philadelphia : Wm. M. Bradley & Bros., 1884.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rv042v837",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia : Wm. M. Bradley & Bros., 1884?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Challenger Expedition,Maps",
+    "Ocean currents,Maps",
+    "Trade routes,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Chart of the world on Mercator's projection showing the direction of the ocean currents, with the routes and distances between the principal ports",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4548260\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0f766a7b-54f9-4b3c-87e7-160d2e90d383/file/a4306181-b60b-458a-a10b-fe8da9f429d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ad1bac0-6561-405f-85be-bfed978c3245/file/2278fba8-46d9-42c2-86d2-12b96b782033\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ad1bac0-6561-405f-85be-bfed978c3245/file/b51599a7-e566-4a80-9a9c-15ee8414ad5e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2Fa1%2Fe6%2F14a1e607de83466e83447ecfa41542c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d49cc9f4-0e46-4176-9ca5-263262e83c62/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2ad1bac0-6561-405f-85be-bfed978c3245",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rv042v837",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.14, -78.0)",
+  "solr_year_i": 1884.0,
+  "uuid": "princeton-rv042v837"
+}

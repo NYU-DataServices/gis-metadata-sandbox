@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Balkan Region shown at a scale of  1:2,500,000. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cr56n271h",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads",
+    "Transportation",
+    "Cities",
+    "Roads"
+  ],
+  "dc_title_s": "The Balkans, 1993",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a44193c-d8b8-45a6-bdb0-f8a558cb22a4/file/0b097e1a-07bd-4e33-a5a1-af9d98bf0461\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/744d602d-4214-43fe-b11b-d2f139713fc6/file/1d5f1ddd-02d9-452d-8b42-e34c3bcceefa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/744d602d-4214-43fe-b11b-d2f139713fc6/file/17b51886-4d0e-4210-9296-05800b089c5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2Fb8%2Fcc%2F80b8ccfe8fd34947a60e9a1d67c0f11f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/129a4724-6363-4562-98d0-b1b12c5212ed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Eastern Europe",
+    "Romania",
+    "Greece",
+    "Albania",
+    "Macedonia",
+    "Boznia and Herzegovnia",
+    "Central Balkan Region",
+    "Croatia",
+    "Serbia and Montenegro",
+    "Hungary",
+    "Bulgaria"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-744d602d-4214-43fe-b11b-d2f139713fc6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cr56n271h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.0, 28.0, 48.0, 40.0)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-cr56n271h"
+}

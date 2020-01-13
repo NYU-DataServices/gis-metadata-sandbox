@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1920.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3216.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3n204104z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Port Norris,Maps",
+    "Port Norris (N.J.),Maps"
+  ],
+  "dc_title_s": "Port Norris, Cumberland County, New Jersey : including Bivalve and Maurice River (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5417319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41c7b89e-ca45-402b-911d-e1e825aeae7e/file/d00e697a-5e3c-44ba-8bb3-a39b2121f164\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41c7b89e-ca45-402b-911d-e1e825aeae7e/file/3e21c2ba-cf47-48a0-885a-875b68d6e9da\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Ff9%2Fc8%2F5df9c813db4a401ea0b1a582c44ae6e9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/de394abf-a69e-49fe-9570-3c32a02e5ed0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41c7b89e-ca45-402b-911d-e1e825aeae7e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3n204104z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.065725, -75.010814, 39.252755, 39.22453)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-3n204104z"
+}

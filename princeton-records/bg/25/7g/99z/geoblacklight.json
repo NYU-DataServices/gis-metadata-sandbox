@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Mt. Vernon is a section of Cape May, N.J. Historic Maps copy has sheet 18 of Cape May, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257g99z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co., Limited, 1890]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Mt. Vernon,Maps",
+    "Real property,New Jersey,Cape May,Maps",
+    "Mt. Vernon (N.J.),Maps",
+    "Cape May (N.J.),Maps"
+  ],
+  "dc_title_s": "Mt. Vernon, N.J. (Cape May) (Sheet 18)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5323250\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55659d83-2547-4a73-a423-40bbbf3d7ddd/file/da846c67-65d9-4775-9a21-3a8d32a81c90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55659d83-2547-4a73-a423-40bbbf3d7ddd/file/57c329f6-716e-4aca-9ce3-77a01d526f03\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b3%2F0e%2F88%2Fb30e883934cd487191d6cd7745424882%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8cc3c3ee-23cc-4bab-a7d6-3dc77fa25226/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-55659d83-2547-4a73-a423-40bbbf3d7ddd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257g99z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.938801, -74.871605, 38.950125, 38.928588)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-bg257g99z"
+}

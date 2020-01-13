@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Annual Report 1881. New Jersey Geological Survey. Companion text: Annual report of the State Geologist, for the year 1881 / George H. Cook. Trenton : New Jersey Geological Survey, 1881. 121p.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8910jw299",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1881.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Cross section",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Geological map of New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514852\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88c1848b-e2d2-4b01-b532-6e1bc8b9d6f2/file/7c509e2f-6b74-41f3-9a84-7beb99bea5d6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/873a7f3c-0c5f-4664-83af-bbd09444226e/file/d12cd54a-15cc-491f-82dc-c6e396c0ef0c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/873a7f3c-0c5f-4664-83af-bbd09444226e/file/78a77fb9-8536-4c0e-89b7-b0be620eac2d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2Fdb%2F53%2Fbcdb5311a89748428011960c9f47d9bb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2dd94ac9-0331-456e-97eb-34056e0ab22f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1881"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-873a7f3c-0c5f-4664-83af-bbd09444226e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8910jw299",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1881.0,
+  "uuid": "princeton-8910jw299"
+}

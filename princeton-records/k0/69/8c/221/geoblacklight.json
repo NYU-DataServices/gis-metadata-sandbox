@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Meiningen in the German state of Thuringia. Relief shown by spot heights. Indexed for points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698c221",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Meiningen : Junghanss & Koritzer, [ca. 1925]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Meiningen (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Stadtplan von Meiningen ; Umgebung von Meiningen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7611715\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/702d8002-d62b-429e-a7cd-f9245dec631e/file/1499ca29-2f10-47c1-bcc8-a62a9c442fbe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/702d8002-d62b-429e-a7cd-f9245dec631e/file/62a33741-95b9-4c70-a464-64779ee946bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fb8%2F51%2Fdcb85186e3544c7a9418d67f1108bb22%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6fa14d14-25b7-464f-8eaa-c42b1e37ad12/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-702d8002-d62b-429e-a7cd-f9245dec631e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698c221",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.3031546, 10.4685784, 50.617661, 50.5348359)",
+  "solr_year_i": 1925.0,
+  "uuid": "princeton-k0698c221"
+}

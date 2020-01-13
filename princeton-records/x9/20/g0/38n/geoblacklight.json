@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Cloue\u0301, G."
+  ],
+  "dc_description_s": "Relief shown by shading and hachures. Depths shown by soundings and isolines. In upper margin: No. 1228.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x920g038n",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : De\u0301po\u0302t ge\u0301ne\u0301ral de la marine, 1849.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Saint-Benoi\u0302t (Re\u0301union),Maps"
+  ],
+  "dc_title_s": "Plan du mouillage de St. Benoit (I\u0302le de la Re\u0301union)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7685112\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce4c30d8-b1b9-423f-aeec-7e3e6a58df8b/file/211e1130-aa99-44ed-a729-869162e75c45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce4c30d8-b1b9-423f-aeec-7e3e6a58df8b/file/483157a6-2ca9-4970-b7a5-14dea1f3a870\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2Ff4%2Ff9%2F6cf4f9dbe2ae4bf7a2e8eb29be6a4553%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/804b035b-1c30-48a4-8ce6-f77a342d5fb3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "R\u00e9union"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ce4c30d8-b1b9-423f-aeec-7e3e6a58df8b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x920g038n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(55.702367, 55.737643, -21.012769, -21.052865)",
+  "solr_year_i": 1849.0,
+  "uuid": "princeton-x920g038n"
+}

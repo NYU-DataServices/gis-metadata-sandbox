@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1911.\" Includes key, streets and specials index, and text. \"3692.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/td96k407z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, Limited, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Palmyra,Maps",
+    "Palmyra (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Palmyra, Burlington Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5146827\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e3d0332-ca04-4de7-9a35-109c7d83bbad/file/4b5a140f-08f0-47c5-880b-63e5522d06b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e3d0332-ca04-4de7-9a35-109c7d83bbad/file/c98312c8-1d28-459f-8fde-b9d0b6d53055\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2F38%2F2a%2F57382a4f603841d18d299d9b2c744d46%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1fd37a8d-3a64-42aa-9788-2418db3119c0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0e3d0332-ca04-4de7-9a35-109c7d83bbad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-td96k407z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.055, -75.01, 40.012, 39.992)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-td96k407z"
+}

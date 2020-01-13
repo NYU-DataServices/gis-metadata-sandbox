@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Berne, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1899-1900 in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10wr77h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Berne (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Berne Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866989\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a399eb8-a7d7-4f4e-b096-2b849f64fbb6/file/1a5ecb79-25e4-4470-8b24-02dcd1e48137\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4804f375-6c5d-474b-9a6f-633718c62afa/file/f29e699d-3260-4069-b165-7931c058bf2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4804f375-6c5d-474b-9a6f-633718c62afa/file/8708fe1f-5038-4856-a7ed-50ef6734ba66\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3c%2Fd3%2F82%2F3cd382a1056a4c0b83d6c8707aece80f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ba0624b-b592-485e-a33a-8dfc222df68d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4804f375-6c5d-474b-9a6f-633718c62afa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10wr77h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 42.75, 42.5)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-2z10wr77h"
+}

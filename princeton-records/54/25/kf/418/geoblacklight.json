@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Socie\u0301te\u0301 belge de librairie, imprimerie, et papeterie"
+  ],
+  "dc_description_s": "Map of Turkey and the Balkan Peninsula; relief shown by hachures. Inset: Moutessarifat du Liban. The political boundaries show the Ottoman Empire after Bulgarian independence in 1908, but before the outbreak of the Balkan Wars of 1912-1913.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kf418",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Bruxelles : Oscar Schepens & Cie., e\u0301diteurs ... , [ca. 1910]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Balkan Peninsula,Maps",
+    "Middle East,Maps",
+    "Turkey,Maps"
+  ],
+  "dc_title_s": "Carte administrative de la Turquie d\u2019Europe et de la Turquie d\u2019Asie",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4993673\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e82fecfd-0450-4d97-b6d3-9f774f11dc90/file/4d964615-31a6-4449-8e78-3be9faf80dcc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e82fecfd-0450-4d97-b6d3-9f774f11dc90/file/be25941a-23ce-44ce-8248-5ed84c88b2ae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2Feb%2F1e%2Fdaeb1e601de043ebb56eab376d319082%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c9f3a8fd-b2b0-4e14-9b78-fbcaa7aa11ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Turkey",
+    "Balkan Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e82fecfd-0450-4d97-b6d3-9f774f11dc90",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kf418",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.5, 50.53, 42.51, 29.51)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-5425kf418"
+}

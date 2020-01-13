@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Cattaraugus, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1921. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d791sh84x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cattaraugus (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Cattaraugus Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867344\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42d0dec5-f610-491a-97af-0676353b65b7/file/78356309-7118-4837-a916-743f07d31a57\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/311dd38e-2b1c-4cd1-bc93-0a889f4d30a0/file/738175bd-93bf-415e-8c44-61ccd52f557c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/311dd38e-2b1c-4cd1-bc93-0a889f4d30a0/file/af0a4d34-5a0d-4f3b-b09c-7c53c89bc1b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2Fca%2F29%2F1fca29d4226b4144ab504f340bbb6ba5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/49472971-55a2-4d1e-bf48-182957c70906/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-311dd38e-2b1c-4cd1-bc93-0a889f4d30a0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d791sh84x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.0, -78.75, 42.5, 42.25)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-d791sh84x"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Amboy (1922) Alternate title: Amboy sheet. \"Surveyed in 1887. Resurveyed in 1920\". Relief shown by contours. Depth shown by soundings in feet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p857c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Amboy (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Amboy",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449722\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7222f579-83cc-4b98-a6e9-55c98104a238/file/eb66f87f-f272-4244-927e-05d4fb94e7d2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fec5a5c3-2a15-4082-b0b9-f78f78c664b9/file/d4b4aa28-1044-4c3d-80d6-00fb8672d254\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fec5a5c3-2a15-4082-b0b9-f78f78c664b9/file/7e376ebd-504b-42f6-bdcc-44c659f4b00b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2F0b%2Fb8%2F580bb843b3d04ca6a1d404753b68ae79%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f9651d00-8d9a-4823-b644-23cd6d5fb60b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fec5a5c3-2a15-4082-b0b9-f78f78c664b9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p857c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.33333333333333, -74.11666666666666, 40.583333333333336, 40.46666666666667)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-qj72p857c"
+}

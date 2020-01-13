@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "In upper margin: N.J. coast vol. 1. \"4634.\" \"Oceanic P.O.\" North oriented towards upper right. Sheets 80 and 97-100 of N.J. coast map, vol. 1, series; sheet 80: New sheet, Jan. 1922; sheets 97-100: add'l. sheets, Jan. 1922.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m326m408q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rumson,Maps",
+    "Rumson (N.J.),Maps"
+  ],
+  "dc_title_s": "Rumson (Sheet 98)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5706486\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc5a9022-07f9-412e-8e80-7b910b31f953/file/bfc0fad3-cdc5-4955-b9a1-d7ae3425d838\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc5a9022-07f9-412e-8e80-7b910b31f953/file/f6533434-c7a9-43f8-bef8-8dfb1218a066\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c7%2F17%2F19%2Fc717199db9914305933e7c2d42b4f885%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ef00778-b107-4cee-9dbc-094b8d61fa9e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bc5a9022-07f9-412e-8e80-7b910b31f953",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m326m408q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.037668, -73.976402, 40.383709, 40.338497)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-m326m408q"
+}

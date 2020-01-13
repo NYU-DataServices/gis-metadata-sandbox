@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Stratigraphic and paleontologic map of the Canandaigua and Naples quadrangles / Albany : New York State Museum. Bulletin 63, 1904. 76p. Another copy of map with source publication. Relief shown by contour lines in 20 ft intervals.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x346d5849",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paleontology",
+    "Canandaigua (N.Y.),Maps"
+  ],
+  "dc_title_s": "Stratigraphic and paleontologic map of Canandaigua and Naples quadrangles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515155\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a0847861-5dba-4e40-9712-3a6195bd4797/file/a688e04c-0705-44a4-b19d-44e28f4d94b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eec58833-bd82-4ab4-883d-4a50568e5128/file/ef54075b-db11-4cfa-8000-991fb0e78776\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eec58833-bd82-4ab4-883d-4a50568e5128/file/e135a284-747e-446b-b2bd-e0aecb665594\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/31%2F3b%2F5d%2F313b5d459a78448e90034cc6beb0ee34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3fcdab0-a984-4b03-ab0b-3e0223a0124b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eec58833-bd82-4ab4-883d-4a50568e5128",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x346d5849",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 43.0, 42.5)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-x346d5849"
+}

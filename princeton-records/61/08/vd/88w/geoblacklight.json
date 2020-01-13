@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Nigeria. Survey Department"
+  ],
+  "dc_description_s": "Original map is filed in the Map/Geospatial Center, a map reproduction is included in companion volume. \"1700/65/2-55\". \"Crown copyright reserved\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6108vd88w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Lagos] : Survey Department, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Cameroon,Maps",
+    "Administrative and political divisions,Nigeria,Maps",
+    "Great Britain,Colonies",
+    "Cameroon,Maps",
+    "Nigeria,Maps",
+    "Africa, West,Maps"
+  ],
+  "dc_title_s": "Cameroons under United Kingdom Trusteeship",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9187716\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a1623e8-a34e-4c13-a488-3f10a2cf6e9d/file/39a02f1c-a1e5-4603-9771-4087edbfe698\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a1623e8-a34e-4c13-a488-3f10a2cf6e9d/file/a67c4a02-391e-4abb-8799-cbd57787eb2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2Fd8%2F2d%2Fb1d82dc24b1e459f8fdcf21d5f18fc60%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/404d21bf-cb53-4639-9afa-9aefadab9ded/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cameroon",
+    "Nigeria",
+    "Africa, West"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6a1623e8-a34e-4c13-a488-3f10a2cf6e9d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6108vd88w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.526667, 14.511944, 12.583333, 3.75)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-6108vd88w"
+}

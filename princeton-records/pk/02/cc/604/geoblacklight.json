@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Servicio Geodesico Interamericano. North Decimal Degree -16.333300. South Decimal Degree -16.5000. East Decimal Degree -68.0000. West Decimal Degree -68.2500. Alternate title: La Paz (norte) Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary. Prepared by the Intstituo Geogramico Militar (I>G>M>) in collaboration with Servicio Geodesico Intermamericano (I.A.G.S.)",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc604",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1981.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50,000: La Paz (norte), hoja 5944 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839575\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be4052fe-0968-46ce-aaed-3aa2cd68d1e9/file/8720f19e-bf33-47b1-b298-53d3532e1332\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be4052fe-0968-46ce-aaed-3aa2cd68d1e9/file/8aaee0b5-2760-400b-92b5-2aa34c0e8fdc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2Ff6%2Ff5%2F95f6f5bae20444ca81ba35883373eb16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ee4e1649-e61f-4b48-a166-4b74678001b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-be4052fe-0968-46ce-aaed-3aa2cd68d1e9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc604",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -16.3333, -16.5)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-pk02cc604"
+}

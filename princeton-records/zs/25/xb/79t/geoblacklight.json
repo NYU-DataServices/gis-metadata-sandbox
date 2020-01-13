@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April, 1916.\" Includes location map, key, key map, streets and specials index, and text. \"1229.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25xb79t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westfield,Maps",
+    "Real property,New Jersey,Garwood,Maps",
+    "Westfield (N.J.),Maps",
+    "Garwood (N.J. : Borough),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Westfield, Union County, New Jersey : including the Borough of Garwood (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5631467\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e0b8720-a8aa-489b-abf2-7c0cf844c7d4/file/bcde6239-8699-4bfa-b6d7-42b5b257c66d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e0b8720-a8aa-489b-abf2-7c0cf844c7d4/file/56b59cd2-c14e-4df1-9e6b-c8714339fc72\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2F34%2F5e%2F1e345e95addc43cf9c6452cfb84f8a6b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09ad385f-1844-4d0e-8d88-379e53775b9f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4e0b8720-a8aa-489b-abf2-7c0cf844c7d4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25xb79t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-zs25xb79t"
+}

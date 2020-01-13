@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Guatemala. Instituto Geografico Nacional. North Decimal Degree 14.500000. South Decimal Degree 14.6667. East Decimal Degree -89.5000. West Decimal Degree -89.7500. Alternate title:Mapa geologico = Geologic map: Chiquimula, Guatemala. Universal transverse Mercator projection. Relief shown by 20 m. with supplementary 10 m. contour interval and spot heights. \"El levantamiento geologico se efectuo durante los anos 1963-64, dentro de un programa de cooperacion entre la Universidad de Texas, U.S.A., la mision U.S. AID en Guatemala, el Instituto Geografico Nacional, como tema para una tesis doctoral.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s6709",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Guatemala : Instituto Geogra\u0301fico Nacional, 1966.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Guatemala,Maps"
+  ],
+  "dc_title_s": "Mapa geologico de Guatemala = Geological map of Guatemala. Chiquimula, hoja 2260 II G",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839182\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cfff3b7-bcf3-4c0a-a905-15d662d15efa/file/9be6a6ac-3123-4daf-a6a0-ee099127148c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cfff3b7-bcf3-4c0a-a905-15d662d15efa/file/124c40d2-c45d-421c-9af2-7be1c05e6dea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2F66%2F10%2Fdb6610ba50bc4e04aa30f0f65b7a2ce2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6561942a-b70b-402d-a0c2-76123bf41f6f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5cfff3b7-bcf3-4c0a-a905-15d662d15efa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s6709",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.75, -89.5, 14.6667, 14.5)",
+  "solr_year_i": 1966.0,
+  "uuid": "princeton-2j62s6709"
+}

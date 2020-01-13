@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 41.000000. South Decimal Degree 40.875000. East Decimal Degree -74.875000. West Decimal Degree -75.000000. Alternate title: Blairstown, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Topography from aerial photographs by stereophotogrammetric methods. Aerial photographs taken 1942. Culture revised by the Geological Survey 1954\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx05m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Blairstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Blairstown Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844266\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88defce4-b7c9-44a3-aa46-083ab4457225/file/6f59818e-f92f-46ab-a7cc-518adf8ab7b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/201da4f7-6efe-4767-bbcd-20a7d58a07af/file/7d15c68e-2f88-4089-9b8b-0f8bed392100\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/201da4f7-6efe-4767-bbcd-20a7d58a07af/file/15b0bdbd-77d7-47f2-a745-696b0aacc896\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F95%2Ff9%2Fe495f9b619f14a59b0548bec2057f9b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d5a1fc7c-2d9d-4d96-88d6-a1b3d6e556df/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-201da4f7-6efe-4767-bbcd-20a7d58a07af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx05m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.875, 41.0, 40.875)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-gm80hx05m"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the South China Sea Islands, shown at a 1:2,800,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/02870x498",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "South China Seas Islands. (1988).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/009f2d79-378f-4039-97e0-7c89c28e6cdf/file/6437aa5f-4099-49b4-a3f7-42c052a256ce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f438f4f-cac3-4885-ba8d-5e1c43ef1501/file/8804bc8a-5e90-4d35-824d-38a54c27cef1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f438f4f-cac3-4885-ba8d-5e1c43ef1501/file/c349c74d-14b1-4efb-8f41-3ae72996f070\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F91%2Fb0%2F7391b0a370534851b32fd8a562b86f5e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d5a4bd00-145b-4e1f-8338-082271faa171/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "East Asia",
+    "Paracel Islands",
+    "Spratly Islands",
+    "Phillipines",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1988"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f438f4f-cac3-4885-ba8d-5e1c43ef1501",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-02870x498",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(103.0, 123.0, 25.0, 0.0)",
+  "solr_year_i": 1988.0,
+  "uuid": "princeton-02870x498"
+}

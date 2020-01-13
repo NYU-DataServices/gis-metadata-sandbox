@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -11.833333. South Decimal Degree -12.000000. East Decimal Degree -68.5000000. West Decimal Degree -68.750000. Alternate title: Barraca Bay, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f4752j616",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1986.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Barraca Bay, hoja 5858 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840976\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae70a18e-c06b-42c7-a8ec-f9d587a51967/file/f0133c64-368a-4167-9e98-f3e830feb537\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae70a18e-c06b-42c7-a8ec-f9d587a51967/file/0433fe6a-13a1-47a9-a995-f675af04f1bf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2Ff9%2F8c%2Fc1f98cab4505403e82fde3f438beec63%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/383f2447-99f4-48ac-9aa2-ed3e42cb00a1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ae70a18e-c06b-42c7-a8ec-f9d587a51967",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f4752j616",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -11.833333, -12.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-f4752j616"
+}

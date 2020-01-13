@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1901.\" Includes key and text. \"4902\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wx244",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Glen Gardner,Maps",
+    "Glen Gardner (N.J.),Maps"
+  ],
+  "dc_title_s": "Glen Gardner, Hunterdon Co., N. J. (Index Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4779679\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4cb902d9-b12b-4a4c-b9f4-2bad89bc6f9a/file/11baf912-ddad-4fbc-aaa3-bf18de365482\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cb902d9-b12b-4a4c-b9f4-2bad89bc6f9a/file/19f3a2ef-8673-4baa-9f7f-efa088a98f15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2F63%2F97%2F64639728e7784e8aa1b6941cb067b1c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c4452af-8eff-45d3-b600-caf189a19061/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4cb902d9-b12b-4a4c-b9f4-2bad89bc6f9a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wx244",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.953, -74.926, 40.712, 40.686)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-vh53wx244"
+}

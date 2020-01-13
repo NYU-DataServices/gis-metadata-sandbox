@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Buchanan, J. Y. (John Young), 1844-1925"
+  ],
+  "dc_description_s": "Meridional section of Pacific Ocean at ca. 150\u00b0-160\u00b0 W longitude. Specific gravity of ocean waters shown by isolines. Depth shown in fathoms [vertical scale ca. 1:40,200]. Dates of voyage along meridian are shown. From: The Journal of the Royal Geographical Society of London. Vol. 47, (1877), pp. 72-86; held in Firestone Library. Call number: G7 .J687 v.47 1877",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fj2364578",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London: published for the Journal of the Royal Geographical Society, by J. Murray, Albemarle Street, 1877.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Oceanography,Maps",
+    "Salinity,Pacific Ocean,Maps",
+    "Specific gravity",
+    "Challenger Expedition, 1872-1876",
+    "Pacific Ocean,Maps"
+  ],
+  "dc_title_s": "Central Pacific [ocean saltness]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7153685\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b7ed240-d82d-4ef9-8f85-b5bcdc650910/file/86257b7e-5612-4b0e-886a-266dfc90152d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b7ed240-d82d-4ef9-8f85-b5bcdc650910/file/bb07cdbd-0177-4a18-8359-f305a0933817\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2F36%2F15%2F433615ed18dc4ba69338450fcbc79074%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4fa3843-cacf-4a5f-bf5b-1236718c1189/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b7ed240-d82d-4ef9-8f85-b5bcdc650910",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fj2364578",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-160.0, -150.0, 38.0, -40.0)",
+  "solr_year_i": 1877.0,
+  "uuid": "princeton-fj2364578"
+}

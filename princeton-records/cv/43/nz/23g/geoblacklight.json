@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Burundi. The map was created by the Central Intelligence Agency. It is in the Mercator Projection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43nz23g",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrational and Political Boundaries"
+  ],
+  "dc_title_s": "Burundi, 1999",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eededd88-9059-4c87-9832-16480e54a357/file/bff4fff6-5194-4c49-b3eb-0e0b4c66b0dd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6bb4d6e-5b4c-4799-824a-cc01225690ef/file/c5eb71e3-982b-404a-acfa-eff27e89a72a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6bb4d6e-5b4c-4799-824a-cc01225690ef/file/ed51e9f2-8863-437f-8475-188a4ff9c761\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F2b%2F80%2Fc92b80a3976b40a5ba57529488fca1b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d906d90f-768d-49f5-9f3a-707c634f5248/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Burundi",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d6bb4d6e-5b4c-4799-824a-cc01225690ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43nz23g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.0, 31.0, -2.0, -4.0)",
+  "solr_year_i": 1999.0,
+  "uuid": "princeton-cv43nz23g"
+}

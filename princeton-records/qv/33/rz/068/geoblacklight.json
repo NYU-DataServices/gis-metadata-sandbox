@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dc_description_s": "Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. Shows outlines of buildings (some with names), roads, railways classifeid, boundaries classified, built-up areas, cemetaries, temples, lighthouses, and vegetation by symbols. \"For use by War and Navy Department agencies only.\" Includes glossary, index to boundaries, and coverage diagram. Place names transcribed according to modified Hepburn (Romaji) system.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz068",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "Cities and towns,Japan,Maps",
+    "Kumamoto-shi (Japan),Maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Kumamoto, Japan, Kumamoto-ken, Kyu\u0304shu\u0304",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830424\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/57022516-6cea-4c3c-925d-dd37e6b625ef/file/b52f563b-a8e5-4395-981a-0815fecac46e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4054ab98-ed4f-4583-aae7-2d8265a8a233/file/1508a5a4-66fd-44c0-9d5a-24217b02c1be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4054ab98-ed4f-4583-aae7-2d8265a8a233/file/bdbe5d7b-3fa7-411a-ae29-3d297653e504\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2Ff0%2F73%2F24f0733ae3a1429cba3ad3fca33786bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/efe4d4ea-e84b-48c0-ad13-57a45e5d6cac/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4054ab98-ed4f-4583-aae7-2d8265a8a233",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz068",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(130.6833, 130.7667, 32.8333, 32.7667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-qv33rz068"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geologic map of the Rochester and Ontario Beach quadrangles / C. A. Hartnagel. Albany : New York State Museum. Bulletin 114, 1907. 35p. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2n49t310c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Rochester (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Rochester and Ontario Beach quadrangles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515145\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/68429eb7-5a8b-4899-8d91-1a748fd2192a/file/02e72245-1d18-4942-af9d-2d6530b1c6ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cf8e19a-2ee2-4f15-8611-5c2bf2f2ae56/file/244b8d6d-8455-4915-9e51-fda5e57b088a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cf8e19a-2ee2-4f15-8611-5c2bf2f2ae56/file/c783370e-c7dc-4654-b748-ab39d1ed8861\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0e%2Ffc%2Fff%2F0efcff86ac294c1db88a196d0edaf83b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74b4d3fb-830b-43eb-ba6e-d2d8f7856f0e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6cf8e19a-2ee2-4f15-8611-5c2bf2f2ae56",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2n49t310c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.75, -77.5, 43.333333333333336, 43.0)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-2n49t310c"
+}

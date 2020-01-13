@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 1 Mogador. Polyconic projection. Northwest Africa zone grid. Relief shown by 100 foot contour intervals. Compiled from Service Geographique du Maroc 1:100,000, 1927 to 1938. Road classifications corrected from Army Map Service road map Northwest Africa, 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1z40kv52q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Mogador, sheet 1. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830762\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75a76289-8859-4b9b-bb99-db1dcf21eaba/file/a07e8f8b-c09f-4554-99cc-f63beb3f603c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1300781c-9193-4b3f-b1b9-75b703eb929d/file/5ee49ce2-2864-422b-bdb3-f3f4562b7791\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1300781c-9193-4b3f-b1b9-75b703eb929d/file/36fb0517-7c5c-4c47-8885-aed43678a8d5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2F9c%2F02%2F4e9c028320c548c2b9ba7b0012f228a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/97cf4648-107c-4ea3-aa76-50e994531263/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1300781c-9193-4b3f-b1b9-75b703eb929d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1z40kv52q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.0, -9.5, 32.0, 31.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-1z40kv52q"
+}

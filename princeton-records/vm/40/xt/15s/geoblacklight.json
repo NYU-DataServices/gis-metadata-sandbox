@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.750000. South Decimal Degree 40.625000. East Decimal Degree -74.000000. West Decimal Degree -74.125000. Alternate title: Jersey City, N. J.--N. Y. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curves and surroundings in feet- datum is mean low water. Shoreline shown represents the approximate line of mean high water. The mean range of tide is approximately 4.4 feet in New York and 5.1 feet in Newark Bay. \"Mapped, edited and published by the United States Geological Survey. Control by USC&GS, USCE, Board of Estimate and Approportinment of New York City, and New Jersey Geodetic Survey. Topography in Richmond County by Kelsh plotter from aerial photographs taken 1954. Field check 1955. Topography in New Jersey and in Kings and New York Counties, New Yrok, by planetable surveys 1955. Hydrography compiled from USC&GS chart 258 (1955), 287 (1954), 541 (1955), and 745 (1956).\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt15s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "Jersey City,Maps"
+  ],
+  "dc_title_s": "Jersey City Quadrangle, New Jersey--New York. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844288\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/15c43987-be6a-49d9-b8dd-eafc844931c5/file/548dd4a4-3e36-46dc-a75d-2173e7f1d465\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c6d30a2-7497-4b61-ad87-8d6d604a092f/file/c8155f3d-02ef-469f-9133-6608b34d8250\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c6d30a2-7497-4b61-ad87-8d6d604a092f/file/32e96dc5-5297-47ca-8451-5298a5fd84d7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2F45%2F8f%2F40458f6c1a1b4b4493b2c6a827d3d7ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3406195b-25ee-41d4-a9bc-bda5016e69c0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9c6d30a2-7497-4b61-ad87-8d6d604a092f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt15s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.125, -74.0, 40.75, 40.625)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-vm40xt15s"
+}

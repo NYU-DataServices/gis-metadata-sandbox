@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1919.\" Includes location map, key, streets and specials index, and text. \"2927.\" Sheet 14 shows East Riverton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cc08hh02t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Riverton,Maps",
+    "Riverton (N.J.),Maps"
+  ],
+  "dc_title_s": "Riverton, Burlington County, New Jersey (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5156690\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9efca0af-419c-442c-b783-51bac7553908/file/15cc256e-a1da-46ee-9b90-3e6f36fd4cde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9efca0af-419c-442c-b783-51bac7553908/file/d22fa4d4-132f-4687-98b9-bc243d3622bf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2F4a%2F78%2F244a785a12a74d8792b45ff85f81e272%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d521442c-00a3-4b10-8dc3-42dc6a52134f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9efca0af-419c-442c-b783-51bac7553908",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cc08hh02t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.026, -74.997, 40.016, 40.003)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-cc08hh02t"
+}

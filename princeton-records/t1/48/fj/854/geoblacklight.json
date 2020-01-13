@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Eastern sector of the China-India border, shown at a scale of 1:4,000,000. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fj854",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "China - India border: Eastern sector. (1980/relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d4afac5-6ad9-4df0-8887-e58d9b6641b8/file/f7d0e5b5-6faf-40bc-9fc2-530ef0ae0332\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b368fbd-92d5-4a36-a185-0deb6058ee1a/file/b4ecf5c4-be88-4732-b0e6-41a6a40325db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b368fbd-92d5-4a36-a185-0deb6058ee1a/file/9f5625fe-e09a-494a-92cb-942af168b9e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/06%2F64%2F15%2F066415d7ba8f4d138c6e51b13a6c7350%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7a73b4a6-7741-4d7b-b7a2-ba591fefc0f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "India",
+    "East Asia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b368fbd-92d5-4a36-a185-0deb6058ee1a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fj854",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(91.0, 98.0, 31.0, 24.0)",
+  "solr_year_i": 1980.0,
+  "uuid": "princeton-t148fj854"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "National Geographic Society, Cartographic Division North Decimal Degree 12.466700 South Decimal Degree -56.0167 East Decimal Degree -34.8167 West Decimal Degree -81.3333 Chamberlin trimetric projection. Relief shown by shading and spot heights. Depths shown by contours, gradient tints, and soundings. Includes listings of geographical equivalents and abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gm60s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : National Geographic Society, 1994.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean currents",
+    "Physical maps",
+    "South America,Maps"
+  ],
+  "dc_title_s": "South America.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6457173\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d3649ea-ed92-48bd-93c4-b290b68c2ca7/file/f8d3f66a-8c5b-4d23-ba24-8cc026db60ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d3649ea-ed92-48bd-93c4-b290b68c2ca7/file/82874fcd-2b3f-4330-84bb-94ce65fb9355\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2F39%2F9f%2F52399f0d00434dd8b004cdf2642364c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/11b6ed95-862a-4760-b922-eaf291284378/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0d3649ea-ed92-48bd-93c4-b290b68c2ca7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gm60s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-81.3333, -34.8167, 12.4667, -56.0167)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-c821gm60s"
+}

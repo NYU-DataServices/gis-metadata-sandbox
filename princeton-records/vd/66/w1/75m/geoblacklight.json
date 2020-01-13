@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 43.0000. South Decimal Degree 42.0000. East Decimal Degree -8.0000. West Decimal Degree -9.0000. Alternate title: Pontevedra, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Services Geodesicos, 1935; Spain, 1:100,000, Estade Mayor del Ejercite, sheets 22, 42, 1915, 1919; Iberian Peninsula, 1:250,000, Geographical Section, General Staff, 1941, sheets S. 1272, 1280, 2472, 2480; Road Map of Spain and Portugal, 1:1,500,000, G.S.G.S., 1941, corrected from intelligence Reports, 1942-44. Partially revised from aerial photography 1942-43.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w175m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Pontevedra, sheet 10. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839235\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2861ade-c011-4bce-811b-e29ebe05e66c/file/ba6fe9bc-ca69-4825-8caa-c2b0b853c779\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2861ade-c011-4bce-811b-e29ebe05e66c/file/56a8ce2e-10b3-4997-8b72-dff7e0a195ca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2Fa2%2Ff3%2F17a2f3d4964748399af5de27323b3645%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31572875-80cb-4446-8f19-bee0aee3dd71/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c2861ade-c011-4bce-811b-e29ebe05e66c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w175m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.0, -8.0, 43.0, 42.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-vd66w175m"
+}

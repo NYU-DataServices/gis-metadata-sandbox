@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Wilmington, Del. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1904. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2r36v021x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Wilmington (Del.),Maps"
+  ],
+  "dc_title_s": "Delaware - New Jersey: Wilmington Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836973\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3cb5de1d-23d1-47ce-b227-37db27a7dca8/file/d45931a7-cd1d-4a0c-8039-7d6e5357bfea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c909235-f3f3-4170-ba68-296371020d96/file/f5567e55-70d8-4374-a0b8-60091979cf4d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c909235-f3f3-4170-ba68-296371020d96/file/37709650-dade-4596-a6d9-4236edbbae92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F00%2Fff%2Fd900ff7337654de1a53818da49c8c5c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/27673314-d749-4fcc-b516-841cd86654ec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2c909235-f3f3-4170-ba68-296371020d96",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2r36v021x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 39.75, 39.5)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-2r36v021x"
+}

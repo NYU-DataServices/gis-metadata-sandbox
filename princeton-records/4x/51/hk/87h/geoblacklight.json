@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Greater Princeton Area Chamber of Commerce"
+  ],
+  "dc_description_s": "Verso: street index, tourist sites listed and located, facts about Princeton. \"921-7676\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hk87h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Princeton, N.J. : Greater Princeton Chamber of Commerce, 1964.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps",
+    "Princeton (N.J. : Borough),Maps",
+    "Princeton (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Composite map of the greater Princeton, New Jersey area",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514367\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5368fbf-73f2-400a-a4d6-427d591e3ea6/file/fc2d86d4-fa9f-4a0d-a30d-a430122e7016\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5368fbf-73f2-400a-a4d6-427d591e3ea6/file/843b3b2a-fdae-4717-91f1-72d78c4ab456\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F09%2F14%2Fe509140fdfb84829bb22bc2ce98ccea7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5ed70f26-6c46-44b6-90d6-fafb94026279/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f5368fbf-73f2-400a-a4d6-427d591e3ea6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hk87h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.722177, -74.617508, 40.391755, 40.304872)",
+  "solr_year_i": 1964.0,
+  "uuid": "princeton-4x51hk87h"
+}

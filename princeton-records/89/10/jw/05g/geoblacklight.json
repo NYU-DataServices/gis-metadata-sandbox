@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1912.\" Includes key, streets and specials index, and text. North oriented towards upper right. \"4535.\" At head of sheet 4: At Annandale, 2 miles N.E. of Clinton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8910jw05g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clinton,Maps",
+    "Real property,New Jersey,Annandale,Maps",
+    "Clinton (N.J.),Maps",
+    "Annandale (N.J.),Maps"
+  ],
+  "dc_title_s": "Clinton, Hunterdon County, New Jersey : including Annandale (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4786631\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3298534-a354-4310-b276-a2a9f6512896/file/70598a4f-16dc-4144-8145-892c3212bc2f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3298534-a354-4310-b276-a2a9f6512896/file/ca6029a2-8bda-4ff1-bb7c-44453fe1b151\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2Faa%2F57%2Ff6aa57c7f56c428387c86e34345e13c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d18dcbe-9187-4043-a125-f33132c1cdec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d3298534-a354-4310-b276-a2a9f6512896",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8910jw05g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931, -74.787, 40.693, 40.574)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-8910jw05g"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1915.\" Includes location map, key, streets and specials index, and text. \"294.\" Historic Maps copy has sheets 1-26, showing Hackensack; sheets 27-30, showing Bogota, foldered separately. Historic Maps copy imperfect: sheets 13 and 22 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526d96d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hackensack,Maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hackensack, Bergen Co., New Jersey : including Bogota (Sheet 26)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5265912\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8fb784c0-5f82-48fa-9371-94485ad885d7/file/75b049a4-7d01-40f4-b80f-e2d4824b316d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8fb784c0-5f82-48fa-9371-94485ad885d7/file/3d8b7238-28a8-4662-92cb-1acb31c38150\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F7e%2Ff3%2Fdf7ef3ed4569470b8e717a14478c8af3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ced7a024-5787-427c-a908-f9f55f2d584e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8fb784c0-5f82-48fa-9371-94485ad885d7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526d96d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.069, -74.025, 40.914, 40.859)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-s7526d96d"
+}

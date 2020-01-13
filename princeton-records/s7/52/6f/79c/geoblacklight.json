@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Vandermaelen, Philippe, 1795-1869"
+  ],
+  "dc_description_s": "From: Atlas universel de geographie physique, politique, statistique et mine\u0301ralogique, sur l'echelle de 1:1641836 ... / dresse\u0301 par Ph. Vandermaelen. Bruxelles : [Ph. Vandermaelen], 1827. Relief shown by hachures and landform drawings. Includes parts of Leeward and Windward Islands.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526f79c",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Bruxelles : Ph. Vandermaelen, 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Antilles, Lesser,Maps",
+    "West Indies,Maps"
+  ],
+  "dc_title_s": "Petites Antilles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722460\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22d3519d-d75e-4025-a463-7a78cb55d627/file/78514219-9612-4a2f-a24b-09e2043f428b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22d3519d-d75e-4025-a463-7a78cb55d627/file/aea934dc-ef46-4c49-a956-e8b52d2a3950\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2Fe5%2Faa%2F77e5aa6b995a41e99b87ee01b584ffcf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41955a7e-a4ce-4e62-8505-495d0398e868/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "West Indies",
+    "Antilles, Lesser"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-22d3519d-d75e-4025-a463-7a78cb55d627",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526f79c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-65.6744, -57.6763, 18.0001, 12.0076)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-s7526f79c"
+}

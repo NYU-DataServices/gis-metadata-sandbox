@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1902.\" Includes key, key map, streets and specials index, and text. \"5452.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m613n0814",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Somerville,Maps",
+    "Somerville (N.J.),Maps"
+  ],
+  "dc_title_s": "Somerville, Somerset Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5605425\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c48044e6-97e3-4678-b260-513cf24c7057/file/e5bebd15-a030-496c-bb87-297f8f2f8999\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c48044e6-97e3-4678-b260-513cf24c7057/file/8bddd4f4-107a-4619-beff-05db8fa17a3c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ef%2F5b%2F2e%2Fef5b2e8b66cd4315a3a95b76fe4a71b2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/604be780-dcfe-4d63-8cd3-b9c00bea7b33/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c48044e6-97e3-4678-b260-513cf24c7057",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m613n0814",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-m613n0814"
+}

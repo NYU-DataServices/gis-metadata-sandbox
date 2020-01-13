@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing population density by district in Northern Rhodesia (Zambia) for 1938. The dataset also includes the percentage of absentees among the able-bodied male population in each district. Data were extracted from a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/5m60qw54f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Zambia population density and absentees, 1938",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bc29d1c5-8479-4130-ba3b-733c01858fc8/file/5336ace9-918d-4cac-ae8b-d24a60275b27\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3ce40ae-006b-4e5e-b4b9-509255bcec41/file/031f948c-aeca-4e95-adf4-fba7e7026808\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3ce40ae-006b-4e5e-b4b9-509255bcec41/file/2e681631-d3e2-4e7a-992b-e7d5ade65ebf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Rhodesia",
+    "Northern Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-c3ce40ae-006b-4e5e-b4b9-509255bcec41",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qw54f",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(21.955254, 33.648306, -8.239086, -18.074784)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-5m60qw54f"
+}

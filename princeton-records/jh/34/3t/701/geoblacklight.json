@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Cambodia with relief. It is at a scale of  1:1,400,00. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343t701",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Trail",
+    "Airfield",
+    "Administrational and Political Boundaries",
+    "Railroad",
+    "Port"
+  ],
+  "dc_title_s": "Cambodia, 1986",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/942e390d-78d5-4d81-8345-3ce0412ef46f/file/97396539-1ec2-407c-abb7-ee7ae1dbcd7d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a6c3f52-a292-4b61-a831-603dc88f943a/file/48ede5e7-b279-4e26-8fa8-4401b1533096\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a6c3f52-a292-4b61-a831-603dc88f943a/file/c599b71b-eafa-40cc-8dbe-9851788aa262\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F24%2Fdd%2F8224dd03028c471c874ab9d3d8d9fb10%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3072c220-dc82-43e5-bdcd-016249082e3b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Cambodia",
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4a6c3f52-a292-4b61-a831-603dc88f943a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343t701",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(101.0, 108.0, 15.0, 10.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-jh343t701"
+}

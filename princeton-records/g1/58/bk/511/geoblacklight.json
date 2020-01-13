@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1916.\" Includes location map, key, key map, streets and specials index and text. \"1184.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bk511",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bound Brook,Maps",
+    "Real property,New Jersey,South Bound Brook,Maps",
+    "Real property,New Jersey,Middlesex,Maps",
+    "Bound Brook (N.J.),Maps",
+    "South Bound Brook (N.J.),Maps",
+    "Middlesex (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Bound Brook, Somerset Co. : including South Bound Brook, Somerset Co. & Middlesex, Middlesex Co., New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5600900\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a23cd0d-0f57-4957-9d94-ac128a8325e7/file/9c8de5e6-1e70-40cf-83c1-3f11cb6988b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a23cd0d-0f57-4957-9d94-ac128a8325e7/file/2788e3f5-86ea-40da-907e-5755c00b264d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Fe1%2Fec%2Fc8e1ecdd20f84ba4a72178f6a412dc94%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ba6a4a2-c922-43ae-984d-d0fca57f91ac/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3a23cd0d-0f57-4957-9d94-ac128a8325e7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bk511",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.557675, -74.523702, 40.581725, 40.555196)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-g158bk511"
+}

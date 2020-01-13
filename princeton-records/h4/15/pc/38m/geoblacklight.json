@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 44.0000. South Decimal Degree 43.0000. East Decimal Degree -5.0000. West Decimal Degree -6.0000. Alternate title: Oviedo, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1941-42; Iberian Peninsula, 1:250,000, Geographical Section General Staff, 1941, sheets S 3680, 3688, 4888; Road Map of Spain and Portugal, 1:400,000, A.M.S. sheet 41 Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S. 1941, corrected from intelligence Reports, 1942-44; Hydrographic Chart No. 369, 1:40,331; Hydrographic Chart No. 937, 1:40:382; Partially revised from aerial photography 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h415pc38m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Oviedo, sheet 5. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839230\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7da228fa-b024-4f34-8c13-d15d8b099921/file/03c0d929-7e50-462a-9264-c7dd39cd948b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7da228fa-b024-4f34-8c13-d15d8b099921/file/8adcf405-ec69-4a86-8378-3b5f65e8f56c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2Fc0%2F9f%2F23c09f6b1de34a718e415d2b15675da0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1d22f586-0a11-459b-881b-e4931d371b60/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7da228fa-b024-4f34-8c13-d15d8b099921",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h415pc38m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.0, -5.0, 44.0, 43.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-h415pc38m"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Relief shown by hachures. Index on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gn24b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Chicago : Rand, McNally & Co., 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Netherlands,Maps",
+    "Belgium,Maps",
+    "Luxembourg,Maps"
+  ],
+  "dc_title_s": "The Rand-McNally new library atlas map of the Netherlands, Belgium and Luxemburg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6945272\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d08d9a5f-b11f-42cc-8741-87149491146f/file/7ca83b6d-85ad-4e89-bb6f-b476376c81c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d08d9a5f-b11f-42cc-8741-87149491146f/file/8e8e456b-691f-495c-858a-dd15bb52913e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Fb5%2F3e%2F19b53e0a0ea043a5be1a49c09f15f5e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dfd228a8-e0a3-4d16-8416-a88e57649ae4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Belgium",
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d08d9a5f-b11f-42cc-8741-87149491146f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gn24b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.258, 7.3639, 53.8468, 49.2579)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-c821gn24b"
+}

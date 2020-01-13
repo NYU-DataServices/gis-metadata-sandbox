@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Civil Aeronautics Board. Office of the Secretary. North Decimal Degree 80.000000. South Decimal Degree -60.0000. East Decimal Degree 180.0000. West Decimal Degree -180.0000. Ancillary mapt: Air routes of the Caribbean; Dominican Republic, Puerto Rico, and Virgin Islans: Caribbean Atlantic Airlines, Inc.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365898b",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "[Washington, D.C]. : [s.n.], [1968[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Airways",
+    "World,Maps"
+  ],
+  "dc_title_s": "International and overseas air routes of United States carriers, including Hawaii and Alaska mainland routes: December 31, 1968.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a5219a8-4a67-4b4f-8a4c-2ca0fd51d90d/file/2f7a1df5-605b-4dfa-ba44-89455ef95207\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a5219a8-4a67-4b4f-8a4c-2ca0fd51d90d/file/0cc6753b-9a89-42b2-a322-b8fcbfcb12a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2F07%2F8a%2F0a078ac3fe754a5fa639d3fa8ba24d8b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d3ff598c-6f38-4040-84e0-46fa0408cb3c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1968"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5a5219a8-4a67-4b4f-8a4c-2ca0fd51d90d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365898b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -60.0)",
+  "solr_year_i": 1968.0,
+  "uuid": "princeton-ff365898b"
+}

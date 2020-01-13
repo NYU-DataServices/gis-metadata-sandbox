@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1905.\" Includes key, key map, streets and specials index, and text. \"8348.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mw22v761w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lakewood,Maps",
+    "Lakewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Lakewood, Ocean Co., New Jersey (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5572410\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c717f5fe-ea08-46ac-ba97-f281eb25799a/file/ba86f21c-eb27-4a02-9dc1-e0c7894952fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c717f5fe-ea08-46ac-ba97-f281eb25799a/file/dd5754e6-5d99-4d20-ba66-b58f1d261632\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F6a%2F1c%2F506a1c1088e9427cb372b30fa48a0fa1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c949fb3f-31eb-4bfc-8db9-5d41921b3614/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c717f5fe-ea08-46ac-ba97-f281eb25799a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mw22v761w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-mw22v761w"
+}

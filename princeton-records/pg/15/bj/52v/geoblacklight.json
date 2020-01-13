@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [
+    "New York City Department of Information Technology and Telecommunications."
+  ],
+  "dc_description_s": "The \"Railroad\" dataset is a line representation of New York City railroad transportation lines including additional features such as railroad fences and viaduct.  The data is comprised of line geometries with attribute information.  Feature classifications include:1.        Railroad,2.        Hidden railroad,3.        Elevated railroad,4.        Embankment railroad,5.        Viaduct centreline,6.        Open cut depression railroad,7.        Railway fence,8.        Railway retaining wall,9.        Abandoned railroad.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/pg15bj52v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [],
+  "dc_title_s": "New York City Railroad 2004",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2f254ede-9a7b-4f62-9f52-868497306dc6/file/ffbeb7e6-707c-41ba-98c1-13ce8bc57e9a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5175bc9e-e9b0-4e19-b478-719ad4b5809a/file/1c1d7b7d-d25f-4723-bbf3-2441147b5544\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5175bc9e-e9b0-4e19-b478-719ad4b5809a/file/e77ec3a5-8443-4de1-b24e-12159870eeaf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "public-figgy:p-5175bc9e-e9b0-4e19-b478-719ad4b5809a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bj52v",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-74.255775, -73.725416, 40.915647, 40.512001)",
+  "solr_year_i": 2001.0,
+  "uuid": "princeton-pg15bj52v"
+}

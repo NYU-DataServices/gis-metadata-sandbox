@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "John Murray (Firm)"
+  ],
+  "dc_description_s": "Map in pocket at end.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vt61z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London, J. Murrray, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "India,Description and travel",
+    "Burma,Description and travel",
+    "Sri Lanka,Description and travel"
+  ],
+  "dc_title_s": "Calcutta: for Murray's handbook",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/1576014\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d38e676b-6f2b-42a0-9f25-dd6ff3a492f1/file/970503a2-9853-4f47-9e48-88d63224f510\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d38e676b-6f2b-42a0-9f25-dd6ff3a492f1/file/80146352-3197-443f-bcc5-95a051753341\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fc%2F9c%2Fa3%2Ffc9ca3b3af6b408e8bbf9168dff48a4c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/910c979e-7d3b-4fdc-918f-c089e6e19630/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d38e676b-6f2b-42a0-9f25-dd6ff3a492f1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vt61z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(68.11, 101.43, 35.67, 5.56)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-9880vt61z"
+}

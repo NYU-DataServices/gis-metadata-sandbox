@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J. coast vol. 1.\" Sheet 81 of vol. 1 of New Jersey coast map series. North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2801pj19j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,East Oceanic,Maps",
+    "East Oceanic (N.J.),Maps"
+  ],
+  "dc_title_s": "East Oceanic (Sheet 81)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3eab1f87-4d2f-4d2f-9f71-11daa434104a/file/2e60b033-9215-4783-bf90-705e10338bd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3eab1f87-4d2f-4d2f-9f71-11daa434104a/file/5bf495f8-b45c-4cdb-abd8-c049f489b325\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/38%2F76%2F13%2F387613d979714098b2251a7753890f0f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c4c1be7f-5699-4bd5-bb3b-02532034bafa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3eab1f87-4d2f-4d2f-9f71-11daa434104a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2801pj19j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.030694, -73.990694, 40.397887, 40.357887)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-2801pj19j"
+}

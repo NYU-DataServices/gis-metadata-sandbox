@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz81b",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Italy? : s.n., ca. 1558]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Naples (Italy : Province),Maps,Early works to 1800",
+    "Naples (Kingdom),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Regno di Napoli",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8547331\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43ed6161-382f-4a02-8bad-b5ad251b7bbe/file/64e2a21a-8bd1-4e1e-8369-e7d5916cb770\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43ed6161-382f-4a02-8bad-b5ad251b7bbe/file/d9f73eed-86d8-4e6d-ae83-1ff8da5cc726\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a4%2F4f%2F49%2Fa44f49ff4e344225ae46f65196fcd7b1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec5c07b0-cdd7-4430-8d0a-1e478e59e739/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1558"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-43ed6161-382f-4a02-8bad-b5ad251b7bbe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz81b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.23, 19.01, 43.75, 37.25)",
+  "solr_year_i": 1558.0,
+  "uuid": "princeton-bz60cz81b"
+}

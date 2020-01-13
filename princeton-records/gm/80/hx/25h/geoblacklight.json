@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1922.\" Includes location map, key, streets and specials index, and text. \"5638.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx25h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922, c1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lyndhurst Township,Maps",
+    "Lyndhurst (N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Township of Lyndhurst, including Kingsland, Bergen Co., New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5268305\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d8a0df9-d634-4dfc-9cbb-8de50b0856f4/file/9799b177-fd20-47d6-8684-7dfd4522e9e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d8a0df9-d634-4dfc-9cbb-8de50b0856f4/file/1282c6d2-b0fb-4b02-8681-9655ec76741b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cf%2F8b%2F77%2Fcf8b7758857d4659b3489d89d2de60a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e31061a-5f1f-4ace-bbf7-1ae29a331da1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2d8a0df9-d634-4dfc-9cbb-8de50b0856f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx25h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.139987, -74.083351, 40.822629, 40.762114)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-gm80hx25h"
+}

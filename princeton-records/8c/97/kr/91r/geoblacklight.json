@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Title from title sheet of vol 1. Includes location map, key, streets and specials index, and text. Includes map of Lawrenceville School on sheet 82, map of Morrisville, Bucks Co., Pa. on sheets 183-187, map of Yardville, N.J. on sheets 188-190, and map of Hamilton Square, N.J. on sheets 191-192.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97kr91r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lawrenceville School,Maps",
+    "Real property,New Jersey,Trenton,Maps",
+    "Trenton (N.J.),Maps",
+    "Hamilton Square (N.J.),Maps",
+    "Yardville (N.J.),Maps",
+    "Morrisville (Bucks County, Pa.),Maps"
+  ],
+  "dc_title_s": "Insurance maps, Trenton, New Jersey : vol. 1[-2] (Sheet 78)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4659635\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f05c3972-2658-4fc4-918a-8e27d0e392af/file/c82a732c-d416-4854-ab39-92a003ea96c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f05c3972-2658-4fc4-918a-8e27d0e392af/file/4f7bb27d-b9a6-446f-8653-3cd14ba22d3a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/63%2F5d%2Fd6%2F635dd69435a04b10916919ed7251300c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f6ea26d-b480-4e1a-ac9d-3c4da7b0a0b3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f05c3972-2658-4fc4-918a-8e27d0e392af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97kr91r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-8c97kr91r"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey . Department of Conservation and Development. Atlas Sheet 40 (Geologic) New Jersey Geological Survey Compiled from published folios and from manuscript data in possession of the Survey. In upper margin: Atlas sheet no. 40. Base surveyed under direction of C. C. Vermeule, 1877-1887.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cj82k888z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1950.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Geological cross sections",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Geologic map of New Jersey, 1910-1912",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449185\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f93dc9d2-031d-461a-9928-9b5e780541e6/file/48ce807d-c7e2-4a6e-91ca-ef4f89685279\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/858aa0e1-3839-4771-90b4-106cd6e17ddc/file/1002c710-9e4e-4d8f-a549-96949e8a17ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/858aa0e1-3839-4771-90b4-106cd6e17ddc/file/6fc7eb8b-0db0-4b13-bb1f-bba8d5817c06\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2F24%2F63%2F242463afb7ac4330a1be069ff5a7b9a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ce1fa192-e8e4-478f-96d0-6a08a85e8167/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-858aa0e1-3839-4771-90b4-106cd6e17ddc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cj82k888z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-cj82k888z"
+}

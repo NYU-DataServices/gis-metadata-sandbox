@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Cruchley, G. F."
+  ],
+  "dc_description_s": "Relief shown by hachures. Originally issued folded, in covers, with cover title: Cruchley's reduced ordnance map of London.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xg94hr611",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Cruchley, Map and Globe Maker, [1869]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streets,England,London,19th century,Maps",
+    "London (England),Maps"
+  ],
+  "dc_title_s": "Reduced ordnance map of London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5573418\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d5f8d64-355f-4c14-9fa1-3b6b0a713260/file/aec35f9f-e473-4ae7-afae-a64823dd0d91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d5f8d64-355f-4c14-9fa1-3b6b0a713260/file/027b41af-ceed-4f25-b180-9bb9017b5a0d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c2%2F77%2Fca%2Fc277ca9e9ba34a77b73919cc2fff6aea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fcf6d2c2-232b-44be-b71c-8a0ee196dee0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5d5f8d64-355f-4c14-9fa1-3b6b0a713260",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xg94hr611",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.209845, -0.051573, 51.550035, 51.474531)",
+  "solr_year_i": 1869.0,
+  "uuid": "princeton-xg94hr611"
+}

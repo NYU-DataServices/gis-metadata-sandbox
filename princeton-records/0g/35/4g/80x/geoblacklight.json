@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Russell, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1915. Partly within the Adirondack Park.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354g80x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Russell (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (St. Lawrence County) Russell Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868380\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c3cb6289-3f52-4305-af69-54b7e50357f7/file/015466ab-e84b-4fa8-b92f-f1cbfb7d30a7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/454a6cf5-5a5b-4d91-b776-72c15711b8ef/file/2c3df5fd-21da-4006-9a3b-b28ea526f9c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/454a6cf5-5a5b-4d91-b776-72c15711b8ef/file/dce5b061-4cbd-4a63-8b5e-3b5494037616\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F70%2F0d%2Fed700dea54bd47aebbed38018133489b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ef5a75e-3e84-44b2-8c74-c258f48dd1d9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-454a6cf5-5a5b-4d91-b776-72c15711b8ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354g80x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 44.5, 44.25)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-0g354g80x"
+}

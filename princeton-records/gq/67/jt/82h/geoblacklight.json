@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Sa\u0303o Paulo (Brazil). Grupo Executivo do Planejamento"
+  ],
+  "dc_description_s": "Shows land use. Text, charts, and and graphs on verso.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67jt82h",
+  "dc_language_s": "Portuguese",
+  "dc_publisher_s": "[Sa\u0303o Paulo] : Grupo Executivo do Planejamento, 1969.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City planning,Brazil,Sa\u0303o Paulo",
+    "Land use",
+    "Regional planning,Brazil,Sa\u0303o Paulo Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "Sa\u0303o Paulo 1990 - a nova Sa\u0303o Paulo",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6809795\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20e38887-94fd-4eb0-b323-acb69a8f8658/file/e89e0311-6eae-4fab-9bc6-daf5565f3d0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20e38887-94fd-4eb0-b323-acb69a8f8658/file/21fa7dc8-c55e-48c5-9581-ec82ec97bb02\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fe2%2Fa6%2F8de2a6c9951f4ef8a5d93ecac40e368b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/649c20f2-7595-4b46-9bde-acf0bca5fa0d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Brazil"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-20e38887-94fd-4eb0-b323-acb69a8f8658",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67jt82h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-46.828056, -46.365, -23.369444, -23.871111)",
+  "solr_year_i": 1969.0,
+  "uuid": "princeton-gq67jt82h"
+}

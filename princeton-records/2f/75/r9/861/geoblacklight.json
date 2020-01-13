@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 38.0000. South Decimal Degree 37.0000. East Decimal Degree -5.0000. West Decimal Degree -6.0000. Alternate title: Sevilla, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1908-34; Spain, 1:200,000, Cuartel General del Generalisimo, 1915-1939; Spain, 1:200,000, Instituto Geografico, PROVINCIA DE CORDOBA, 1935; PROVINCIA DE MALAGA, 1935 and PROVINCIA DE SEVILLA, 1935; Road Map of Spain and Portugal, 1:400,000, AMS, Sheets 48 and 50, Third Edition, 1943. Railways of Spain and Portugal 1:1,500,000, GSGS, 1942; Railways of Spain, Portugal and Southern France, 1:1,300,000, Military Railway Service, 1943. Partially revised from aerial photography, 1941, 1942, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2f75r9861",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Sevilla (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Sevilla, sheet 70. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841158\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fde2c8f5-3f57-46ff-813e-442d3b5de3cc/file/52e47d95-4886-4aca-9291-7bf15626711b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fde2c8f5-3f57-46ff-813e-442d3b5de3cc/file/ef81fb71-3e4e-47fc-a2ea-b62e7671c14c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2F21%2F9d%2Ff1219dc813ae4fc2a3f9889056d4beb3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f36def82-e83c-4bcc-93a7-1ed8ef6187b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fde2c8f5-3f57-46ff-813e-442d3b5de3cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75r9861",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.0, -5.0, 38.0, 37.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-2f75r9861"
+}

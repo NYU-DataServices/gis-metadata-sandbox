@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Mills, Robert, 1781-1855"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"S. Rep. Com. No. 344 -- 1st. Sess. 32d. Cong.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hm51p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : U.S. House of Representatives, 1852] (Philada. : P.S. Duval & Co.'s Steam Lith. Press)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads,United States,Surveys,Maps"
+  ],
+  "dc_title_s": "Map of the country between the Atlantic & Pacific Oceans : included within the latitudes 25 & 42 & the longitudes 75 & 123 West, shewing the proposed route of a rail road from the Mississippi Valley to the ports of St. Diego, Monterey, & St. Francisco on the Pacific coast also the connection of this road with those of the Atlantic States leading West as far as the Mississippi",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246869\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/4a262b29-9c0e-4dec-9012-ff10b052c65f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/5c690f48-f4cc-4da4-bdaa-0264c2eb356b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2F30%2F8e%2Ff7308e5a0c63427ba081dc78ea9f75a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60d55ce1-2b59-4b78-918f-04d81772c20c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d4053473-4b87-4511-bd8b-38a8b97581f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hm51p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-128.01, -65.0, 46.01, 22.85)",
+  "solr_year_i": 1852.0,
+  "uuid": "princeton-4x51hm51p"
+}

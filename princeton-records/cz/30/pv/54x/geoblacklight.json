@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1921.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right. \"3821.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv54x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Real property,New Jersey,Edgewater Park,Maps",
+    "Beverly (N.J.),Maps",
+    "Edgewater Park (N.J. : Township)),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington County, New Jersey : including Edgewater Park and Perkins (Index Sheet)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027983\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72c59e2a-b733-424a-b278-df7e753e31a6/file/7ca82545-5eb3-4e46-bf2b-dfc237331493\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72c59e2a-b733-424a-b278-df7e753e31a6/file/e774d4a9-ebe8-49b9-988f-e4a8d097d7fc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F48%2F35%2F324835ad690a415f80046e2955579006%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9c3df01-bd7b-4230-aec4-58066ff31aa4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-72c59e2a-b733-424a-b278-df7e753e31a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv54x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931521, -74.911479, 40.069028, 40.057224)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-cz30pv54x"
+}

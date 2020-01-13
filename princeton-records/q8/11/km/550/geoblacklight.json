@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"N.J.C.M. vol. 4.\" Historic Maps copy has sheets 46-52 of N.J. coast map series, vol. 4.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q811km550",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wildwood,Maps",
+    "Wildwood (N.J.),Maps"
+  ],
+  "dc_title_s": "Wildwood (Sheet 50)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5332458\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91547f30-90d7-4ba7-8f74-b3ab9f293ece/file/a234d25b-0f69-42a6-97db-a248f01dfdb8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91547f30-90d7-4ba7-8f74-b3ab9f293ece/file/0e349cef-be04-4c3f-8250-b788df13fe12\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F09%2F67%2Fbc0967ef023146f9b77e653d0c6d7b2e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4921bd0-3e08-4f7c-a6a6-84f432dc2246/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-91547f30-90d7-4ba7-8f74-b3ab9f293ece",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q811km550",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-q811km550"
+}

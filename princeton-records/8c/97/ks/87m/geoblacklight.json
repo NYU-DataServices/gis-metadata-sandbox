@@ -1,0 +1,53 @@
+{
+  "dc_creator_sm": [
+    "Fitzroy, Robert, 1805-1865"
+  ],
+  "dc_description_s": "Covers the coast of southwestern Ecuador in the provinces of Guayas and El Oro, and the western edge of Peru in the departments of Tumbes and Piura. Relief shown by hachures. Depths shown by soundings. Inset: Port Payta. \"1813\"--Lower left margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks87m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published at the Hydrographic Office of the Admiralty : Sold by J.D. Potter, agent for the Admiralty charts, 1861.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Ecuador,Guayas (Province)",
+    "Nautical charts,Ecuador,El Oro",
+    "Nautical charts,Peru,Tumbes (Dept.)",
+    "Nautical charts,Peru,Piura (Dept.)",
+    "Coasts,Ecuador,Guayas (Province),Maps",
+    "Coasts,Ecuador,El Oro,Maps",
+    "Coasts,Peru,Tumbes (Dept.),Maps",
+    "Coasts,Peru,Piura (Dept.),Maps",
+    "Pacific Coast (Ecuador),Maps",
+    "Pacific Coast (Peru),Maps",
+    "Guayas (Ecuador : Province),Maps",
+    "El Oro (Ecuador),Maps",
+    "Ecuador,Maps",
+    "Tumbes (Peru : Dept.),Maps",
+    "Piura (Peru : Dept.),Maps"
+  ],
+  "dc_title_s": "South America, west coast, sheet XVIII : Peru and Ecuador, Port Payta to Ayangui Pt.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6558321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22c57298-9def-4979-a7f8-f4b7a629df9c/file/e99c0b2a-bb6d-420c-ac4d-f2ce7e6aacb1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22c57298-9def-4979-a7f8-f4b7a629df9c/file/d1177332-1f6c-4c66-8528-01600b9f0ca3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2F71%2Fd6%2Fcd71d609250149159bba48a12674afc0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0edc69c4-509a-405a-a077-c19f8156f1d7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ecuador",
+    "Peru"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-22c57298-9def-4979-a7f8-f4b7a629df9c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks87m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-81.98, -79.56, -1.91, -5.12)",
+  "solr_year_i": 1861.0,
+  "uuid": "princeton-8c97ks87m"
+}

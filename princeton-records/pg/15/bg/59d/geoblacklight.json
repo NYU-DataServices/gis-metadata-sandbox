@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Luzerne. Relief shown by 20 feet contour interval. Surveyed in 1900 in cooperation with the State of New York. Verso: Description of the topogaphic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bg59d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Luzerne (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Luzerne Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867913\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/390af7ce-5484-4c57-bd99-364f3aa91e95/file/8e06b65c-8698-434c-8d53-da87127c70e8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/432ff982-ef01-43a9-aaa9-2a222ebf9df6/file/06784afa-3dfb-43d8-afe8-f29ce3ba1ad6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/432ff982-ef01-43a9-aaa9-2a222ebf9df6/file/0ed7029c-1f13-44d2-8100-d003d97a0f35\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/54%2Fc0%2Ffb%2F54c0fb0d08c045dd9dc4e8bb8cd27666%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae1edb14-5882-4c5f-bd81-f2bb108308a9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-432ff982-ef01-43a9-aaa9-2a222ebf9df6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bg59d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 43.5, 43.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-pg15bg59d"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Title taken from sheet 1 of 1927 map. \"Nov. 1896.\" Includes location map, key, streets and specials index, and text. Oriented with the north to the upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fj873",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co. Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Princeton,Maps",
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Princeton, Mercer County, New Jersey (Sheet 3 1895)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4266657\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3f159245-d4cd-47d5-b00e-bdd497f609da/file/77dd2a49-0e34-4bee-8d95-3b321468d31e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3f159245-d4cd-47d5-b00e-bdd497f609da/file/32d364fe-2e3b-425d-b277-80011e14ac04\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F08%2F33%2Fc50833c26ba84633b33376fdd382279e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6b68b12-ceab-400e-8bd2-c7671ffaa93f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3f159245-d4cd-47d5-b00e-bdd497f609da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fj873",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-t148fj873"
+}

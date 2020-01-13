@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. Oriented with the north to the upper left. Junction, so called because the Central Railroad of New Jersey and the Delaware, Lackawanna and Western Railroad crossed there, is the earlier name of Hampton, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd44z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited , 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hampton,Maps",
+    "Hampton (N.J.),Maps"
+  ],
+  "dc_title_s": "Junction, Hunterdon County, N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4782847\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46c20038-1713-49b6-8e76-d8498e20bcf5/file/dbba1dda-69aa-4602-896d-efdb101a0f6f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46c20038-1713-49b6-8e76-d8498e20bcf5/file/40efa380-72f3-4c39-9f40-ebf8d152d049\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a1%2F94%2F71%2Fa1947121425345bba89892619249b215%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b49b46d-903a-4cc7-93cc-1a39d2b49b1e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-46c20038-1713-49b6-8e76-d8498e20bcf5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd44z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.98125, -74.948175, 40.720517, 40.698073)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-1g05fd44z"
+}

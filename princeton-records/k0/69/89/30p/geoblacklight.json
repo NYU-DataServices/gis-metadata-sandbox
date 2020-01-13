@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k0698930p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[S.l.] : [s.n.], [1981[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "England,Maps"
+  ],
+  "dc_title_s": "Cheltenham town centre.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831353\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2aef2c92-4ddb-4984-82f1-ed32c42a01be/file/2b24e5e3-4681-4d5c-9f55-54e1b7ca1083\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2aef2c92-4ddb-4984-82f1-ed32c42a01be/file/d27ac2b9-8bb9-4aa5-b0a9-1df1cf283671\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2Fcc%2F8b%2F23cc8bd582564f63870ce14a0ad0826c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/816a4c61-85d5-4095-8511-5fbbe29dfcdd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2aef2c92-4ddb-4984-82f1-ed32c42a01be",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k0698930p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.0833333333333335, -2.05, 51.916666666666664, 51.86666666666667)",
+  "solr_year_i": 1981.0,
+  "uuid": "princeton-k0698930p"
+}

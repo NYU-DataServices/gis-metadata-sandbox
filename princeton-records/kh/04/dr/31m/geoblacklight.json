@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Central Intelligence Agency. North Decimal Degree 48.1333. South Decimal Degree 35.4667. East Decimal Degree 28.9667. West Decimal Degree 9.0000. Lambert conformal conic projection. Relief shown by shading and spot heights. \"802626 (543674) 2-99.\" Shows maritime routes.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dr31m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1999.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Balkan Peninsula,Maps"
+  ],
+  "dc_title_s": "The Balkans",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839552\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8806f146-d4cb-4694-9352-460372a76e33/file/371817bc-8592-4d91-8e5e-03234123b5ba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1297b84a-a12b-4389-8fcb-58556f825e93/file/38b78fe5-85b9-47e8-baa1-2fb160c103f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1297b84a-a12b-4389-8fcb-58556f825e93/file/aedcfa9c-966e-4cb7-96ed-0814d3eb497e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F08%2Fac%2F0b08acafb5b849efb191c34e15125c47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b1bd9a0-a416-4362-85b2-97250f82d585/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1297b84a-a12b-4389-8fcb-58556f825e93",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dr31m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.0, 28.9667, 48.1333, 35.4667)",
+  "solr_year_i": 1999.0,
+  "uuid": "princeton-kh04dr31m"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Albay. In upper left margin: Philippine Islands city plans. Copied from Military Infromation Division blueprint, 1904. Relief shown by 10 meter contour intervals.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt65j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Albay (Philippines),Maps"
+  ],
+  "dc_title_s": "Albay, Philippine Islands, Albay Province. A.M.S. S901",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830582\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/62d28763-c47a-440f-9cf3-a9446d715185/file/97ada489-ba4a-4c54-8edc-afeb82e5f5d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/709226a2-7a87-437e-bcf5-a0fb7576ddc5/file/5d6e6f3a-d9a3-4771-8596-5619211a263f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/709226a2-7a87-437e-bcf5-a0fb7576ddc5/file/e76fae7d-c574-44fb-b90d-655c5107279e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F90%2F0c%2F33900cb30f8c4ea28aafc5361c08cb9d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/318d032f-2b4a-4f6b-9c7e-b3fc0a898ef8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-709226a2-7a87-437e-bcf5-a0fb7576ddc5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt65j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(123.71666666666667, 123.73333333333333, 13.15, 13.133333333333333)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-5m60qt65j"
+}

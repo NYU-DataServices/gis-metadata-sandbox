@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Tartinius, C."
+  ],
+  "dc_description_s": "Map of Mediterranean Sea and surrounding area, including Greece, Turkey, southern Italy and northern Africa; relief shown pictorially. From: Ioannis Meursi Operum volumen primum-[duodecimum] ... Florienti\u00e6 : regis magni Etruriae ducis typis, apud Tartinium, et Franchium, 1741-1763.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mw22v7340",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Florenti\u00e6 : Apud Tartinium et Franchium, 1741.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Historical geography,Early works to 1800",
+    "Africa, North,Maps,Early works to 1800",
+    "Greece,Maps,Early works to 1800",
+    "Italy,Maps,Early works to 1800",
+    "Mediterranean Region,Maps,Early works to 1800",
+    "Turkey,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Graecia vetus cum reliquis prouinciis Graecis santibus",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4851648\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0292767-aa69-4b28-826e-2d6614bfff8d/file/8f4be943-2b41-4e62-b3ed-a4a7c80dde2a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0292767-aa69-4b28-826e-2d6614bfff8d/file/f2a1183b-d2fa-4b21-ad08-416265418605\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/56%2F42%2F58%2F564258f3c5134f1f9e38c59e356eda91%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6668d1f0-0d71-4f9d-a1d0-8ad3c1aeec23/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece",
+    "Turkey",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1741"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e0292767-aa69-4b28-826e-2d6614bfff8d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mw22v7340",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.57, 42.52, 44.26, 22.01)",
+  "solr_year_i": 1741.0,
+  "uuid": "princeton-mw22v7340"
+}

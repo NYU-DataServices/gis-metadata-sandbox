@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, key map and text. \"9482.\" Historic Maps copy has sheets 1-22 and 33-34 of series, showing Harrison; sheets showing East Newark and Kearny foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f4752j79h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Harrison,Maps",
+    "Harrison (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Harrison, East Newark and Kearny, Hudson County, New Jersey (Sheet 34)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5498102\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7543d9c-550c-4e12-bc6a-69ce48309e4f/file/b4ae6c0b-8870-41ed-88a1-aae4e3e04037\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7543d9c-550c-4e12-bc6a-69ce48309e4f/file/9d17c6ec-7479-4650-9346-6600c9da71f2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6d%2Fc5%2F6a%2F6dc56af96ba14e24bcd34e222da74b12%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bc0e1f74-dadf-4ec6-9523-68f69adb23ad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a7543d9c-550c-4e12-bc6a-69ce48309e4f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f4752j79h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-f4752j79h"
+}

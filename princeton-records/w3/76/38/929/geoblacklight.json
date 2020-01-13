@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1896.\" Includes key, key map, streets and specials index, and text. \"885.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w37638929",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896, c1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Boonton,Maps",
+    "Boonton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Boonton, Morris Co., New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5548447\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/116b60b4-6abf-4d97-a3af-87f08f8df52c/file/b9b23509-9426-49ca-b013-c300ec60988a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/116b60b4-6abf-4d97-a3af-87f08f8df52c/file/86fa93db-dafe-48f5-bb47-3f83e9a8a5c5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/63%2Fd2%2Fdb%2F63d2db8f1e164e7292362ed87ae407ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d00f64d4-2d17-43cc-9387-e3e7ee448814/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-116b60b4-6abf-4d97-a3af-87f08f8df52c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w37638929",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-w37638929"
+}

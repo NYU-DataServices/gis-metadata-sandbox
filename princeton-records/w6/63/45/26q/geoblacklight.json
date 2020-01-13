@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1896.\" Includes key, streets and specials index, and text. \"912\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w6634526q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896, c1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Carlstadt (N.J.),Maps"
+  ],
+  "dc_title_s": "Carlstadt, Bergen Co., N. J. (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5223633\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08d3bce1-563f-4d6b-8945-1fc3b8d22df1/file/bb481495-d7c4-4acb-a362-3319aae14b48\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08d3bce1-563f-4d6b-8945-1fc3b8d22df1/file/8278052d-e8a3-42a9-ba8c-9f12bce70e7e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2Fc0%2Ff4%2F4ac0f4ca500e475b91d5579a8c554469%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65156c8d-d058-4aa8-bf9b-bcdfd5002d97/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-08d3bce1-563f-4d6b-8945-1fc3b8d22df1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w6634526q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.103, -74.031, 40.85, 40.807)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-w6634526q"
+}

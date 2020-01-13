@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1912.\" Includes key, specials index, and text. \"No. 4643.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9306t098k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Frenchtown,Maps",
+    "Frenchtown (N.J.),Maps"
+  ],
+  "dc_title_s": "Frenchtown, Hunterdon Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4780432\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b8179e3-7058-41a7-a3e5-09636b533d8b/file/323629a6-290c-4051-8968-5a1dbd8101ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b8179e3-7058-41a7-a3e5-09636b533d8b/file/d64dfde3-e6cd-4690-bcac-7c93ffe4c52e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2Fb7%2Fe5%2Fdbb7e55cb02a479db709f515efd8b8b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0772a1d0-4344-4f2f-8aba-8493a8455bb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b8179e3-7058-41a7-a3e5-09636b533d8b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9306t098k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.065, -75.047, 40.537, 40.517)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-9306t098k"
+}

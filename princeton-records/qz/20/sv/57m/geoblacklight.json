@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "American Express Company"
+  ],
+  "dc_description_s": "Includes \"Offices and banks in London cashing American Express travelers cheques.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20sv57m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : American Express Company, [ca. 1902] (New York : Michael Printing Co.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "London (Eng.),Maps"
+  ],
+  "dc_title_s": "Map of London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571886\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/915aa7f9-0052-4022-83d0-3128799307dd/file/fc2a33be-dfc9-4584-b924-878b648051e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/915aa7f9-0052-4022-83d0-3128799307dd/file/5b2e35ad-fddb-4f98-8299-e8bc9c7a163b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2F66%2Fc7%2F6866c75176af4cc490eafc8df0802ef8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/00dd1976-af13-4138-a16a-5d9d0ea9b934/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-915aa7f9-0052-4022-83d0-3128799307dd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20sv57m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.195898, -0.057023, 51.554326, 51.459875)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-qz20sv57m"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Mainz in the German state of Rhineland-Palatinate. In lower margin: Woerl's Reisehandbu\u0308cher. Indexed for points of interest. On verso: Strassenverzeichnis von Mainz. From: Fu\u0308hrer durch die Provinzialstadt Mainz und Umgebung : mit einem Plan der Stadt / herausgegeben von Leo Woerl. Leipzig : Woerl's Reisebu\u0308cherverlag, 1898.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60d097g",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Leipzig : Woerl's Reisebu\u0308cherverlag, 1898]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mainz (Rhineland-Palatinate, Germany),Maps",
+    "Rhineland-Palatinate (Germany),Maps"
+  ],
+  "dc_title_s": "Mainz",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7446648\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c920982-fbfc-4426-848f-04faeb21fad0/file/414a239e-bf1e-4579-bd00-6d9dcd4a9a92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c920982-fbfc-4426-848f-04faeb21fad0/file/8c5aa3fa-e82f-40b9-b8e0-080d14e7553f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F0c%2Fcd%2Faf0ccdb2ff3347fba660f36db17c8fb0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec4fe899-3320-4c60-8ff4-3295aadfca41/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9c920982-fbfc-4426-848f-04faeb21fad0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60d097g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.1110237, 8.4310237, 50.1599952, 49.8399952)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-bz60d097g"
+}

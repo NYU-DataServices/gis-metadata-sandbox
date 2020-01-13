@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Habu, Japan.. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth in fathoms. In upper left margin: \"Japan city plans 1:12,500. Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n870zs37b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Habu, Hiroshima Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449928\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c7c8fa18-d4a3-4466-a46e-d045326c5ce5/file/1dfd3be1-53ec-45c6-aae7-8bf231176e4f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33ade9c3-cbdb-43a5-8731-8d79bfac6e82/file/b6131a49-4f80-4e68-b48e-ab7f31299fbf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33ade9c3-cbdb-43a5-8731-8d79bfac6e82/file/75d9f0b1-8456-404a-b9c2-cfcdc66047b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c4%2Fbc%2F95%2Fc4bc952460324b8c962671e1dd808afc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f709f24b-4051-4714-b8b0-59dc1e3e45d5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-33ade9c3-cbdb-43a5-8731-8d79bfac6e82",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n870zs37b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(133.15, 133.21666666666667, 34.3, 34.25)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-n870zs37b"
+}

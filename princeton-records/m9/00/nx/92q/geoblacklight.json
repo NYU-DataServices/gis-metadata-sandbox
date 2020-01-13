@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Northern Rhodesia (Zambia) for 1938. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/m900nx92q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Zambia conflated historical administrative boundaries, 1938",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/95431b8a-9c55-4bce-8b97-56f1a04fd056/file/8751c3ac-b6e0-4775-9ee9-7b89b4d421d1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30e70bc2-8cb5-4fd1-bade-e7fef25672a6/file/e7faf734-316a-4d5a-8605-c58712cedcb5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30e70bc2-8cb5-4fd1-bade-e7fef25672a6/file/be6e630b-5b53-4693-ab6c-ec7af6fa194e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Northern Rhodesia",
+    "Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-30e70bc2-8cb5-4fd1-bade-e7fef25672a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nx92q",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(21.88949, 33.944989, -8.183698, -18.079567)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-m900nx92q"
+}

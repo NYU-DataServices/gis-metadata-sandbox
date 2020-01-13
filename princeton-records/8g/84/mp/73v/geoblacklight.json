@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Title from verso. In upper margin: A. 1914. Includes \"The distance from sea to Rotterdam\" by various routes, given in English miles.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8g84mp73v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[England? : s.n.], 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rotterdam (Netherlands),Maps"
+  ],
+  "dc_title_s": "Chart of the different entrances on the Dutch coast to Rotterdam",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6930277\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59f3d921-655c-4c73-b75c-9c7a0eb5a004/file/79b9d8f7-8603-4b2f-8013-93ee965cd7b7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59f3d921-655c-4c73-b75c-9c7a0eb5a004/file/18578bab-0b0f-459a-983b-f4d768085abd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2F2a%2F07%2Fac2a07ec53fe4f248bf4cf5a299b85ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b753c36-c65b-41a7-a492-931917357ca5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-59f3d921-655c-4c73-b75c-9c7a0eb5a004",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8g84mp73v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.6021, 4.5799, 52.0459, 51.5823)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-8g84mp73v"
+}

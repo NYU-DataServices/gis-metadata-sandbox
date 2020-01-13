@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"7668.\" Historic Maps copy has sheets 1-15, 34-46, 75-94 and 100-101 of Oranges series, showing East Orange, N.J.; sheets showing Irvington and Milburn foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2n49t3702",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,East Orange,Maps",
+    "East Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the Oranges, New Jersey : including Irvington and Milburn (Sheet 90)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5470001\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14707f9f-9e83-4240-8126-31b607cf681e/file/344ed230-d085-4bff-aa65-db0e1181eea5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14707f9f-9e83-4240-8126-31b607cf681e/file/20540d3d-3939-4ced-a1a7-2ea0f5eaef45\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F88%2Fcc%2F1488cc5a9cc74d52b754f3c8fe94a43b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ee6c9a90-5736-4f7d-9729-1d5ebbbb55a1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-14707f9f-9e83-4240-8126-31b607cf681e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2n49t3702",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-2n49t3702"
+}

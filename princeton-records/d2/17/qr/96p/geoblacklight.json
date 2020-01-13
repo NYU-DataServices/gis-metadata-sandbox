@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Gauttier, Pierre Henri"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr96p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris] : Au De\u0301po\u0302t-ge\u0301ne\u0301ral de la Marine, 1827.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Greece,Maps"
+  ],
+  "dc_title_s": "Carte re\u0301duite de la partie septentrionale de l'Archipel",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6329097\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88bb4da8-e51d-4b1d-bc9e-31d596c30811/file/612bf1ef-d4ff-4bbc-bcdf-59fd33524149\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88bb4da8-e51d-4b1d-bc9e-31d596c30811/file/19a4da72-0142-435a-9aa4-5fba19f3a114\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2F76%2Fc4%2F3076c4035709426683297ca3584b94bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9711deac-be11-4159-8197-b68423ff8edb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-88bb4da8-e51d-4b1d-bc9e-31d596c30811",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr96p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(21.6872, 29.1552, 41.3398, 37.6796)",
+  "solr_year_i": 1827.0,
+  "uuid": "princeton-d217qr96p"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.875000. South Decimal Degree 39.750000. East Decimal Degree -75.250000. West Decimal Degree -75.375000. Alternate title: Bridgeport, N.J.-PA. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Shoreline shown represents the approximate line of mean high water. The mean range of tide is apporoximately 5.7 feet.\"Mapped, edited, and published by the United States Geological Survey. Control by USGS, USC&GS, and New Jersey Geodetic Survey. Topography by planetable surveys 1939-1940. Revised from aerial photographs taken 1965. Field check 1967. Selected hydrogrraphic data compiled from USC&GS Charts 280 and 295 (1967). This information is not intended for navigational purposes.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/79407z77p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Bridgeport Quadrangle, New Jersey--Pennsylvania 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844634\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7fe206e9-8932-4536-bf10-7a56045ef2d6/file/05872ab1-1132-48dc-a27b-6690251c59b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35815672-deb6-40df-b810-6cd9c7245d5a/file/aa35075f-815c-45e3-88dd-3afc71d8c4c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35815672-deb6-40df-b810-6cd9c7245d5a/file/3bb396ad-231c-4bab-a88b-ec913e2c5ce7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Fee%2Fbe%2Fc8eebeda57fb452598f8486d647ac3ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e4fdfcc-3faa-40c8-b979-c22ed508163f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-35815672-deb6-40df-b810-6cd9c7245d5a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-79407z77p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.375, -75.25, 39.875, 39.75)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-79407z77p"
+}

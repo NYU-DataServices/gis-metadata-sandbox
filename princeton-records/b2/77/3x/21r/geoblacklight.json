@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Kajiki. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x21r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Kajiki, Japan, Kagoshima-ken, Kyushu A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449947\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f06fa606-e939-4b56-ad2e-00b583d9a6e0/file/20f4f32d-a85b-43f2-9013-087185098be1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8bdd6b84-cc9e-4cd4-a038-a40b73f5e873/file/d68bc9b6-d34c-4255-93bb-af63bea5d1a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8bdd6b84-cc9e-4cd4-a038-a40b73f5e873/file/baf2d155-246b-44db-baa3-2a9bd829ef51\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2F5f%2F79%2Ffb5f79c3d68f4a98ba0918c2085dcafe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/08656f04-728c-42aa-ba12-0652cf9dc773/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8bdd6b84-cc9e-4cd4-a038-a40b73f5e873",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x21r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(130.65, 130.68333333333334, 31.75, 31.716666666666665)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-b2773x21r"
+}

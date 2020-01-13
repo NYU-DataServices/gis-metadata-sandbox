@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -15.666700. South Decimal Degree -15.8333. East Decimal Degree -67.5000. West Decimal Degree -67.7500. Alternate title: Caranavi, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1v53jz84d",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : [s.n.], 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Caranavi, hoja 6046 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841532\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75884368-1e90-41c2-ab9d-705427d65cd0/file/0aaa8373-ef3a-4300-9f78-7c02e68e82ac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75884368-1e90-41c2-ab9d-705427d65cd0/file/32e407f6-21b9-4607-8043-c8e76f643be6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2Fe2%2F34%2F43e23466e6bb42509e6aed774d7e8f93%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b2a3d500-9e6a-4bf0-b2ba-e3da92065a08/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-75884368-1e90-41c2-ab9d-705427d65cd0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1v53jz84d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.75, -67.5, -15.6667, -15.8333)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-1v53jz84d"
+}

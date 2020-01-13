@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Denison, J."
+  ],
+  "dc_description_s": "Facsim. of a manuscript. Oriented with north to the right. Relief shown by hachures and shading. \"Copied from the original in the possession of the Massachusetts Historical Society, 1883.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526f86c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Boston? : s.n. : Goodspeed's Book Shop], 1883.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rhode Island, Battle of, R.I., 1778,Maps,Early works to 1800,Facsimiles",
+    "Manuscript maps,Facsimiles",
+    "Rhode Island,Maps,Early works to 1800,Facsimiles"
+  ],
+  "dc_title_s": "Map of Newport, Rhode Island, and vicinity showing the disposition of American and British forces in August 1778",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6423197\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eaa12c57-c5df-4378-9755-f8d346ce3e1d/file/349199d1-48bf-4c4c-8918-098e0fddde13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eaa12c57-c5df-4378-9755-f8d346ce3e1d/file/5f5a625f-27dd-4208-b4db-7777698deee0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F90%2F50%2F2e90506381d24cd69aaed717f9529a05%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/918162e2-0ecc-44a9-8f75-e86409600e31/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1883"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eaa12c57-c5df-4378-9755-f8d346ce3e1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526f86c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.495987, -71.183563, 41.695881, 41.445965)",
+  "solr_year_i": 1883.0,
+  "uuid": "princeton-s7526f86c"
+}

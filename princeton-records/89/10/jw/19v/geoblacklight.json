@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Central African Republic with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8910jw19v",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Central African Republic, 2001 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45ae6cf6-6320-4dcf-b50b-d39e8e823617/file/9855558e-d5be-41f0-9a83-7bf80174444b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cdf97bb-3b8b-4bbc-bdb6-d3e8bd99bd16/file/5f5f02b3-ea4b-480c-b1ba-eeba70969fe1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cdf97bb-3b8b-4bbc-bdb6-d3e8bd99bd16/file/4c6b0283-d66c-464d-852b-ba33b2e099ed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2F59%2Fb4%2F4b59b48d976540028095b12d381d88f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/71a1a8c3-d6a0-49c9-978f-fa00cc3372f4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Africa",
+    "Africa",
+    "Central African Republic"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7cdf97bb-3b8b-4bbc-bdb6-d3e8bd99bd16",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8910jw19v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 25.0, 13.0, 0.0)",
+  "solr_year_i": 2001.0,
+  "uuid": "princeton-8910jw19v"
+}

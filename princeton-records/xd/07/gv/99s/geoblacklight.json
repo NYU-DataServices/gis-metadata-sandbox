@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1886.\" Includes key, key map, streets and specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gv99s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map and Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Plainfield,Maps",
+    "Plainfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Plainfield, New Jersey (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5620472\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6bd2c46-54d8-46aa-805c-f94274994748/file/b85fd80e-b20c-4b77-8a24-a9de7a2ef841\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6bd2c46-54d8-46aa-805c-f94274994748/file/db8e2162-3c58-4175-b888-2fd007e59379\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2F1a%2F2f%2Fba1a2fcb7d5443abb501685fdcf0d587%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3988ed9a-468e-459f-b3fe-c831508555aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c6bd2c46-54d8-46aa-805c-f94274994748",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gv99s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-xd07gv99s"
+}

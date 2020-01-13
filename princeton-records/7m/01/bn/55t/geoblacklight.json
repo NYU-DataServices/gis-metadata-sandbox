@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -15.833333. South Decimal Degree -16.000000. East Decimal Degree -68.750000. West Decimal Degree -69.000000. Alternate title: Ancoraimes, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With an abbreviation key.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bn55t",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1971.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Ancoraimes, hoja 5846 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840961\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a0b73de-695e-4e7a-8528-c7b05a2f1678/file/c806939e-ff2f-4e99-b7e9-3ae310083c09\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a0b73de-695e-4e7a-8528-c7b05a2f1678/file/2e229044-c327-4e8f-94fa-1c3454331986\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2F91%2Fde%2F7591de540b8e4a59a3bcd7d4ac4e1651%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2070c52e-0c76-40c4-9c06-2440ce69e4e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1971"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1a0b73de-695e-4e7a-8528-c7b05a2f1678",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bn55t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.0, -68.75, -15.833333, -16.0)",
+  "solr_year_i": 1971.0,
+  "uuid": "princeton-7m01bn55t"
+}

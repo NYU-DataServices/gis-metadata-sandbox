@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Includes index of streets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x636r",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Esnault, 1818.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps, Tourist",
+    "Streets,France,Paris,Maps"
+  ],
+  "dc_title_s": "Plan routier de la ville de Paris et de ses faubourgs : ou se trouvent indique\u0301s tous les changemens ope\u0301re\u0301s jusqu'a ce jour avec les projets d'embellissemens, les nouvles. rues et pts. pour servir de guide aux voyageurs, divise\u0301 en 12 mairies municipales et par quartiers",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062592\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/ca63b972-d0c7-4070-96c3-0528b894f03d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/8905ee55-974d-4461-94a4-28e2359bd79b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fdc%2Fff%2F03dcff5e920b4d52ba4c964ce6c0ae58%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d067da1-4626-4fa9-bda8-5bd9dda0b3be/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0f427ad2-c539-4d70-b9fe-cce96dbfeac3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x636r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.288941, 2.386026, 48.886096, 48.829244)",
+  "solr_year_i": 1818.0,
+  "uuid": "princeton-6682x636r"
+}

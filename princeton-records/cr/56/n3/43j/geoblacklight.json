@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Le Rouge, Georges-Louis"
+  ],
+  "dc_description_s": "Relief shown pictorially.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cr56n343j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris, 1777.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "United States,Maps,Early works to 1800",
+    "United States,History,Revolution, 1775-1783,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Theatre de la guerre en Ame\u0301rique",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6365262\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6c50a2d-dccb-458f-b48b-c1ebc1978c37/file/b136935d-bc71-400c-808f-a0a0da9389d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6c50a2d-dccb-458f-b48b-c1ebc1978c37/file/cbbcccee-ebed-4282-80cb-eb38726ca4af\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9c%2Fe5%2F06%2F9ce5066d2dc446a3ab24f57d7560e3d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f9db6ba-ef2b-4557-96f9-370a12210c7a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f6c50a2d-dccb-458f-b48b-c1ebc1978c37",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cr56n343j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-88.16, -53.51, 52.51, 29.01)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-cr56n343j"
+}

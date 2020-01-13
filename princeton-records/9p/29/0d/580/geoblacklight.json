@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Switzerland. Bundesamt fu\u0308r Landestopographie"
+  ],
+  "dc_description_s": "Relief shown by shading, spot heights, and land form drawings. Distance chart in accompanying index. Alternate title: Strassenkarte der Schweiz, 1:200 000 = Road map of Switzerland, 1:200 000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290d580",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wabern [Switzerland] : Bundesamt fu\u0308r Landestopographie, 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads,Switzerland,Maps"
+  ],
+  "dc_title_s": "Strassenkarte der Schweiz = Carte routie\u0300re de la Suisse = Carta stradale della Svizzera = Charta da vias da la Svizra = Road map of Switzerland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10503591\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e6b28b3-755f-42cf-abac-3ef2ea872fd4/file/a79496d7-ee98-4f29-970d-499476dd28f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e6b28b3-755f-42cf-abac-3ef2ea872fd4/file/e6484a13-23b3-44d4-b1af-e263a0a812d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/69%2F9e%2F97%2F699e97661d174606830e541c97e189d7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/23617a58-b806-4114-8455-1def88507506/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Switzerland"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8e6b28b3-755f-42cf-abac-3ef2ea872fd4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290d580",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.956944, 10.544722, 47.818611, 45.817222)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-9p290d580"
+}

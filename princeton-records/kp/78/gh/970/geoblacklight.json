@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "General Land Office",
+    "Department of the Interior"
+  ],
+  "dc_description_s": "This is map of the south half or the State of California. It was made by the Deparment of the Interior. The north half is found in \"The State of California (Sheet 1)\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gh970",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Department of the Interior",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Indian Reserve",
+    "Private Land Grant",
+    "Military Reseve",
+    "Post Office",
+    "Forest Reserve",
+    "Light House",
+    "National Park"
+  ],
+  "dc_title_s": "The State of California (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4cb9b16d-2f67-4fb1-94da-489de9a223da/file/d5d70625-2da6-48ac-94b1-5cb9d4540ea9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba52976d-1e0b-431e-b03d-8a4ae5147a8f/file/9e11e539-e1f0-4560-8f3d-50689ab2b43d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba52976d-1e0b-431e-b03d-8a4ae5147a8f/file/5ab6e57e-afe2-4282-8055-e6ce5a7a4803\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F2e%2Faf%2Fe42eaf0f7f3f435c83cfeeaedec5915c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/512c768e-edcf-4e67-a6a7-913337bb6884/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "California",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ba52976d-1e0b-431e-b03d-8a4ae5147a8f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gh970",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-122.0, -112.0, 37.0, 33.0)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-kp78gh970"
+}

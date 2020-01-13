@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey. Department of Conservation and Economic Development.. Division of Geology and Topography. Atlas Sheet 40 (Geologic) (1931) New Jersey Geological Survey Compiled from published folios and from manuscript data in possession of the Survey. In upper margin: Atlas sheet no. 40. Base surveyed under direction of C. C. Vermeule, 1877-1887.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gh93h120v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1931.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Geological cross sections",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Geologic map of New Jersey, 1910-1912",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449139\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/48f2f0e9-29aa-4e63-99ba-d9634f247aab/file/e7b0f1e2-5558-4e56-8ea4-5297e4c86374\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/376d3dad-4f81-4238-9714-5464bd7ed569/file/563c2d6b-3b82-42de-9aeb-d2c9195eb37e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/376d3dad-4f81-4238-9714-5464bd7ed569/file/5639a03c-2a8d-4733-a3e8-a3909490846a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2F60%2F9b%2F16609b2a8a004930993fd71bb5401b8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6dba30f2-e296-4357-bf60-4612c7c0dc48/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-376d3dad-4f81-4238-9714-5464bd7ed569",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gh93h120v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1931.0,
+  "uuid": "princeton-gh93h120v"
+}

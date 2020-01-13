@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency."
+  ],
+  "dc_description_s": "This is a map of the city of Baghdad, Iraq, shown at a 1:40,000 scale. The map was created for use by Department of Defense by the National Imagery and Mapping Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sb397979q",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "National Imagery and Mapping Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "City map",
+    "Railroads",
+    "Military",
+    "Industry",
+    "Facilities and Structures",
+    "Transportation"
+  ],
+  "dc_title_s": "Baghdad.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/645c122a-ce1f-4541-b228-6969cd205c2d/file/32f0364d-9e12-4744-a494-6011fcda4e05\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afa9836f-f581-430a-8df3-fd98e4df005a/file/e0fc7b53-8632-451e-bd17-c181b6c3258e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afa9836f-f581-430a-8df3-fd98e4df005a/file/eaa922b0-61f6-456e-b06f-9d16fd4d94ca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fe2%2Fb0%2F47e2b0a9eb1d4eaf90bd37df708e9555%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3647d010-9f30-4872-9041-b22222c799e4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "G7614.B3G4.2003.N3I4",
+    "Iraq",
+    "Baghdad"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-afa9836f-f581-430a-8df3-fd98e4df005a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sb397979q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(44.1944, 44.55, 33.45, 33.1667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-sb397979q"
+}

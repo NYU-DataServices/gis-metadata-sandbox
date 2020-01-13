@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Wyld, James, 1812-1887"
+  ],
+  "dc_description_s": "Shows names of streets, urban boroughs boundaries, roads & proposed roads, railroads, drainage, & other points of interest. Originally issued in covers with index.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w677x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by Jas. Wyld, Charing Cross, East, 1872.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Postal services,England,London,19th century,Maps",
+    "Streets,England,London,19th century,Maps",
+    "London (England),Maps"
+  ],
+  "dc_title_s": "The post office plan of London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564822\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f5e6be1-da53-4ca0-b6b2-b4273f0a2a73/file/e9b3fada-01b6-431c-bc5b-820046532bd6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f5e6be1-da53-4ca0-b6b2-b4273f0a2a73/file/c52e0cd0-a16b-42b2-92bf-788770106c9a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ef%2Fc2%2Fa2%2Fefc2a20218b747d584ca79b5f28386d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e751bcbf-9bc5-4aad-8dba-288200ec8e64/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f5e6be1-da53-4ca0-b6b2-b4273f0a2a73",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w677x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.1834896151, 0.0130412038, 51.5439019692, 51.4808172512)",
+  "solr_year_i": 1872.0,
+  "uuid": "princeton-dj52w677x"
+}

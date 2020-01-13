@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. North Decimal Degree 22.483333. South Decimal Degree 22.450000. East Decimal Degree 120.483333. West Decimal Degree 120.433333. Alternate title: Toko. In upper left margin: Formosa city plans 1:10,000. Polyconic projection. Compiled in 1944 from aerial photography dated November 1943, and June 1944, by photo-planimetric method and by reference to Formosa 1:50,000, A.M.S. Sheet 2114-II, 1944. Additional information from intelligence data. Place names are transcribed according to the modified Hepburn (Romaji) System. With a glossary. Name has been changed to Tung-kang [Tungkan].",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zv971",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Taiwan,Maps"
+  ],
+  "dc_title_s": "Toko, Formosa (Taiwan), Takao-shu. A.M.S. L991",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830710\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cce8a46a-2407-4ecc-9038-8b8c463e0204/file/0d216200-a6dd-4afd-a61b-62cfef23b768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5aad3068-b8e1-44bc-88ad-a8646a5c4ddf/file/b4a8c0d4-ed97-4425-ab43-06455148b33e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5aad3068-b8e1-44bc-88ad-a8646a5c4ddf/file/f832c47b-4ae6-41c8-8724-dfc24e883698\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/37%2Fba%2F3e%2F37ba3e49d18b48948e3772c0b5150bf3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9411a7c9-2386-4454-b019-e07aa0e3bcc4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5aad3068-b8e1-44bc-88ad-a8646a5c4ddf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zv971",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(120.433333, 120.483333, 22.483333, 22.45)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-dv13zv971"
+}

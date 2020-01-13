@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Reading mit militaergeographischen Eintragungen. Grossblatt 12, Blattbereich 33. Relief shown by 25 meter contour intervals and spot elevations. Gauss-Krueger grid. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560; 1935, 1936, 1937. Major city access roads are color coded. Accompanied by booklet: \"Militaergeographische Einselangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 12 Suedost-England und London\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map). (Booklet 12 is missing.)",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ws859h26r",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1941.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "Reading (England),Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Stadtplan von Reading, BB 33",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831114\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e687706-cc4b-4ed0-9d6a-c54230db314b/file/aadfa9e4-e300-423b-a775-33c1ca03cc9a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aec3396a-a8f9-4c3f-9c49-544139509c21/file/cbc5eb62-054f-43e5-b612-27849d464e75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aec3396a-a8f9-4c3f-9c49-544139509c21/file/f8f4ff6f-7980-48f5-9edf-93d5b123a385\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F61%2F74%2Fc661740433664e4fbfeff141838b295f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb4d7bd1-b6ce-4e46-86a5-ba0905290ba2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1941"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aec3396a-a8f9-4c3f-9c49-544139509c21",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ws859h26r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.0166666666666666, -0.9333333333333333, 51.46666666666667, 51.43333333333333)",
+  "solr_year_i": 1941.0,
+  "uuid": "princeton-ws859h26r"
+}

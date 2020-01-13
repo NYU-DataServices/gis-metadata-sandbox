@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Skeleton maps of Atlantic City; sheets are numbered 9-20 and 27-38.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7h149s21b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1906]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Atlantic City : skeleton (Sheet 20)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5654073\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9bbdc809-aa98-4940-8a88-52d5fc4ebd3a/file/3a653faa-854a-4e34-9669-dde77a1f7cf9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9bbdc809-aa98-4940-8a88-52d5fc4ebd3a/file/5e3c6354-ccc2-4932-94d0-d87de84c0544\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F1f%2Fda%2F731fda2a11fc411aa5a27c31b14d35b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57ecfadd-ef3c-40c7-b6d2-59acda9d7d62/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9bbdc809-aa98-4940-8a88-52d5fc4ebd3a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7h149s21b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501592, -74.402886, 39.417678, 39.335544)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-7h149s21b"
+}

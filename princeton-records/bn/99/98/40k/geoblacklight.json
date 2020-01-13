@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Norwich Quadrangle in Connecticut shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bn999840k",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Contour",
+    "historical maps",
+    "Boundaries",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "Connecticut: Norwich sheet [1934 reprint]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64086563-6c35-4b0e-92dd-55ae6486f8f7/file/fb628309-ba9a-4251-a7d4-5b94c1452067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a35a7946-ac15-443d-b170-3f8f535c5410/file/1e5f6c79-c18c-431d-bf7d-2b3e50be8ea9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a35a7946-ac15-443d-b170-3f8f535c5410/file/6f845d5b-3053-4cf3-bed9-a3b0f472473d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F3f%2F81%2F733f81a15756460a9f853a9ebe43cd6a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/76c5c699-3bf4-4c6f-b2b9-ee83d58d8852/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "Tolland County",
+    "Norwich",
+    "Windham County",
+    "New London County",
+    "United States",
+    "MC  G3781.C2.s62.U5G4 Norwich (1934)"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a35a7946-ac15-443d-b170-3f8f535c5410",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bn999840k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.25, -72.0, 41.75, 41.5)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-bn999840k"
+}

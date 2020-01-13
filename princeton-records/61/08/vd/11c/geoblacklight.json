@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheet 1; issued in vol. 1 of New Jersey coast map series. \"N.J. coast vol. 1.\" Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6108vd11c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Long Branch,Maps",
+    "West Long Branch (N.J.),Maps"
+  ],
+  "dc_title_s": "West Long Branch (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4810031\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c89a48b7-2486-4f0c-953e-9d3f64cac3cf/file/168423d9-ced3-43f9-bf0a-37de942efacb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c89a48b7-2486-4f0c-953e-9d3f64cac3cf/file/86714539-92ec-4921-9dda-595a8887803e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F57%2Fb0%2F6157b0905717426bb7f3aad7ef38cc36%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9c6b9ccc-13ab-4807-899a-2b25b4df181b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c89a48b7-2486-4f0c-953e-9d3f64cac3cf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6108vd11c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.01258, -73.975135, 40.329783, 40.260767)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-6108vd11c"
+}

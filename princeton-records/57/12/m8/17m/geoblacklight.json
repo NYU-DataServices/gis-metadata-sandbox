@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4379 Great Britain. Inter-Service Topographical Department In upper left margin: Sicily 1:5,000. From uncorrected air photographs of 1943. Fathom lines from Italian chart 186 of 1935. Lambert conformal conic projection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m817m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bathymetric maps",
+    "Mazara del Vallo (Italy),Maps"
+  ],
+  "dc_title_s": "Mazara del Vallo. G.S.G.S. 4379",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449673\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/67092fcc-e1ac-4519-ba9c-30f05e47fe80/file/d52971d8-45f3-4e29-b30c-1df78bb69dfd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c755338e-0dec-4847-92f9-6867844cfaaf/file/17597198-9207-459e-9e90-25e7ff9bde11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c755338e-0dec-4847-92f9-6867844cfaaf/file/f9e79c54-dea7-408f-8201-ed2eccc04a4e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/56%2Fce%2F73%2F56ce73ecf4d4433c9fe8e02a4e841520%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec2aeab2-f1c1-4d5c-9145-dbb24c939f18/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c755338e-0dec-4847-92f9-6867844cfaaf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m817m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.55, 12.633333333333333, 37.68333333333333, 37.61666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-5712m817m"
+}

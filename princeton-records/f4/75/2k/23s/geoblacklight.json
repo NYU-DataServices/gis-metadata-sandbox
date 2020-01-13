@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of the Kyffha\u0308user Mountains in the German state of Thuringia. Relief shown by shading. From: Fu\u0308hrer durch das Kyffha\u0308usergebirge ... Berlin : Albert Goldschmidt, 1899.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f4752k23s",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Verlag v. Albert Goldschmidt, [1899] (Berlin : Lith. Anst. v. L. Kraatz)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Kyffha\u0308user Mountains (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Der Kyffha\u0308user",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7399896\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d85d814-9a3f-4a9c-8e40-2eee8514fd42/file/4e3f5cb2-8fcb-4d17-b5d4-1c010932c50f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d85d814-9a3f-4a9c-8e40-2eee8514fd42/file/da814760-f60b-4d76-944c-528f494f890b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F15%2Fe8%2F0815e80006f74a76b7b04b7c735021ed%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3d18e168-4c62-45d2-bb30-7503c071c61a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d85d814-9a3f-4a9c-8e40-2eee8514fd42",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f4752k23s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.99374, 11.170551, 51.442414, 51.346418)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-f4752k23s"
+}

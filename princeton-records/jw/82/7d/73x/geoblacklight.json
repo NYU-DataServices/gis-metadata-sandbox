@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Shows main roads and numbered historic sites associated with George Washington.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jw827d73x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Princeton, N.J. : the Committee, c1932.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Washington, George, 1732-1799,Travel,New Jersey",
+    "Princeton, N.J.,Maps"
+  ],
+  "dc_title_s": "Map of historic Princeton",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5537077\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/430b6787-bd32-4b64-9304-653977d516f8/file/1ec01ba2-4f26-43f0-92c2-bbab2a03c914\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/430b6787-bd32-4b64-9304-653977d516f8/file/463444b7-95fd-48fa-b373-ddb1f675cbb3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F5b%2F27%2F145b2742f6c24e40b022215041f9d203%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3da70230-17ed-4896-b78b-29275d0b235d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1932"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-430b6787-bd32-4b64-9304-653977d516f8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jw827d73x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.687653, -74.612744, 40.391755, 40.325224)",
+  "solr_year_i": 1932.0,
+  "uuid": "princeton-jw827d73x"
+}

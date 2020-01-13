@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: N.Y. Babyon. Polyconic projection. Relief shown by 20 feet countour interval. Surveyed in 1901 in cooperation with the State of New York. Triangulation and shoreline topography by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8623j028k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Babylon (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Babylon Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867667\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/df8966eb-3957-4e2b-b852-dcc8ff94b0c4/file/39be92d7-b183-4b08-99ec-a501b8852ca8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e01f38a-3682-48c7-a7f2-ef2466fc765c/file/ef53b071-9a8a-4a92-bfa0-cc5ba28e638a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e01f38a-3682-48c7-a7f2-ef2466fc765c/file/e6fe8d50-3176-4c76-9e5b-e85419093b46\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F20%2F09%2F1b20097218344821973689b1568d64f0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ae0454e-6631-4091-a27e-c2bbf7d7b8fc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8e01f38a-3682-48c7-a7f2-ef2466fc765c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8623j028k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 40.75, 40.5)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-8623j028k"
+}

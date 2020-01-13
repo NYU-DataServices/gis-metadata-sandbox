@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Evans, Lewis, 1700?-1756"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d361w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : R. Sayer & J. Bennett, no. 53 Fleet Street, 15th Oct. 1776.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies,America,18th century",
+    "Middle Atlantic States,Maps,Early works to 1800",
+    "New England,Maps,Early works to 1800",
+    "United States,History,Revolution, 1775-1783,Maps"
+  ],
+  "dc_title_s": "A general map of the middle British colonies, in America, containing Virginia, Maryland, the Delaware counties, Pennsylvania and New Jersey : With the addition of New York, and of the greatest part of New England, as also the bordering parts of the province of Quebec, improved from several surveys made after the late war, amd corrected from Governor Pownall's late map 1776 (Copy 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5942336\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71194cb0-bb79-4915-bb3d-88b58e1f5a2f/file/9207fadc-978d-4bdf-9b7e-fe989caea6bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71194cb0-bb79-4915-bb3d-88b58e1f5a2f/file/fa10790c-14ab-48ed-95fb-e6d03d5b727f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2Fb2%2Fa2%2Fbab2a2621e1649ac83d739b80487782b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1def447a-9839-4555-8676-af147e52c1a0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "United States",
+    "Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-71194cb0-bb79-4915-bb3d-88b58e1f5a2f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d361w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.34, -70.33, 45.84, 36.25)",
+  "solr_year_i": 1776.0,
+  "uuid": "princeton-4j03d361w"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1894. Triangulation by U.S.C. and G.S. Philadelphia, and Geol. Survey of New Jersey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0z708x990",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Philadelphia (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania-New Jersey: Philadelphia sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868478\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/117a0c31-4cf4-4150-be59-fafa35443479/file/d9773703-24b2-4e79-9cd9-66b82571530c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d05bb28-b61b-4645-8638-28bde25aeb43/file/fb961f10-f416-4afa-8182-45f63102f1a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d05bb28-b61b-4645-8638-28bde25aeb43/file/316c06b3-9205-4e41-bfde-81f0419d177f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F86%2Fea%2F3b86eaafe7f246619f5c6d2b2a7c3a71%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d92b12a3-fb5e-41e0-84ba-e714825d4d07/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d05bb28-b61b-4645-8638-28bde25aeb43",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0z708x990",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 40.0, 39.75)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-0z708x990"
+}

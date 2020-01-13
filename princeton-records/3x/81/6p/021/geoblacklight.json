@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service, A.M.S. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no.3789. British grid deleted and world polyconic grid added by AMS, 1944. In upper margin: \"Eastern China 1:50,000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816p021",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "China,Maps"
+  ],
+  "dc_title_s": "Shanhaikuan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830400\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a573fedc-2b57-40e2-b704-13cb290f1bb5/file/06e0aad3-5f77-4296-9f7f-5f20ba855f7a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bd61a12-b58f-4973-b073-266843798263/file/4b800635-2555-4279-98e9-260277be3a0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bd61a12-b58f-4973-b073-266843798263/file/dd85e0ac-e3b1-431a-8bdd-88bf7cca4c2f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F6b%2F6a%2F5b6b6a12870642f3ba41c85355306abe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6e44b5f-11f5-4252-b6cc-39b1ae6a3a60/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2bd61a12-b58f-4973-b073-266843798263",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816p021",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(119.48333333333333, 119.96666666666667, 40.11666666666667, 39.85)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-3x816p021"
+}

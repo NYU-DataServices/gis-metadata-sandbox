@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sept. 1895.\" Includes key and text. \"8183.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x609v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Barnegat,Maps",
+    "Barnegat (N.J.),Maps"
+  ],
+  "dc_title_s": "Barnegat, Ocean Co., N.J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571104\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdbd753f-12dd-4028-9c64-6072e9a3f0ba/file/b1cb2eef-1b90-475e-828a-75d3ff207898\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdbd753f-12dd-4028-9c64-6072e9a3f0ba/file/5fb677ee-db7e-4c76-a8cb-4c75c1fde204\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2Fa3%2F36%2F7aa3367af254442a9b955c742afdc5b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9347fb91-1f49-4901-9109-00809a2c6e56/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bdbd753f-12dd-4028-9c64-6072e9a3f0ba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x609v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.417164, -74.145381, 39.828045, 39.704874)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-6682x609v"
+}

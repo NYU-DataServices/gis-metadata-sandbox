@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1901.\" \"4798.\" Includes key and text. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354h341",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodbridge,Maps",
+    "Woodbridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodbridge, Middlesex Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5544154\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6839240-a3dc-4753-a905-031513681e33/file/73dea112-0457-4cdb-9409-b76744c6bfa2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6839240-a3dc-4753-a905-031513681e33/file/2013c1c6-b716-4b19-9c04-99b9a994d19e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2F97%2Fc4%2F1f97c4ef2c9d44fd8ed000d0626e3e43%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0895728d-e6de-4ec9-84ce-f3db5b15b638/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b6839240-a3dc-4753-a905-031513681e33",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354h341",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-0g354h341"
+}

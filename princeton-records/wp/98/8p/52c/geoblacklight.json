@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "From: Geological survey of New Jersey : maps. [Trenton, N.J. : State Geologist, 1868]. Includes 8 cross sections.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988p52c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : Geologial Survey of New Jersey, 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology,New Jersey,Maps",
+    "Geology, Stratigraphic,Cretaceous,Maps",
+    "Marl,New Jersey,Maps",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "Cretaceous formation : including the green-sand marl beds [sheet 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7408665\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e1ffd1d-17a8-4f13-9ee6-a70a81bf2ce6/file/f9d885be-81fd-48f4-ad38-b298b1bd17e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e1ffd1d-17a8-4f13-9ee6-a70a81bf2ce6/file/bc81c7f5-2266-479b-98d4-38afc43fc342\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/10%2F03%2F4f%2F10034fac3e6f49d696942cfecf1fe354%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca4f836a-cb8e-4e00-8bb1-30b39d4a368b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e1ffd1d-17a8-4f13-9ee6-a70a81bf2ce6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988p52c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-wp988p52c"
+}

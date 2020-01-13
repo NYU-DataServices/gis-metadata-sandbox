@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -17.333333. South Decimal Degree -17.500000. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Umala, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xs55md93x",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Umala, hoja 5941 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5225a486-4e03-435a-b8a7-ff1c30c838f9/file/245a1a0a-02ae-4f00-9329-326ac1f423d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5225a486-4e03-435a-b8a7-ff1c30c838f9/file/483e4816-13d7-437b-ae73-87623a848b7e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/11%2F52%2Fcd%2F1152cdad38734eda960dd584fd93115d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d1311ae-d183-4be6-bff2-3136d8370e98/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5225a486-4e03-435a-b8a7-ff1c30c838f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xs55md93x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -17.333333, -17.5)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-xs55md93x"
+}

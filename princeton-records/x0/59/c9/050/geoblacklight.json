@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1895.\" \"87.\" Includes key, specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c9050",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co. Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pennington,Maps",
+    "Pennington (N.J.),Maps"
+  ],
+  "dc_title_s": "Pennington, Mercer Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4598799\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc81170a-ee1c-43de-a204-d76d1a026058/file/6009b692-091e-40a1-8678-845a08095cc1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc81170a-ee1c-43de-a204-d76d1a026058/file/e3c94990-1c79-442d-8600-82e110d059fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2Ff8%2F98%2F3bf8982ba0ad423b9d77160610b8df0f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e5b3d930-8af5-4755-acdd-3f3a86a1e9bd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cc81170a-ee1c-43de-a204-d76d1a026058",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c9050",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.7934, -74.789, 40.3325, 40.3239)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-x059c9050"
+}

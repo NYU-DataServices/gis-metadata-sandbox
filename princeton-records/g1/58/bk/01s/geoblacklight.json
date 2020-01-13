@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Wellsville, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1923-1924. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bk01s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1926.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: (Allegany County) Wellsville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868422\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f9c8ca32-4123-4891-ae8b-7ec6aed5d353/file/676020ac-26f9-4601-a5df-2f1a6a06392e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80d336e5-1d08-43fc-b878-185778f5296f/file/51a11e40-7196-41c0-86fc-d349eeaf2042\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80d336e5-1d08-43fc-b878-185778f5296f/file/9acea1df-320e-4aa2-a6f7-989dbbdbf3ac\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F02%2Fca%2Fdf02caa0a3694e919f9d92df68d93920%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ebb03e3-24bd-4f94-b1fa-facd71bcfa94/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-80d336e5-1d08-43fc-b878-185778f5296f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bk01s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 42.25, 42.0)",
+  "solr_year_i": 1926.0,
+  "uuid": "princeton-g158bk01s"
+}

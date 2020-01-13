@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Antwerp. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1908-1909. Surveyed in cooperation with the State of N.Y. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs15s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Antwerp (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Antwerp Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866534\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/53a825f9-166d-4a1e-8478-cf116f368263/file/fb551d88-3296-4a00-8b14-881241d3297f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1850bdfb-ac07-4879-a068-c457e78757ea/file/9b16542f-9676-43ff-bb3e-2e485e2623a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1850bdfb-ac07-4879-a068-c457e78757ea/file/5af60ccb-ae6a-47e3-ac49-23066571b8b6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/60%2F82%2F47%2F608247ab731d40fbb2fc684ed203538a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eb3a3a6d-e80b-41c5-99c1-6f848a46a1a9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1850bdfb-ac07-4879-a068-c457e78757ea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs15s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 44.25, 44.0)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-st74cs15s"
+}

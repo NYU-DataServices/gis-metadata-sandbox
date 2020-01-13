@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1912.\" Includes key, specials index, and text. \"4479.\" North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sm413",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Milford,Maps",
+    "Clinton (N.J.),Maps"
+  ],
+  "dc_title_s": "Milford, Hunterdon County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4788198\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/022f9c0d-733a-40e7-93ad-3bd30edf5d33/file/8ee07a02-4966-4df5-b543-4ba6d2ee80c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/022f9c0d-733a-40e7-93ad-3bd30edf5d33/file/00da6aa7-091f-4973-b331-ab3b95068fca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F8f%2Fd4%2Fe88fd473d9f44b22b22ae952206ab472%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/11ade565-c4e5-48b2-bb43-83747c6ddc11/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-022f9c0d-733a-40e7-93ad-3bd30edf5d33",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sm413",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.103003, -75.078757, 40.578277, 40.556343)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-5t34sm413"
+}

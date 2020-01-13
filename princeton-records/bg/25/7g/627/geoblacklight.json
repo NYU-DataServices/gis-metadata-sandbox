@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Rybnik, Poland, shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257g627",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Poland 1:100,000. A.M.S M651. Rybnik, sheet T-13.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/29a13eb9-46aa-472a-8c75-684693e8d7b1/file/1159ab7f-292c-4d44-a084-8f095a6de695\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91f8b4d9-f8ba-46e4-806b-df346fb92ed3/file/f35c36ec-aa9d-4ae3-835a-f8e14282ea0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91f8b4d9-f8ba-46e4-806b-df346fb92ed3/file/dcb660d2-d5f6-49da-8667-11b20d69bda3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2F3f%2F4a%2Fec3f4a48aef944c8a7331d02a036410e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b720eb4-8b09-4f2c-a2f4-36a0f5829f0e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Rybnik",
+    "Poland",
+    "G6521.C2.s100.A7M3 T-13"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-91f8b4d9-f8ba-46e4-806b-df346fb92ed3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257g627",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.3333, 19.3333, 50.25, 49.75)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-bg257g627"
+}

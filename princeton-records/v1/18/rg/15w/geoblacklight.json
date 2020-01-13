@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. National Imagery and Mapping Agency Alternate title: Tivat. Transverse Mercator projection.Relief shown by 20 meter contour intervals and spot elevation. \"Map information as of 1994.\" This sheet falls within NK 34-04, 1501A, 1:250,000 and 2879 IV, M709, 1:50,000. Reprinted by NIMA 5-00.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v118rg15w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1995.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geomorphology",
+    "Topographic maps",
+    "Montenegro,Maps"
+  ],
+  "dc_title_s": "Montenegro city graphic 1:25,000. Tivat. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449576\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2419e586-34ce-4220-a6ef-0915d913bcf5/file/2978300a-2524-4374-b342-e143932cd2e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c5fcebd-2711-4ba1-8f8d-cd20add9b12d/file/e33351e7-34ea-491a-bb22-3b8612aa5a59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c5fcebd-2711-4ba1-8f8d-cd20add9b12d/file/27ab296d-7fa0-403b-8649-855ad02418a3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F15%2F31%2F6b1531c7a52148b791c39e6edadca513%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25fe5045-37de-40a4-8c4d-b33d2c69362c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9c5fcebd-2711-4ba1-8f8d-cd20add9b12d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v118rg15w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(18.616666666666667, 18.766666666666666, 42.483333333333334, 42.36666666666667)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-v118rg15w"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1915.\" Includes location map, key, streets and specials index, and text. \"907.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x346d569t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Delanco,Maps",
+    "Delanco (N.J.),Maps"
+  ],
+  "dc_title_s": "Delanco, Burlington County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5070859\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a841d386-48fb-4b9b-8d7e-da1a82218214/file/197ee13c-6245-4f05-95d6-8068965ac840\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a841d386-48fb-4b9b-8d7e-da1a82218214/file/bcf9efe8-9a56-44ee-9cb0-1c7687fa98bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F10%2F33%2Fb11033b7de8f4972b87970ed275a2747%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/62c0f97a-b96a-4cae-92ff-1cd20ffaa81a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a841d386-48fb-4b9b-8d7e-da1a82218214",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x346d569t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.979, -74.927, 40.067, 40.029)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-x346d569t"
+}

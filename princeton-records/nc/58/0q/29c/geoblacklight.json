@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. Directorate of Colonial Surveys"
+  ],
+  "dc_description_s": "Relief shown by spot heights. Includes inset location map. Map shows international, inter-territorial, provincial and distric boundaries, two classes of roads and railways \"D.C.S. 17/24; 10,500/4/48 S.P.C. Original map is filed in the Map/Geospatial Center, a map reproduction is attached to companion volume. Map upper right indicates that the map number is \"24\". Original map (copy 1) is filed in the Map/Geospatial Center, a map reproduction is attached to companion volume. Map upper right indicates that the map number is \"24\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580q29c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : War Office. [General Staff. Geographical Section], 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies,Maps",
+    "Malawi,Maps",
+    "Malawi,Administrative and political divisions,Maps",
+    "Great Britain,Colonies"
+  ],
+  "dc_title_s": "Nyasaland Protectorate",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9202407\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c27f1cf-b056-41c3-b8d8-5d7d570ae314/file/f190e1a9-6c05-4bf2-b649-c77af13f043e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c27f1cf-b056-41c3-b8d8-5d7d570ae314/file/fd29b749-d4bf-4153-9d41-b061cbcf9be2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F83%2Fde%2Fa783defb0974410c9176d942ae51844c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d6fc5dfa-02ca-45a1-9a8e-fe32d363504d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c27f1cf-b056-41c3-b8d8-5d7d570ae314",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580q29c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.6725, 35.918333, -9.367222, -17.129444)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-nc580q29c"
+}

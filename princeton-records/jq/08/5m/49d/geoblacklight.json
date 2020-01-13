@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1902.\" Includes key, streets and specials index, and text. \"5395\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085m49d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Carlstadt (N.J.),Maps"
+  ],
+  "dc_title_s": "Carlstadt, Bergen Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5223663\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d39fb5d-46c0-4f81-8c5c-49d11adbb98c/file/0902d61b-1f9d-46df-82ea-86a70ca00bbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d39fb5d-46c0-4f81-8c5c-49d11adbb98c/file/45ea2cfa-6eb1-46ca-ada7-8b4c033a29d4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2F12%2F3c%2F9e123c49480d402c9d1086effc9b5dc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf08ba49-520c-4ee3-932a-f20d9e9d4d0f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9d39fb5d-46c0-4f81-8c5c-49d11adbb98c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085m49d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.103, -74.031, 40.85, 40.807)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-jq085m49d"
+}

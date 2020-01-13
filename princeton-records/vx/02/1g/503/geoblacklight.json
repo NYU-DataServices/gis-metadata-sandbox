@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1915.\" Includes text. Sheets 22 and 28-30 of Hackensack, N.J. series. Sheets 29 and 30 show Teaneck Township.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vx021g503",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1915]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bogota,Maps",
+    "Real property,New Jersey,Teaneck,Maps",
+    "Bogota (N.J.),Maps",
+    "Teaneck (N.J.),Maps"
+  ],
+  "dc_title_s": "Bogota (Sheet 22)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5228883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd5d54cc-40fe-4d52-8006-4c85720a20d1/file/42241287-45f4-4f9d-bb92-e056fcf4bc52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd5d54cc-40fe-4d52-8006-4c85720a20d1/file/bce0ea2e-83b1-4282-8915-3f1fec6674e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F2d%2F54%2F8a2d54c6ce6344b1afcc8b2b6c26deef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/39c78004-887e-4af9-b061-5b45c2a698ae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cd5d54cc-40fe-4d52-8006-4c85720a20d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vx021g503",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.04, -74.021, 40.885, 40.866)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-vx021g503"
+}

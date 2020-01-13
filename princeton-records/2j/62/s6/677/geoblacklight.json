@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France Explanatory text: 1 sheet in MC folder. North Decimal Degree 49.8572 South Decimal Degree 49.4975 East Decimal Degree 2.7823 West Decimal Degree 1.8921 Alternate title: Montdidier. Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s6677",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Montdidier",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518410\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/515e0afb-ab38-4de6-8783-129a32f14293/file/ab9d252a-fb2a-4841-b865-1e9de499201a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/515e0afb-ab38-4de6-8783-129a32f14293/file/67839e2c-804f-4cf0-802d-28a4c153f133\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F3b%2Ff4%2Fd93bf42faf82405cbe78c233c717f69e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eea5383c-22aa-4198-bbee-311f4c0a20ce/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-515e0afb-ab38-4de6-8783-129a32f14293",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s6677",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.8921, 2.7823, 49.8572, 49.4975)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-2j62s6677"
+}

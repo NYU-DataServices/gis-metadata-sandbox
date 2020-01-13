@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1902-1903. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zw12z6912",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Nineveh (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Nineveh Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867154\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b49728dc-7ecb-4c1e-958d-fa2d0a5024aa/file/72f8dd8a-976e-4282-a43e-985ce4fcff91\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a42385bc-22ac-4631-866f-5209cd9e1367/file/29e61f3d-5799-415d-ba6d-a905ffff0672\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a42385bc-22ac-4631-866f-5209cd9e1367/file/6a1e977c-a9d5-4c26-b06a-f431850a6b4d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2Fa8%2Fe0%2Ff6a8e006778b4c3292fb944fbeeb99a6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6a8bb47-725b-4446-9138-b09e044194f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a42385bc-22ac-4631-866f-5209cd9e1367",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zw12z6912",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 42.25, 42.0)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-zw12z6912"
+}

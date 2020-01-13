@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Tardieu, P. F. (Pierre Franc\u0327ois), 1757-1822"
+  ],
+  "dc_description_s": "Relief shown pictorially. In upper right-hand corner: No. 139. From: Atlas nouveau / Edme Mentelle. Paris, 1782.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q844",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : Mentelle, 1782]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hispaniola,Maps,Early works to 1800",
+    "Jamaica,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carte des isles de la Jamai\u0308que et de St. Domingue",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868342\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24547159-6a4e-43b7-9bcd-1d1364ff57de/file/6ea6bf99-afae-4787-b5c9-58ddd33503a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24547159-6a4e-43b7-9bcd-1d1364ff57de/file/15831f70-2cb7-4beb-b04b-7aa6ca8c6d0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/11%2F8a%2F7f%2F118a7f3d646945899300c082d940f223%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/efc74e8c-5bfc-404b-a234-5a6bb355a970/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Hispaniola",
+    "Jamaica"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24547159-6a4e-43b7-9bcd-1d1364ff57de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q844",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.3757, -68.3123, 22.3427, 15.6683)",
+  "solr_year_i": 1782.0,
+  "uuid": "princeton-b8515q844"
+}

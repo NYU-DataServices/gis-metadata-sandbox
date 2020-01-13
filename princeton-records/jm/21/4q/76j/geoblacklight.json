@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1902.\" Includes key, specials index, and text. Oriented with the north to the upper left. \"No. 5549\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jm214q76j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hopewell,Maps",
+    "Hopewell (N.J.),Maps"
+  ],
+  "dc_title_s": "Hopewell, Mercer Co., New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4597545\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54eb5833-8efe-4254-b942-4ff67b1de914/file/0e75490a-95f2-463f-bc6e-ad96fad7bf31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54eb5833-8efe-4254-b942-4ff67b1de914/file/2fca03c0-8328-46ca-86e5-8bd1659b2e71\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F75%2F3c%2Fed753c65f3644912a318922180275a4b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b38a5b9-2854-4a2d-b902-298b5ae9db42/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-54eb5833-8efe-4254-b942-4ff67b1de914",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jm214q76j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-jm214q76j"
+}

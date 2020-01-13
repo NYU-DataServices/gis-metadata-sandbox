@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Piazzetta, Giovanni Battista"
+  ],
+  "dc_description_s": "Double hemispherical world map with female figures representing the four continents. Probably issued in: Atlante novissimo ... / del Sig. Guglielmo de L'Isle ... In Venezia : Presso Giambatista Albrizzi q. Gir., [1740-1750]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jw827d404",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Venice? : Giovanni Battista Albrizzi?, 1750?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "Mappamondo, o sia, Descrizione generale del globo terrestre ed acquatico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4496548\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dfaafe51-f888-47aa-bd87-6593900b48b4/file/cd9ec741-b8d1-4e9d-a0cf-46278b349b22\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/beef6ea9-83f2-4713-8485-129f98903f09/file/cf4e7a43-8cdf-43a3-9db2-7dd79cd2b69a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/beef6ea9-83f2-4713-8485-129f98903f09/file/f6da7ced-5fc1-4cad-91a2-b61db9c1e820\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2Ff4%2F38%2F74f4388a0f084736b13aefa75ca584ba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30ceedcf-3ac7-45b5-979e-727d634a4c7a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1750"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-beef6ea9-83f2-4713-8485-129f98903f09",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jw827d404",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1750.0,
+  "uuid": "princeton-jw827d404"
+}

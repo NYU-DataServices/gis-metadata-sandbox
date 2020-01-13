@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Gaebler, Eduard, 1842-1911"
+  ],
+  "dc_description_s": "Map of the western part of the Taunus Mountains, including Mainz and Wiesbaden. Relief shown by hachures and spot heights. In lower margin: Ausfh\u0308hrung v. Ed. Gaebler's geogr. Institut Leipzig. From: Fu\u0308hrer durch den Taunus / Herausgegen von Leo Woerl. Leipzig : Woerl's Reisebu\u0308cherverlag, 1901.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rn82x",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1901]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Taunus (Germany),Maps"
+  ],
+  "dc_title_s": "Der Taunus (westlicher Teil)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7394068\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0114e35-3565-49a4-9119-bb446d3f9276/file/e1dd2568-1603-4194-aa78-938bcf650158\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0114e35-3565-49a4-9119-bb446d3f9276/file/c8daf9cd-62e0-4404-b540-ace8d70a002c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F3b%2Fca%2F823bcaec25874da18bdcec246b12c4d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c1552a29-5d3a-44e8-9ab1-5c2d54988af5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0114e35-3565-49a4-9119-bb446d3f9276",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rn82x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.029189, 8.400149, 50.225159, 49.966815)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-d504rn82x"
+}

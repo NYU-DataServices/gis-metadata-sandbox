@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.166667. South Decimal Degree -19.333333. East Decimal Degree -68.250000. West Decimal Degree -68.500000. Alternate title: Villa Vitalina, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1523",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1973.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Villa Vitalina, hoja 5936 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841302\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ed5ca77-b6fb-4562-afd3-e2940c2b2012/file/113d8c98-dd2b-4dd9-8a42-9fcd6c238d3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ed5ca77-b6fb-4562-afd3-e2940c2b2012/file/cc192345-f380-401c-aadf-7be613f5c77a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Fa1%2F87%2F57a187427c76457095495af4203e510b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d84bed48-40d4-4be3-8465-2215e192018b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7ed5ca77-b6fb-4562-afd3-e2940c2b2012",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1523",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.5, -68.25, -19.166667, -19.333333)",
+  "solr_year_i": 1973.0,
+  "uuid": "princeton-4j03d1523"
+}

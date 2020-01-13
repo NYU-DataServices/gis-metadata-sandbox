@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "US Census Bureau, Geography Division"
+  ],
+  "dc_description_s": "Voting districts in Maine based on the US decennial Census of 2010. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/3r074z451",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Maine voting districts from 2010 Census",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d9a6d31-c0e2-44f0-a39d-d8eeaa8802be/file/4608809e-ee0a-4d88-aec5-0eae18b99546\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cf9f8af-0ad9-4b1f-bee6-0e24b0c2add5/file/2e52d018-aa01-4d89-9afe-a9de4e4f5128\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cf9f8af-0ad9-4b1f-bee6-0e24b0c2add5/file/9dc73dc1-ba7f-4eb2-80f3-d5410c093a07\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-7cf9f8af-0ad9-4b1f-bee6-0e24b0c2add5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3r074z451",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.083924, -66.885444, 47.459854, 42.917126)",
+  "solr_year_i": 2010.0,
+  "uuid": "princeton-3r074z451"
+}

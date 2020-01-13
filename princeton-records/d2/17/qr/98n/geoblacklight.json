@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Relief shown by form lines and spot heights. In upper margin: Karte von Mesopotamien und Syrien. \"1b.\" Includes guide to adjoining maps. \"Nur fu\u0308r den Dienstgebrauch! Nachdruck sowie Benutzung zur Bearbeitung anderer Karten verboten.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr98n",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Kartogr. Abteilung der Kgl. Preuss. Landesaufnahme, Mai 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Aleppo (Syria : Province),Maps"
+  ],
+  "dc_title_s": "Aleppo",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7048027\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/bb4d4c8b-60fb-4f2c-8d5c-7f06a6efe18b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/276a5b76-84df-4c86-98c2-140b03820f6b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/37%2Fd9%2Fe3%2F37d9e3a0f0d74bae9b3154f90de756e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a9650c36-d28b-4df8-a192-c24095825411/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Syria"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d767fe86-6d52-42f9-82b3-9ab0acf66153",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr98n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(36.0132, 38.5071, 38.0102, 36.0124)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-d217qr98n"
+}

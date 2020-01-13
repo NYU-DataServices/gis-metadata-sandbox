@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1915.\" Includes location map, key, streets, specials, villas, estates, &c index, and text. \"821.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s647b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Englewood,Maps",
+    "Englewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Englewood, Bergen County, New Jersey (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5247018\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63845828-ec7b-4392-93bd-44a55efe13ce/file/f89b4d65-c38c-45a7-bf69-35c12e5dba74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63845828-ec7b-4392-93bd-44a55efe13ce/file/d3bec3ac-248e-4682-a254-cfc60a508be7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2Fa1%2F7a%2Fa7a17a1825f94a80a771d63879dc0dda%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd90ab11-986a-4abb-a00d-3655fde91601/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-63845828-ec7b-4392-93bd-44a55efe13ce",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s647b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-2j62s647b"
+}

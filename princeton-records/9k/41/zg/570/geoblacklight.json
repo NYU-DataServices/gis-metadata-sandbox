@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Gordon, Thomas, 1778-1848"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg570",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Published by the author ; Philadelphia : H.S. Tanner, 1828.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "A map of the state of New Jersey : with part of the adjoining states",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5581015\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/493ca7a7-cea1-451b-8248-27632a9fe120/file/d9239465-0646-4735-9b7a-dd02fd1e4fd1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/493ca7a7-cea1-451b-8248-27632a9fe120/file/1154dade-1661-49d8-bd06-6b63f7a8d8d1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F92%2F44%2Fe1924414d8ce41858d2e11108779eaa7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10aaff84-a206-422c-b275-387e10295c5d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1828"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-493ca7a7-cea1-451b-8248-27632a9fe120",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg570",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.758335, -73.839161, 41.40842, 38.90018)",
+  "solr_year_i": 1828.0,
+  "uuid": "princeton-9k41zg570"
+}

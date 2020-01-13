@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1900 in cooperation with the State of New York. Triangulation by W.T. Griswold. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6w924d36b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Canandaigua (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Canandaigua Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867696\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a4645c4-eea8-479a-897f-2c90e0b19828/file/f6776b57-d8ce-4130-97eb-7885b1c8dfd4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ff86056-ef4b-44ea-be48-39a3c5be22ec/file/62d96f33-ee26-4774-9303-8fb0e8add3b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ff86056-ef4b-44ea-be48-39a3c5be22ec/file/5c49e100-5447-4282-adba-3b5468054180\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F16%2F8a%2Fed168aca273949eea16a3edfcedc33a5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1de33a2-4cff-40f0-8b4e-ccba76ba1530/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6ff86056-ef4b-44ea-be48-39a3c5be22ec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6w924d36b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 43.0, 42.75)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-6w924d36b"
+}

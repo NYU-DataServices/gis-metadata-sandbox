@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Dedham, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1884-8. Surveyed in cooperation with the state of Massachusetts. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m613n020z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Dedham (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Dedham sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837223\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db5c9397-3abd-41fc-b520-436e9711316f/file/d16ba5a5-e873-4ca0-b47a-65fe8048ae5a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73bd3305-ce91-4717-b743-b4e8528b882f/file/aebefc4f-36af-42f7-8ae0-256080cd2c12\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73bd3305-ce91-4717-b743-b4e8528b882f/file/226eca2b-869e-4253-b66d-2240a717f88e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F8b%2Fc3%2F9b8bc368a53d4f33916d5b05c2666aed%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/39252078-eb09-47d7-b3bc-e80f0e819a68/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-73bd3305-ce91-4717-b743-b4e8528b882f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m613n020z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.25, -71.0, 42.25, 42.0)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-m613n020z"
+}

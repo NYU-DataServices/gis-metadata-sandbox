@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 41.000000. South Decimal Degree 40.875000. East Decimal Degree -74.125000. West Decimal Degree -74.250000. Alternate title: Paterson, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. \"Mapped, edited, and published by the United States Geological Survey. Control by USGS, USC&GS, and New Jersey Geodetic Survey. Topography by plane table surveys 1937-1938. Culture revised 1955.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq161",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1955.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Paterson (N.J.),Maps"
+  ],
+  "dc_title_s": "Paterson Quadrangle, New Jersey, 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845009\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d7b968db-d845-4f14-850c-ee01a1d0ef41/file/29a9cf03-2058-4584-bdb3-1cf7d7bdf3cb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/251895e4-0214-4109-af1f-8c13a541d6fd/file/3ca497c2-6704-43c3-addc-79c4892aa7ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/251895e4-0214-4109-af1f-8c13a541d6fd/file/dd97534b-dc58-4086-8809-9d4abab3b384\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2F39%2Ff2%2Fd439f2eb99ee41419d99438833b53d34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a7a89c3e-0ef7-4f3b-a9bd-80eab333d989/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-251895e4-0214-4109-af1f-8c13a541d6fd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq161",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.125, 41.0, 40.875)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-vq27zq161"
+}

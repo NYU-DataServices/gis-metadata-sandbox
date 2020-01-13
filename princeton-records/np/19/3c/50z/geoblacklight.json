@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jany. 1896.\" Includes key, key map, specials index, and text. \"191.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/np193c50z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Westfield,Maps",
+    "Westfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Westfield, Union Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5628827\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb950711-8f44-46d8-ad48-4ed09b06ca90/file/06ebbc93-0818-42db-bef7-97e0301c38f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb950711-8f44-46d8-ad48-4ed09b06ca90/file/ddd4ffe0-c115-4320-a756-c6316929bf7e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2F64%2Fc0%2F7464c0c0be61454e890ddaddcf1bb292%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41767746-5549-4997-83c7-459984ed09fc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bb950711-8f44-46d8-ad48-4ed09b06ca90",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-np193c50z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.379359, -74.313192, 40.682192, 40.6244)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-np193c50z"
+}

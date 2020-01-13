@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sept. 1895.\" Includes key and text. \"8216.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb80p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Toms River,Maps",
+    "Toms River (N.J.),Maps"
+  ],
+  "dc_title_s": "Toms River, Ocean Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574374\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a87ae24-d94e-4ebd-9a45-00edd67e38bc/file/47aab581-d0d9-462c-99d8-49f3b4513258\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a87ae24-d94e-4ebd-9a45-00edd67e38bc/file/86d31261-2bd2-4f18-b0be-70c5bcc8921d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2Fa4%2Fbc%2F07a4bc29dcdd4fa68d9a836ab0e7bfb5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/947ab755-34d3-4a1a-8eee-0ad7704e549c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7a87ae24-d94e-4ebd-9a45-00edd67e38bc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb80p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.270651, -74.05858, 40.058716, 39.933002)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-ms35tb80p"
+}

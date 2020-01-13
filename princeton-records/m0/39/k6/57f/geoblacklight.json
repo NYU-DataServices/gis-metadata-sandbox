@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: N.Y.-VT. Fort Ann. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1893 in cooperation with the State of New York. Triangulation by S.S. Gannett.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m039k657f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Fort Ann (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-Vermont: Fort Ann Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867355\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3773ff89-d17f-42c4-8300-8a7bd55b7511/file/2c673727-2a39-4947-b328-875654079ca3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/304b1ba4-be30-44f7-aea0-5b9a6bd156aa/file/d3fc58ee-9fa0-453f-853d-91378ae72bd7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/304b1ba4-be30-44f7-aea0-5b9a6bd156aa/file/ade73575-4136-48dd-af2d-33eb6a472eca\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2Fd6%2F88%2Ff9d688876432480693ed9e0df2f02421%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea27e538-6b9e-41e6-bfcc-c341db22a3a4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-304b1ba4-be30-44f7-aea0-5b9a6bd156aa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m039k657f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 43.5, 43.25)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-m039k657f"
+}

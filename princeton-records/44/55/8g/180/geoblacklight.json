@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key and text. \"N.J.C.M. vol 3.\" \"7940.\" Sheets 1-18 inclusive, and sheet 23 of vol. 3 of New Jersey coast map series; all sheets show Spring Lake.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/44558g180",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Spring Lake,Maps",
+    "Spring Lake (N.J.),Maps"
+  ],
+  "dc_title_s": "Como, Spring Lake & Sea Girt, Monmouth Co., New Jersey (Sheet 15)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4837504\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5de5b6a-cb7d-4aa3-a9d2-e5ace04266a0/file/6ca67c1e-852a-42de-807c-8c3524c67436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5de5b6a-cb7d-4aa3-a9d2-e5ace04266a0/file/5c5b2cc4-5868-4606-8575-c22d5b14b99b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2Fbe%2F05%2F73be05dba04b45b8a0d34e7e63541c64%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/324a3dc9-5b9a-45a0-8489-73fcad4afd8a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a5de5b6a-cb7d-4aa3-a9d2-e5ace04266a0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-44558g180",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.197734, -74.117804, 40.899398, 40.819933)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-44558g180"
+}

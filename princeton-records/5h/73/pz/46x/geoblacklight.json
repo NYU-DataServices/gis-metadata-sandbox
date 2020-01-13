@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Instituto Geografico Nacional. North Decimal Degree 14.333333. South Decimal Degree 14.316667. East Decimal Degree -87.666667. West Decimal Degree -87.700000. Special buildings located. Transverse Mercator projection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5h73pz46x",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Tegucigalpa, D.C. : Instituto Geografico Nacional, 1984.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "City blocks",
+    "Honduras,Maps"
+  ],
+  "dc_title_s": "Ciudad de la Paz, Honduras, C.A. 1-IGN",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810265\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1c30c14-9b21-4c40-b84e-34e5f3cae2be/file/9ebbf68a-47ee-4358-8b00-c27820fa7561\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1c30c14-9b21-4c40-b84e-34e5f3cae2be/file/6e281690-7000-46e0-99ec-ac0a6aed6725\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/51%2F6c%2Fad%2F516caded0e32450ca961b1d6cabc0dd3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8c3e4c3-1acb-42da-bc3b-d373d7236fb2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1984"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1c30c14-9b21-4c40-b84e-34e5f3cae2be",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5h73pz46x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-87.7, -87.666667, 14.333333, 14.316667)",
+  "solr_year_i": 1984.0,
+  "uuid": "princeton-5h73pz46x"
+}

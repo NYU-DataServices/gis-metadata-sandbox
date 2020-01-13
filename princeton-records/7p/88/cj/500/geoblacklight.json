@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Historic Maps copy has sheets 113-115 of Newark, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88cj500",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn-Perris Map Co. Limited, 1895]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Millburn,Maps",
+    "Millburn (N.J.),Maps"
+  ],
+  "dc_title_s": "Milburn, N.J. (Sheet 114)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5421192\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2e2633e-e4e0-4ab3-8649-3e292ba9fbd1/file/46b31c1a-11d4-46ad-ae83-685642b8b5b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2e2633e-e4e0-4ab3-8649-3e292ba9fbd1/file/834ff836-2228-4ef4-8992-1d8eda0a5988\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/60%2Fea%2Faf%2F60eaafb4556146a1a6ec84bccd49eef5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e06c33f-cb8d-4965-b69a-76282645e8dc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a2e2633e-e4e0-4ab3-8649-3e292ba9fbd1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88cj500",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.37256, -74.28549, 40.760868, 40.7133)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-7p88cj500"
+}

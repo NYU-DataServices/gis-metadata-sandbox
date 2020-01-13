@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Anderson, John Alexander, 1829-1917"
+  ],
+  "dc_description_s": "Shows distances between stations. \"Entered according to Act of Congress in the year 1869 by J.A. Anderson ... \"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vt150m578",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Philad'a. : J. L. Smith, suc. to R. L. Barnes, map publisher ... , 1873 (Philada. : Jas. MacGuigan Lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Railroads,New Jersey,Maps",
+    "Railroads,Pennsylvania,Maps",
+    "New Jersey,Maps",
+    "Pennsylvania,Maps"
+  ],
+  "dc_title_s": "Map of the rail roads of New Jersey, and parts of adjoining states",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5620285\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cba3c395-6f42-4ae7-a4a4-d630b324a71c/file/9255b278-9e3b-46f8-9649-baabff2a9276\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cba3c395-6f42-4ae7-a4a4-d630b324a71c/file/b8752c67-579f-4989-976d-e18d865fe206\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2Ff1%2F36%2F21f136d6cfa140b1940c38647ae12601%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a0f60703-a7e1-47c3-a824-613533736b60/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cba3c395-6f42-4ae7-a4a4-d630b324a71c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vt150m578",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.191879, -73.50013, 41.491795, 38.900047)",
+  "solr_year_i": 1873.0,
+  "uuid": "princeton-vt150m578"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Oriented with the north to the upper left. \"Nov. 1890.\" Includes key, key map, streets and specials index and text. 4111.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fr06s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dover,Maps",
+    "Dover (N.J.),Maps"
+  ],
+  "dc_title_s": "Dover, Morris Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5556590\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1b073d6-9892-48d6-a234-c0f651e8ffb3/file/5e0053d1-4037-45c0-904f-412cc2a4f40a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1b073d6-9892-48d6-a234-c0f651e8ffb3/file/b7f18899-54f8-4aa9-893f-806186966c51\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2a%2F2a%2F38%2F2a2a381257ea4a07b9f3f365eeac5939%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6bd422c-e4c3-420c-93f0-f5f239890014/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e1b073d6-9892-48d6-a234-c0f651e8ffb3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fr06s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-c534fr06s"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Oct. 1886.\" Includes key and text. North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf85q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Stanhope,Maps",
+    "Stanhope (N.J.),Maps"
+  ],
+  "dc_title_s": "Stanhope, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609199\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d25c3788-8807-46ea-a02a-c1c52f2464e8/file/e06e230a-6fcf-4d59-bfa4-a47b57ecdb3b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d25c3788-8807-46ea-a02a-c1c52f2464e8/file/be610e9f-1da8-4baa-979b-58cffa9ff508\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F20%2F06%2Fc520063500234fd7906672d75a718894%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/325e433a-4177-4cf7-b6ed-953a82708fce/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d25c3788-8807-46ea-a02a-c1c52f2464e8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf85q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.720272, -74.683246, 40.926068, 40.899141)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-zp38wf85q"
+}

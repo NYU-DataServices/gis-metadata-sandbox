@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Lake Bonaparte. Relief shown by 20 feet contour interval. Surveyed in 1912-13. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vs551",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "New York,Maps"
+  ],
+  "dc_title_s": "New York: Lake Bonaparte Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867791\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5782eab2-2fcb-4c6e-8108-765d49039f9b/file/032725ed-aafb-4ca1-8d80-638d52833e81\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97603e96-2efa-4527-9f75-90e68a5741a3/file/4778dc76-62ee-450e-851b-49b438f69c84\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97603e96-2efa-4527-9f75-90e68a5741a3/file/1b608166-4412-42c1-957d-e76a415e7eb1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2Fe9%2Fdd%2F02e9dd2c07ec4e0784bcbd85abbf46f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d7ce29c7-b2a7-4ef7-9e61-3a663dd2295d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-97603e96-2efa-4527-9f75-90e68a5741a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vs551",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 44.25, 44.0)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-9880vs551"
+}

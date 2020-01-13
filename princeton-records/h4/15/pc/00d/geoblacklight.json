@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Boston, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1898-1900. Triangulation by Mass. Topo. Survey Comm. and U.S.C. and G.S. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h415pc00d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Boston (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Boston Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837210\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0a6a1a1-e85e-40ab-a7ca-8308e02c3a11/file/ed6c3105-099b-45d0-803c-4ea473a62b32\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/069c8819-d2f7-4b3d-842c-e721d6f7b3a1/file/af1b7b8f-ed07-423b-b0e5-2fb1f0167336\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/069c8819-d2f7-4b3d-842c-e721d6f7b3a1/file/e9ff6237-5f9c-431a-af7e-f66240016986\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2F4d%2Fc0%2F6c4dc08da63c437c913f4068846eba7e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ff37cb60-5ae7-4cab-be40-dfcea4d78669/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-069c8819-d2f7-4b3d-842c-e721d6f7b3a1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h415pc00d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.25, -71.0, 42.5, 42.25)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-h415pc00d"
+}

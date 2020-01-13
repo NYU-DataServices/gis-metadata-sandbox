@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -2.0000. West Decimal Degree -3.0000. Alternate title: Alcaraz, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1882-1942; Spain, 1:200,000, Cuartel General del Generalisimo, 1936-39; Road Map of Spain and Portugal, 1:400,000, A.M.S., Sheet 47 and 49, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-43.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f4627291",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Alcaraz (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Alcaraz, sheet 63. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841151\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9318864-4daa-4fc2-8d1f-3839af5c0ac3/file/8eda6f43-c047-48aa-b7f6-069b8bf0877b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9318864-4daa-4fc2-8d1f-3839af5c0ac3/file/49f038f8-634d-4159-beae-8c78b82b373a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4d%2Fdc%2F3a%2F4ddc3a7d40824acf973aa18801894398%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/46d2866c-c991-4713-afa9-d2bd46acb8c3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e9318864-4daa-4fc2-8d1f-3839af5c0ac3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f4627291",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.0, -2.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-3f4627291"
+}

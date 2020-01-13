@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Bolivia. Instituto Geografico Militar. Japan International Cooperation Agency. Kokusai Kyoryoku Jigyoda. North Decimal Degree -14.500000. South Decimal Degree -14.6667. East Decimal Degree -67.2500. West Decimal Degree -67.5000. Alternate title: Colonia Villa El Carmen, Bolivia. Relief shown by 20 m. supplemented by 10 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4f16c468t",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Instituto geogra\u0301fico militar, 1996.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50,000: Colonia Villa El Carmen, hoja 6150 III. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9bfd1b54-4645-49c9-923e-189928fcb492/file/afaf7122-a3bb-41c6-9008-22f1ccd036b7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9bfd1b54-4645-49c9-923e-189928fcb492/file/438b470c-3289-4910-8c03-f95efeb29d93\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2F3c%2F4d%2F553c4d05d8a849bda97520860053748e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/27d218d1-47e1-4316-b5de-47091a9549ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9bfd1b54-4645-49c9-923e-189928fcb492",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4f16c468t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.5, -67.25, -14.5, -14.6667)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-4f16c468t"
+}

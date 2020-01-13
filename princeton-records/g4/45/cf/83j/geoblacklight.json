@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667"
+  ],
+  "dc_description_s": "Relief shown pictorially. Originally published 1700? \"Dedie\u0301 au roy par son tre\u0300s humble, tre\u0300s obe\u0301issant, tre\u0300s fide\u0300le sujet et serviteur, Hubert Iaillot, ge\u0301ographe de sa majeste\u0301.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g445cf83j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez H. Iaillot ... , 1719.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Early maps",
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "Mappe-monde geo-hydrographique, ou, Description ge\u0301ne\u0301rale du globe terrestre et aquatique, en deux plans-hemispheres ou\u0300 sont exactement remarque\u0301es en ge\u0301ne\u0301ral toutes les parties de la terre et de l'eau, suivant les relations les plus nouvelles",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4494684\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4fc6caff-3ed3-4d67-aca7-3f09c7bc6aad/file/d8226510-95c7-4d66-b3dd-86903b4f495a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4599ed4-d2cc-4518-8254-af480e343234/file/b13134ee-8020-4e35-b1dd-0150dd35f762\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4599ed4-d2cc-4518-8254-af480e343234/file/37450e22-e4e4-4121-8f11-a61a14c7ee31\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2Fd9%2F4e%2Facd94ea32b1b4d8b87ed7ae2440682ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ecacc206-3bd7-44bc-92d9-f81017569217/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1719"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f4599ed4-d2cc-4518-8254-af480e343234",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g445cf83j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1719.0,
+  "uuid": "princeton-g445cf83j"
+}

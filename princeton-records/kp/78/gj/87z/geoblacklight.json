@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of the Harz Mountains and environs. Relief shown by hachures. Title supplied by cataloger. Probably issued in: Naturwissenschaftliche Beitra\u0308ge zur Kenntniss des Harzgebirges, insbesondere der Grafschaft Wernigerode ... / von H.W. Hertzer. Wernigerode : Angerstein, 1856.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gj87z",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wernigerode : Lith. Inst. v. B. Angerstein, [1856] ([S.l. : C. Lu\u0308ders lith.)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Harz Mountains (Germany),Maps"
+  ],
+  "dc_title_s": "Map of Harz Mountains and environs",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7390918\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/704e0fa3-9a98-425a-87fc-f1182cc7767d/file/19f950f3-0d26-450b-9edf-16fe040d1f14\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/704e0fa3-9a98-425a-87fc-f1182cc7767d/file/dbd76839-f144-4a95-a16d-cba4b28d3224\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2F19%2F9f%2F0a199f895dcb485ab193944efe16b10c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f1bbc2e9-722b-4240-a6c6-27c0c1b512af/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-704e0fa3-9a98-425a-87fc-f1182cc7767d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gj87z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.570957, 10.912563, 51.929326, 51.75858)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-kp78gj87z"
+}

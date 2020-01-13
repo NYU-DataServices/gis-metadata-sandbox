@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1892. Surveyed in cooperation with the State of New York. Triangulation by U.S. Coast & Geodetic & N.Y. State Survey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d108r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Coxsackie sheet (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Coxsackie sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867729\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b8ea037c-81d4-48af-ba38-5b67ee827d36/file/6f957a29-ea3d-4437-a4d5-28c313ae72ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f943f5df-d6cc-4edd-99cc-673f214db7e8/file/6fbcba8f-5d56-4718-b302-07a6982e2b9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f943f5df-d6cc-4edd-99cc-673f214db7e8/file/e8dc5a09-d885-4df8-8613-1b16cb60d8c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/70%2F51%2Fc6%2F7051c6b3e05443caa70a0be9f05af4d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75379bcf-352d-4d52-a4a1-abbeca56c611/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f943f5df-d6cc-4edd-99cc-673f214db7e8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d108r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0, -73.75, 42.5, 42.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-4j03d108r"
+}

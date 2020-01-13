@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1896 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wd375x78h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Moravia Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868010\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c99515de-b618-45d8-aec3-bc3006dcbe75/file/5758c185-9810-4130-8e6e-55abbd469555\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48522f67-2efe-4fd2-8faf-40c8a500f152/file/3ff61c33-51e4-417f-95c1-22ae9746d883\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48522f67-2efe-4fd2-8faf-40c8a500f152/file/b38a11a4-06dd-4ca3-b8a4-623b95d4772b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F90%2F7f%2F15907f661a5140ca99cca9fc8dc04913%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7ca6071f-363e-4ba0-ab6d-ba688c1538df/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-48522f67-2efe-4fd2-8faf-40c8a500f152",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wd375x78h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -76.25, 42.75, 42.5)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-wd375x78h"
+}

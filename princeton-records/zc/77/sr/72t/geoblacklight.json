@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Goshen. Relief shown by 20 feet contour interval. Surveyed in 1904-1906. Surveyed in cooperation with the State of New York and New Jersey. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zc77sr72t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Goshen (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York-New Jersey: Goshen Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866821\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0639ad4c-fcfc-470d-b7c3-367c13a46621/file/e3dafa5b-a09e-4388-9570-08925ec74d08\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/297f6534-6408-4591-bd3a-e532ff4f092b/file/02097e67-b1ac-4dbd-968b-47e19eeef0d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/297f6534-6408-4591-bd3a-e532ff4f092b/file/a93af6c3-33a3-4b14-b0dd-45d5be2f12e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2F92%2F76%2F4c9276c9eb404dcbb79309b3267ce12c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/398a2515-ece4-4ff4-98bc-ca98ad3ca5d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-297f6534-6408-4591-bd3a-e532ff4f092b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zc77sr72t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.5, 41.25)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-zc77sr72t"
+}

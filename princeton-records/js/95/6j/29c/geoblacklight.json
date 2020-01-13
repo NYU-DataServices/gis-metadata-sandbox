@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Armee. Stellvertretender Generalstab. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Relief shown by shading, form lines, hachures and spot heights. In upper margin: Karte von Mesopotamien. \"4c.\" Includes guide to adjoining maps. \"Nur fu\u0308r den Dienstgebrauch! Nachdruck sowie Benutzung zur Bearbeitung anderer Karten verboten.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/js956j29c",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Kartographische Abteilung des Stellv. Generalstabes der Armee, Oktober 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Sa\u0304marra\u0304\u02bc (Iraq),Maps"
+  ],
+  "dc_title_s": "Sa\u0304ma\u0301rra\u0304",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7026916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f0bfa2f-e9a1-4ae2-8746-537b0e963ed2/file/0daa4803-238d-41c2-bba0-eaa86154dec0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f0bfa2f-e9a1-4ae2-8746-537b0e963ed2/file/abb93b33-ecf3-4811-87af-c06e6c97a170\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/63%2Fb3%2Fe0%2F63b3e09c0a384600958a6b8fbc55e681%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53187f9b-9429-41f0-888c-c4b1a5368a83/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1f0bfa2f-e9a1-4ae2-8746-537b0e963ed2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-js956j29c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(42.3659, 44.1474, 36.0001, 34.0002)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-js956j29c"
+}

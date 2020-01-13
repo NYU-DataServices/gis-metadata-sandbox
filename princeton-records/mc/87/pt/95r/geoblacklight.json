@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Wernersville, PA. Polyconic projection. Relief shown by 20 feet contour interval.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pt95r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Wernersville (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Wernersville Quadrangle 15 minute series.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868113\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a70e45a-0629-45c3-a5c0-86544747c9a1/file/e2d7193b-3d52-4738-bd43-82b093a22863\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a70e45a-0629-45c3-a5c0-86544747c9a1/file/ee105ff7-5399-4d6c-b253-26b47fc0eb76\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F08%2F90%2Fdf089012cfd641ed8601e4d5b458553f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8222fa39-7e20-4cb0-8915-895cde9d8420/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3a70e45a-0629-45c3-a5c0-86544747c9a1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pt95r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 40.5, 40.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-mc87pt95r"
+}

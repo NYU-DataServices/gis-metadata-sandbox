@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper right. \"4031.\" Sheets 132-139 of Atlantic City, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085m70d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Margate City,Maps",
+    "Margate City (N.J.),Maps"
+  ],
+  "dc_title_s": "Margate City (Sheet 3 [134])",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5189778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2d92bfb-0abd-4a42-a39f-9c562d5ee6a5/file/eb2ad2da-6aa3-4127-be56-1f10794d3a34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2d92bfb-0abd-4a42-a39f-9c562d5ee6a5/file/e2cf9b01-96f6-4446-b182-622391c47f91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a2%2F9c%2Ffa%2Fa29cfaad943e4ca48961b4db262ef4bc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/347502d3-3353-4d7b-9cb0-3434e4572701/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a2d92bfb-0abd-4a42-a39f-9c562d5ee6a5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085m70d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.522, -74.491, 39.344, 39.317)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-jq085m70d"
+}

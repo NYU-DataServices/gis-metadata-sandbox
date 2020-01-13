@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: N.Y. Cazenovia. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1897. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g913k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1899.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cazenovia (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Cazenovia Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867345\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5066ea68-c4a8-4585-8315-20a480086c26/file/a961550c-66a4-4bba-a58d-111a13e516c4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77385ac2-cab3-4d4e-ae86-e20bd9d69b35/file/8dbd5c41-05f6-4d86-b0fc-58d86b99a35b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77385ac2-cab3-4d4e-ae86-e20bd9d69b35/file/589ddcd5-2bc7-4c91-80b1-e2d983694211\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2F91%2F07%2Ff79107fb11c9455b9de6947ccd96906b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e5537cbf-8a59-453c-aff1-b9f777fc06a0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-77385ac2-cab3-4d4e-ae86-e20bd9d69b35",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g913k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.0, -75.75, 43.0, 42.75)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-1j92g913k"
+}

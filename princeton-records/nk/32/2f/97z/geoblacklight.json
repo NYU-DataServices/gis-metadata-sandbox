@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Caucasus and Central Asia, specifically Kazakhstan, Uzbekistan, Turkmenistan, Georgia, Armenia, Azerbaijan, Tajikistan, and Kyrgyzstan, shown at a 1:19,000,000 scale. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nk322f97z",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "The Caucasus and central Asia, 1993",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39d31284-464c-4120-8095-1c2ac3969874/file/5498edde-b23c-48b9-95b4-297eecb7f4b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9aca96cd-5bcb-4db0-aec9-fb0e62cbef9c/file/caf8ca3d-33e9-4d12-8246-126247c6d834\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9aca96cd-5bcb-4db0-aec9-fb0e62cbef9c/file/b0634e11-7eec-4abb-87a2-4eeb81bc84e5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F3b%2F36%2F5a3b365d27834be6aa50f7853cd9f00a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb4982d8-bc0c-4ca8-9990-55c140daf8c8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Armenia",
+    "Caucasus",
+    "Azerbaijan",
+    "Kyrgyzstan",
+    "Uzbekistan",
+    "Georgia",
+    "Central Asia",
+    "Tajikistan",
+    "Kazakhstan",
+    "Turkmenistan"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9aca96cd-5bcb-4db0-aec9-fb0e62cbef9c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nk322f97z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.0, 85.0, 60.0, 35.0)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-nk322f97z"
+}

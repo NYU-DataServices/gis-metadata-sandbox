@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New Jersey coast map, no's. 9 to 19 inclusive.\" Includes key, streets and specials index, and text. \"3849.\" North oriented toward upper left. Historic Maps copy imperfect: sheet 14 wanting.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gm80hx09j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Belmar,Maps",
+    "Belmar (N.J.),Maps"
+  ],
+  "dc_title_s": "Belmar, Monmouth Co., N. J. (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794420\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/909d722d-f50c-4036-b268-27ca9694a9d4/file/48c2fa45-9d88-4129-8c68-55f78c036fc7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/909d722d-f50c-4036-b268-27ca9694a9d4/file/e8cd195c-fcfd-4cdf-9704-1b1ea3cb6ede\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2F31%2F15%2Fcc3115cd56414ec79139b2a8777da6d2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19c1c361-8957-48d4-9a8c-477921ee1c0f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-909d722d-f50c-4036-b268-27ca9694a9d4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gm80hx09j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.042, -74.007, 40.187, 40.166)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-gm80hx09j"
+}

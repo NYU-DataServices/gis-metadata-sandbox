@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Montre\u0301sor, John, 1736-1799"
+  ],
+  "dc_description_s": "Topographical map of New York City; relief shown by hachures; depths shown by soundings. Table of references identifies primary buildings and points of interest in the city. Includes inset: Port de New-York (scale [ca. 1:140,000]).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qv325",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez le Rouge, rue des Grands Augustins, 1777.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),Maps,Early works to 1800",
+    "New York Harbor (N.Y. and N.J.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Plan de New-York et des environs",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6169492\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13deb149-3bdd-4323-bc5b-23dc02aa892c/file/44625cf8-c4da-435d-ae87-5d02ec8f3e70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13deb149-3bdd-4323-bc5b-23dc02aa892c/file/8e072b54-4465-41ff-97dc-fdd24ebd2088\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2F6f%2F10%2F4e6f107d2268499597e01cf031ceb5d0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/180da9de-22c1-475d-ae79-4b1462393d4f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-13deb149-3bdd-4323-bc5b-23dc02aa892c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qv325",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019554, -73.971092, 40.732243, 40.69955)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-5m60qv325"
+}

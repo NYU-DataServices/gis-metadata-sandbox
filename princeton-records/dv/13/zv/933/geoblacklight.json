@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Durdin, Tillman"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zv933",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York, Atheneum, 1966 [c1965]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Southeast Asia"
+  ],
+  "dc_title_s": "Southeast Asia.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/2710217\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/96779652-3506-4527-9649-f3317439ab0d/file/d742a6e9-01e3-4655-812f-62fb80187338\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/96779652-3506-4527-9649-f3317439ab0d/file/4368aa79-1010-4cbc-b827-8739a5c36f29\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2F28%2F9f%2F46289f1d6281464ba2309d415a4c3c01%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/050c8790-f727-476d-8897-3503affa3e2d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1966"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-96779652-3506-4527-9649-f3317439ab0d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zv933",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(105.0, 140.0, 35.0, -20.0)",
+  "solr_year_i": 1966.0,
+  "uuid": "princeton-dv13zv933"
+}

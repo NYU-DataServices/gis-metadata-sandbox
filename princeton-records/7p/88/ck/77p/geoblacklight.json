@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "National Geographic Society (U.S.). Cartographic Division"
+  ],
+  "dc_description_s": "Relief shown by hachures and spot heights. Map includes a list of country names and geographical equivalents. Map shows international boundaries, names of countries are given in English and the national language, roads, railways and canals.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88ck77p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : National Geographic Society, 1939.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe,Maps",
+    "Mediterranean Region,Maps"
+  ],
+  "dc_title_s": "Central Europe and the Mediterranean as of September 1, 1939: compiled and drawn in the Cartographic Section of the National Geographic Society for the National Geographic Magazine, Gilbert Grosvenor, editor",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6821665\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02832896-9d95-4044-8f1b-64791541c017/file/ce100292-50eb-455c-9d98-1d008e47e26c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02832896-9d95-4044-8f1b-64791541c017/file/240a14ce-8797-43b4-8023-6a42771be8b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4a%2Fea%2F3a%2F4aea3a60bbf84f72be3c35c632597e65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6d96b240-6c22-40f1-9ac9-55692ee104ff/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe",
+    "Mediterranean Region; Mediterranean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-02832896-9d95-4044-8f1b-64791541c017",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88ck77p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-18.666667, 49.666667, 58.25, 27.5)",
+  "solr_year_i": 1939.0,
+  "uuid": "princeton-7p88ck77p"
+}

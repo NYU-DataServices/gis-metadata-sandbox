@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "No publisher. North Decimal Degree 41.183333. South Decimal Degree 41.133333. East Decimal Degree -8.566667. West Decimal Degree -8.700000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33s0062",
+  "dc_language_s": "Portuguese",
+  "dc_publisher_s": "No place : [s.n.], [1955].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Zoning",
+    "Porto (Portugal),Maps"
+  ],
+  "dc_title_s": "Plano regulador da Cidade do Porto zonamento",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816920\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/456587f3-00cf-4e14-be07-e83d724b4104/file/107ab2bf-da6a-4524-9553-f8cf005048a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/456587f3-00cf-4e14-be07-e83d724b4104/file/7d992831-a8fa-404b-9f8f-3b6d28b4dc52\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/65%2F03%2F0c%2F65030c6f1f6e4e7597e00bd195378f24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c35779a-7514-4520-8d02-c7db9a20fc49/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1955"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-456587f3-00cf-4e14-be07-e83d724b4104",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33s0062",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.7, -8.566667, 41.183333, 41.133333)",
+  "solr_year_i": 1955.0,
+  "uuid": "princeton-qv33s0062"
+}

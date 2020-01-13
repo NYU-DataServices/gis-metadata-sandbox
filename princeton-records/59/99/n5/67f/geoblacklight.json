@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, key map, streets and specials index, and text. \"3196.\" Historic Maps copy has stamp of Map Division, Library of Congress, dated Feb. 9, 1889.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5999n567f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Elizabeth,Maps",
+    "Elizabeth (N.J.),Maps"
+  ],
+  "dc_title_s": "Elizabeth & Elizabethport, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5613222\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d7e364e-a615-4fd9-99d7-24dc8d7f13ac/file/057ef738-1fd3-4a15-8a5d-dedfd8db00d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d7e364e-a615-4fd9-99d7-24dc8d7f13ac/file/5b34e03e-c726-403c-8f5f-ac247893900e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F70%2F73%2F807073e0a93e40dc916846221b83a476%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a56182c8-ba08-4085-93c6-e97ab015f1b0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1d7e364e-a615-4fd9-99d7-24dc8d7f13ac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5999n567f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-5999n567f"
+}

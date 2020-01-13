@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "\"Reduction for engraving by F.H. Gerdes Asst. & J.J. Ricketts.\" \"Topography Engraved by F. Dankworth & O.A. Lawson; Lettering by J. Knight & F. Dankworth; Views by O.A. Lawson.\" Relief shown by shading. Depths shown by contours and soundings. Inset views: View off Long Island south of Rockaway Pavilion -- View off Long Island south of Fire Island Light-house -- Telescopic view of Fire Island revolving light -- View off Long Island ... with Fire Island light -- View off Long Island south of New Inlet. Includes tide table.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mm39w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : The Survey, 1851.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Coasts,New York (State),Long Island,Maps",
+    "Long Island (N.Y.),Maps"
+  ],
+  "dc_title_s": "Western part of the southern coast of Long Island",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7679345\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9fbf7b0-3854-4770-9c52-0e33a829804c/file/1a79a00b-8edc-49db-9fb5-b3013b77f823\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9fbf7b0-3854-4770-9c52-0e33a829804c/file/23d2a28b-7379-478f-b751-e08c7a04b7d1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F8f%2F67%2Fc68f670e822449b8b58d9ebf357df89e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c5915cd8-f906-48a5-aad9-f5d95d548136/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a9fbf7b0-3854-4770-9c52-0e33a829804c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mm39w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.662745, -72.829329, 40.866836, 40.466907)",
+  "solr_year_i": 1851.0,
+  "uuid": "princeton-gx41mm39w"
+}

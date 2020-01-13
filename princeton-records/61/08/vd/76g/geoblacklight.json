@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Cramer, J. A. (John Anthony), 1793-1848"
+  ],
+  "dc_description_s": "Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6108vd76g",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Oxford, Joseph Parker, 1825.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Italy,Maps",
+    "Italy, Northern,Maps"
+  ],
+  "dc_title_s": "Italiae antiquae et novae pars Septentrionalis",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8043853\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f3ce2d0-f04e-47d1-93a1-4d92912b1f27/file/7ccfd056-5ed6-44e4-9dd1-d8c579e82fb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f3ce2d0-f04e-47d1-93a1-4d92912b1f27/file/82e76bab-3c87-436d-8bb7-6f2405eed794\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F81%2F7f%2F0b817f83bbf4485189cedd292386a862%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af92ef76-c231-4fea-8d88-77796476bc86/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1825"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0f3ce2d0-f04e-47d1-93a1-4d92912b1f27",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6108vd76g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.8065, 16.5071, 46.9119, 41.3016)",
+  "solr_year_i": 1825.0,
+  "uuid": "princeton-6108vd76g"
+}

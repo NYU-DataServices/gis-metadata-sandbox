@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Grid is Lambert Zone I and Nord de Guerre Zone. Relief shown by 10 m contour interval and spot heights. Sheets contain glossary, \"Aerial photo revision\" diagram, and index to adjoining sheets. This set is coordinated with the following: Belgium & N.E. France 1:100,000 (G.S.G.S. 4336) Central Europe 1:100,000 (G.S.G.S. 4416) and Italy 1:100,000 (G.S.G.S. 4164). This map is part of a set of 136 sheets, some sheets were reissued by U.S. Army Map Service (A.M.S. M661). Largely based, directly or through reduction, on France 1:50,000 (G.S.G.S. 4250). \"For use by War and Navy Department agencies only\" during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5425kd43t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Southampton] : Ordnance Survey, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "France,Maps",
+    "Caen a\u0300 la Mer Canal (France),Maps",
+    "Falaise (France),Maps"
+  ],
+  "dc_title_s": "France, scale 1:100,000",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b742179e-45f5-4d1d-9090-facf06c8c434/file/f72f3b89-9f31-4833-8879-821998cdd361\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b742179e-45f5-4d1d-9090-facf06c8c434/file/585691e0-499a-47f6-8ac1-cb0b15acab36\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F6b%2Fce%2F326bcefe4a0846f994fb3b2cfbd0d29d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7fe4ef63-0cc7-451c-98d6-df100092d24a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b742179e-45f5-4d1d-9090-facf06c8c434",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5425kd43t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.7, 0.166667, 49.416667, 48.766667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-5425kd43t"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sep. 1895.\" Includes key and text. \"8215.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sn00b0497",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Beverly (N.J.),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington Co., N.J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027594\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d653f581-8906-4ace-b900-a25c13b367e2/file/66281907-a1c9-4517-96e8-dd82b73a7fae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d653f581-8906-4ace-b900-a25c13b367e2/file/442a82b8-6bea-4d04-94f7-f4aee0f634b0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F1f%2Fc0%2F9b1fc06f51b14a9a82f4e2b85e1fc377%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b2ad74d7-4677-45f5-a609-06fbf847f421/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d653f581-8906-4ace-b900-a25c13b367e2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sn00b0497",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.932, -74.911, 40.069, 40.057)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-sn00b0497"
+}

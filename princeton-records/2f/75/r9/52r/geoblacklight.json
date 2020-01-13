@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1890. Suveyed in cooperation with the State of Connecticut. Triangulation by U.S. Coast and Geodetic Survey and S. S. Gannett. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2f75r952r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Woodstock (Conn.),Maps"
+  ],
+  "dc_title_s": "Connecticut: Woodstock sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868507\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/10b7cd01-9848-4b29-b595-0b82fa5a0d8e/file/1db9da61-820f-4451-a7bf-84d24b6b53aa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/271a0b6e-bd65-4b96-8c64-acb9cf0e680e/file/647aee59-dfe8-46dd-b19d-1ed87c252075\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/271a0b6e-bd65-4b96-8c64-acb9cf0e680e/file/24125b92-e4c9-4dce-b61f-7c50464c3f54\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Fde%2F81%2Fc8de81ac61344525afb061f259e2ba7a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e0c9baac-bbd1-4b57-93bf-c613dcd50ffb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-271a0b6e-bd65-4b96-8c64-acb9cf0e680e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2f75r952r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.25, -72.0, 42.0, 41.75)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-2f75r952r"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Homann Erben (Firm)"
+  ],
+  "dc_description_s": "Relief shown pictorially. Includes numbered key to locations on map. Title and text in German; map in Latin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rr1720119",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Nu\u0308rnberg : Hom\u00e6nne Erben, 1764.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Turkey,Maps,Early works to 1800",
+    "Bosporus (Turkey),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Bosphorus Thracicus : der Kanal des Schwarten Meers oder die Meer-Enge bey Constantinopel : sambt denen an beiden Ufern desselben gelegenen Sta\u0308tten, Flecken, Do\u0308rffern, Schlo\u0308ssern, Pal\u00e6sten, Lustha\u0308usern, Wasserleitungen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5257208\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f50c9b54-936a-4a01-93f0-d966c8119de5/file/12bec27b-c7e1-4114-9f4b-4969c1ff32d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f50c9b54-936a-4a01-93f0-d966c8119de5/file/1deb2ed5-ddcf-4f20-ab2d-b10c430cf1c8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2Fbe%2Fa8%2Fedbea8bba8ab45f3803ac1d87a0d4c1c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/590904ce-ef5d-4976-9eb4-8e81121ee8ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f50c9b54-936a-4a01-93f0-d966c8119de5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rr1720119",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(28.841861, 29.150165, 41.291872, 40.95009)",
+  "solr_year_i": 1764.0,
+  "uuid": "princeton-rr1720119"
+}

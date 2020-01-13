@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Lower Hudson sheet. Map is 22 sheets stored in box on top of New York map cases.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dz010r87j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Lower Hudson (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: lower Hudson sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866949\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e509269a-81f3-456d-9ccc-0aadc5cfe614/file/ca271977-50fa-4ade-9097-f462f6c0f494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e509269a-81f3-456d-9ccc-0aadc5cfe614/file/71b5d286-28a1-4707-8ac6-e741a2cf522b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2F99%2Fc5%2F5299c5d33a2f495b9f49597f4c958c19%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b10514b6-f4ca-4b7d-98c4-10826dabcc03/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e509269a-81f3-456d-9ccc-0aadc5cfe614",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dz010r87j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.83333333333333, -73.5, 42.0, 40.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-dz010r87j"
+}

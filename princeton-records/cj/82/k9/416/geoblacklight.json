@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1901.\" Includes key, key map, streets and specials index, and text. \"4752.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cj82k9416",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Perth Amboy,Maps",
+    "Perth Amboy (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Perth Amboy, Middlesex County, New Jersey (Sheet 13)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5532245\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/258a51d9-d777-4da9-88fa-efbcb6659e87/file/c06e0783-4ad9-4669-bc4b-523c0d107be8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/258a51d9-d777-4da9-88fa-efbcb6659e87/file/9dfc6513-acef-43a7-8f1a-d3396f0e0b52\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d7%2Fa8%2F0e%2Fd7a80eb85077487ba7ce1c859e70d9e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2ce82b77-0efd-477d-a6cd-23f1404ccdc0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-258a51d9-d777-4da9-88fa-efbcb6659e87",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cj82k9416",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-cj82k9416"
+}

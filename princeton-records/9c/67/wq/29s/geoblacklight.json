@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Armstrong, George"
+  ],
+  "dc_description_s": "Relief shown by land forms. The map and title-panel have been photographically reduced for printing; hence the stated scale is incorrect.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wq29s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Palestine Exploration Fund, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Palestine,Maps"
+  ],
+  "dc_title_s": "Raised-map of Palestine constructed from the surveys of the Palestine Exploration Fund and other sources",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7064430\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a25c29dd-aaec-42cd-ba33-2aed1c518b69/file/9b15193f-f520-4bf8-ac33-000d0dd5e266\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a25c29dd-aaec-42cd-ba33-2aed1c518b69/file/b08233b0-9253-440f-8cd5-6683b8893398\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Fdf%2Fe9%2Fbfdfe96ce25b48aaa3d5b7902da2af65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b13d32f5-2807-46c3-943f-76b283bd469e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a25c29dd-aaec-42cd-ba33-2aed1c518b69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wq29s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(34.3978, 36.4962, 33.9832, 30.8415)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-9c67wq29s"
+}

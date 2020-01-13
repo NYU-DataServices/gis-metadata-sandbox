@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1908.\" Includes key, streets and specials index, and text. \"884.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt51n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1908, c1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bridgeton,Maps",
+    "Bridgeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Bridgeton, Cumberland Co., New Jersey (Sheet 24)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5411798\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64a6cf83-dd94-4a63-95d3-3233bbe09b94/file/f5c9222f-b214-47b3-80a5-f3679f10b43b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64a6cf83-dd94-4a63-95d3-3233bbe09b94/file/3d1f12ce-0315-4f2b-aacf-42d2fefd25a4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F17%2Fc6%2F8017c66cafcb461889ae71895cb303a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/db649238-c9dc-44d8-9b77-70b0668efca6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-64a6cf83-dd94-4a63-95d3-3233bbe09b94",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt51n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.253033, -75.20384, 39.455303, 39.402758)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-vm40xt51n"
+}

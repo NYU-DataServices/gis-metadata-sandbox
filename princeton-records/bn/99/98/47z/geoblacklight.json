@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Portage, N.Y. Relief shown by 20 feet contour interval. Surveyed in 1903. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bn999847z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Portage (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Portage Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868357\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/491dcff2-0252-48c9-a405-8a71f5dabb03/file/9ae6490d-d121-4bea-935c-fc570c59c70a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43cae35a-62db-4273-ac1f-d87f19d02e98/file/a55b7227-c370-444d-ab72-ddcd743c5d86\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43cae35a-62db-4273-ac1f-d87f19d02e98/file/efb3a961-6ee4-42c2-bb84-cde8db6c4a18\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F2f%2F22%2F492f22659e2740d0bc3cdf3bedb81998%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/02c44bae-80ef-4ad1-9db1-a8032fcbff4b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-43cae35a-62db-4273-ac1f-d87f19d02e98",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bn999847z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.25, -78.0, 42.75, 42.5)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-bn999847z"
+}

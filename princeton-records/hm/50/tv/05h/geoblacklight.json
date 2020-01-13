@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1910.\" Includes key and text. \"2999.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tv05h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Scotch Plains,Maps",
+    "Scotch Plains (N.J.),Maps"
+  ],
+  "dc_title_s": "Scotch Plains, Union County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625971\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f061c036-d1ba-4d28-bfe8-b72b311975c6/file/e133491d-72f5-43ae-95f0-4a63a0d032eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f061c036-d1ba-4d28-bfe8-b72b311975c6/file/c5900213-01a1-4815-92be-86b2dc8c8b5a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fe6%2F67%2Fdce667165a45458f8f812331b6c7e96b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e8769174-170e-4b88-bebf-83c77d2f92e4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f061c036-d1ba-4d28-bfe8-b72b311975c6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tv05h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.408267, -74.325635, 40.678234, 40.600901)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-hm50tv05h"
+}

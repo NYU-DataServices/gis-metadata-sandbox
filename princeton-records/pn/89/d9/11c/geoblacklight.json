@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Hopkins, Griffith Morgan, Jr."
+  ],
+  "dc_description_s": "From: Atlas of Philadelphia and environs ... Philadelphia : G.M. Hopkins, 1877. In upper margin: [p.] 50-51. \"Entered according to Act of Congress in the year 1877 by G.M. Hopkins ... \". Cadastral map showing names and acreage of property owners.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89d911c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia] : G.M. Hopkins, 1877.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Delaware Township,1877",
+    "Delaware (Camden County, N.J. : Township),Maps"
+  ],
+  "dc_title_s": "Delaware, Camden Co., N.J.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7914806\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82725475-7f7d-4b58-bf04-a5579a9f6d1d/file/c9763e5f-b4f3-4a47-9c91-c8c953a233be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82725475-7f7d-4b58-bf04-a5579a9f6d1d/file/bbf386a4-1bb4-43e9-8d43-44c4dd630ccf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2Fad%2Fa9%2F86ada9e30aa14b38b46f5b15b0704b69%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5139a642-8d57-42fc-a5ff-895087b79f13/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1877"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-82725475-7f7d-4b58-bf04-a5579a9f6d1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89d911c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.145065, -74.890148, 40.050274, 39.850248)",
+  "solr_year_i": 1877.0,
+  "uuid": "princeton-pn89d911c"
+}

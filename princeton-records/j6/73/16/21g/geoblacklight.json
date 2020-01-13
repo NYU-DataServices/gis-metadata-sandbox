@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667"
+  ],
+  "dc_description_s": "Relief shown pictorially. Probably issued in: L'Amerique en plusieurs cartes ... Sur la copie imprime\u0301e a Paris : Chez l'autheur, 1683.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j6731621g",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris? : N. Sanson?, 1683?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brazil,Maps,Early works to 1800",
+    "Coasts,Brazil,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Le Bresil, dont la coste est possede\u0301e par les Portugais et divise\u0301e en quatorze capitanieries : le milieu du pays est habite\u0301 par vn tresgrand nombre de peuples la plus part jncogneus, et dont les positions sont fort jncertaines",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6596064\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff2f2dcf-5948-4b10-841f-4f6a688fb332/file/d1db22f4-8bd9-4748-ae33-e0b5618b0659\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff2f2dcf-5948-4b10-841f-4f6a688fb332/file/bd5ca5fa-9592-4280-8354-b75c89623ccf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b7%2Fa9%2F8b%2Fb7a98ba6a3ad49f49d3023313611c996%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec9f9bdb-6c0b-484c-a2bf-e01374bdb703/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Brazil"
+  ],
+  "dct_temporal_sm": [
+    "1683"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff2f2dcf-5948-4b10-841f-4f6a688fb332",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j6731621g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-58.52, -28.63, -0.01, -26.51)",
+  "solr_year_i": 1683.0,
+  "uuid": "princeton-j6731621g"
+}

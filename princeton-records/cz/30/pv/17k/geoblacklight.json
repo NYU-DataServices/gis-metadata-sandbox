@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Orbisonia PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1939. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv17k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Orbisonia Quadrangle. 15-minute series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868473\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b4a33e4-fe3f-4f6a-bd14-cbdbbe9e13f6/file/980eaf6c-dfaf-4406-8d1d-e8e4e85623d4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f7f236e-a2f9-4744-a9aa-df4156a991f7/file/e969d294-9e0c-4caa-86ca-78d2830888e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f7f236e-a2f9-4744-a9aa-df4156a991f7/file/d6d076c1-814b-4761-9923-7d5e91a12f90\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F19%2F33%2Fd019331fb10b4696bc5339456bf5debe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/81a33c8c-722b-4fa4-aa13-e919023d0ef2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0f7f236e-a2f9-4744-a9aa-df4156a991f7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv17k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 40.25, 40.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-cz30pv17k"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bolton. Relief shown by 20 feet contour interval. Surveyed in 1894-1895 in cooperation with the State of New York. Verso: The topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1544bq59t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolton (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Bolton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866996\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afe832ef-6119-4303-9317-4c7cb34dd616/file/87fa465f-4c60-48e8-942a-e868a2c15396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd92febe-1957-4d96-9216-5d12fc81cf76/file/15958479-bbac-4dfc-bae7-bdc9220761f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd92febe-1957-4d96-9216-5d12fc81cf76/file/a3551244-37fd-481f-8856-1aecb16e60e2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F82%2Ff7%2Fbd82f78f37ab4b74924deed113d613b6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ae4345d-a5b4-4a9a-9a37-08a2dc4e8a50/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cd92febe-1957-4d96-9216-5d12fc81cf76",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1544bq59t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 43.75, 43.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-1544bq59t"
+}

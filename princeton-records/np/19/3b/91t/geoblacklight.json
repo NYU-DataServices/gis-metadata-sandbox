@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Canada with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/np193b91t",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Canada, 1999 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/17c4fab5-faf1-415d-b8a3-feb773b49a0e/file/d5ec8333-48d1-4d2b-a76a-fa0f5566b6be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60054307-34e5-483d-bb41-3b95dff22539/file/8cd2c4ab-a11b-4d2b-9c47-61af1c875482\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60054307-34e5-483d-bb41-3b95dff22539/file/9e81ff5f-1a29-45b4-a08c-a78e76321702\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F9e%2F0e%2F159e0e238f8b44ac87845d577a906f3a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/983a0fd8-f4fb-48fe-9b1e-fcb37c0578aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-60054307-34e5-483d-bb41-3b95dff22539",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-np193b91t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-135.0, -45.0, 85.0, 43.0)",
+  "solr_year_i": 1999.0,
+  "uuid": "princeton-np193b91t"
+}

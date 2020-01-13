@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Staten Island, N.J.-N.Y. Relief shown by 20 feet contour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by U.S. Coast and Geodetic Survey. Surveyed in 1888-89. Partial revision of shore line 1925. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515q09z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Staten Island Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey- New York: Staten Island Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831294\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/017dc736-435a-4612-aa9b-61b99ae75ae3/file/63e30abe-7369-4240-94a7-38e6cda2f815\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/996e3bc0-ad1a-403e-b3d6-9c5be422673b/file/945a0696-62d6-4ca2-8bc1-6bc0cb550370\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/996e3bc0-ad1a-403e-b3d6-9c5be422673b/file/a56abb9b-5510-40f3-9f44-b26846020bec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F31%2F78%2F5b3178476ed54ae895cd5d2023bea6ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd0cadee-0325-49db-aff5-bedc2690873d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-996e3bc0-ad1a-403e-b3d6-9c5be422673b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515q09z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 40.75, 40.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-b8515q09z"
+}

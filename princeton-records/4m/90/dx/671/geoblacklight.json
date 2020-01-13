@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1914.\" \"6903.\" Includes location map, key and text. Haskell is an unincorporated area of Wanaque Borough in Passaic County, N.J. cf. Wikipedia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4m90dx671",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1914.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Haskell,Maps",
+    "Real property,New Jersey,Wanaque,Maps",
+    "Haskell (N.J.),Maps",
+    "Wanaque (N.J.),Maps"
+  ],
+  "dc_title_s": "Haskell, Passaic County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5575645\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a5137a9-b44f-48dd-aef2-caa01cb08593/file/b6936618-1215-4cf1-976f-6943914339a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a5137a9-b44f-48dd-aef2-caa01cb08593/file/ceee0b3a-ca71-4089-84f3-2e2e2ebfdf4e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2Fde%2F13%2Fafde135e89da4ccb8599fc1ab433d42c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f54119fd-76dc-4fbe-9bc3-39d2d05a5fb3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1a5137a9-b44f-48dd-aef2-caa01cb08593",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4m90dx671",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.315982, -74.275982, 41.04843, 41.00843)",
+  "solr_year_i": 1914.0,
+  "uuid": "princeton-4m90dx671"
+}

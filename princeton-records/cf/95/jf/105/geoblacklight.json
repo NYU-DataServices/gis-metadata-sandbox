@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. Directorate of Colonial Surveys"
+  ],
+  "dc_description_s": "\"D.C.S. Misc. 36\", \"2,075/10/49 S.P.C.\" Original map is filed in the Map/Geospatial Center, a map reproduction is attached to companion volume.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cf95jf105",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Teddington, England] : Directorate of Colonial Surveys, 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies",
+    "Sugarcane,Guyana,Maps",
+    "Sugar plantations,Guyana,Maps",
+    "Sugar crops,Guyana,Maps"
+  ],
+  "dc_title_s": "Plan of part of the sea coast of British Guiana showing sugar estates under present cultivation",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9214220\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab045104-55d1-4841-8412-9e449263025c/file/e9f34190-9339-404f-9393-f84c57ebee70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab045104-55d1-4841-8412-9e449263025c/file/33487f61-3af2-4115-8dcc-683857360a2f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F33%2Fa8%2Ff433a8727ed64d20a082dbad8b883a70%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/afee283f-fa36-4f47-a024-28eeb044d9b2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Guyana"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ab045104-55d1-4841-8412-9e449263025c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cf95jf105",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-58.502778, -57.131111, 6.882778, 6.159444)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-cf95jf105"
+}

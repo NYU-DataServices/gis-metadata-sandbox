@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Akashi, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter interval contours and spot elevations. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fq49m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Akashi, Hyogo-ken, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830416\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/858839f0-509b-454a-81ec-69e6f3647710/file/23bf71e6-0f4a-4014-9b04-418ae0030740\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11073c7e-3786-490b-9811-5191f466ea68/file/4e2b9d61-76ce-497e-83dd-f43870ac14ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11073c7e-3786-490b-9811-5191f466ea68/file/ea058543-a699-47eb-bbc2-3005df0e9099\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2Fcd%2F14%2F74cd145f61d04e92a44a5fadadd65b06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e484c478-602d-453d-af26-5c0d802d07fd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-11073c7e-3786-490b-9811-5191f466ea68",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fq49m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(134.93333333333334, 135.05, 34.7, 34.61666666666667)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-c534fq49m"
+}

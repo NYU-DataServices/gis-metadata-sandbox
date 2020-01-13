@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France North Decimal Degree 48.4121 South Decimal Degree 48.0586 East Decimal Degree 1.0399 West Decimal Degree 0.1755 Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8w32r7427",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Nogent-Le-Rotrou",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518450\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24f63883-f8ea-49c7-9dc7-3b0716095898/file/ac14aa75-e78c-405a-9059-b53b3d88ddea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24f63883-f8ea-49c7-9dc7-3b0716095898/file/26275190-2e3c-4649-9c28-6b7f4285328e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/db%2Fc6%2F73%2Fdbc673eca2e145f292ac2a78fd1348ca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3b01dba-a18e-4e33-8097-b70f9c16911b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24f63883-f8ea-49c7-9dc7-3b0716095898",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8w32r7427",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.1755, 1.0399, 48.4121, 48.0586)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-8w32r7427"
+}

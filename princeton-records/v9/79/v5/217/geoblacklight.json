@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1901.\" Includes key, key map, streets and specials index, and text. \"5086.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v979v5217",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Madison,Maps",
+    "Madison (N.J.),Maps"
+  ],
+  "dc_title_s": "Madison, Morris Co., N. J. (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560016\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f7f5e83-0aa8-46c1-ae41-15f13cf4b947/file/f310e5dd-8b38-4dd9-8605-683afb611569\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f7f5e83-0aa8-46c1-ae41-15f13cf4b947/file/d99f26fe-6b7e-4afa-83ad-2454bffdf913\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Fa6%2F15%2F20a615b4fa624bccafbc2d2f082dbd2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40c6d406-ba41-4d23-a393-8037a0877fb5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7f7f5e83-0aa8-46c1-ae41-15f13cf4b947",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v979v5217",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-v979v5217"
+}

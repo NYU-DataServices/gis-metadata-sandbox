@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 40.0000. South Decimal Degree 39.0000. East Decimal Degree -8.0000. West Decimal Degree -9.0000. Alternate title: Leiria, Portugal. Polyconic projection. With Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, Servicos Geodesicos, 1900-38; Portugal, 100,000 Instituto Geofico, 1937; Portugal, 100,000 Servicos Geodesicos, 1866-1881; Portugal, 1:250,000, Estandor Maior do Exercito, 1937, 1938; Road Map of Spain and Portugal, 1:400,000, A.M.S., sheet 46, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-44. Partially revised from aerial photography, 1941.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zw07d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Portugal,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Leiria, sheet 47. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839257\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b180cbc5-f41a-4ad9-b561-4b5a4dc85288/file/c513dd83-28be-4555-9265-42a298ca86e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b180cbc5-f41a-4ad9-b561-4b5a4dc85288/file/46e306e1-0625-4025-b0a8-1b0cc2030cc0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2Fcf%2F36%2F50cf367fcc3a403e878a2cd38e881f4d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ff76032b-c0d2-41d9-94db-26fce5087429/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b180cbc5-f41a-4ad9-b561-4b5a4dc85288",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zw07d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.0, -8.0, 40.0, 39.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-dv13zw07d"
+}

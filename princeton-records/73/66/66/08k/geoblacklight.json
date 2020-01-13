@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Tanner, Benjamin, 1775-1848"
+  ],
+  "dc_description_s": "Double hemispherical world map on a globular projection; relief shown by hachures. Probably issued in: The general atlas for Carey's edition of Guthrie's Geography improved. Philadelphia : Mathew Carey, [18--?] The first edition was published in 1795, with later editions until 1818. cf. Tooley's dictionary of mapmakers. Probably issued in: The general atlas for Carey's edition of Guthrie's Geography improved. Philadelphia : Mathew Carey, [18--?] The first edition was published in 1795, with later editons until 1818. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/73666608k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia? : Mathew Carey?, between 1795 and 1818]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps"
+  ],
+  "dc_title_s": "The world",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4539130\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3db36ad4-e821-4a28-bc6a-63df8078ddf2/file/65b4b107-0e84-4e23-8918-b4cf08191d3f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff7be403-b47f-4c0d-b948-a5c84c050991/file/51d2f630-5e6e-4aee-81bc-40e2c87e2c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff7be403-b47f-4c0d-b948-a5c84c050991/file/134374f6-cf94-48b7-adc3-33cb913ebddb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F4b%2F11%2Fdf4b1185294240f3bb3efa0d3bd5b056%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d367660e-66b2-4433-b2c7-74f1c5f27610/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ff7be403-b47f-4c0d-b948-a5c84c050991",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-73666608k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1795.0,
+  "uuid": "princeton-73666608k"
+}

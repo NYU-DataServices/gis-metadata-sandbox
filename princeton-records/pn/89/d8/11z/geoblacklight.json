@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Warren, PA.-N.Y. Relief shown by 20 feet contour interval. Surveyed in 1905 and 1906. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89d811z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1908.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Warren (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania-New York: Warren Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868108\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b8c0bc9-adb6-4275-b91f-717b8bc5ce50/file/fd9f08c1-6aff-49e7-891a-c496290e7459\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/502b317f-95bb-4a20-b5c9-364cd411e141/file/37d1b1c0-5f45-4015-9c2e-8449e4e12f63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/502b317f-95bb-4a20-b5c9-364cd411e141/file/5b44ada4-f616-450f-8290-ed5717352579\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/01%2F41%2F4a%2F01414a42c6054e16840f6874dce21a55%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33f0084c-65c2-4904-8351-b33363aaf109/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-502b317f-95bb-4a20-b5c9-364cd411e141",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89d811z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.25, -79.0, 42.0, 41.75)",
+  "solr_year_i": 1908.0,
+  "uuid": "princeton-pn89d811z"
+}

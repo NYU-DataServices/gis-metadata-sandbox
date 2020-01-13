@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Genesee, PENN.-N.Y. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1932. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89d819t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1937.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania-New York: Genesee Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868552\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b17b867-7b07-4e04-857a-7b84f7763a39/file/cc59ad44-815b-40d4-a29b-178128eae93e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/737d6d4b-7234-48cb-b5d4-af45a093b1d1/file/0238cbb9-70cb-4fdf-a0ea-76d3a11026be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/737d6d4b-7234-48cb-b5d4-af45a093b1d1/file/912f6b66-ed69-4252-bf35-bc6a8dea34da\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F0f%2F45%2Fb00f457ac1414660bb4bc45d72fa887a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aff704f6-feba-4c2c-83c7-273cae60816a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-737d6d4b-7234-48cb-b5d4-af45a093b1d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89d819t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 42.0, 41.75)",
+  "solr_year_i": 1937.0,
+  "uuid": "princeton-pn89d819t"
+}

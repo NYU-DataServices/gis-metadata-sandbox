@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Lewistown, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1924. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8s45qb433",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1927.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Lewistown Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868019\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/717a648d-3155-4e96-a3c7-b2b1d6150015/file/5447b5d6-8be3-4c1a-8e29-1ab838ad1627\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bfccf08f-2d4a-4ec8-bfec-a066681e57c5/file/d6cdd41c-ab3f-4820-ad43-738c3e5250e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bfccf08f-2d4a-4ec8-bfec-a066681e57c5/file/23feffe8-ce5e-4b3c-a2d9-c67b1a59e934\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ee%2F1e%2Fb9%2Fee1eb9c2fbf44381aacaa66fae179062%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2e6ed51e-99f6-4d20-9569-0c247f71e385/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bfccf08f-2d4a-4ec8-bfec-a066681e57c5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8s45qb433",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.75, -77.5, 40.75, 40.5)",
+  "solr_year_i": 1927.0,
+  "uuid": "princeton-8s45qb433"
+}

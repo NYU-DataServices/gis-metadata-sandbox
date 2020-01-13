@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Annual Report of the State Geologist 1878 New Jersey Geological Survey Companion text: Geological Survey of New Jersey. Annual Report of the State Geologist for the year 1878 / George H. Cook. 131p.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1n79h582k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1878.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Forest reserves",
+    "Geology",
+    "Soils",
+    "Drift",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "The state of New Jersey surface geology map showing soils of the glacial drift of northern New Jersey and approximate bounds of the pine and oak lands of southern New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449187\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/778a7d69-5c43-46fc-8475-629e8a82539e/file/66f6d30d-9914-4fb7-82a0-fa85800d2afc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ebe5131-a120-4605-8dd7-55e6d9862b2b/file/aadb3641-22d0-4e96-91a9-05488dc5c81a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ebe5131-a120-4605-8dd7-55e6d9862b2b/file/90ec3636-dae9-41b3-8202-547869cad7bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2Feb%2F25%2Fc9eb25145ca444b7bc0b6816e38c8594%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc859f29-3450-4fd4-b20c-3afa9f144dd9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4ebe5131-a120-4605-8dd7-55e6d9862b2b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h582k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.86666666666666, 41.36666666666667, 38.916666666666664)",
+  "solr_year_i": 1878.0,
+  "uuid": "princeton-1n79h582k"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"March 1909.\" Includes key, streets and specials index, and text. \"1123.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v838259c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Paulsboro,Maps",
+    "Paulsboro (N.J.),Maps"
+  ],
+  "dc_title_s": "Paulsboro, Gloucester County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5483719\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/81cdd1d6-dfee-44c1-be8e-36b7f82ea390/file/4fba444e-14ce-4938-8708-2912138841ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/81cdd1d6-dfee-44c1-be8e-36b7f82ea390/file/da0ec930-228b-44e7-b3c0-5651167424ff\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2Fc3%2F5f%2F86c35fa1c9b044a5a0bd3d0c16278d15%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bda964cb-fc9e-401c-9745-8bdde3a936ad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-81cdd1d6-dfee-44c1-be8e-36b7f82ea390",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v838259c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-0v838259c"
+}

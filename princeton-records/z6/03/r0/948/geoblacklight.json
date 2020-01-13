@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings and shading. At the head of each title: Harbor of refuge no. In lower right margin: Engraved by Sherman & Smith, N.Y. In lower left margin: Final reduction for engraving by M.I. McClery, draughtsman. Differs from other 1847 eds. in that it does not have printer's name in lower right margin or text in upper center margin. Includes sailing information and tidal notes. In upper left margin: Harbor map no.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z603r0948",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Depot, Published in 1847.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tarpaulin Cove (Mass.),Maps",
+    "Vineyard Haven (Mass.),Maps"
+  ],
+  "dc_title_s": "The harbor of Holmes' Hole ; The harbor of Tarpaulin Cove",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7816252\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9dba7aff-75e4-4cde-9b9b-8d07145432f6/file/a46fcc42-ec51-49bd-9b05-8d66f518a139\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9dba7aff-75e4-4cde-9b9b-8d07145432f6/file/0f1306d4-ebd7-4ae0-b7a8-7a63c0b83b34\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F49%2F14%2F094914bf18ff42cba6caffe0cf5533e8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f921587f-4b5b-4f52-a4a5-32cf4cf5cdfc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9dba7aff-75e4-4cde-9b9b-8d07145432f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z603r0948",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.607292, -70.558111, 41.483566, 41.438879)",
+  "solr_year_i": 1847.0,
+  "uuid": "princeton-z603r0948"
+}

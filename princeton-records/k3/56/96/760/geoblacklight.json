@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Amerman & Ford City Surveyors"
+  ],
+  "dc_description_s": "Shows area bounded by 125th and 113th streets in the north and south, and 2nd Ave. and the Harlem river in the west and east. Includes notes explaining the derivation of this map from maps of the Randel, Millendoler and Wood properties made by J.F. Bridges in 1826, and by Edward Doughty in 1828. The earlier maps were available to be seen at the offices of Amerman & Ford. Cadastral map. Oriented with north toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k35696760",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Amerman & Ford, 1874.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Landowners,New York (State),New York,Maps",
+    "Real property,New York (State),New York,Maps",
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Maps of the estates of Morris Randel, Philip Milledoler and William Wood in the twelfth (formerly ninth) ward of the City of New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206740\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3dc7917e-91c6-4985-9b57-447b10b69ef3/file/b6d64aa8-7180-48b9-af8c-2559bb454886\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3dc7917e-91c6-4985-9b57-447b10b69ef3/file/a9a26cde-00c4-41ab-85a8-ebff8d878b5e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b5%2Fd7%2F90%2Fb5d790a8bb13410587e8683fd592527b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7ade423b-c14e-425e-871b-09316d6e1684/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3dc7917e-91c6-4985-9b57-447b10b69ef3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k35696760",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.940288, -73.928272, 40.805785, 40.793749)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-k35696760"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "L.J. Richards & Co."
+  ],
+  "dc_description_s": "Relief shown by spot heights. Includes \"Index map of Ireland.\" \"20.\" From: Memorial atlas of Ireland : showing provinces, counties, baronies, parishes, etc. ... Philadelphia : L.J. Richards & Co., 1901.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42nb41r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia : L.J. Richards & Co., 1901]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Longford (Ireland : County),Maps"
+  ],
+  "dc_title_s": "County Longford, Province of Leinster, Ireland",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7879989\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b30f4d60-50a3-417c-9bd1-b31f6ef1c725/file/5ab9c1d9-c662-4a1a-8847-4bf5c6b004e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b30f4d60-50a3-417c-9bd1-b31f6ef1c725/file/cad8eb37-f7ce-4af9-a771-4d5f2a4209d8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2F78%2F70%2F867870be5a634800a655eb046ac4a358%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60cef847-abe2-4b99-adea-b6e04d6cb77d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b30f4d60-50a3-417c-9bd1-b31f6ef1c725",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42nb41r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.076338, -7.374918, 53.942066, 53.521832)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-xw42nb41r"
+}

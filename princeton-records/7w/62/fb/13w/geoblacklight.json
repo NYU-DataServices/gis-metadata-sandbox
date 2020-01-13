@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Nov. 1918.\" Historic Maps copy has sheets 1- 16, showing Ridgefield Park; sheets 17-20, showing Little Ferry, and sheets 21-22, showing Ridgefield, foldered separately. \"2477.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7w62fb13w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ridgefield Park,Maps",
+    "Ridgefield Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Ridgefield Park, Ridgefield and Little Ferry, Bergen County, New Jersey (Index)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5288185\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95020966-9901-4878-9ea8-efd8bb5e2273/file/0439a8b9-9920-4dfd-8f3d-0272582ef702\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95020966-9901-4878-9ea8-efd8bb5e2273/file/d5c1bca7-7683-48a2-9caf-6e12e2402f02\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2Fad%2F05%2Fdaad05c580304f6eb8dbfb33c794df93%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7eec7cd7-b1d2-417d-a786-a2b28d4bf637/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-95020966-9901-4878-9ea8-efd8bb5e2273",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7w62fb13w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-7w62fb13w"
+}

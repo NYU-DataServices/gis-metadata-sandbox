@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, streets and specials index, and text. \"September 1919.\" \"2894.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vx021g53j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Riverside,Maps",
+    "Riverside (N.J.),Maps"
+  ],
+  "dc_title_s": "Riverside, Burlington County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5151822\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d921a6ac-e674-40b8-94db-6828333ef21d/file/83f9c90b-4542-402e-b31f-05db0d587335\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d921a6ac-e674-40b8-94db-6828333ef21d/file/ae422528-e305-4be6-a8e9-e5c715fc472a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F37%2F17%2Fb03717254b984cf68a33fa98c28061b6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c9cfa6dd-56c7-4737-b6a0-820518b159ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d921a6ac-e674-40b8-94db-6828333ef21d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vx021g53j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.972, -74.938, 40.044, 40.024)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-vx021g53j"
+}

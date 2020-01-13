@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 22-29 of Palisades, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zc77sr78q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1911]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Fairview,Maps",
+    "Fairview (Bergen County, N.J.),Maps"
+  ],
+  "dc_title_s": "Fairview (Sheet 29)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5255566\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c8edbbe0-f5ad-46b8-a579-2f37d21a8722/file/a456d233-4df2-43cb-a8f2-452d4d2aaede\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c8edbbe0-f5ad-46b8-a579-2f37d21a8722/file/c811d8af-c7b3-44b1-8d50-72482677d3ea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2F43%2F8a%2F83438ac21d374a5d885f91ee403ebbbd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/738f142c-8f48-4eb4-8668-01e8e7d80bed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c8edbbe0-f5ad-46b8-a579-2f37d21a8722",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zc77sr78q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.014, -73.991, 40.828, 40.808)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-zc77sr78q"
+}

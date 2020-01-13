@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.875000. South Decimal Degree 40.750000. East Decimal Degree -74.250000. West Decimal Degree -74.375000. Alternate title: Caldwell, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service. Edited and published by the United States Geological Survey. Control by USC&GS, and New Jersey Geodetic Survey. Topography from aerial photographs by stereophotogrammetric methods. Aerial photographs taken 1942. Field check 1953. Culture revised by the Geological Survey 1954.\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qn59q541s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Caldwell (N.J.),Maps"
+  ],
+  "dc_title_s": "Caldwell. Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844640\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a77e17f-0712-4150-b461-6c3fd59fdae4/file/6cd8d3c8-8492-4a72-b594-9e2352ae00f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7c057d4-5777-4ce0-bcae-8cbb39e7a933/file/f99dba72-8832-4bc5-8fae-d147e07da487\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7c057d4-5777-4ce0-bcae-8cbb39e7a933/file/1b5b1f4c-a841-43e0-b998-577e670fbbcc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2F5c%2F6f%2F465c6fc66048465fa26cc5f435bae5cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9f7eb175-a471-4dbf-b1a0-4c02583aabd1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a7c057d4-5777-4ce0-bcae-8cbb39e7a933",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qn59q541s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.375, -74.25, 40.875, 40.75)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-qn59q541s"
+}

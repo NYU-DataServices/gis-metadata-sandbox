@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. North oriented towards upper right. Sheets 195-197 of Insurance maps of Trenton, N.J., vol. 1, series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6t053j34b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Trenton,Maps",
+    "Trenton (N.J.),Maps"
+  ],
+  "dc_title_s": "Trenton, N.J. vol. 2 : add'l sheet, May 1918 (Sheet 195)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5707491\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba8076e4-dd92-45ab-8081-0a68e5b904d2/file/b5f88386-6481-473a-ab99-43f018ab74ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba8076e4-dd92-45ab-8081-0a68e5b904d2/file/2ab86ef2-857f-47d1-a2a9-a3d30d578bcb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2F37%2F6b%2F50376bf2deab4549aba3e4d24195c967%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e09eb545-0765-4063-b809-ce387652147a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ba8076e4-dd92-45ab-8081-0a68e5b904d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6t053j34b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-6t053j34b"
+}

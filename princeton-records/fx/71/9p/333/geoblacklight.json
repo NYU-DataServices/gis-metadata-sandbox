@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -20.333333. South Decimal Degree -20.500000. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Cerro Chiar Kkollu, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fx719p333",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1972.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Cerro Chiar Kkollu, hoja 5932 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841284\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd201f16-9118-4d91-aaee-5f62e7581145/file/229e2f88-19a2-438f-90ad-c692de5ace58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd201f16-9118-4d91-aaee-5f62e7581145/file/becc1164-c544-4c1b-89b5-82f381b05681\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2F73%2Fc8%2Fce73c8bbc0ac4cc1b32005af6a9a2332%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/774b8607-94aa-4af7-9633-0bf2d014e77f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fd201f16-9118-4d91-aaee-5f62e7581145",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fx719p333",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -20.333333, -20.5)",
+  "solr_year_i": 1972.0,
+  "uuid": "princeton-fx719p333"
+}

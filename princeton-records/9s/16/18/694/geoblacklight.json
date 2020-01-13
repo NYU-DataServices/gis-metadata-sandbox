@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures; depths shown by soundings, shading, and isolines. \"Verified by A.A. Humphreys, lieut. topl. engrs. & assistant.\" \"Republished ... with additions.\" In upper margin: Harbor map no. \" In lower margin: Final reduction for engraving by J.B. Glu\u0308ck, draughtsman. Engraved by J.V.N. Throop, Washington, D.C. and corrected at the Coast Survey Office. Longitude given at Stonington Light House.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s1618694",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U. S. Coast Survey Depot, 1847.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Fisher's Island Sound (Conn. and N.Y.),Maps"
+  ],
+  "dc_title_s": "Fisher's Island Sound",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7688363\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fdbd831c-8500-49e6-8d15-583e495aca36/file/f2a99d48-03b4-4962-a162-75a2453c988b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdbd831c-8500-49e6-8d15-583e495aca36/file/1a730a2d-2bb5-4bea-bc0a-b83a93ff13d6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fba%2Fbc%2F8dbabc49d5cf43dba700ae61b823281e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/744c2d7c-3649-42f2-b17c-9ac3905fef35/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1847"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fdbd831c-8500-49e6-8d15-583e495aca36",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s1618694",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.050012, -71.847323, 41.355626, 41.241798)",
+  "solr_year_i": 1847.0,
+  "uuid": "princeton-9s1618694"
+}

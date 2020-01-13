@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Triangulation by U.S. Coast and Geodetic Survey. Surveyed in 1901 in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3x816p21f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1903.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Northport (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Northport Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867162\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a2a9ae47-aae7-4fd5-8dfb-c2394b310228/file/84a82e0b-c21d-418a-9e74-68036a97b5c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cbb07380-0396-475e-9208-eec12f683fa4/file/4773f28a-6554-4d3b-b471-9be90f74eaa5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cbb07380-0396-475e-9208-eec12f683fa4/file/4bd62a7c-17ac-48ce-ba27-db31ac71bed5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/89%2Fae%2Fbe%2F89aebead2ba1468e91eb27a6c656c872%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/022f0db6-3505-4d36-9ec6-f1b5a503c465/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cbb07380-0396-475e-9208-eec12f683fa4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3x816p21f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 41.0, 40.75)",
+  "solr_year_i": 1903.0,
+  "uuid": "princeton-3x816p21f"
+}

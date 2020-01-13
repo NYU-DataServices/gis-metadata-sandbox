@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 80-82 of vol. 3 of Essex Co., N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537330p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1907]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Essex Fells,Maps",
+    "Essex Fells (N.J.),Maps"
+  ],
+  "dc_title_s": "Essex Fells Borough, N. J. (Sheet 80)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5419658\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d67184c6-10f1-4238-8356-87d974fd8e0b/file/3d8f39d8-8466-48f4-b540-d8f748186197\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d67184c6-10f1-4238-8356-87d974fd8e0b/file/72679542-bc65-418f-9546-9d2d48834de4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2Fe3%2Fd4%2F58e3d48826e54eb09f59e53a1683d3a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6873503e-5452-47f5-8736-c99e30d76576/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d67184c6-10f1-4238-8356-87d974fd8e0b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537330p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.299695, -74.259779, 40.835277, 40.814288)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-76537330p"
+}

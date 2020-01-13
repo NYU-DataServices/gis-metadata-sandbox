@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "New Jersey Agricultural Experiment Station"
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz08z",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Geological Survey of New Jersey. New Jersey Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Soils",
+    "Land Use",
+    "Topography",
+    "Administrative and political boundaries",
+    "Mineral resources"
+  ],
+  "dc_title_s": "New Jersey, Freehold Soil Conservation District, Monmouth County, physical land conditions. Sheet no. 5.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e464020b-eade-4548-9af8-67f622b393c9/file/b992879c-349e-4e87-95af-686fb84d97f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7d1a4b0-c103-4567-b631-a87022020a3b/file/25b621e5-1244-42de-a899-da8357a708e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7d1a4b0-c103-4567-b631-a87022020a3b/file/7587e9b1-cccf-479a-a87d-2e7be4eb32ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2Fb7%2F80%2F9eb780bc61224b85a77b2b69ee9416c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2c1a13f7-dc62-4c0c-9344-104cbeb31e33/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Monmouth",
+    "MC  G3813.M6J3.s15.N4J4 no. 5",
+    "Freehold"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d7d1a4b0-c103-4567-b631-a87022020a3b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz08z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.15, -74.1, 40.4, 40.35)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-6d56zz08z"
+}

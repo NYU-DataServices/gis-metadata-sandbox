@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bay Side. Relief shown by 10 feet countour interval. Surveyed in 1886-9. Triangulation by U.S. Coast and Geodetic Survey. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z029p614f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bay Side (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey-Delaware: Bay Side sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831134\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/46564c43-ccfe-4334-9d11-6b352210493b/file/781d45d2-fef4-4b3e-8a38-762babb927bd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ecc697e9-50af-44a0-93a1-1ff5e3f333dc/file/2495d9f8-e8fd-4494-b016-62be6be6a8a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ecc697e9-50af-44a0-93a1-1ff5e3f333dc/file/b93150fb-15b9-4f9f-97c0-36b36899b41c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F94%2F36%2Fd09436ab4eae4db689dca07a45286f98%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f544ebd-6a45-4ddf-a9cd-465261f2dbe3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ecc697e9-50af-44a0-93a1-1ff5e3f333dc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z029p614f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 39.5, 39.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-z029p614f"
+}

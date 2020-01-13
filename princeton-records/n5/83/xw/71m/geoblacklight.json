@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Burkina Faso with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xw71m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Burkina Faso, 1996 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/772ca227-70a6-47fc-a886-08d9dc6a25a0/file/95968049-cb61-4f1c-9ce1-af0a4e38a3dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6aa3a314-ee32-43bb-8cb4-58c0cb19ee26/file/05779285-e4ef-4dc6-8da7-7bcbf7194112\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6aa3a314-ee32-43bb-8cb4-58c0cb19ee26/file/53adaf48-14fd-43c9-a765-4400fbae608c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2Fd9%2Fc3%2Fe5d9c3618c4d4680a5020003046c3eee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c11be5c3-d745-476a-9943-f7db87c05c00/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Burkina Faso",
+    "West Africa",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6aa3a314-ee32-43bb-8cb4-58c0cb19ee26",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xw71m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.0, 0.0, 15.0, 9.0)",
+  "solr_year_i": 1996.0,
+  "uuid": "princeton-n583xw71m"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Harris, John"
+  ],
+  "dc_description_s": "World map on an oval projection. Relief shown pictorially. Includes ancillary maps of the two polar hemispheres and and a twin-hemispherical world map. Includes 10 astronomical diagrams: Ptolemy's system -- Copernic system -- Tycho's system -- The face of the sun / by Fa. Kircher -- Saturn / by Mr. Hook -- Mars / by Cassini -- Jupiter / by Mr. Hook -- The face of the moon -- The sun enlightening the earth -- The sun enlightening the moon, the moon enlightening the earth. Above neat line of map: This projection by equidistant meridians & parallels shews the naturall bearing, distance & proportion of countryes more exactly then that wherein ye distance of the meridians & parallels differ as they do in the stereographick projections, as may be seen above by the two smaller hemispheres.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w2408",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Printed and sold by Iohn Garret at his shop next the stayres of ye Royall Exchange in Cornhill ... , [ca. 1697]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800"
+  ],
+  "dc_title_s": "A view of the world in divers projections",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7564813\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8b7c2f2-ce7a-4b5d-a6c5-097fb319cadc/file/90d6152d-060e-4a27-8468-e1f02aeeda25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8b7c2f2-ce7a-4b5d-a6c5-097fb319cadc/file/dd28bda3-7e67-479f-8263-1941f96d7d8f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5f%2F2b%2F1a%2F5f2b1a827ea747e1b508e565a801e296%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c2aa53e6-d2eb-47ea-ad98-d367c3ac389d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1697"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b8b7c2f2-ce7a-4b5d-a6c5-097fb319cadc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w2408",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1697.0,
+  "uuid": "princeton-vd66w2408"
+}

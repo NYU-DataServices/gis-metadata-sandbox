@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jan. 1891.\" Includes key and text. \"4191.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zs25x987w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Frenchtown,Maps",
+    "Frenchtown (N.J.),Maps"
+  ],
+  "dc_title_s": "Frenchtown, Hunterdon Co., N. J. (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4780396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/607925f2-ddc2-4afa-9299-d4513af9d323/file/e533fb01-1923-44c1-a942-3eed2e1eff09\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/607925f2-ddc2-4afa-9299-d4513af9d323/file/c914926f-abb9-4408-bde5-d12e53e3ff1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F24%2Fe8%2Fbd24e8c3629b4a8a9d9874d030fd534b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a67dda78-24d9-4d0e-aa74-5256fdd1eab6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-607925f2-ddc2-4afa-9299-d4513af9d323",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zs25x987w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.065, -75.047, 40.537, 40.517)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-zs25x987w"
+}

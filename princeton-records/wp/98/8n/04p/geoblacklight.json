@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1910.\" Includes key, key map, streets and specials index, and text. \"3056.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988n04p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sussex,Maps",
+    "Sussex (N.J.),Maps"
+  ],
+  "dc_title_s": "Sussex, Sussex County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609868\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24212198-24a0-4fb7-9fbc-744e7516e62f/file/9972d955-915a-4421-859b-28bdc9301bfb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24212198-24a0-4fb7-9fbc-744e7516e62f/file/060858cd-e18a-4158-aeb4-7f5c1d68cc66\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2Fc0%2F38%2F95c0387266f742eb884404b79fdae3f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c68edc47-a468-4ea1-bf64-ff1b180bc271/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-24212198-24a0-4fb7-9fbc-744e7516e62f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988n04p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.6165461, -74.5985659, 41.2163271, 41.202844)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-wp988n04p"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1923.\" Includes location map, key, streets and specials index, and text. \"5743\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5x21th07t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bergenfield,Maps",
+    "Bergenfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Bergenfield, Bergen County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5226042\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e2d6ab9-3d55-4263-b739-30122a62a55b/file/f6ae2da4-9ecd-44b7-b6cb-eeeb2aa1361d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e2d6ab9-3d55-4263-b739-30122a62a55b/file/24671ddc-168e-4fa9-b2f2-7b0fa515fe59\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/88%2F27%2Ff1%2F8827f10cefe5493cb757be47b3cbc9c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/345d2b42-d13d-46aa-9778-87846d9cca84/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6e2d6ab9-3d55-4263-b739-30122a62a55b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5x21th07t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.017, -73.98, 40.938, 40.908)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-5x21th07t"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Berlin, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1923. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g888q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Berlin Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868207\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e7f60966-30bd-47ab-9bb7-ac250a2c19bb/file/553e8a4b-ede7-4fe3-892c-b89cd350c63e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27e0510e-53d8-4c2b-8788-a9fd0b338427/file/18759612-f230-46c7-9cba-fea9f173ed2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27e0510e-53d8-4c2b-8788-a9fd0b338427/file/deb902c7-d5f6-4571-ab26-2442b001e009\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F6c%2F3d%2F0b6c3dad3384468090afd5521a9b5ca2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bfe5b232-1f7e-46c1-93d1-23c1298cdd93/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27e0510e-53d8-4c2b-8788-a9fd0b338427",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g888q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.0, -78.75, 40.0, 39.75)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-1j92g888q"
+}

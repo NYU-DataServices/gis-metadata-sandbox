@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of Greenwood Lake on the New Jersey-New York border shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wp57r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "New York-New Jersey: Greenwood Lake Quadrangle, 1935 reprint",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afaf4fb4-43d0-4f22-b91d-6ffb6316f0e0/file/40c3bba5-3484-49b7-a1e2-173fdb76127b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8fe8163e-a165-4171-8575-a2256bc64877/file/811564df-62ec-49a7-a075-1096ff321678\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8fe8163e-a165-4171-8575-a2256bc64877/file/0ad6c08c-59f8-4868-bf3e-835da659f8a1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2F7a%2F12%2Fe67a122d9fec4dee95180b67cd29ed4e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e59f9bd-ae38-43a3-8a17-49cfb44fd15b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Sussex County",
+    "New York",
+    "Greenwood Lake",
+    "United States",
+    "Passaic County",
+    "Orange County",
+    "MC  G3801.C2.s62.U5G4 Greenwood Lake (1935)"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8fe8163e-a165-4171-8575-a2256bc64877",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wp57r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 41.25, 41.0)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-9c67wp57r"
+}

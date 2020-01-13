@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: Stadtplan von Halifax mit militaergeographischen Eintragungen. Grossblatt 6, Blattbereich 9k. Relief shown by 25 meter contour intervals and spot elevations. Legend is in English and German. With a list of abbreviations. Source: Ordnance Survey 1:10,560. Accompanied by 66p. booklet: \"Militaergeographische Einzelangaben ueber England; Objektbilder zu den militaergeographischen Objektkarten 1:250 000 und 1:10 000 der Mappe 6 Nord-Midlands\"; of photographs and drawings of important military objectives, bridges, factories, etc. (sites are located on map).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/70795924x",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Generalstab des Heeres, Abt. fu\u0308r Kriegskarten und Vermessungswesen, IV. Mil. Geo., 1942.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "World War, 1939-1945",
+    "England,Maps"
+  ],
+  "dc_title_s": "England 1:10 000, Halifax, BB 9k",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831938\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82d13625-0c5a-4176-9004-63299177c7fc/file/cf7ee024-ab72-422b-b4a0-b7fb9bbc0678\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ea7135e-9a42-40ee-b6bc-04be9114a543/file/587e6faf-b41d-4948-abbb-8dea4cdff6f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ea7135e-9a42-40ee-b6bc-04be9114a543/file/cd0003e1-dab9-4e46-a002-f876e50daf5d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F28%2Fff%2Ffa28ff03811e41c1965d58be728cf3a5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34f312e4-3be6-40ab-ac1f-af57af1152c2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5ea7135e-9a42-40ee-b6bc-04be9114a543",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-70795924x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.8666666666666667, -1.8166666666666667, 53.75, 53.733333333333334)",
+  "solr_year_i": 1942.0,
+  "uuid": "princeton-70795924x"
+}

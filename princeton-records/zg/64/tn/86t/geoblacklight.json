@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"Dec. 1909.\" Sheet 16 of Ridgefield Park, N.J. series. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zg64tn86t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Company, 1909]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Little Ferry,Maps",
+    "Little Ferry (N.J.),Maps"
+  ],
+  "dc_title_s": "Little Ferry (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5269050\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65035d49-454e-432e-984b-4534d7af603e/file/98f46bf0-39dd-46f0-8d50-f111669e25fa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65035d49-454e-432e-984b-4534d7af603e/file/2d07ee5d-7df1-4731-9426-3d22da093613\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8f%2F4c%2Fd4%2F8f4cd4253855418fbbc2249d2ae93cd0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9212608e-b04a-4c97-a380-22cc7e82ef44/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-65035d49-454e-432e-984b-4534d7af603e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zg64tn86t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.053981, -74.028418, 40.85919, 40.82855)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-zg64tn86t"
+}

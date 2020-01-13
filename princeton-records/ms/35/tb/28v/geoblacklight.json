@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1910.\" Includes key, streets and specials index, and text. \"2975.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb28v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Beverly,Maps",
+    "Beverly (N.J.),Maps"
+  ],
+  "dc_title_s": "Beverly, Burlington County, New Jersey (Sheet 8)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5027652\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f280d5ec-d7ef-49e7-a444-4479004ffdc6/file/f8d71483-2a87-42ed-928a-a024ecf0560c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f280d5ec-d7ef-49e7-a444-4479004ffdc6/file/c7ff4ff3-75f6-4623-b021-0127af5cd08b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a8%2F27%2Fc0%2Fa827c0531b3643e4b37f8b8888f794df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8025e759-7f9e-4034-899d-a3c08a32baca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f280d5ec-d7ef-49e7-a444-4479004ffdc6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb28v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.932, -74.911, 40.069, 40.057)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-ms35tb28v"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.000000. South Decimal Degree -19.166667. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Estancia Irpa, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qr38z",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1974.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Chipaya, hoja 5936 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841300\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/716b248a-dfda-4d37-a275-961082f104e4/file/36ffb3aa-2a2e-417f-9a43-258be8451dbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/716b248a-dfda-4d37-a275-961082f104e4/file/e1a50607-e21f-4b36-876b-725051ed2e31\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2F81%2F19%2F66811995930b48ca913dd046ef33a2f9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e952cbcc-683f-474c-b7bd-a3856cfbd619/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-716b248a-dfda-4d37-a275-961082f104e4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qr38z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -19.0, -19.166667)",
+  "solr_year_i": 1974.0,
+  "uuid": "princeton-d217qr38z"
+}

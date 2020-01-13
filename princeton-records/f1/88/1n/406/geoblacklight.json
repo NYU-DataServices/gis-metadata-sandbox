@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour interval. Triangulation by U.S. Coast and Geodetic Survey. Topography by C.C. Vermeule. Surveyed in 1884-85. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f1881n406",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Cassvillerangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Cassville Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831254\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91fa020d-146f-43f4-a1fc-7b15a7a53313/file/898cabf6-9746-4bc9-9051-beda1d9c14af\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab747c07-db1d-4ce9-9f32-1c3128ddcd89/file/e91f59f6-ed95-4869-b542-545cfaabcde9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab747c07-db1d-4ce9-9f32-1c3128ddcd89/file/f9f24f19-d208-43ff-bfae-0b670cfc6bf4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F3c%2F77%2Fe13c77c75c0548f7aa67f3c1d285f93f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/83b444ad-1791-44a0-a57e-f1a9c80d6fb0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ab747c07-db1d-4ce9-9f32-1c3128ddcd89",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f1881n406",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 40.25, 40.0)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-f1881n406"
+}

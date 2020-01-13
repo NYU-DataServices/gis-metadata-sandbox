@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Erfurt in the German state of Thuringia. Street index on verso. From: Illustrierter Fu\u0308hrer durch Erfurt und Umgebung / herausgegeben von Leo Woerl ... Leipzig : Woerl's Reisebu\u0308cherverlag, 1905.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d570132z",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Woerl's Reisebu\u0308cherverlag, [1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Erfurt (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Erfurt",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7587934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d45a4ec4-1f14-43b7-9c23-b074fcb6862a/file/b2fc2c9e-e377-46ab-ad9d-d842203dbe97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d45a4ec4-1f14-43b7-9c23-b074fcb6862a/file/35ab4866-3303-4ee5-948e-68034fa19fed\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c8%2Ff2%2F34%2Fc8f2340323b545e2acb86fca961f498b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c0bdad5-8a59-4f2d-a71b-ce601f3f6082/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d45a4ec4-1f14-43b7-9c23-b074fcb6862a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d570132z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.8696459, 11.1896459, 51.1378285, 50.8178285)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-6d570132z"
+}

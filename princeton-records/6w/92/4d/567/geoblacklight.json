@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Attica, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Photographs taken 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6w924d567",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1949.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Attica (N.Y.),Maps"
+  ],
+  "dc_title_s": "Attica Quadrangle: New York 15-minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867660\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b77f6422-1a46-419c-8d2f-c670f7fb73bd/file/93721549-632f-4b5e-b253-36bfc02fe937\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f54bf23-eeec-431b-9cb8-8baa5266728a/file/27a31342-473a-4bcb-ac3a-cc497630e298\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f54bf23-eeec-431b-9cb8-8baa5266728a/file/0324bbf4-a174-4df6-8377-918313f64e57\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/aa%2F26%2F41%2Faa264167c1bf4738a6fb237543d1476e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4de34e41-1741-4503-8bfa-3621a1842f50/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1949"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0f54bf23-eeec-431b-9cb8-8baa5266728a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6w924d567",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.5, -78.25, 43.0, 42.75)",
+  "solr_year_i": 1949.0,
+  "uuid": "princeton-6w924d567"
+}

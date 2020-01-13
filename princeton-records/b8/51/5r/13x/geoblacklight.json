@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. \"Iraq zone grid.\" Shows grid, railways, roads, tracks, and water pipelines. Includes index to buildings and streets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515r13x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Southampton] : Ordnance Survey, 1948.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tehran (Iran),Maps"
+  ],
+  "dc_title_s": "Town plan of Tehra\u0304n",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9674333\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/caabb1d9-d1c4-4602-b2ac-83cef4f5ad1d/file/fd6283ee-d582-463c-b27d-f9f64819c724\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/caabb1d9-d1c4-4602-b2ac-83cef4f5ad1d/file/4136b676-6b78-4219-9dac-3c6e563df99d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/06%2F6d%2F2d%2F066d2d9883af43b284ed70dfa1e950bc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c3b6e9fa-abdf-46e3-bd85-1ba7a2b255c4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iran"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-caabb1d9-d1c4-4602-b2ac-83cef4f5ad1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515r13x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(51.361944, 51.471944, 35.716111, 35.647222)",
+  "solr_year_i": 1948.0,
+  "uuid": "princeton-b8515r13x"
+}

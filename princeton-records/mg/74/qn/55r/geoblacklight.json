@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1886.\" Includes key, streets and specials index, and text. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mg74qn55r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Atlantic City,Maps",
+    "Atlantic City (N.J.),Maps"
+  ],
+  "dc_title_s": "Atlantic City, New Jersey (Sheet 34)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5165864\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84968253-b792-4fc9-a4e2-e3bcc1351470/file/58c6dc11-2f97-4b06-bdb3-82a506923565\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84968253-b792-4fc9-a4e2-e3bcc1351470/file/440f5a76-8982-484c-9728-12a21e85335f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dd%2Fb0%2F01%2Fddb0014772014096b5d858471176c317%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9430b71b-d5d9-40f4-b79c-4da84969a29d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-84968253-b792-4fc9-a4e2-e3bcc1351470",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mg74qn55r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-mg74qn55r"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bn999849x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Granville (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Granville sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837155\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0eec98d4-ce97-4330-a6a0-1042b269aa45/file/bbe76467-b43c-46bc-8ad3-610b2d11fa4c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/588bba03-43ca-4bf2-8e20-370101d7ae8a/file/bc96f212-3d15-473b-a4d6-ea1ea97af03d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/588bba03-43ca-4bf2-8e20-370101d7ae8a/file/5c599ca1-c1bf-41e4-96e2-1ccf9999289f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Ff7%2F01%2F19f7015398f84e63a5846d68c284f585%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9b0f84ca-bf18-4783-99c2-319864b7f254/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-588bba03-43ca-4bf2-8e20-370101d7ae8a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bn999849x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.0, -72.75, 42.25, 42.0)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-bn999849x"
+}

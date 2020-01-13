@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Kiepert, Richard, 1846-1915"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Historic Maps copy of sheet D2 has imprint date: 1905.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ms35tb529",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Dietrich Reimer (Ernst Vohsen), 1902-1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Turkey,Maps"
+  ],
+  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero\u0308ffentlichen Aufnahmen (Sheet BIV Jozgad)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4953019\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed315dd6-3131-43e5-8c19-5da0e17b9f83/file/0d17d248-7d20-47ed-ad7f-c2cd88dba4e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed315dd6-3131-43e5-8c19-5da0e17b9f83/file/939673d7-c22f-4256-aa10-1dc9a567ab3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2Fa4%2F18%2F48a418bd988b488c9bdbe0df81f23467%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f4970c25-a9b3-47c6-a776-7f00d709dbe3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ed315dd6-3131-43e5-8c19-5da0e17b9f83",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ms35tb529",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.62, 44.82, 43.25, 34.78)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-ms35tb529"
+}

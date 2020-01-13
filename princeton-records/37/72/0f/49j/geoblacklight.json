@@ -1,0 +1,46 @@
+{
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency."
+  ],
+  "dc_description_s": "This is a map of Iraq, shown at a 1:1,250,000 scale. The map was created for use by Department of Defense by the National Imagery and Mapping Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/37720f49j",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "National Imagery and Mapping Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "Oil",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Iraq.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/96b9dd37-52f5-424d-b311-18312b4ea96f/file/7163e651-7117-4150-b522-89ef7cc29bfe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aefe5434-ff46-4d18-a9ff-fb6647268882/file/8d7a9b5b-45d4-4019-8a28-342c49ad7167\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aefe5434-ff46-4d18-a9ff-fb6647268882/file/da629c10-337d-4aa5-bc0e-a944894d3a10\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F91%2F0e%2Fdf910e8e611041e4a9e2d102e494bad9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9dbb0f89-6bf2-45d9-a104-a963e8474657/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iraq",
+    "G7611.C1.2003.N3I4"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aefe5434-ff46-4d18-a9ff-fb6647268882",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-37720f49j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(38.9167, 48.4167, 34.1667, 29.0833)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-37720f49j"
+}

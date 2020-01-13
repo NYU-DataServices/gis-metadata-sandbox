@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Floe, van der"
+  ],
+  "dc_description_s": "Map of the battlefield of Jena during the campaign of 1806. Relief shown by shading and spot heights. In upper margin: v. Taysen, Wanderungen auf dem Jenaer Schlachtfelde. From: Wanderungen auf dem Jenaer Schlachtfelde / von Hauptmann von Taysen. Jena : G. Fischer, 1906.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/73666703k",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Jena : Verlag von Gustav Fischer, [1906] (Jena : Druck von Johannes Arndt)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Jena, Battle of, Jena, Germany, 1806,Maps",
+    "Jena (Germany),Maps"
+  ],
+  "dc_title_s": "Das Schlachtfeld von Jena 1806",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7611677\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0c46e8cc-4f5b-4653-9801-58e8df2d9298/file/08836e1a-3117-4b56-a670-eacef0324ad7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0c46e8cc-4f5b-4653-9801-58e8df2d9298/file/1f4f3456-47bb-4c40-99c1-a7bc6f514f3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2Fea%2F16%2Fc3ea1621ed7947188a019338c848c272%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0482b570-5e9d-462e-8679-3385ea214161/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0c46e8cc-4f5b-4653-9801-58e8df2d9298",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-73666703k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.451221, 11.624771, 50.998328, 50.907275)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-73666703k"
+}

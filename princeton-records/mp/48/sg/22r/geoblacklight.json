@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Stedman, John Gabriel, 1744-1797"
+  ],
+  "dc_description_s": "Relief shown by hachures. In upper margin: Stedman Vol. 1. In lower margin: Inc. in Milano al Pontevetre N. 2225. From: Viaggio al Surinam e nell' interno della Guiana ossia relazione di cinque anni di corse e di osservazioni fatte in questo interessante e poco conosciuto paese / dal Capitano Stedman ... Milano : Dalla tipografia di Giambattista Sonzogno, 1818.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mp48sg22r",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano: [Dalla tipografia di Giambattista Sonzogno, 1818]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Guiana,Maps",
+    "Suriname,Maps"
+  ],
+  "dc_title_s": "Carta della Guiana",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6583277\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ed08cdb-3744-4f5f-963e-dacf6d58889d/file/8f477195-cde9-4ecb-812a-7b9cb76923a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ed08cdb-3744-4f5f-963e-dacf6d58889d/file/2e2f8ba3-3f0c-41f9-a304-7046b6e6fa17\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a2%2F1e%2F40%2Fa21e4031e368497ba2ba8828ab6435cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e3b88634-faf8-43b7-b857-58383a4977d0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Guyana",
+    "Suriname"
+  ],
+  "dct_temporal_sm": [
+    "1818"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3ed08cdb-3744-4f5f-963e-dacf6d58889d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mp48sg22r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-79.01, -48.51, 9.51, -4.02)",
+  "solr_year_i": 1818.0,
+  "uuid": "princeton-mp48sg22r"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Plainfield (1900) Alternate title: Plainfield sheet. \"Surveyed in 1887. Resurveyed in 1900.\" Relief shown by contours and spot elevation.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cc49k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Plainfield (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Plainfield",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448913\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d19097fa-81f1-4e05-a41d-66948e1e156c/file/ecf9d96c-153d-4efa-84a7-64cd4fff70f5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d5c5f18-f692-4805-af53-6866ac3f60b1/file/a993da6a-50da-44fd-8abd-b0e1f7b96fe7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d5c5f18-f692-4805-af53-6866ac3f60b1/file/1954f41c-1b8a-4c2e-8207-9b90d05fb57c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F4d%2Ff0%2F1b4df09a203d48fc89ffb7afd90ddb6d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0d61ac1-2ee8-433c-a479-e86bc11800f4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d5c5f18-f692-4805-af53-6866ac3f60b1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cc49k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.55, -74.33333333333333, 40.7, 40.583333333333336)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-pk02cc49k"
+}

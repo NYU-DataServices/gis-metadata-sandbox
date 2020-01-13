@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Lake Hopatcong. In upper margin: Topography. Relief shown by 20 feet countour intervals. Triangulation by U.S. Coast and Geodetic Survey. Topography by the Geological Survey of New Jersey. Surveyed in 1881. Revised in 1903.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wh246t88k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hopatcong, Lake (N.J. : Lake),Maps"
+  ],
+  "dc_title_s": "New Jersey: Lake Hopatcong Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831654\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e563a771-bed6-4758-b1cc-aeefc923cc9a/file/862e176f-ee1b-4c78-8048-e126e8fa230e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fabae91f-a5ef-473c-8b2c-d837df88daf7/file/dc66ef21-77ea-4f63-b3ac-0e688409b55f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fabae91f-a5ef-473c-8b2c-d837df88daf7/file/2d55024e-01ec-4cc5-aa83-448224af9c15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2F57%2F5b%2Fe3575bc4116340e1bf19adf901c42b29%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5dce581-dbdc-4f3e-8cb9-3f432db880ec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fabae91f-a5ef-473c-8b2c-d837df88daf7",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wh246t88k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 41.0, 40.75)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-wh246t88k"
+}

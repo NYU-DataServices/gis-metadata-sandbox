@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Burlington, N.J. Relief shown by 20 feet contour interval. Surveyed in 1885-88, and accepted in cooperation. Revised in 1904. Triangulation by U.S. Coast and Geodetic and New Jersey Geological Surveys. Verso: legend and explanatory notes, \"The topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ww72bd25w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Burlington Quadrangle (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Burlington Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831251\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f1edea72-4569-41f1-b0e7-f45577e5e873/file/2501d31f-e6d9-46da-880e-3503fae874b5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fac529d-0e33-48bc-ab67-7baf030ffe2c/file/91fda97c-4ed7-46d6-a542-080a6b273620\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fac529d-0e33-48bc-ab67-7baf030ffe2c/file/6d35ebf2-d6f7-401e-b032-af6f59b17281\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F14%2Fab%2Fa514ab32c53949b8ad3c56221b7f28a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e120f9ff-f3d1-4bc4-86ff-316a73b04d34/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0fac529d-0e33-48bc-ab67-7baf030ffe2c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ww72bd25w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 40.25, 40.0)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-ww72bd25w"
+}

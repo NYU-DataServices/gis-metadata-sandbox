@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ks65hd856",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1976.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Costa Rica,Maps"
+  ],
+  "dc_title_s": "Reconnaissance geologic map and cross sections of central Costa Rica. Mapa de reconocimiento geologico y cortes transversales de Costa Rica central",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6516234\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5d1fe077-43f8-4520-97ab-998cd9a708fa/file/00bf2ac8-e7b6-4ac1-9f63-dcc5b2759e82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f1dcb46-593c-44c6-a5a2-febf4afd4d8a/file/196f144d-4bd7-4034-a7c8-e4724e4467bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f1dcb46-593c-44c6-a5a2-febf4afd4d8a/file/800a3c01-b471-4007-a6e7-adb5aa15a1d2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2Fc0%2F56%2F46c0569c1b9f4d148e664d6f83553b40%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2f58c9fe-1de2-4242-a4df-a83f127696d7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4f1dcb46-593c-44c6-a5a2-febf4afd4d8a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ks65hd856",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-84.25, -83.56666666666666, 10.166666666666666, 9.666666666666666)",
+  "solr_year_i": 1976.0,
+  "uuid": "princeton-ks65hd856"
+}

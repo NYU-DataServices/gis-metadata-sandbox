@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey Polyconic projection. Relief shown by 50 feet contour intervals and spot elevation. Verso: text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z029p624w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [s.n.], 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Lassen Volcanic National Park (Calif.),Maps"
+  ],
+  "dc_title_s": "Topographic map of Lassen Volcanic National Park, California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6457452\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5220ef5b-0b84-42aa-8656-388263df509f/file/25810482-8e31-4a39-920f-474f4270de82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f93df12e-1982-4f07-bbba-2dc1719bf383/file/6086ad14-7a78-4a98-86a4-1046ce372fa9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f93df12e-1982-4f07-bbba-2dc1719bf383/file/eb27916f-f686-4c83-8422-8b2dd2243f79\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bc%2F9d%2F5f%2Fbc9d5ff269cf4180b443330e8a894125%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aac84269-8f30-4260-8cdc-ff42637ebee6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f93df12e-1982-4f07-bbba-2dc1719bf383",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z029p624w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-121.58333333333333, -121.25, 40.583333333333336, 40.416666666666664)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-z029p624w"
+}

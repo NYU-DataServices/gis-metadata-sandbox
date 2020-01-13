@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Cornell, S. S. (Sarah S.)"
+  ],
+  "dc_description_s": "Relief shown by hachures. On verso: Greece, Turkey in Asia and Persia; India. New York : D. Appelton & Co. ... , c1856. Insets: Liberia; Southern part of Africa; Map of Isthmus of Suez. \"Entered according to Act of Congress in the year 1855 by S. S. Cornell ... \"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vt150m08h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : D. Appelton & Co. ... , c1855.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Africa,Maps",
+    "Liberia,Maps",
+    "South Africa,Maps",
+    "Suez (Egypt),Maps"
+  ],
+  "dc_title_s": "Africa : designed to accompany Cornell's high school geography",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4584667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/20d8b7f1-440d-43bd-aeda-d2b61efcae59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/61e04a57-3bce-4b27-86bd-fba5bd13714b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F08%2Fcf%2F2108cfc42b2d4bfe992c5652230925f9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7807f8de-e99e-4f8e-bbe2-4278ced65ea8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Africa",
+    "Liberia",
+    "South Africa",
+    "Suez Canal (Egypt)"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c69f4527-d78a-459c-9a04-a4d0728b23b0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vt150m08h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-40.0, 90.0, 45.0, -42.0)",
+  "solr_year_i": 1855.0,
+  "uuid": "princeton-vt150m08h"
+}

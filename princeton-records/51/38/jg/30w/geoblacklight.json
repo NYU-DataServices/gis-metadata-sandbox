@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Sheets, nos. 34 to 57. incl.; New Jersey coast map.\" Includes key, streets and specials index, and text. \"3857.\" North oriented toward upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jg30w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Asbury Park,Maps",
+    "Asbury Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Asbury Park, Monmouth Co., New Jersey (Sheet 45)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792454\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f353e85b-858c-4066-a039-a0cd611e3ed3/file/579bff48-0dfa-4053-b99f-cc492950ff1c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f353e85b-858c-4066-a039-a0cd611e3ed3/file/ad4ae4a7-c449-4572-b588-e2cca0d29e9a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F9d%2Fe3%2F1b9de386610146a887f63686de342e8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/99db9fc9-5b58-43d3-b574-18308c9e502a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f353e85b-858c-4066-a039-a0cd611e3ed3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jg30w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.028, -73.996, 40.232, 40.213)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-5138jg30w"
+}

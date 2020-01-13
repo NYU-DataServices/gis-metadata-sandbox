@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1890.\" \"New Jersey coast map. Nos. 5 to 8 inclusive.\" Includes key, specials index and text. \"3848.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1831cm82d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Spring Lake,Maps",
+    "Spring Lake (N.J.),Maps"
+  ],
+  "dc_title_s": "Spring Lake Beach, Monmouth Co., N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4837865\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e49b84b-d1cc-4b93-a769-a539bc1be9e0/file/7a0d0fef-8192-4216-8535-609c56436e91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e49b84b-d1cc-4b93-a769-a539bc1be9e0/file/a97f7e30-7922-4e64-b7ad-4bf4dc27a374\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F17%2F2a%2F1b172a708fb84386be092e45d5d30e89%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/742bd792-79ab-4b67-b84b-06b4dcb4e435/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1e49b84b-d1cc-4b93-a769-a539bc1be9e0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1831cm82d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.037676, -74.016764, 40.169092, 40.138337)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-1831cm82d"
+}

@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Linz in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s7526d910",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Linz.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/081cd451-8b50-4bdb-83df-b36a28094813/file/d8590ae9-5863-4445-8f16-5b33715e9505\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9030e2a7-e532-448f-8bd5-5b2137d47106/file/0383e9cf-c6d7-4223-967f-ee262e95dc26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9030e2a7-e532-448f-8bd5-5b2137d47106/file/02901b3a-9347-45dc-a56b-22ddc6018bf5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2Fa8%2F15%2F6ba815cca99a4723af3471a2c94df083%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1879e337-af87-400c-a1d3-a42df254d6d5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Linz",
+    "G6031.C2.s100.A7M3",
+    "Central Europe",
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9030e2a7-e532-448f-8bd5-5b2137d47106",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s7526d910",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.3333, 14.3333, 48.75, 48.25)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-s7526d910"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1912.\" Includes location map, key, streets and specials index, and text. \"5272.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9k41zg424",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1912.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lodi,Maps",
+    "Lodi (N.J.),Maps"
+  ],
+  "dc_title_s": "Lodi, Bergen County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5269873\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/497a60c0-2a27-4d00-8178-6d6f9a18675e/file/e5766762-d39a-4874-8915-d12afe1d8208\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/497a60c0-2a27-4d00-8178-6d6f9a18675e/file/2de6e2cd-78bd-49e0-8b9b-901c6eb1a42f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F71%2F2c%2Fb6712c5e008e4a3b9a571c62fb33e946%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34c9bdfc-16bb-4265-90f3-369e785468d2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-497a60c0-2a27-4d00-8178-6d6f9a18675e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9k41zg424",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.09864, -74.064149, 40.895068, 40.861442)",
+  "solr_year_i": 1912.0,
+  "uuid": "princeton-9k41zg424"
+}

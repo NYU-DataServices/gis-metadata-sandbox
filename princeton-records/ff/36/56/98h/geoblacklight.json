@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval. Surveyed in 1901 in cooperation with the State of Pennsylvania. Triangulation by Sledge Tatum. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365698h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Waynesburg (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Waynesburg Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868110\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e48ecfc-f9f5-471b-b063-b51c55bc7a7f/file/4718c8b3-2e63-4a02-a05d-52b586feb048\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcf895f3-08c7-4a31-88a7-f4bab178d49a/file/cab7a5b4-fe2e-4893-a64b-b38fa5526f29\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcf895f3-08c7-4a31-88a7-f4bab178d49a/file/e3b9abdc-5154-4b5b-9623-5faa91fb3c20\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F9d%2F85%2Fb09d85a84d0c42a8b2bdfbb5153d6cd1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7b1adbcb-90fb-43e5-b48f-71ad482363a7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dcf895f3-08c7-4a31-88a7-f4bab178d49a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365698h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.25, -80.0, 40.0, 39.75)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-ff365698h"
+}

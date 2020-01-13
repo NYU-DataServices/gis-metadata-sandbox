@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Hyndman, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1927. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c895m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1931.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Hyndman Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868591\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bcb17de-d5b1-4c3a-9095-87720e8de6e0/file/9648c487-6b3d-4e1a-990b-9a925cd4e859\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9d074df-d2b4-4635-856b-3fab79bad7cd/file/c0c0a5a8-098e-4faa-8525-8f273b2cd13b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9d074df-d2b4-4635-856b-3fab79bad7cd/file/2fce3708-2626-4b2b-8011-53987ed678bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F46%2Fab%2F2246ab4747c244f39e191cb0ee3888f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52f8b198-47cd-4627-af1b-e24a54220f8b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e9d074df-d2b4-4635-856b-3fab79bad7cd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c895m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.75, -78.5, 40.0, 39.75)",
+  "solr_year_i": 1931.0,
+  "uuid": "princeton-x059c895m"
+}

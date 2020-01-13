@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Chateaugay, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1912-1913. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gm42v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1899.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Chateaugay (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Chateaugay Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867349\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/906daccd-9060-488d-9ca8-3e1b7ac1fa34/file/2611e43b-3774-4e6a-9744-ddb6b7b7d73e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27bccb81-4c8c-4ad5-8022-4203cdaac503/file/9fac8d2f-07d0-40cf-9ed8-c695e6772d5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27bccb81-4c8c-4ad5-8022-4203cdaac503/file/56e85403-8293-430d-9edc-0283b57dbbdb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fe2%2F91%2F03e291456a314a24a91981a147eca01d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56b1f411-2035-4c29-9eff-6909f758d396/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-27bccb81-4c8c-4ad5-8022-4203cdaac503",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gm42v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -74.0, 45.0, 44.75)",
+  "solr_year_i": 1899.0,
+  "uuid": "princeton-c821gm42v"
+}

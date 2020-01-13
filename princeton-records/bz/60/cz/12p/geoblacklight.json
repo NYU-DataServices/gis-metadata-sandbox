@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -4.0000. West Decimal Degree -5.0000. Alternate title: Pozoblanco, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1887-1939; Spain, 1:200,000, Cuartel General del Generalisimo, 1939; Road Map of Spain and Portugal, 1:400,000, A.M.S., sheets 46, 47, 48, and 49, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-44. Partially revised from aerial photography, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bz60cz12p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Pozoblanco (Spain),Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Pozoblanco, sheet 61. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839271\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/986109c7-d1d6-439a-87b2-6fe3e6f33679/file/1977b323-aada-46fb-b975-d374f56f3cde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/986109c7-d1d6-439a-87b2-6fe3e6f33679/file/aa0b5d6d-f2ec-43e9-85da-50417c544b35\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F69%2F06%2Fb16906fcb3cf43d08fb507d122090141%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bcc25a0a-560a-497f-a650-83328e53c383/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-986109c7-d1d6-439a-87b2-6fe3e6f33679",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bz60cz12p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.0, -4.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-bz60cz12p"
+}

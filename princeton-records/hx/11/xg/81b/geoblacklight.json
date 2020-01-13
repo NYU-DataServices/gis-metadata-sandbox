@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Toyokawa, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. Depth shown by meters. In upper left margin \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hx11xg81b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Toyokawa, Aichi Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450029\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e9d60f5-8f98-45a1-a841-8cce27c0f5fb/file/50b4e51b-a25e-44ad-a7a5-4239b18ea333\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e383e3a4-ca24-4e96-8961-a64ed021fc86/file/e3ad9fd2-b0c8-436b-ba98-1c59d9d9c77b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e383e3a4-ca24-4e96-8961-a64ed021fc86/file/ce5792ee-419f-499a-80ab-afeb006f19f9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/38%2Ff4%2Fd8%2F38f4d897a57f44999147f90db2717757%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0509d4eb-3209-41d7-b2db-5defb65fed56/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e383e3a4-ca24-4e96-8961-a64ed021fc86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hx11xg81b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(137.35, 137.43333333333334, 34.86666666666667, 34.8)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-hx11xg81b"
+}

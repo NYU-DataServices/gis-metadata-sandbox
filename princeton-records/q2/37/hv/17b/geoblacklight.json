@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1923.\" Includes location map, key, key map, streets and specials index, and text. \"1272.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q237hv17b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Woodstown,Maps",
+    "Woodstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Woodstown, Salem County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5597347\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/daae041f-8e48-4e15-9bc9-ade23ffcb595/file/d735d40b-f706-4431-b5af-1b5c20ec833a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/daae041f-8e48-4e15-9bc9-ade23ffcb595/file/c19de726-a65c-4938-b968-af6967555742\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a4%2Fdd%2F37%2Fa4dd37da735948ed8396a1f2db33e643%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/462ce7d5-a9a2-4a77-be3c-dcc2c1407893/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-daae041f-8e48-4e15-9bc9-ade23ffcb595",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q237hv17b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.336228, -75.314644, 39.663762, 39.637336)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-q237hv17b"
+}

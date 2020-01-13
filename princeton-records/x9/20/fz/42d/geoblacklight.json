@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "\"801519 (A04403) 4-90.\" \"Boundary representation is not necessarily authoritative.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x920fz42d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency], 1990.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Central America,Maps",
+    "Caribbean Area,Maps"
+  ],
+  "dc_title_s": "Central America and the Caribbean.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7215393\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/094593bc-cf10-4a7a-8db0-4a4f1988b7d2/file/777d611b-5424-44d6-9c41-423c3dd999d6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/094593bc-cf10-4a7a-8db0-4a4f1988b7d2/file/c8a32ec0-b815-490c-9950-e0e3b98bd839\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/88%2Fab%2F92%2F88ab92b5cccd4706baf7906c8bc62a06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75ddd9d2-385e-44ea-a2e6-63c388b88c7d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central America",
+    "Caribbean Area; Caribbean Sea"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-094593bc-cf10-4a7a-8db0-4a4f1988b7d2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x920fz42d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-92.0, -51.0, 31.0, 0.0)",
+  "solr_year_i": 1990.0,
+  "uuid": "princeton-x920fz42d"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. Hydrographic Dept"
+  ],
+  "dc_description_s": "Relief shown by hachures and bathymetric soundings. \"Large corrections, April 1882. June 1885, May 1892.\" Insets: Continuation of land north of Smith Sound -- Scott Inlet & Eglinton Fiord (Scale [ca. 1:1,267,200]) -- Disko Id. (Scale [ca. 1:95,590]). \"2177.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386m05s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published at the Admiralty 14th. Decr. 1852 under the superintendence of Captn. Washington R.N., F.R.S., hydrographer ; sold by J.D. Potter, agent for the Admiralty charts ... , 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Arctic regions",
+    "Nautical charts,Baffin Bay (North Atlantic Ocean).",
+    "Arctic regions,Maps",
+    "Baffin Bay (North Atlantic Ocean),Maps"
+  ],
+  "dc_title_s": "Arctic Sea : Baffin Bay, sheet 1 : 1853, with corrections to 1881",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4650389\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0b39ce0-d68d-4e42-8d66-3906aa061764/file/8b85de55-c270-4e1d-8d9a-306ba7c77216\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0b39ce0-d68d-4e42-8d66-3906aa061764/file/4cb0fae3-663f-4578-a7a7-5e058d235326\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Fc8%2Fe4%2F8bc8e46c84ca408a963c50e26adf6daf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05eb91fd-e762-41cc-bec4-0394993c2ea4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Arctic Ocean; Arctic regions",
+    "North Atlantic Ocean"
+  ],
+  "dct_temporal_sm": [
+    "1852"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c0b39ce0-d68d-4e42-8d66-3906aa061764",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386m05s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-90.0, -42.0, 79.6, 59.5)",
+  "solr_year_i": 1852.0,
+  "uuid": "princeton-bc386m05s"
+}

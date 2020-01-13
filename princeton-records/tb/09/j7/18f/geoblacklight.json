@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "North oriented towards upper right. Sheets 27, 36, 49-52, and 55 of Garfield, N.J. series. Title from sheet 27.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tb09j718f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Carlstadt,Maps",
+    "Real property,New Jersey,East Rutherford,Maps",
+    "Carlstadt (N.J.),Maps",
+    "East Rutherford (N.J.),Maps"
+  ],
+  "dc_title_s": "E. Rutherford & Carlstadt (Sheet 51)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5225062\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97afb5dd-0ea8-4b20-ab07-cd0f3c6af9b3/file/d6e4b945-4899-4446-ad49-72f9e7bd60e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97afb5dd-0ea8-4b20-ab07-cd0f3c6af9b3/file/5402b0c4-26d0-4ab5-8cd4-08d41a8c3048\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F46%2F21%2F184621cdd7b7406c83d2166242bb5a8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f35eefa1-b7aa-48c5-b7b1-65206cad6e40/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-97afb5dd-0ea8-4b20-ab07-cd0f3c6af9b3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tb09j718f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.122, -74.031, 40.853, 40.789)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-tb09j718f"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Feby. 1902.\" Includes key, streets and specials index, and text. \"5353.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h989r471t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hackensack,Maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hackensack, Bergen Co., New Jersey (Sheet 14)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5263732\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aedb1a9e-08fd-4df7-a9ee-807ff1818ec0/file/c5f409b0-79ab-43f4-9c67-0aa28e755dc1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aedb1a9e-08fd-4df7-a9ee-807ff1818ec0/file/108bfded-df5c-4703-b167-dc7f378b0b46\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2F86%2F74%2F908674811d7449e49197103da528ecd0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/96619afc-6c8b-4817-9270-2ce85a991c68/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-aedb1a9e-08fd-4df7-a9ee-807ff1818ec0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h989r471t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.069, -74.025, 40.914, 40.859)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-h989r471t"
+}

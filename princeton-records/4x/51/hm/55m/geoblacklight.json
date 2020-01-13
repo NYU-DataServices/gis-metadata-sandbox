@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Depths shown by soundings and isolines. \"Atlas sheet No. 17 (Cape May).\" Originally issued folded in covers 24 x 17 cm. Historic Maps copy has paper label on verso: Atlas of New Jersey. Map sheet no. 17. [In ms.: Cape May.]. Clement H. Sinnickson.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4x51hm55m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J.] : The Survey, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cape May County (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the peninsula of Cape May with the country westward to Maurice River ; from original surveys and levelings, excepting the shore-lines of bays and beaches from Cape May Court House southward which are from the plane-table sheets of the U.S. Coast and Geodetic Survey ; based on the triangulation of the U.S. Coast and Geodetic Survey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8284426\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0aeb07b1-c022-43fd-bb82-aa77064dc24a/file/6fe7dab1-0357-4c80-a600-f6943ed0308d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0aeb07b1-c022-43fd-bb82-aa77064dc24a/file/9d833ccf-05e4-4817-8a05-a04595593fe3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Fca%2F74%2F8bca7417e6b4437e98f316a18334c51a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b43de77a-cd5f-4df5-80f8-e5af7dc9c1ea/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0aeb07b1-c022-43fd-bb82-aa77064dc24a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4x51hm55m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.000107, -74.550182, 39.33343, 38.850065)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-4x51hm55m"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -19.333333. South Decimal Degree -19.500000. East Decimal Degree -68.000000. West Decimal Degree -68.250000. Alternate title: Chacoma, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c920g",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1973.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Carta nacional, Bolivia 1:50.000: Salar de Coipasa, hoja 5935 I. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841296\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b23d60d6-accf-4c0d-b3d4-3af23b98b2eb/file/b6cf3c18-7c95-48ec-969e-2ac1aa176641\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b23d60d6-accf-4c0d-b3d4-3af23b98b2eb/file/29ca3578-ed2e-4fb0-9ba2-6a552fd0cf2e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c3%2Fe8%2Fec%2Fc3e8ecbeb50d497b922668bea8b31a49%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/46fc6fa9-c24f-46f9-90f8-b5b1b54f7394/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b23d60d6-accf-4c0d-b3d4-3af23b98b2eb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c920g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.25, -68.0, -19.333333, -19.5)",
+  "solr_year_i": 1973.0,
+  "uuid": "princeton-x059c920g"
+}

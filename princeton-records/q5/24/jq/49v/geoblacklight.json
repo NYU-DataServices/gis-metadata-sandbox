@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Worcester, Mass. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1885. Triangulation by the U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q524jq49v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Worcester (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Worcester Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837324\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e417f12-9671-4eb7-a0ee-0765e8ad026d/file/ec30ee23-5339-4c92-94c4-1101c6ae3dd1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce17b68f-c954-4ebf-95d9-965eb13c27f4/file/3cdeaf9f-7307-4742-84d3-4aae1319ed5a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce17b68f-c954-4ebf-95d9-965eb13c27f4/file/46dfec40-2060-47b2-a157-848b07628a95\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Fa6%2F16%2Fbfa616516c4846ac80c8c97850c37738%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ffb9e1e-8938-4a65-9de2-b7bb1ef4f66d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ce17b68f-c954-4ebf-95d9-965eb13c27f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q524jq49v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.0, -71.75, 42.5, 42.25)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-q524jq49v"
+}

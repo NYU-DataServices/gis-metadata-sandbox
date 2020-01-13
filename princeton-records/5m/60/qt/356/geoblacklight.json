@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Czechoslovakia with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt356",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Czechoslovakia. (1977/relief).",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d402069a-08f8-4b9a-8c8e-0622719a1f78/file/6693068f-97b5-4fce-9343-305309f57023\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99bead71-f7b6-4049-b922-7235fd94349b/file/e1184e8a-f046-460c-aaab-108cd9a619db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99bead71-f7b6-4049-b922-7235fd94349b/file/07537e7c-07a8-48d3-b939-4437cf53ff04\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2Fe9%2F40%2Fe4e94060884e44efa4dab0c8e893e891%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6803af28-b936-4d11-b74d-679a74613fbb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Eastern Europe",
+    "Europe",
+    "Czechoslovakia"
+  ],
+  "dct_temporal_sm": [
+    "1977"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-99bead71-f7b6-4049-b922-7235fd94349b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt356",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.0, 19.0, 52.0, 47.0)",
+  "solr_year_i": 1977.0,
+  "uuid": "princeton-5m60qt356"
+}

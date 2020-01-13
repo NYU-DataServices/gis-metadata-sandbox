@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"June 1909.\" Includes key, streets and specials index, and text. \"1595.\" Historic Maps copy has sheets 1-14, 20 and 28, showing Rutherford; sheets 15-19 and 21-27, showing East Rutherford, foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c233t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Rutherford,Maps",
+    "Rutherford (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Rutherford and East Rutherford, Bergen Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5310860\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3c997d5-7e96-450a-952d-153618af240f/file/5e308de4-2868-4091-aea2-1801b8347daf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3c997d5-7e96-450a-952d-153618af240f/file/2865207b-0107-483b-a8e4-92fa67746d83\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F40%2F6e%2F5a406e2002fc40f7a1bec4fe82e404fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d05c5aa5-eaab-45fe-8c10-401c2b99af6b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a3c997d5-7e96-450a-952d-153618af240f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c233t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.124176, -74.082403, 40.847184, 40.787197)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-bv73c233t"
+}

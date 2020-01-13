@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Guatemala. Instituto Geografico Nacional. North Decimal Degree 15.666700. South Decimal Degree 15.5000. East Decimal Degree -91.7500. West Decimal Degree -92.0000. Alternate title: Mapa geologico = Geologic map: La Democracia, Guatemala. Universal transverse Mercator projection. Relief shown by 20 m. with supplementary 10 m. contour interval and spot heights. \"El levantamiento geologico se efectuo en 1966, dentro de un programa colaborativo entre la Universidad de Texas de los Estados Unidos de America y el Instituto Geografico Nacional; como tema para una tesis Master of Science.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3j333409r",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Guatemala : Instituto Geogra\u0301fico Nacional, 1967.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Guatemala,Maps"
+  ],
+  "dc_title_s": "Mapa geologico de Guatemala = Geological map of Guatemala. La Democracia, hoja 1862 IV G",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6838824\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3e47939-ad6b-4d6f-b847-845d550e120d/file/371858a8-fcef-4b13-8c0f-a7f768c24646\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3e47939-ad6b-4d6f-b847-845d550e120d/file/7e5de279-b0d7-4efe-96e5-0782f56d60ee\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/31%2Fd9%2F38%2F31d938f4835d413eb7a25f7cb02255ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19a8293c-6ced-4570-84f6-c03e0661e993/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1967"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f3e47939-ad6b-4d6f-b847-845d550e120d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3j333409r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-92.0, -91.75, 15.6667, 15.5)",
+  "solr_year_i": 1967.0,
+  "uuid": "princeton-3j333409r"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 38.0000. South Decimal Degree 37.0000. East Decimal Degree -7.0000. West Decimal Degree -8.0000. Alternate title: Faro, Portugal. Polyconic projection. With Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Servicos Geodesicos, 1923; Portugal, 1:100,000, Servicos Geodesicos, 1876-89; Portugal, 1:250,000, Estado Maior do Exercito, undated and 1935; Spain, 1:200,000, Cuartel General del Generalisimo, sheets 72 and 82, 1901; Spain, 1:200,000, Instituto Geografico, PROVINCIA DE HUELVA, 1936; Road Map of Spain, Portugal, 1:400,000, AMS, sheet 48, Third Edition, 1943; Railways of Spain & Portugal 1:1,500,000, GSGS, 1942; Railways of Spain, Portugal and Southern France, 1:1,300,000, Military Railway Service, 1943. Partially revised from aerial photography, 1941, 1942, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9z903171c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Faro, sheet 68. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841156\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30eaf027-df01-4403-bb62-892f76153377/file/467753f0-325e-45b7-83de-43e4532fb363\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30eaf027-df01-4403-bb62-892f76153377/file/7304f2f4-24bd-4eb1-a1b4-b49e1bb73b88\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F1c%2F45%2Ff81c459ab3bb4b0f83592d930e60534d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd3f2a15-e258-4527-acd4-3fe9740f28f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-30eaf027-df01-4403-bb62-892f76153377",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9z903171c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.0, 38.0, 37.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-9z903171c"
+}

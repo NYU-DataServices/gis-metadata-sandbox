@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bolton, N.Y. Relief shown by 20 feet contour interval. Surveyed in 1894-1895 in cooperation with the State of New York. Verso: The topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7s75dd85z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolton (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Bolton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866997\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/248d3511-36f4-461b-8df6-bbbb70e3276b/file/06253f62-fdbb-4ce0-b2d1-5b31926554cd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0015c56c-22fc-460a-91bc-a58a5cd60734/file/a40289a2-eb71-4bf5-88dd-620fddb87c2f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0015c56c-22fc-460a-91bc-a58a5cd60734/file/43a3b560-7717-440c-b9e8-96626e659cac\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F72%2F73%2F9f7273b218e74f7aa03f2fd25ae83aa3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/907e9799-8a57-4eda-acd2-5b57fe2a7f57/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0015c56c-22fc-460a-91bc-a58a5cd60734",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7s75dd85z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 43.75, 43.5)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-7s75dd85z"
+}

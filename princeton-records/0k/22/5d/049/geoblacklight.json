@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1885.\" Includes key, specials index, and text.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225d049",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map and Publishing Co., Limited, 1885.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Orange,Maps",
+    "Orange (N.J.),Maps"
+  ],
+  "dc_title_s": "Orange, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5467883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a91e0832-f023-4d04-9bc3-bcf7a7d24be3/file/320d129a-e830-4668-ade6-dc3fa9509f80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a91e0832-f023-4d04-9bc3-bcf7a7d24be3/file/0bb51992-bf27-4df0-b910-d001381704f8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a4%2F73%2F0d%2Fa4730d4435034da39a49df6e066e7c9a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4dcd8939-be28-45db-bb1e-e700c8035307/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a91e0832-f023-4d04-9bc3-bcf7a7d24be3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225d049",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.255273, -74.218485, 40.7898, 40.75199)",
+  "solr_year_i": 1885.0,
+  "uuid": "princeton-0k225d049"
+}

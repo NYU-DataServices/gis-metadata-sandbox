@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Relief shown by contours and spot heights. \"Map information as of 1993.\" \"WGS 84.\" \"Grid--1,000 meter UTM zone 34.\" \"Printed by NIMA.\" \"This sheet falls within NL 34-07, 1501, 1:250,000 and 2985 I & II, 3085 III & IV, M709, 1:50,000.\" \"NSN 7643014339852\" Includes location map, Index to streets, glossary, and guide to numbered features.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/s1784q573",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : Defense Mapping Agency, 1993.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Novi Sad (Serbia),Maps",
+    "Novi Sad (Serbia),Maps, Topographic"
+  ],
+  "dc_title_s": "Serbia city graphic 1:20,000 : Novi Sad",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5699923\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9989085d-376c-4dcd-ad08-08547254ae58/file/10105672-8a05-47fe-9aa9-b99d8739702d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9989085d-376c-4dcd-ad08-08547254ae58/file/395d43a8-f80f-4b02-a32e-c37a24119a51\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2F77%2F99%2Fb6779934aa934772918b98f7703bcd4c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ee9f29f-43bb-4126-a229-e4dddd6452e0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Serbia"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9989085d-376c-4dcd-ad08-08547254ae58",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-s1784q573",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(19.77, 19.899167, 45.311389, 45.21)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-s1784q573"
+}

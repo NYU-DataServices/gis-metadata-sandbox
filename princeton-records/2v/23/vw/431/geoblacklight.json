@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, key map and text. \"9482.\" Historic Maps copy has sheets 1-22 and 33-34 of series, showing Harrison; sheets showing East Newark and Kearny foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2v23vw431",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Harrison,Maps",
+    "Harrison (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Harrison, East Newark and Kearny, Hudson County, New Jersey (Sheet 19)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5498102\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/39054e24-5335-4c44-bdb8-59ef7760da9e/file/ad851f74-00fa-4034-9fb5-850038f97927\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/39054e24-5335-4c44-bdb8-59ef7760da9e/file/8c429b8c-21b9-4008-add1-ccce64625472\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F46%2Fd9%2Fa746d9767f7648f198ced92256f6bace%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c715452-3f30-4a1b-8684-91d91620cd3d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-39054e24-5335-4c44-bdb8-59ef7760da9e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2v23vw431",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-2v23vw431"
+}

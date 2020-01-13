@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"October 1922.\" Includes location map, streets and specials index, key and text. \"5537.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2514nn10k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Barrington,Maps",
+    "Barrington (N.J.),Maps"
+  ],
+  "dc_title_s": "Barrington, Camden County, New Jersey (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352792\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ae62ddf-877c-4a37-91a5-6bfe5e6aa507/file/4db0bb87-3377-4b9a-a4d3-f55a4a1f193e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ae62ddf-877c-4a37-91a5-6bfe5e6aa507/file/fe10f9c5-43d6-4552-8ced-39c1fb792878\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2F95%2F2b%2F4b952bd1b83e41a592742bbf3d60c895%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2bb3c371-3386-4324-901b-367a5d804a3d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4ae62ddf-877c-4a37-91a5-6bfe5e6aa507",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2514nn10k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.067, -75.037, 39.885, 39.854)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-2514nn10k"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"March 1911.\" \"3592.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mw902",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Moorestown,Maps",
+    "Moorestown (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Moorestown, Burlington County, New Jersey (Sheet 11)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5132425\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cd59d6a-f173-4d22-9d22-80f04de2f8fd/file/c0312f1b-b509-4e7a-916d-e1b48c5ef543\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cd59d6a-f173-4d22-9d22-80f04de2f8fd/file/37de04b2-b993-42a2-a68c-26b2d36a44f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2Fc1%2F31%2F2cc1319f7bc746d1ba121edf3b540412%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a411fbc-8300-435c-bf75-5e31a26d7bd3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8cd59d6a-f173-4d22-9d22-80f04de2f8fd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mw902",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.006, -74.884, 40.014, 39.937)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-tm70mw902"
+}

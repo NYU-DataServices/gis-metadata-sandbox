@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1894. Triangulation by S. S. Gannett. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fb494984h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Norristown (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Norristown sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836936\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d5bff1fe-5070-4d0f-bf87-0c73991f943c/file/053ff383-6fc3-4d1d-bc60-5bdc62ec5026\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/467809d6-a4e3-4910-9ad3-8e1a92aa5c30/file/5531bac1-85a5-4967-8877-bd6e8809033a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/467809d6-a4e3-4910-9ad3-8e1a92aa5c30/file/67bfd642-2515-4028-b0a6-8f1ac5efae6d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F2f%2F2f%2Fdf2f2f1aafc04cdd85d4de809f67dc46%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/df4e14b7-d39d-48bf-b060-d962776911a5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-467809d6-a4e3-4910-9ad3-8e1a92aa5c30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fb494984h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.5, -75.25, 40.25, 40.0)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-fb494984h"
+}

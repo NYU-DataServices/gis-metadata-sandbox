@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "United States. Army Map Service"
+  ],
+  "dc_description_s": "Copied from Spanish map, 1:25,000, Madrid no. 559, 1937. \"Iberian Peninsula zone grid (blue); Projection: Lambert conical Orthomorphic; Spheroid: Hayford; Origin 40\u00b0N and 3\u00b041'14.55\"W (Madrid meridian); False co-ordinates: 600,000 meters east of origin, 530,000 meters North; Scale factor: 1,000,000.\" \"3-43.\" AMS 1. Alternate title: Madrid city plan. Copied from Spanish map, 1:25,000, Madrid no. 559, 1937. Lambert conical orthomorphic projection. Iberian Peninsula Zone grid.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5138jg556",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Madrid (Spain),Maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:12,500. Madrid city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816724\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7630b5e0-7437-494a-b65c-38e155b3cd8d/file/ecc4b4e4-6fac-4669-a411-da79157992d1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91b5ec56-47ef-4982-8b3c-4472de1382d1/file/50f4d0d5-0b76-41be-b443-851f615ff7f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91b5ec56-47ef-4982-8b3c-4472de1382d1/file/eed43440-d233-4579-93b0-dc2f90b931f2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2F10%2F7e%2F2c107ef718ea4d95a84c03615cd999ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2b8589a-ba87-4a12-99ea-940e2ab17015/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-91b5ec56-47ef-4982-8b3c-4472de1382d1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5138jg556",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.747222, -3.630556, 40.474722, 40.379444)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-5138jg556"
+}

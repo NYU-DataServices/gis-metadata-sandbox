@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Nikko, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by form lines and spot elevations. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz18p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Nikko, Tochigi Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449981\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82b6eec2-b443-4e30-956c-428609dfbb0d/file/83b659fa-6177-4236-8495-0c2f610eaf01\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f6914b1-12f3-47b4-a483-c3e51cd25e24/file/af123420-90bc-4bb8-a399-70ea2c8aa436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f6914b1-12f3-47b4-a483-c3e51cd25e24/file/75284837-6d1a-43ae-b76a-4d1a1c33024d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d5%2F05%2F43%2Fd50543c3a5a14c569bb682e73d6980cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f5d74a9-6d97-4878-aaa1-a5565164aca5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6f6914b1-12f3-47b4-a483-c3e51cd25e24",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz18p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(139.5, 139.63333333333333, 36.78333333333333, 36.71666666666667)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-qv33rz18p"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. \"4220.\" \"New sheet, Sept. 1921.\" Sheet 17 of Palisades, N.J. series. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b834b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1921.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Edgewater,Maps",
+    "Edgewater (N.J.),Maps"
+  ],
+  "dc_title_s": "Edgewater (Sheet 17)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5659319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f5b305-dd96-4dfc-ac6d-5fb4650ff685/file/2e147658-af4f-4668-bc5f-2b66e001d486\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f5b305-dd96-4dfc-ac6d-5fb4650ff685/file/ed46061b-58aa-4272-a2f6-6e37bf5c24c5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4d%2Fce%2F81%2F4dce81b7dc9d4b03b21e0bbc6a6b50cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a15ce59-8c56-4c68-8019-927cedf589d7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-79f5b305-dd96-4dfc-ac6d-5fb4650ff685",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b834b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.994412, -73.962588, 40.84776, 40.800683)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-4b29b834b"
+}

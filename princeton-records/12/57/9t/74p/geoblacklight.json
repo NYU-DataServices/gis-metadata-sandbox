@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "\"Tome IV, no. 98.\" in upper margin. Relief shown pictorially and by soundings. Coastline outlined in blue. From: Le petit atlas maritime. Paris, 1764.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/12579t74p",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : s.n., 1764]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Oristano (Italy),Maps",
+    "Sardinia (Italy),Maps"
+  ],
+  "dc_title_s": "Carte de la baye de l'Oristan",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4721838\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9f46497f-41db-4a44-80ee-1fba9cdf2e8d/file/3b978d86-da26-43d5-b582-8d8a2a7f1670\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c126ae8c-3a64-4c31-ab49-0ab3920f518f/file/ff566e05-27d7-4971-928f-9f9d3275b668\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c126ae8c-3a64-4c31-ab49-0ab3920f518f/file/5817d7d8-b90e-4945-aa16-7fb3694229ae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2Fee%2F37%2F09ee374e9df34949bb9244d8e6c64e82%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5e8afc11-ac0c-4433-817b-0648d0685141/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c126ae8c-3a64-4c31-ab49-0ab3920f518f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-12579t74p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.350053, 8.654236, 39.950261, 39.641899)",
+  "solr_year_i": 1764.0,
+  "uuid": "princeton-12579t74p"
+}

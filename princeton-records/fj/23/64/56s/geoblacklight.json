@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Bezzera, Paolo"
+  ],
+  "dc_description_s": "Relief shown by hachures. Outline color.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/fj236456s",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "Milano : Stabilimento Civelli, [ca. 1850]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Europa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7093913\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9057f25a-a555-4a95-b4d8-020231714f52/file/f88ba2c4-169a-4a82-83d5-f514191ee216\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9057f25a-a555-4a95-b4d8-020231714f52/file/8fd3bf66-6ce6-4c2f-89e0-2711319448ce\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/77%2F7f%2F39%2F777f3993c9894eb48fcc6a019a49e7e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f244085-d8a9-404a-b0f8-8abb97ccb3f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9057f25a-a555-4a95-b4d8-020231714f52",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-fj236456s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-33.5, 103.5, 75.0, 28.0)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-fj236456s"
+}

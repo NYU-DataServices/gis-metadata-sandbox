@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"September 1920.\" Includes location map, key, key map, streets and specials index, and text. \"# 3335.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257h259",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pompton Lakes,Maps",
+    "Pompton Lakes (N.J.),Maps"
+  ],
+  "dc_title_s": "Pompton Lakes, Passaic County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5589727\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ab62dce-c50d-4e73-9c70-0d90b7a68cf9/file/f54d3fe2-fa4f-400a-830e-9a45f1ed9da8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ab62dce-c50d-4e73-9c70-0d90b7a68cf9/file/e6b43a9e-1367-485c-97d6-90f42b6d7164\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/50%2Fac%2F2f%2F50ac2f643d57426ba759444bcdfb0e3a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6edb1da3-73c6-418b-8bf6-9afd3c00a181/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6ab62dce-c50d-4e73-9c70-0d90b7a68cf9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257h259",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.302993, -74.266876, 41.025173, 40.9788)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-bg257h259"
+}

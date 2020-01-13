@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights. Series in 4 sheets numbered 1 to 4. Coverage is of Belgium and northern France. Includes index to adjoining sheets. Originally issued folded to 18 x 11 cm. Historic Maps set is incomplete.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g445ch83c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : War Office, Geographical Section, General Staff, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Belgium,Maps",
+    "France,Maps"
+  ],
+  "dc_title_s": "North west Europe [sheet 1 of 3]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6958200\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71d83e2e-5a32-44bf-a575-d50deb6ab300/file/6a8ae440-a5e4-44b5-af01-0e972e19d2a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71d83e2e-5a32-44bf-a575-d50deb6ab300/file/2626e2ed-08ab-4310-a31c-49774099edeb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7c%2F42%2F69%2F7c42693bd7c24fa0ad8471cdf095a3e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f9f9080c-53c5-4a23-a78e-e2f104483d21/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium",
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-71d83e2e-5a32-44bf-a575-d50deb6ab300",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g445ch83c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-g445ch83c"
+}

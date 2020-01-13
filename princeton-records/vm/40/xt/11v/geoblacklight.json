@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alteranate title: Rijeka.Transverse Mercator projection. Relief shown by 20 meter contour interval and spot elevation. This sheet falls within NL 33-8, 1501, 1:250,000 and 2085-1, 2135-IV, M709, 1:50,000. Relief shown by contour lines and spot elevations. \"WGS 84.\" With a glossary. \"Map information as of 1993.\" Inset: map of area (1:200,000). \"Printed by NIMA 9-97.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vm40xt11v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1997.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Geomorphology",
+    "Croatia,Maps"
+  ],
+  "dc_title_s": "Croatia city graphic 1:12,500. Rijeka. Series M903",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449373\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/92ae3946-2672-43dd-bbb3-73c0e00a0f12/file/b40d5397-91fd-4135-8e55-f0b34c2ad0c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc9c206d-b2ab-4c2e-8627-3e9071f163dd/file/75acd00b-a4c7-469f-8bd9-1d9b578b8ba9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc9c206d-b2ab-4c2e-8627-3e9071f163dd/file/19e20f8d-1069-46c2-88a3-5de637c63309\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2Fb4%2F1a%2F92b41ae364524326adb805d96e5fae24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a88005d-afd1-47cd-acdd-60acd07bb551/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fc9c206d-b2ab-4c2e-8627-3e9071f163dd",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vm40xt11v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(14.366666666666667, 14.466666666666667, 45.35, 45.3)",
+  "solr_year_i": 1997.0,
+  "uuid": "princeton-vm40xt11v"
+}

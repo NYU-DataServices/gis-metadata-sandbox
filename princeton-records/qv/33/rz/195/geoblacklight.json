@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 59 to 62 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 59. \"N.J.C.M. vol. 2.\" Includes text. North oriented toward right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qv33rz195",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,West Ocean Grove,Maps",
+    "Real propery,New Jersey,Bradley Park,Maps",
+    "West Ocean Grove (N.J.),Maps",
+    "Bradley Park (N.J.),Maps"
+  ],
+  "dc_title_s": "W. Ocean Grove and Bradley Park (Sheet 59)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794716\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f787fd30-a026-4ac6-ac25-0413a61d11e0/file/37e017eb-f094-4a84-ab9a-38d8f912e601\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f787fd30-a026-4ac6-ac25-0413a61d11e0/file/01609c14-dedc-4200-a40d-ae4f84307db0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2Ff9%2F85%2F9ff985d848d24ea08368d4c69b4aa79f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eeba6036-1b6c-481d-a18e-c85874b626f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f787fd30-a026-4ac6-ac25-0413a61d11e0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qv33rz195",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.094, -74.0, 40.234, 40.183)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-qv33rz195"
+}

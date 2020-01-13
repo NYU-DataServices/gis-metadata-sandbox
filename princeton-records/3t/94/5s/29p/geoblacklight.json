@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of the Central African Republic. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3t945s29p",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Central African Republic, 1992",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/95e27dad-fa88-49ae-a46c-a2f5f46d54d6/file/4fa908f0-f406-4efe-b2a2-1889e095b674\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6718d52d-97cc-4e58-8bff-9be72513d809/file/6358fdcb-d0d1-4e41-a71e-0e24c8875234\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6718d52d-97cc-4e58-8bff-9be72513d809/file/34d9f9bf-3ca6-4321-8fda-759b114b936b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F51%2F21%2F935121d2dbc04e58b2ef21fc127eeac4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a809fea6-2ac9-47aa-93bb-11fd8ec899ab/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Central Africa",
+    "Africa",
+    "Central African Republic"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6718d52d-97cc-4e58-8bff-9be72513d809",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3t945s29p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 25.0, 13.0, 0.0)",
+  "solr_year_i": 1992.0,
+  "uuid": "princeton-3t945s29p"
+}

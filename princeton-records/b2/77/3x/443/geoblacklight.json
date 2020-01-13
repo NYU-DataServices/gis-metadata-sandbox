@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"6 miles n.w.. of Atlantic City.\" Includes text. North oriented towards upper left. Sheets 57-58 of Atlantic City, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b2773x443",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map & Publishing Co., Limited, 1896]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pleasantville,Maps",
+    "Pleasantville (N.J.),Maps"
+  ],
+  "dc_title_s": "Pleasantville, N.J. (Sheet 58)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5218916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f45979c7-ef6b-4327-9699-c73b6b729100/file/1ee11f9e-bff4-419f-bd3a-caf41f5f5628\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f45979c7-ef6b-4327-9699-c73b6b729100/file/3728eada-95ef-4a22-9559-00bfdd4e77f3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2F26%2F8b%2F23268baade6a46a9bcf9b43a22176450%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a484d1c0-eeea-48e4-90f2-ef1572cd7d1c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f45979c7-ef6b-4327-9699-c73b6b729100",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b2773x443",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.551, -74.486, 39.42, 39.364)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-b2773x443"
+}

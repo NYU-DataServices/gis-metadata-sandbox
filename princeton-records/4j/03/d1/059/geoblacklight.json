@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1886.\" Includes key, specials index and text. North oriented toward left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d1059",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sea Bright,Maps",
+    "Sea Bright (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Bright, N. J. (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4834827\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/478ceeb8-b5ba-4dca-9d22-ce0f68518ae6/file/1325f65b-0e1f-4205-9df2-8804146ae23c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/478ceeb8-b5ba-4dca-9d22-ce0f68518ae6/file/dd6f01c9-f4dc-40b8-b2ce-c3873f45458a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2Fc6%2F37%2F00c63753d39945e7be134276e88ec465%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0578f494-3ea9-444c-bf51-21f3508175b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-478ceeb8-b5ba-4dca-9d22-ce0f68518ae6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d1059",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.988, -73.972, 40.399, 40.346)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-4j03d1059"
+}

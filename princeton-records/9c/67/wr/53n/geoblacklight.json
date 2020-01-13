@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Mabyre, Maxime"
+  ],
+  "dc_description_s": "Untitled map of Paris on side 2. Historic Maps copy imperfect: map torn in two places.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wr53n",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Editions ge\u0301ographiques et cartographiques Me. Max. Mabyre, [1900?] (Paris : Imp. Monrocq)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Exposition universelle internationale de 1900 (Paris, France).",
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Plan de l\u2019exposition universelle de 1900 [side 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6128707\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09a96357-cbcc-4355-b9db-93d861dcb3db/file/646507dc-0051-4c90-90e2-d293ca188bda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09a96357-cbcc-4355-b9db-93d861dcb3db/file/f0be3ae8-1c7c-4d4c-942e-a63c396f3db7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/56%2F9d%2F57%2F569d5774e6ef48beb15b306890bf296a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2169abcd-7b0f-4fee-93ab-cc1e68c489ae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-09a96357-cbcc-4355-b9db-93d861dcb3db",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wr53n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.28471, 2.322604, 48.869757, 48.849986)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-9c67wr53n"
+}

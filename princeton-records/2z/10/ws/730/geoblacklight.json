@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by shading and soundings. Includes sailing directions, notes, tidal information, and three profiles. In upper margin: Harbor map no. [blank]. Presented to [blank] under authority of an Act of the Congress of the United States of June 3d, 1844 &c. & by direction of the Treasury Department. A.D. Bache Superintendent Coast Survey. Historic Maps copy has ms. annotations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2z10ws730",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : United States Coast Survey], Published in 1849.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Patapsco River (Md.),Navigation,Maps"
+  ],
+  "dc_title_s": "Patapsco River and the approaches",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7816197\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1bd4ab9-5f11-42b4-9e3c-8edca74d8ca1/file/636dcbb6-edca-4f7d-b3f7-858158a6abfd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1bd4ab9-5f11-42b4-9e3c-8edca74d8ca1/file/686bfd9b-33e1-4635-baa5-31d5be0ba656\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F4a%2F4c%2Fd04a4cf71f6f43c88d39e418cb9bb442%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c2d89483-352e-4b7b-ac19-8e1d7e1e3682/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e1bd4ab9-5f11-42b4-9e3c-8edca74d8ca1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2z10ws730",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.676781, -76.187631, 39.331201, 39.073135)",
+  "solr_year_i": 1849.0,
+  "uuid": "princeton-2z10ws730"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes title sheet, key, streets and specials index, index map, and text. Title in upper margin of sheets: West Hoboken. Index map on double sheet. \"Volume 8 comprising Weehawken, West Hoboken, Town of Union, West New York, Guttenberg, North Bergen & Secaucus, Hudson Co., N.J.\" \"West Hoboken was a municipality that existed in Hudson County, New Jersey, United States, from 1861 to 1925 ... On January 1, 1925, Union City was formed, replacing both Union Hill and West Hoboken.\"-- Wikipedia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wh246v40b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,Hoboken,Maps",
+    "Real property,New Jersey,Union City,Maps",
+    "Hudson County (N.J.),Maps",
+    "Hoboken (N.J.),Maps",
+    "Union City (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 8 (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5712437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/977e51b4-1d97-49b6-bc3a-1b93294bb073/file/c2b0c2ad-47df-45fc-b9bb-e7d125d88fe0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/977e51b4-1d97-49b6-bc3a-1b93294bb073/file/6f667d4d-cdda-4d0f-b637-a8bc33a38e49\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Fff%2F75%2F5dff75f2125f4f81b0a6405074b150b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b17407a6-d8e7-49e3-a7af-afb287c4faed/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-977e51b4-1d97-49b6-bc3a-1b93294bb073",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wh246v40b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-wh246v40b"
+}

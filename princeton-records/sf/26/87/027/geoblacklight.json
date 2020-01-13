@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"New Jersey coast map, nos. 26 to 29 inc.\" Includes key, specials index and text. \"Aug. 1890.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sf2687027",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1890.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Sea Isle City,Maps",
+    "Sea Isle City (N.J.),Maps"
+  ],
+  "dc_title_s": "Sea Isle City, Cape May Co., N.J. (Sheet 26)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5331589\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac674fe3-0fd6-4651-8392-537091d91215/file/dfb9af79-64a2-417c-8dce-7a6b1724ae46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac674fe3-0fd6-4651-8392-537091d91215/file/f8674b9b-1d77-4c7a-acb5-90f6f12ba990\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ac%2F88%2F1c%2Fac881c94ad8c40e7b60a9edebca3be21%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb596120-86ff-435b-9bb7-d42283d36f92/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ac674fe3-0fd6-4651-8392-537091d91215",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sf2687027",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.71746, -74.669813, 39.183567, 39.119489)",
+  "solr_year_i": 1890.0,
+  "uuid": "princeton-sf2687027"
+}

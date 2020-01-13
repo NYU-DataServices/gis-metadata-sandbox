@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Smith, Charles, active approximately 1800-1852"
+  ],
+  "dc_description_s": "Relief shown by hachures. Probably issued in: Smith's New general atlas ... London : Printed for C. Smith, 1808.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/j6731623f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by C. Smith, Mapseller, No. 172 Strand, Jany. 6th. 1808.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Iran,Maps",
+    "Afghanistan,Maps",
+    "Pakistan,Maps"
+  ],
+  "dc_title_s": "Persia",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7015234\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90fdd533-2592-47cd-8c90-2ed81e71b4f6/file/410cf798-5949-4d50-bcf8-e277409b5636\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90fdd533-2592-47cd-8c90-2ed81e71b4f6/file/a8532ed8-4951-41d1-9808-c834f03bb4da\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2F02%2Fc9%2F7402c9e02d024c67bf238eef90297b94%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8b31bce2-7df0-4c77-bf38-cad54b2919f5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Iran",
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "dct_temporal_sm": [
+    "1808"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-90fdd533-2592-47cd-8c90-2ed81e71b4f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-j6731623f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(39.67, 72.35, 43.34, 23.84)",
+  "solr_year_i": 1808.0,
+  "uuid": "princeton-j6731623f"
+}

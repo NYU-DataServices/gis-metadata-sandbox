@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1902.\" Includes key, streets and specials index, and text. \"5693.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sq87bw09n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Mount Holly,Maps",
+    "Mount Holly (N.J.),Maps"
+  ],
+  "dc_title_s": "Mt. Holly, Burlington County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5145161\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41b25258-2871-4009-b353-384ed4c26735/file/57f7e4d8-440d-4a22-b80d-69d633d8e302\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41b25258-2871-4009-b353-384ed4c26735/file/469bf8c4-d7d5-4810-af81-4f5ce0c57b17\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2Fb2%2F37%2F86b237cdb1bc459f939b6e550e8d8b5f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3249124b-e0dd-4e2f-9acb-d68b0f238ac8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-41b25258-2871-4009-b353-384ed4c26735",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sq87bw09n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.807, -74.768, 40.011, 39.979)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-sq87bw09n"
+}

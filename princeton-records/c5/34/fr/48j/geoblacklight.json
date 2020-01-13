@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Philippe de Pre\u0301tot, E\u0301tienne-Andre\u0301, 1710-1787"
+  ],
+  "dc_description_s": "\"Grave\u0301 par Vallet\". Includes a descriptive key of the symbols on the map. Pictorial relief. From: Atlas universel, pour l'e\u0301tude de la ge\u0301ographie et de l'histoire ancienne et moderne / par Mr Philippe, et autres auteurs. Paris : Nyon ai\u0302ne\u0301, 1787.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c534fr48j",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : Etienne-Andre Philippe de Pre\u0301tot, 1787?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Iberian Peninsula,Maps,Early works to 1800",
+    "Portugal,Maps,Early works to 1800",
+    "Spain,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carte d'Espagne",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8315640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/39dff4af-2cb7-4216-b287-d391b0ee1f89/file/e7245aae-0b65-4582-b78a-897fabb3ef19\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/39dff4af-2cb7-4216-b287-d391b0ee1f89/file/f0ac314f-8fba-41e1-bf60-09f65aa7731d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F1e%2F1b%2F611e1be567f24966bedecf5aa1bd7507%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4fe0614c-870a-4dde-813e-3b78c69ce43b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Portugal",
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1787"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-39dff4af-2cb7-4216-b287-d391b0ee1f89",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c534fr48j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.021, 4.6018, 43.8212, 35.5083)",
+  "solr_year_i": 1787.0,
+  "uuid": "princeton-c534fr48j"
+}

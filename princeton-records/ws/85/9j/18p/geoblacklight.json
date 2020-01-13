@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Kra\u0308uter, E."
+  ],
+  "dc_description_s": "Map of Heidelberg in the German state of Baden-Wu\u0308rttemberg. From: A guide to Heidelberg and its environs ... Heidelberg : Ernst Mohr, 1871.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ws859j18p",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Heidelberg] : Verlag v. E. Mohr, [1871] (Heidelberg : Steindr. v. H. Herbst)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Baden-Wu\u0308rttemberg (German),Maps",
+    "Heidelberg (Germany),Maps"
+  ],
+  "dc_title_s": "Heidelberg",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7548917\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5c9aae0-f8ac-4cb0-b9d2-e724da267f05/file/f433dcf2-bac2-4c8b-82da-f1029ba86d66\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5c9aae0-f8ac-4cb0-b9d2-e724da267f05/file/4e93381e-0db3-4e31-9d04-f2610cb0bad8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F12%2F71%2Ff312712b71ff4033bc023133610359a3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4400981d-3f5c-4742-8488-2a6b595c799f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e5c9aae0-f8ac-4cb0-b9d2-e724da267f05",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ws859j18p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.662543, 8.721079, 49.420989, 49.394636)",
+  "solr_year_i": 1871.0,
+  "uuid": "princeton-ws859j18p"
+}

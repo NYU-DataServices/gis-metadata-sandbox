@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bath, N.Y. Relief shown by 20 feet contour interval. Surveyed in 1908. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9c67wp21h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bath (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Steuben County) Bath Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867673\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/765f714d-a8bf-49ea-a277-bb32159645ac/file/6073e7ad-109d-4553-904e-18b124a53273\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/adf12998-05a2-47e3-bdd0-14799df8e8a9/file/be30b441-b43d-4b33-b7e8-740e19048b3b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/adf12998-05a2-47e3-bdd0-14799df8e8a9/file/45e8d397-1cd8-4a3a-9cd1-420b3d2cd015\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2Ff0%2F43%2F46f043f3d1a44a6fb920fb9b5b26ea32%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57e2ce31-67ef-4077-8e1f-80a7317e7573/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-adf12998-05a2-47e3-bdd0-14799df8e8a9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9c67wp21h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -77.25, 42.5, 42.25)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-9c67wp21h"
+}

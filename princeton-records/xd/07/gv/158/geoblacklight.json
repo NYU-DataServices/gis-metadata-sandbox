@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Angola and its surrounding countries. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xd07gv158",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Angola, 1990",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7f0a997f-46d7-4aa4-84c7-48d3201b4948/file/3a2a2bdd-2225-4036-a984-2f492af3eaa7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c384a5e-871c-4a55-a251-cb8b1dce5bb9/file/d1777e36-50bf-48b0-8333-6b57fd435def\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c384a5e-871c-4a55-a251-cb8b1dce5bb9/file/cc09af28-5e04-4fb8-b848-7c565d64fbb2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1b%2F1c%2F9f%2F1b1c9ffea4da4f9ca4db817c972bbb6e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0091c283-d076-48a2-ae85-b6a899b68926/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Angola",
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7c384a5e-871c-4a55-a251-cb8b1dce5bb9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xd07gv158",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.0, 24.0, -6.0, -18.0)",
+  "solr_year_i": 1990.0,
+  "uuid": "princeton-xd07gv158"
+}

@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. Hydrographic Dept"
+  ],
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. In upper margin: South America. Coast of Chile by the officers of H.M.S. Beagle 1835. Historic Maps copy has label on verso: South America. Port Papudo, and Horcon and Quintero Bays. 1300. Historic Maps copy has ms. annotations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wd375z75g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Published according to Act of Parliament at the Hydrographic Office of the Admiralty, Augt. 18th, 1840.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Horcon Bay (Chile),Maps",
+    "Port Papudo (Chile),Maps",
+    "Quintero Bay (Chile),Maps"
+  ],
+  "dc_title_s": "Port Papudo : Horcon and Quintero Bays",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6591578\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/26c32129-852e-4dcc-8a28-095bc6a6a273/file/17afd693-ce48-4cd3-8347-7f6057fc4364\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/26c32129-852e-4dcc-8a28-095bc6a6a273/file/a14ff10d-0966-4de7-8edf-5cb664a4b52a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/61%2F0b%2Fc8%2F610bc89d49c043409fbb3c0ba2302beb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04c1117e-52bb-4c97-bea1-75c26f8d1522/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-26c32129-852e-4dcc-8a28-095bc6a6a273",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wd375z75g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.470898, -71.400173, -32.445879, -32.554173)",
+  "solr_year_i": 1840.0,
+  "uuid": "princeton-wd375z75g"
+}

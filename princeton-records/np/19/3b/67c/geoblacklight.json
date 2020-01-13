@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Chinnamp'o, Korea. In upper left margin: Korea city plans 1:10,000. Polyconic projection. Relief shown by 10 meter contour interval and spot elevation. Depth shown by fathoms. Korean names transcribed according to the McCune-Reischauer system. Japanese forms of Korean names (in parenthesis) transcribed according to the Hepburn (Romaji) system. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/np193b67c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "North Korea,Maps"
+  ],
+  "dc_title_s": "Chinnamp'o (Chunnampo), Pyongan-namdo (Heian-nando), Korea. A.M.S. L951",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830462\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/90b5c481-ff9b-47d0-b1f7-e060dad4962e/file/7943b136-535b-42ef-849c-b57a564353fe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce9764f1-32fe-4f9f-91cc-856a00d3698c/file/39ae20e4-2403-4d56-bc29-f1f8cfb00178\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce9764f1-32fe-4f9f-91cc-856a00d3698c/file/8cd85cd8-8fe1-4448-af55-77a38f4c6284\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F47%2Fa5%2F4747a5e08cb6448e87b2621ea3945ed4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/509cfec9-82f1-44cb-97e9-4f6447e6870f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ce9764f1-32fe-4f9f-91cc-856a00d3698c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-np193b67c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(125.38333333333334, 125.43333333333334, 38.75, 38.71666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-np193b67c"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Vee\u0304s, Gio\u0304rgos"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r781wh629",
+  "dc_language_s": "Greek",
+  "dc_publisher_s": "Athe\u0304na : Kedros, 1999.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asia,Description and travel",
+    "Vee\u0304s, Gio\u0304rgos,Travel"
+  ],
+  "dc_title_s": "Asia.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/3325415\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71fc4379-b9d8-496f-9e85-2460baee8cb8/file/98424e9a-b8b4-4025-9fa0-795896bcdb4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71fc4379-b9d8-496f-9e85-2460baee8cb8/file/3ce1c5fe-6119-49d2-a765-51b6d7046c3b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2F89%2F2e%2F1a892e9658a346b380b86ff01b27694e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae1c4527-8648-4a97-b020-5adc1df65401/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-71fc4379-b9d8-496f-9e85-2460baee8cb8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r781wh629",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.0, 180.0, 90.0, -10.0)",
+  "solr_year_i": 1999.0,
+  "uuid": "princeton-r781wh629"
+}

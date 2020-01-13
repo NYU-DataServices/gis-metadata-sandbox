@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Dudley, Robert, Sir, 1574-1649"
+  ],
+  "dc_description_s": "Map of Pacific coast of Mexico from C. de San Pietro to Costa Piana; relief shown by soundings. \"La longitudine comincia da l'Isola di Pico d'Asores.\" \"D'America carta XXXII.\" Plate 32 from: Dell'arcano del mare / di D. Ruberto Dudleo ... In Firenze : Nella stamperia di Francesco Onofri, 1646-1647.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pg15bg77b",
+  "dc_language_s": "Italian",
+  "dc_publisher_s": "[Florence : F. Onofri, 1646]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Baja California (Mexico : Peninsula),Maps,Early works to 1800",
+    "Mexico,Maps,Early works to 1800",
+    "Pacific Coast (Mexico),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Carta particolare della America e\u0300 parte maestrale dal C. di Cedros",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4923337\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53fd8eae-b683-4023-9ab1-1b4b4a6dce8d/file/4739ea78-1c11-4428-8087-db4ded1aa748\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53fd8eae-b683-4023-9ab1-1b4b4a6dce8d/file/cff62d3b-8cb4-4a87-a525-9c1a346b1e1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F01%2F98%2Fa501989fafda4bcf8d05bd7bbc106fc7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/486a9871-656f-4efa-a8bd-db2dc2c49eaa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1646"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-53fd8eae-b683-4023-9ab1-1b4b4a6dce8d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pg15bg77b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-124.94, -108.83, 38.01, 22.5)",
+  "solr_year_i": 1646.0,
+  "uuid": "princeton-pg15bg77b"
+}

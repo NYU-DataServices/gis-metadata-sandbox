@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Berendsohn, B. S."
+  ],
+  "dc_description_s": "Map of Europe at the end of the Crimean War, with countries shown in the form of animals and birds, such as the Russian bear, French eagle, and English lion.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8p58pg13j",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Hamburg : Verlag von B.S. Berendsohn, [ca. 1856] ([S.l.] : Stdr. v. J. Guntrum).",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Crimean War, 1853-1856,Maps",
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Komische Karte des Kriegsschauplatzes",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5612215\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7dda67c9-11a2-4b91-a77b-e3aad00f8a22/file/8663567c-dafa-4057-a816-e262a455a352\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7dda67c9-11a2-4b91-a77b-e3aad00f8a22/file/314ec5fe-a56c-4d2a-bbed-345791cb5563\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/86%2Fcf%2F9b%2F86cf9bfce6ad4fd8a9b68867cb2e5c09%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9d6667d1-7a52-4e19-9b1c-5d7f95ba5de7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7dda67c9-11a2-4b91-a77b-e3aad00f8a22",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8p58pg13j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-11.9, 52.7, 64.1, 27.3)",
+  "solr_year_i": 1856.0,
+  "uuid": "princeton-8p58pg13j"
+}

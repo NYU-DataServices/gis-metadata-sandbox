@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"2511.\" Includes title sheet, key, streets and specials index, key map, and text. Historic Maps copy has sheets 1-25 and 27-28 of Hudson County, N.J. series, showing West New York, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pn89d868k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hudson County,Maps",
+    "Real property,New Jersey,West New York,Maps",
+    "Hudson County (N.J.),Maps",
+    "West New York (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : comprising North Bergen, West New York, Guttenberg, Secaucus and part of Weehawken, volume eight A (Sheet 16)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5514263\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21f60d96-e410-4aea-93e6-c843502f40f4/file/819c7cbd-91ec-4e55-b96b-cbd9a8b37f47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21f60d96-e410-4aea-93e6-c843502f40f4/file/0a315235-e683-44b2-b452-fa1612926c02\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2F27%2Fa7%2F5d27a782f8994e2d8ecb9fab4182d9cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a9c2fad3-9284-493a-9b55-6872d9c58d88/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-21f60d96-e410-4aea-93e6-c843502f40f4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pn89d868k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-pn89d868k"
+}

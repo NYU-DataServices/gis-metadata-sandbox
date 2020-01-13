@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "New Jersey Geological Survey"
+  ],
+  "dc_description_s": "Principal meridian: Washington, D.C. Geological cross-sections sheet is attached to book. Map shows churches by denomination, manufacturers, taverns, dwelling houses, canals, turnpike, and railroads.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kd17cv240",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Trenton, N.J. : New Jersey Geological Survey], 1839.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology,New Jersey,Maps",
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "A geological map of New Jersey (To accompany the Report on the geology of New Jersey, Jan. 1839.)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514469\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/744024e9-531f-4319-b19f-6d8cb6d0464f/file/e83b1699-1b42-4b9c-881d-8e843e3e846e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b78740b0-5d8b-4658-86e0-58bc6a46a3c8/file/482e7225-8118-4e19-9206-b1efdfa1f54e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b78740b0-5d8b-4658-86e0-58bc6a46a3c8/file/bae08277-056d-498a-bdfb-592b811a8abe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a5%2F8a%2Fef%2Fa58aef0e1acc46238ea16060eb2b4cc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/84531166-5c22-46f6-97dd-9278011fa87b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1839"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b78740b0-5d8b-4658-86e0-58bc6a46a3c8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kd17cv240",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.55, -73.866666, 41.366667, 38.916664)",
+  "solr_year_i": 1839.0,
+  "uuid": "princeton-kd17cv240"
+}

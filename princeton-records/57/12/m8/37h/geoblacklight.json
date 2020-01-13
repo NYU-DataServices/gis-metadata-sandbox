@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 37.0000. South Decimal Degree 36.0000. East Decimal Degree -5.0000. West Decimal Degree -6.0000. Alternate title: Gibraltar, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1916-18; Spain, 1:200,000, Instituto Geografico, Provincia de Cadiz, 1935, PROVINCIA DE MALAGA, 1935 and PROVINCIA DE SEVILLA, 1935; Road Map of Spain and Portugal, 1:400,000, AMS, sheet 50, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, GSGS, 1942; Railways of Spain, Portugal and Southern France, 1:1,300,000, Military Railway Service, 1943. Partially revised from aerial photography, 1941-42, 1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5712m837h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Gibraltar,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Gibraltar, sheet 77. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6841160\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0f020d1-d03c-42b1-beb6-13dc2a314e95/file/2326efd2-96d7-404b-9dff-6fcd44a5f479\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0f020d1-d03c-42b1-beb6-13dc2a314e95/file/182dcdc1-13ab-4842-b414-cc3e6bab71f6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2F25%2Fd4%2F8d25d429a821484f96100ec29d96e2d4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25a92c37-4385-444e-b231-6ff6a9ebfdf6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0f020d1-d03c-42b1-beb6-13dc2a314e95",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712m837h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.0, -5.0, 37.0, 36.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-5712m837h"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1911.\" Includes key, streets and specials index, and text. \"4066\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3197xn49z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Pennington,Maps",
+    "Pennington (N.J.),Maps"
+  ],
+  "dc_title_s": "Pennington, Mercer County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4598659\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f54f9457-5240-4dd4-8d6c-daa62524b32d/file/ea27f139-e2b7-46fc-9627-53b50408a6a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f54f9457-5240-4dd4-8d6c-daa62524b32d/file/621b6022-4afa-4c7b-aa31-0f529366b75e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F40%2F1c%2F45401c185f3b4278b65e75aa9a1754ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d9e36ede-3aba-43e7-985e-49e82db41eeb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f54f9457-5240-4dd4-8d6c-daa62524b32d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3197xn49z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-3197xn49z"
+}

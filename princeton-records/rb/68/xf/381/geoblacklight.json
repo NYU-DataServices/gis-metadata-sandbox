@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Po\u0308ssneck in the German state of Thuringia. \"Beilage zum \"Fu\u0308hrer durch die Stadt Po\u0308ssneck und ihre Umgebung.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xf381",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Po\u0308ssneck : Verlag von Bruno Feigenspan, [1905?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Po\u0308ssneck (Germany),Maps",
+    "Thuringia (Germany),Maps"
+  ],
+  "dc_title_s": "Stadtplan von Po\u0308ssneck",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7620032\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04bab204-8c2a-4ee7-a9c8-f0f764060714/file/00d71356-9add-4fd5-9a66-3bbf3af4cc0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04bab204-8c2a-4ee7-a9c8-f0f764060714/file/fe35861a-0b98-4215-81d4-e4ac575cfc77\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2Ff3%2Fa5%2Fe6f3a5407d45498baaeb450c3ca6e649%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4155e4b2-79cd-4216-af6d-b5ebf13670d4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-04bab204-8c2a-4ee7-a9c8-f0f764060714",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xf381",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.580965, 11.606333, 50.703506, 50.687644)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-rb68xf381"
+}

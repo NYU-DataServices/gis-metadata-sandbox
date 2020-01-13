@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. United States. Defense Mapping Agency. North Decimal Degree -12.500000. South Decimal Degree -12.666667. East Decimal Degree -68.5000000. West Decimal Degree -68.750000. Alternate title: Puerto Playa Alta, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2v23vw253",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1979.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Puerto Playa Alta, hoja 5856 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840970\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f7d52b1-e48a-4618-87ed-1c13152ca226/file/a48f25bc-9863-499b-9d7d-4e3d200c051e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f7d52b1-e48a-4618-87ed-1c13152ca226/file/91224c16-d881-4b09-8701-40929485a25c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2Fd1%2F77%2F44d1770c8b2144cda7c0e8a73657d986%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f6839f9-16f7-4f79-877e-9d302a510bb0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1f7d52b1-e48a-4618-87ed-1c13152ca226",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2v23vw253",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -12.5, -12.666667)",
+  "solr_year_i": 1979.0,
+  "uuid": "princeton-2v23vw253"
+}

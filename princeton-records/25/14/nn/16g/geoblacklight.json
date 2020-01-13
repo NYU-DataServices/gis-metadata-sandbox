@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667"
+  ],
+  "dc_description_s": "Relief shown pictorially. From: Tabulae geographicae ... [Padua] : Ex Typographia Seminarij, 1699. \"The map is dated 1694 and it may have been issued separately before being published in atlas form in 1699.\"--cf. Shirley, R. The mapping of the world, p. 562",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2514nn16g",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Patavii [Padua] : Ex Typographia Seminarij, Anno 1694.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800",
+    "Eastern Hemisphere,Maps",
+    "Western Hemisphere,Maps"
+  ],
+  "dc_title_s": "Orbis vetus, et orbis veteris utraque continens, terrarumq[ue] tractus, Arcticus, et Antarcticus : ex Platone, Theopompo, sive \u00c6liano, Manilio &c.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4484170\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d63d633-d958-4fd6-be2e-9737897f790e/file/4f8c78fe-2ce3-4f55-a9d0-1afe364dd4e9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b249652f-15af-4dfd-8013-f4a33fa29999/file/a0e0ad1c-2dd6-4883-8be7-64e3563eb5d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b249652f-15af-4dfd-8013-f4a33fa29999/file/e7bb586b-400f-4e2d-8125-998a5dfff362\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2Ffa%2Fb9%2F46fab94013a44fc7a627941fd2233e56%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/664c6a6c-cda8-48d0-af06-b7301d6e300a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1694"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b249652f-15af-4dfd-8013-f4a33fa29999",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2514nn16g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1694.0,
+  "uuid": "princeton-2514nn16g"
+}

@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency. Cartography Center"
+  ],
+  "dc_description_s": "Relief shown by shading. Universal transverse Mercator grid. Ancillary maps: Physical features -- Population density -- Economic activity -- Distribution of ethnoreligious groups and key tribal areas -- Annual rainfall -- Land use. \"DI Cartography and Design Centers/MPG 386487A1 10-02.\" \"761266A1 2-02.\" Includes comparative area map, 2 location maps, text, and historical timeline. \"Background image composed of AVHRR imagery, Landsat TM (bands 7, 4, 2), and DTED level 1.\" United States. Central Intelligence Agency. Cartography Center. Relief shown by shading. Lambert conformal conic projection. Universal transverse Mercator grid. Ancillary maps: Physical features -- Population density -- Economic activity -- Distribution of ethnoreligious groups and key tribal areas -- Annual rainfall -- Land use. With historical timeline. \"Background image composed of AVHRR imagery, Landsat TM (bands 7, 4, 2), and DTED level 1.\" \"DI Cartography and Design Centers/MPG 386487AI 10-02.\"/ \"761266AI 2-02.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vd66w1585",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 2002.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Remote-sensing maps",
+    "Ethnic groups,Yemen (Republic),Maps",
+    "Population density,Yemen (Republic),Maps",
+    "Rain and rainfall,Yemen (Republic),Maps",
+    "Land use,Yemen (Republic),Maps",
+    "Yemen (Republic),Maps",
+    "Yemen (Republic),Economic conditions,Maps",
+    "Yemen (Republic),Religion,Maps",
+    "Yemen,Maps"
+  ],
+  "dc_title_s": "Yemen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867837\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/65cabb0f-ef9e-47d1-bf31-4497627841cd/file/95e49759-9bcf-4b1f-95a7-8af06c6659c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cdcb3c59-5d12-461b-a60d-ebab9c02535d/file/8366b8fe-47aa-4cc5-84f0-55dbe1401515\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdcb3c59-5d12-461b-a60d-ebab9c02535d/file/924dc8bf-d21d-4a62-a4c8-402263a1a2b6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2F02%2F28%2F750228b2c0f0448a849960c5b66e6095%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b8cc894-bc5b-4518-8e3d-de4842f7dfcd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cdcb3c59-5d12-461b-a60d-ebab9c02535d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vd66w1585",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(42.25, 54.55, 19.0, 12.1)",
+  "solr_year_i": 2002.0,
+  "uuid": "princeton-vd66w1585"
+}

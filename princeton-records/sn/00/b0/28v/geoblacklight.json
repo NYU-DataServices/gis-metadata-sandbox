@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Fushiki, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romanji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sn00b028v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Fushiki, Toyama Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830660\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b1980c85-5d7e-4b52-954b-771ccb5ad444/file/2b184d9a-b085-4032-946e-df0d4aa9b0c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17c0585c-06a8-4ed7-abbe-817f9abf8204/file/20b4a70b-efb0-49bc-968d-f866d156dd91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17c0585c-06a8-4ed7-abbe-817f9abf8204/file/ace074cf-7c4f-49ad-b5d8-7cf78e25acd4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F92%2F34%2Fd9923465b9bc47d4920f881326323c34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66b32c56-7fb5-4c83-a71d-82f5fe6df3b7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-17c0585c-06a8-4ed7-abbe-817f9abf8204",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sn00b028v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(137.03333333333333, 137.11666666666667, 36.81666666666667, 36.766666666666666)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-sn00b028v"
+}

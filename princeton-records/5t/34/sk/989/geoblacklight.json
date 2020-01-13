@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Ridgeway  Quadrangle in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sk989",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "New York: Ridgeway Quadrangle.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e17db622-53e1-4803-a0ea-c1e370ff37d6/file/d14e53d8-2708-404c-ac33-ab06ab048fae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e43d631-eed2-4614-b2d1-2923f67a3603/file/67045f26-b9ee-4c1e-b5da-bcde41d1ff70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e43d631-eed2-4614-b2d1-2923f67a3603/file/9aa743a0-6c0d-4f48-bcf7-a56e31d93d36\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2F3f%2F66%2F973f662589fc4258af383b5d4c7d4366%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef85ca54-ca33-4564-a4c8-e1e8dcb7def4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "USA",
+    "New York",
+    "Ridgeway",
+    "MC G3801.C2.s62.U5G4 Ridgeway (1943)"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8e43d631-eed2-4614-b2d1-2923f67a3603",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sk989",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.5, -78.25, 43.5, 43.25)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-5t34sk989"
+}

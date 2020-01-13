@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.Geological Survey. Verso: \"The story of Yosemite Valley.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/z603r0066",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Topographic maps",
+    "Yosemite Valley (Calif.),Maps"
+  ],
+  "dc_title_s": "Map of Yosemite Valley, Yosemite National Park, California, Mariposa County",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6815928\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d40332be-4f44-4e38-9c19-da8d9f7badef/file/a87e48aa-c7f4-4b30-9674-80ba31252b4a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a120bac-8e2d-49b7-a872-272b0084a6a5/file/adf2cfc7-1830-48ad-97b4-2957e172eae6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a120bac-8e2d-49b7-a872-272b0084a6a5/file/e91254f1-b366-4bad-be5e-cce743d335d7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fa3%2F99%2F8da3997af8a648e58a887b833ad42e0a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41d74180-6883-4ea1-bae9-4505201422bf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4a120bac-8e2d-49b7-a872-272b0084a6a5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-z603r0066",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-119.73333333333333, -119.48333333333333, 37.78333333333333, 37.7)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-z603r0066"
+}

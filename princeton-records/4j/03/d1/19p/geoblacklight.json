@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886-7. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4j03d119p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Webster (Mass.),Maps"
+  ],
+  "dc_title_s": "Mass. - Conn. - R.I.: Webster sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837319\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f652d909-02a6-4867-acd2-caccdc09352d/file/40754377-1658-4f03-9eb4-a341898643e2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b83c2649-5bd4-439d-ac1e-153a3ddd0f3c/file/8ee00e45-be0a-4a45-bf7c-b8ab78cd10b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b83c2649-5bd4-439d-ac1e-153a3ddd0f3c/file/bebd770b-966b-4907-adf5-1dba97f0f692\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F29%2Fea%2F7a29eaaf9eed469eaa36bfd64c7fcea2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/db599841-a724-4d3f-b044-82bc0f344b5c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b83c2649-5bd4-439d-ac1e-153a3ddd0f3c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4j03d119p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.0, -71.75, 42.25, 42.0)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-4j03d119p"
+}

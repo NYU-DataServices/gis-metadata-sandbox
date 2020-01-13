@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Owen, Richard, Commander"
+  ],
+  "dc_description_s": "Shows coastline of Crooked Island in the Bahamas. Relief shown by hachures; depths shown by soundings. At head of title: Bahamas. \"1469.\" Includes 2 views: Landrail flag staff and Marine Farm flag staff in one. Mark for the anchorage -- Moss House and flag staff as seen from the anchorage. Historic Maps copy has label on verso: 1469, Crooked Island Anchorage.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xf31n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published according to Act of Parliament at the Hydrographic Office of the Admiralty ; Sold by R.B. Bate, agent for the Admiralty Charts, 21 Poultry, May 29th. 1843.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Crooked Island (Bahamas),Maps"
+  ],
+  "dc_title_s": "Crooked Island anchorage",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6859991\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92e95fd4-130b-4386-8e47-0549f1f63de4/file/73c9bd62-b3c9-40f7-979d-5f0698323aff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92e95fd4-130b-4386-8e47-0549f1f63de4/file/45b9057c-89a0-4bc7-b5f6-a4abc04a65b9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F1e%2F64%2F6f1e64b0e35e4e6190002cd2a3351af5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3041b547-106f-4f25-a434-f05d3b6e9eeb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bahamas"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-92e95fd4-130b-4386-8e47-0549f1f63de4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xf31n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.35012, -74.321109, 22.816872, 22.783482)",
+  "solr_year_i": 1843.0,
+  "uuid": "princeton-rb68xf31n"
+}

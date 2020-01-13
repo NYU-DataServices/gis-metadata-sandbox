@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes 12 folded maps. Cover title. \"This map is not transferable and must not be copied, as it is copyright by and property of Sanborn Map Company, 11 Broadway, New York.\" -- Ink stamp on cover and each map. Hand colored. MAP copy is extensively annotated in pencil.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pz50gx84m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, c1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps"
+  ],
+  "dc_title_s": "Sanborn map of Princeton, N.J. : for the exclusive use of W.B. & E.L. Howe, agents (Sheet 3 1902)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4595321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/78f6b4be-5e11-44dd-89e0-a54fbc5526e2/file/727a18c5-1e56-44c8-90b1-1000bb349c7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/78f6b4be-5e11-44dd-89e0-a54fbc5526e2/file/03864dd6-0e4c-494d-9554-f0397694a55e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F7f%2Fb5%2F0c7fb56892384bf1a4885268ae28d3dd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3093297c-f96d-4ef4-a065-42b7f7089d40/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-78f6b4be-5e11-44dd-89e0-a54fbc5526e2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pz50gx84m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.68, -74.63, 40.37, 40.33)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-pz50gx84m"
+}

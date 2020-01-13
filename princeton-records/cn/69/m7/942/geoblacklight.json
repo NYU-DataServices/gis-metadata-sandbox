@@ -1,0 +1,47 @@
+{
+  "dc_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dc_description_s": "",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "ark:/88435/cn69m7942",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New Jersey Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+
+  ],
+  "dc_title_s": "A Topographic Map of the Counties of Bergen, Hudson and Essex, with Parts of Passaic and Union",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4a9e88d1-6cce-434a-8bd3-7d0e79a54830/file/72cc59a1-10c1-4fda-a93b-0ac6c03df534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cad13154-69aa-4b8d-a9a6-94daa284de68/file/1b018700-bb36-4930-bf0b-084f1bd626c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cad13154-69aa-4b8d-a9a6-94daa284de68/file/2c590d66-a6ae-4b39-99c2-a62a46b04c4e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Bergen county",
+    "Hudson county",
+    "Essex county",
+    "Union county",
+    "Passaic county",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "public-figgy:p-cad13154-69aa-4b8d-a9a6-94daa284de68",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m7942",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.33, -73.9, 41.1, 40.583)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-cn69m7942"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [
+    "Robinson, Edward, 1794-1863"
+  ],
+  "dc_description_s": "Relief shown by hachures. Ancillary map: Environs of Jerusalem / from the routes and observations of Robinson and Smith. Scale 1:100,000. Historic Maps copy 2 is hand colored and unfolded to 35 x 44 cm.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w6634609p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Boston : Crocker & Brewster, [1841?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Jerusalem,Maps"
+  ],
+  "dc_title_s": "Plan of Jerusalem",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4166959\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d02c6938-821a-4e88-991a-85772addfee2/file/32a0a68e-d212-4d4b-a659-1f4bc6e60bdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d02c6938-821a-4e88-991a-85772addfee2/file/5a4e2caf-b16e-49c0-bc3e-261bc4b78467\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2F66%2F1a%2F30661aecac89425292f2c6ae6473a861%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cdd3796f-9e70-4c2a-8077-bee1dd0e4189/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d02c6938-821a-4e88-991a-85772addfee2",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w6634609p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(35.129299, 35.295982, 31.966872, 31.666678)",
+  "solr_year_i": 1841.0,
+  "uuid": "princeton-w6634609p"
+}

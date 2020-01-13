@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Slovenia, Croatia, Bosnia and Herzogovina. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9p290b98z",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries"
+  ],
+  "dc_title_s": "Bosnia, Croatia, and Slovenia, 1995",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84485823-1cf5-40d0-9770-aec635610c66/file/ccbca702-c6cd-4d62-93ab-ae73f5ad9de2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6860b70-517c-4380-936a-d37c511a74fe/file/190b3ed6-3e7c-481b-869a-d56987cc17d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6860b70-517c-4380-936a-d37c511a74fe/file/2ffa54b2-5342-43aa-b7ef-f459dafb3747\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2Faa%2F93%2F40aa93c763fa442a9fd336e0f69ec4e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57cbba7e-1163-4849-a8eb-af432d1f4cb1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Slovenia",
+    "Bosnia",
+    "Herzegovina",
+    "Balkans",
+    "Europe",
+    "Croatia"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f6860b70-517c-4380-936a-d37c511a74fe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9p290b98z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.0, 20.0, 48.0, 42.0)",
+  "solr_year_i": 1995.0,
+  "uuid": "princeton-9p290b98z"
+}

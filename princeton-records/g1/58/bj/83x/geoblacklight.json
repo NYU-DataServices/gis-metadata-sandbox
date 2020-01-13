@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Description of the state geologic map of 1901 / Frederick J. H. Merrill. Albany : University of the State of New York / New York State Museum, 1902. Bulletin 56. 42p. 2 pls. Alternate title: Geologic map of New York: Delaware sheet. Map is 22 sheets stored in box on top of New York map cases. Legend of rock types. Black and white.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/g158bj83x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cross section",
+    "Geology",
+    "Delaware (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of New York exhibiting the structure of the state so far as known: Delaware sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866948\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b5823b67-d5cd-46b9-a3b9-b7e4f6869b4b/file/df2ec0c4-6be2-4bdc-9deb-36af6e03c531\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/38babc86-321d-4a59-a52c-7a7c0c1bbf9e/file/206fe862-0baa-4c8c-b6a1-751128b95474\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/38babc86-321d-4a59-a52c-7a7c0c1bbf9e/file/666211e0-7328-444e-a49d-cb5889897761\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/67%2Fde%2F8e%2F67de8ece05f8454689c0868a4f7e244d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/15b7849c-8db6-44b8-81f8-29581953d01e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-38babc86-321d-4a59-a52c-7a7c0c1bbf9e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-g158bj83x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.5, -74.83333333333333, 42.0, 40.5)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-g158bj83x"
+}

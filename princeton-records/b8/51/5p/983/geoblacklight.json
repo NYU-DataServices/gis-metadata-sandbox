@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1886.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/b8515p983",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map & Publishing Co., Limited, 1886.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clinton,Maps",
+    "Clinton (N.J.),Maps"
+  ],
+  "dc_title_s": "Clinton, N. J. (Overview)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4786584\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f4d1c5-488d-4ec4-922d-75169e6df3d4/file/6d2a4d70-a478-4d43-be2b-e33517386825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f4d1c5-488d-4ec4-922d-75169e6df3d4/file/047d2c73-2270-45f0-8516-8b20d5398a91\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2F9e%2F53%2Fd19e5337f5ad4d27b4964d7c8ca8e0e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f4ac4de0-0fb3-4911-8b22-f4175a9d0b50/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-79f4d1c5-488d-4ec4-922d-75169e6df3d4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-b8515p983",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931, -74.787, 40.693, 40.574)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-b8515p983"
+}

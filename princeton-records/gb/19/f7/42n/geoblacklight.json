@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. North Decimal Degree 22.633333. South Decimal Degree 22.566667. East Decimal Degree 120.366667. West Decimal Degree 120.316667. Alternate title: Hozan. In upper left margin: Formosa city plans 1:10,000. Polyconic projection. Relief shown by 10 meter contour intervals. Place names are transcribed according to the modified Hepburn (Romaji) System. With a glossary. Name has been changed to Feng-shan [Fengshan]. Compiled in 1944 from aerial photgraphy dated from December 1943 to June 1944 by photo-planimetric method and by reference to Formosa 1:50,000, A.M.S. Sheet 2114-I, 1944; Formosa 1:25,000, Sheets 2114-I NW, 2114-I SW, 1944. Additional information from intelligence data.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f742n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Taiwan,Maps"
+  ],
+  "dc_title_s": "Hozan, Formosa (Taiwan), Hozan-shu. A.M.S. L991",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830707\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3b4c4e5-c724-4b5f-b377-cddabfba9831/file/c770a22c-dff4-42ae-a8dc-72215de9cc56\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8519c8f7-6efd-42f0-8098-b8c9c91baa1d/file/dc1c12aa-5b8d-45a1-a58a-a631b1f44704\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8519c8f7-6efd-42f0-8098-b8c9c91baa1d/file/5d3b36ab-1d29-4e10-bf9c-1acdae583715\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F46%2F8a%2F62468a8ce6a647fea156eb267be1b46c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbcd24d8-0964-430d-93f3-b14a51180a83/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8519c8f7-6efd-42f0-8098-b8c9c91baa1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f742n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(120.316667, 120.366667, 22.633333, 22.566667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-gb19f742n"
+}

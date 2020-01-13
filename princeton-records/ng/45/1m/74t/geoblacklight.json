@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Zhongguo di tu chu ban she",
+    "\u4e2d\u56fd\u5730\u56fe\u51fa\u7248\u793e."
+  ],
+  "dc_description_s": "Includes inset of South China Sea Islands. Map shows province, autonomous region, or municipality directly under the Central Goverment, and special administrative region boundaries. \"The national boundaries of China on this map are drawn after the 1:4M 'Relief map of the People's Republic of China, published by Sinomaps Press in 1989.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451m74t",
+  "dc_language_s": "Chinese",
+  "dc_publisher_s": "[\u5317\u4eac\u5e02] : \u4e2d\u56fd\u5730\u56fe\u51fa\u7248\u793e, 2013.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,China,Maps",
+    "China,Maps",
+    "China,Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Map of the People's Republic of China = Zhonghua Renmin Gongheguo di tu",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7531367\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0e77397-b58e-457b-bce5-f6e55463c85c/file/1a373471-c7bf-4c62-9507-403697304981\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0e77397-b58e-457b-bce5-f6e55463c85c/file/369ea6c5-ffd6-4057-991d-6cda6f85e994\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F93%2Fc9%2F9b93c986a8d8430fb9bd37eda2fff6be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/45d22c77-c4aa-442f-a07c-3f13320e9731/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d0e77397-b58e-457b-bce5-f6e55463c85c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451m74t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(65.0, 145.0, 54.0, 18.0)",
+  "solr_year_i": 2013.0,
+  "uuid": "princeton-ng451m74t"
+}

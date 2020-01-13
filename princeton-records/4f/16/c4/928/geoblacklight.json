@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"August 1916.\" Includes location map, key, specials index, and text. \"1414.\" North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4f16c4928",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Cranbury,Maps",
+    "Cranbury (N.J.),Maps"
+  ],
+  "dc_title_s": "Cranbury, Middlesex County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5520868\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c8dd229-a5b0-4b69-a67e-a51f93dfacac/file/150c921a-2993-406f-9dcb-3ef77828b35c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c8dd229-a5b0-4b69-a67e-a51f93dfacac/file/498499a5-f05f-404d-b6cf-ea4da373ae5f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F4e%2F2d%2F184e2dd1d9c844f7b728bda575562148%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c7d00f09-c18d-4f82-9aba-0f137e4663a1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c8dd229-a5b0-4b69-a67e-a51f93dfacac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4f16c4928",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.533765, -74.493764, 40.336219, 40.296219)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-4f16c4928"
+}

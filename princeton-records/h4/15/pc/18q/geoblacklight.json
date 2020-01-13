@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. \"April 1911.\" \"3600.\" North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h415pc18q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Absecon,Maps",
+    "Absecon (N.J.),Maps"
+  ],
+  "dc_title_s": "Absecon, Atlantic County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5164987\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af960482-a780-4577-9cd8-7d5682cbd65b/file/0b05258e-46e8-44ff-9390-ae9806226683\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af960482-a780-4577-9cd8-7d5682cbd65b/file/7936acde-5351-4b8d-91b7-217548e7807f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9b%2F43%2F54%2F9b4354d9331c41f1b8836f2547eebb2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0e3abf3-60a5-400d-8c24-c09039b1ec58/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-af960482-a780-4577-9cd8-7d5682cbd65b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h415pc18q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-h415pc18q"
+}

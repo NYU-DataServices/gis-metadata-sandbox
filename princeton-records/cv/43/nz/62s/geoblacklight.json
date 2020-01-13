@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Explanatory text: 1 sheet in MC folder. North Decimal Degree 49.4037 South Decimal Degree 49.0756 East Decimal Degree 7.1915 West Decimal Degree 6.2819",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cv43nz62s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1957.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique de la France a1/80,000; Sierck-Sarreguemines",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518423\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5bf2360-6533-4f5d-b306-cf7a4ed461a6/file/f7eebaac-7cab-446e-8466-194a44e0e718\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5bf2360-6533-4f5d-b306-cf7a4ed461a6/file/2c4f5a95-6ade-49d8-9e49-3cc8378f7ed0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2F5d%2F7f%2Fbf5d7fc1dcbc48118dfc5831a3e08861%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/32146ff6-c93d-4b14-b198-6fb518b44042/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1957"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e5bf2360-6533-4f5d-b306-cf7a4ed461a6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cv43nz62s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.2819, 7.1915, 49.4037, 49.0756)",
+  "solr_year_i": 1957.0,
+  "uuid": "princeton-cv43nz62s"
+}

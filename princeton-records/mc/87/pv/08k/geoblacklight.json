@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Homann, Johann Baptist, 1663-1724"
+  ],
+  "dc_description_s": "Map features New Jersey, New York and New England. Relief represented pictorially; depth represented by soundings. The map possibly appeared as early as 1716, and appeared in Homann Heirs atlases to 1784. cf. McCorkle, B. New England in early printed maps. Historic Maps copy 4 has \"Cum privilegio Sac. C\u00e6s. Maj.\" added to cartouche.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87pv08k",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "Norimberg\u00e6 : Ioh. Baptista Homann, [1759?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New England,Maps,Early works to 1800",
+    "New Jersey,Maps,Early works to 1800",
+    "New York (State),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Nova Anglia septentrionali Americ\u00e6 implantata Anglorumque coloniis florentissima geographice exhibita (Copy 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5805775\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a3c5678-3192-47ad-ad07-8c330c2cc574/file/8503f6ac-2a22-4fc0-836b-f9607c4cdae2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a3c5678-3192-47ad-ad07-8c330c2cc574/file/9479287f-a391-4708-b18b-5778338b03fc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2Fc1%2F53%2Ffbc153e6d77441779c8e9b3a425c4dc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ad06cad6-6dd6-47a0-964f-40e14064f3fd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New England",
+    "New Jersey",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1759"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2a3c5678-3192-47ad-ad07-8c330c2cc574",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87pv08k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.7578, -65.6703, 47.5007, 38.8421)",
+  "solr_year_i": 1759.0,
+  "uuid": "princeton-mc87pv08k"
+}

@@ -1,0 +1,53 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:24,000 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096831j",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "7.5 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "Washington Quadrangle, New Jersey, 7.5 minute series (topographic) (1954)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91290a05-1967-47f0-b12e-b699d6e7ef40/file/5abed90e-8ac2-4cf8-85e4-c90dd862468f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e7461d9-87b3-402b-8ecd-093b768a5940/file/26456ec6-e7ee-4521-9537-701e2464a051\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e7461d9-87b3-402b-8ecd-093b768a5940/file/4cfe8998-fcac-4eb1-8e60-9e593249f22f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F01%2Fdd%2F7901dd099b424b84ad398cebeb08f158%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0323aa55-fba4-4933-9c2b-c5d323332ef7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Washington",
+    "Liberty",
+    "Mansfield",
+    "Warren County",
+    "Oxford",
+    "Lebanon",
+    "Independence",
+    "New Jersey",
+    "Morris County",
+    "White",
+    "Hunterdon County"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e7461d9-87b3-402b-8ecd-093b768a5940",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096831j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.875, 40.875, 40.75)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-0p096831j"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, key map and text. \"9271.\" Historic Maps copy includes title map for series: Insurance maps of Essex County, New Jersey, volume three.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gx41mk81v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Montclair,Maps",
+    "Montclair (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Montclair, New Jersey (Sheet 26)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5422934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4c3f6b6-26ad-4ab5-af4b-fa67542e7fbe/file/62abd214-5e20-4217-a5a4-10851e79f9e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4c3f6b6-26ad-4ab5-af4b-fa67542e7fbe/file/64bfeb4d-8c47-4f56-b956-3097a234548c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F76%2F3c%2F00763c595a2f4a8187c605dc425ba025%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b64202fc-7380-41f0-adbb-ce5f44e21e12/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e4c3f6b6-26ad-4ab5-af4b-fa67542e7fbe",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gx41mk81v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.23764, -74.182689, 40.861847, 40.788323)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-gx41mk81v"
+}

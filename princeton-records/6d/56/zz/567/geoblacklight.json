@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "Relief shown pictorially. From: Theatrum orbis terrarum Abrahami Ortelii Antuerp. geographi regii ... Antuerpi\u00e6 : apud Ioannem Bapt. Vrintium, [1601?] Text on verso in Latin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6d56zz567",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antuerpi\u00e6 : apud Ioannem Bapt. Vrintium, ca. 1601]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Asia,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Asiae nova descriptio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5372209\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0962cd5f-0080-4b66-9832-b0fe5df63dc8/file/8877bf67-9998-4290-b9bb-8ae5aea9813b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0962cd5f-0080-4b66-9832-b0fe5df63dc8/file/953c1c27-2c10-4596-8f4d-34100aa2d46e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2F9b%2F7d%2F169b7d0564ee421a833ecb6bd2df771b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3b96a19b-61f8-46f8-9c31-864885208e4b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "dct_temporal_sm": [
+    "1601"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0962cd5f-0080-4b66-9832-b0fe5df63dc8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6d56zz567",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.0, 157.1, 82.0, 15.0)",
+  "solr_year_i": 1601.0,
+  "uuid": "princeton-6d56zz567"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Civil Aeronautics Board. Bureau of Air Operations, Routes Division. North Decimal Degree 90.000000. South Decimal Degree -90.0000. East Decimal Degree 180.0000. West Decimal Degree -180.0000. Ancillary mapw: Caribbean area.; Dominican Republic, Puerto Rico, and Virgin Islands; Hawaiian Islands. \"Routes shown on this map do not necessarily conform to air tracks of actual operation.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9593tz85k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1959.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Air travel",
+    "Airways",
+    "World,Maps"
+  ],
+  "dc_title_s": "International and overseas air routes of United States carriers including Hawii and Alaska mainland routes: June 30, 1967.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810614\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e20197c-b2e6-43f2-833a-3e41306fcf00/file/1a35b1fb-1440-45a7-9a37-c0d1be699e8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e20197c-b2e6-43f2-833a-3e41306fcf00/file/0e9146cb-2766-4a9d-9be0-37dc8d0145d7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F80%2F23%2F158023a51bd541c7aa5aa58bf0ceb139%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea638068-0c92-4fbf-abef-cec5d6b4d239/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1959"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0e20197c-b2e6-43f2-833a-3e41306fcf00",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9593tz85k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1959.0,
+  "uuid": "princeton-9593tz85k"
+}

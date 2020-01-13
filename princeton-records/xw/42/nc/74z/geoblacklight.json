@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Relief shown pictorially. Covers New England and the Middle Atlantic states from Penobscot Bay south to the mouth of Chesapeake Bay. Appears in Willem and Joan Blaeu's Theatrum orbis terrarum, sive Atlas novus, 1640 and other eds. Oriented with north to the right. Includes decorative cartouche and ill. Text on verso: Belgica Nova et Nova Anglia.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xw42nc74z",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdami : I. and C. Blaeu?, 1640?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New England,Maps,Early works to 1800",
+    "Middle Atlantic States,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Nova Belgica et Anglia Nova (Copy 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5735037\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c6ec181-7b3f-43a7-be03-a938ce8f310f/file/aff1a400-954d-4288-ae0f-0b8e75d2c82b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c6ec181-7b3f-43a7-be03-a938ce8f310f/file/a9a2f97c-2f27-499c-a111-66a0af2e079f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/66%2Fb8%2F0f%2F66b80ff9f1f14d9cb41d0179f1f7f875%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3653de25-e4a1-4c35-9a64-9513a998e42c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New England",
+    "Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1640"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c6ec181-7b3f-43a7-be03-a938ce8f310f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xw42nc74z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.5, -66.25, 49.35, 35.26)",
+  "solr_year_i": 1640.0,
+  "uuid": "princeton-xw42nc74z"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key and text. Oriented with the north to the upper left. Junction, so called because the Central Railroad of New Jersey and the Delaware, Lackawanna and Western Railroad crossed there, is the earlier name of Hampton, N.J.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988m65f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited , 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Hampton,Maps",
+    "Hampton (N.J.),Maps"
+  ],
+  "dc_title_s": "Junction, Hunterdon County, N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4782847\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73544f03-5bb1-46f1-8233-5c99b878196c/file/c15b19d5-3c66-424e-bccd-e35c09e3f594\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73544f03-5bb1-46f1-8233-5c99b878196c/file/e177d8da-69c6-4375-b3d1-54e0cebb9054\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/82%2F04%2F7f%2F82047f29c274433ab16923fbf5ae69a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f43d06a6-326a-4f95-a272-bbe1d65fdf0d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-73544f03-5bb1-46f1-8233-5c99b878196c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988m65f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.98125, -74.948175, 40.720517, 40.698073)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-wp988m65f"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 19 to 45 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 19. \"N.J.C.M. vol. 2.\" Includes key and text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8910jw42t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Asbury Park,Maps",
+    "Real propery,New Jersey,West Asbury Park,Maps",
+    "Asbury Park (N.J.),Maps",
+    "West Asbury Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Asbury Park and West Asbury Park (Sheet 40)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4792514\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54a4c9f6-eb89-44aa-9112-21519d026027/file/e15b1b95-5bce-4a83-9b5c-a67abed91b89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54a4c9f6-eb89-44aa-9112-21519d026027/file/2478f914-3492-4882-874e-e02a930c3250\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/34%2F19%2F99%2F3419994be4fd4de28f98f212f2868c80%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e9bcf716-eecf-4855-a200-e2b661a7f3f4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-54a4c9f6-eb89-44aa-9112-21519d026027",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8910jw42t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.027256, -73.994681, 40.231222, 40.213125)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-8910jw42t"
+}

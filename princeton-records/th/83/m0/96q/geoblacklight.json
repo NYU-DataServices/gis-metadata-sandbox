@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS. Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 3831. In upper margin: China 1:25,000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/th83m096q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "China,Maps",
+    "Contours (Cartography).",
+    "Hankou (Wuhan, China),Maps"
+  ],
+  "dc_title_s": "China 1:25,000. Hankow",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830361\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0254fc6f-3faf-432b-bdd2-fb06bc315da6/file/b5aea2ef-9eac-4969-af7f-5c90375aa89e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3eba2930-bf1a-420b-8da3-e0e61f3444d5/file/db9c9a83-0240-4035-9525-f6e94c726462\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3eba2930-bf1a-420b-8da3-e0e61f3444d5/file/49e54fa3-8dfa-4e9b-9f2d-0cad3bca02d8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F51%2F9f%2F2e519fd47f4b4641ab4900137d1a1ec0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ee6f84e-12da-449a-baaf-405128dd95eb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3eba2930-bf1a-420b-8da3-e0e61f3444d5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-th83m096q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(114.25, 114.38333333333334, 30.633333333333333, 30.45)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-th83m096q"
+}

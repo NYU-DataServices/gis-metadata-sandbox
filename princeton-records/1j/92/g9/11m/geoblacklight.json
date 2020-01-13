@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Canton, N.Y. Relief shown by 20 feet contour interval. Surveyed in 1910. Surveyed in cooperation with the State of New York. Verso: Description of the topographic map of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g911m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Canton (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (St. Lawrence County) Canton Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866633\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6b6a3eb6-731a-4222-ab38-d1641b3a944c/file/9b126e9d-48dc-43df-a9ed-b4b6d4344065\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ed6e1c5-e337-43d2-ae1d-ef0b45325c67/file/2718ec20-dd60-49de-a328-74828a994b76\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ed6e1c5-e337-43d2-ae1d-ef0b45325c67/file/df01e408-90db-43c7-9dcd-898f9455b172\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2F1b%2Fa2%2Fc11ba21abe0f4773b747dc119fd90c16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c9fb714-15ff-4b4d-80a6-a3c83505c72e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8ed6e1c5-e337-43d2-ae1d-ef0b45325c67",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g911m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 44.75, 44.5)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-1j92g911m"
+}

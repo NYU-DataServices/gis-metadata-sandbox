@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. Companion text: Hudson River beds near Albany and their taxonomic equivalents / Rudolf Ruedemann. Albany : New York State Museum. Bulletin 42, Vol.8, 1901. 122p. 2 pls.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v692t792p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Hudson River (N.Y. and N.J.),Maps"
+  ],
+  "dc_title_s": "Stratigraphic map showing the subdivisions of the Hudson River beds in parts of Albany and Rensselaer counties, New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6515130\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36fc4de8-0b35-4202-8d89-66e55df3e595/file/10465ae7-3804-4e97-979e-b07f2ef2e355\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cbaade6d-9933-49a7-bfd1-fb7dd1347dba/file/09cc463e-4482-4660-b1aa-00f4e119b347\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cbaade6d-9933-49a7-bfd1-fb7dd1347dba/file/d4dd3b7a-3b3b-4e71-a332-198dd6abf81f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3c%2Fba%2F8e%2F3cba8ee5165a42bd8da7347d70b2d891%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4406a971-551a-4833-92c8-c845db44860f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cbaade6d-9933-49a7-bfd1-fb7dd1347dba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v692t792p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.81666666666666, -75.65, 42.8, 42.516666666666666)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-v692t792p"
+}

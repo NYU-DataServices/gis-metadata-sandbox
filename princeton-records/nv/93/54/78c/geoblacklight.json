@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 16 and 58-62 of Garfield, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nv935478c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Company, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lodi,Maps",
+    "Real property,New Jersey,Hasbrouck Heights,Maps",
+    "Lodi (N.J.),Maps",
+    "Hasbrouck Heights (N.J.),Maps"
+  ],
+  "dc_title_s": "Lodi & Hasbrouck Heights (Sheet 20)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60426858-c871-4425-9f33-eb27f0ab0a46/file/c51fadba-f29f-4804-be68-f322fca8a5f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60426858-c871-4425-9f33-eb27f0ab0a46/file/94054d90-e48e-4199-8b1d-2951e85bbbce\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2F7a%2Ff3%2Fba7af3c8695b4705bb77ec552b94321f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0287e56a-ca08-41e4-883a-e17017dda356/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-60426858-c871-4425-9f33-eb27f0ab0a46",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nv935478c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.099, -74.059, 40.895, 40.847)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-nv935478c"
+}

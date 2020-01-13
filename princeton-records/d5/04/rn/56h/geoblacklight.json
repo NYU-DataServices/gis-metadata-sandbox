@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1911.\" Includes key and text. \"#3394.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rn56h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Franklin Furnace,Maps",
+    "Franklin Furnace (N.J.),Maps"
+  ],
+  "dc_title_s": "Franklin Furnace, Sussex County, New Jersey (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607428\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f11705b-ccc4-4a1f-ad98-bd0b610b2d07/file/b2e4a52c-2469-4355-982a-215f5b6204fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f11705b-ccc4-4a1f-ad98-bd0b610b2d07/file/37341c7f-8643-4a04-ad39-d644ed145ff8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/71%2Fef%2Fe7%2F71efe7b02bdb4683875640147080e48e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca7ebdcd-88cc-4430-8511-56b6ea3a652b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8f11705b-ccc4-4a1f-ad98-bd0b610b2d07",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rn56h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.609812, -74.569941, 41.138151, 41.085096)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-d504rn56h"
+}

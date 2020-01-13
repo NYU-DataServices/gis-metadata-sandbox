@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "US Census Bureau, Geography Division"
+  ],
+  "dc_description_s": "Voting districts in Michigan based on the US decennial Census of 2010. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/qf85nf79f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Michigan voting districts from 2010 Census",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/803b0b36-2a20-4dba-8625-b798c70c6472/file/138fdb94-ff7e-4e2d-a74b-416764fb0c75\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ede581b-87c1-4b56-94db-fd2cbb10ab9a/file/95f6e931-8f6f-4613-ae5b-6b9c06d5e9b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ede581b-87c1-4b56-94db-fd2cbb10ab9a/file/76365a4b-2047-4d31-a84f-8e8dd65c9479\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-0ede581b-87c1-4b56-94db-fd2cbb10ab9a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qf85nf79f",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-90.418392, -82.122971, 48.306063, 41.696118)",
+  "solr_year_i": 2010.0,
+  "uuid": "princeton-qf85nf79f"
+}

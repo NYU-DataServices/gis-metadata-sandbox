@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Pulaski, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1893. Triangulation by U.S. Lake Survey and S. S. Gannett. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/st74cs12b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Pulaski (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Pulaski Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867463\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e483e14-967c-4e03-804f-2140345eff8d/file/329d0905-a9be-45f1-974e-f5ef98764c84\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94236704-7e55-4c58-abee-604c2b380685/file/fc7b499a-1427-4b0c-913f-e489da3b628e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94236704-7e55-4c58-abee-604c2b380685/file/5b7e3989-01c5-433e-9a90-14f1441050f6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F24%2F41%2F182441ab813b4a24aa82108d67866009%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ab19358-b7ed-4639-9130-99eafab1f1bd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-94236704-7e55-4c58-abee-604c2b380685",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-st74cs12b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.25, -76.0, 43.75, 43.5)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-st74cs12b"
+}

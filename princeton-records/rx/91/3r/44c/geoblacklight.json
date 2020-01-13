@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1892.\" Includes key, specials index, and text. \"5472.\" North oriented towards upper left. At head of sheet 3: At Annandale, 2 miles N.E. of Clinton.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rx913r44c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1892.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Clinton,Maps",
+    "Real property,New Jersey,Annandale,Maps",
+    "Clinton (N.J.),Maps",
+    "Annandale (N.J.),Maps"
+  ],
+  "dc_title_s": "Clinton, Hunterdon Co., N. J. (Sheet 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4785277\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9d0a324-51ff-40e1-bc64-2c6b49397fea/file/2312c40d-894f-4fb2-b081-fc6846c1b848\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9d0a324-51ff-40e1-bc64-2c6b49397fea/file/65b93479-d4c1-4770-bb9d-8a5818c95e4a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2F31%2F32%2F05313291083047d3a5f45b4b982382d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8a8c86d1-3ffc-4210-8148-f0b76e39c86d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e9d0a324-51ff-40e1-bc64-2c6b49397fea",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rx913r44c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.931, -74.787, 40.693, 40.574)",
+  "solr_year_i": 1892.0,
+  "uuid": "princeton-rx913r44c"
+}

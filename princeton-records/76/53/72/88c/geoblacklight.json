@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. United States. Geological Survey Relief shown by 20 feet contour interval. Depths shown by soundings in feet. Surveyed in 1887-89, and 1897 in cooperation with the State of New York and New Jersey. \" H. M. Wilson, Geographer in charge. Triangulation by U. S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537288c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "New York Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "New York city and vicinity.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514152\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2628677d-8e9a-4448-9602-cb6d27d86be5/file/f8a67aa2-18b9-4cf9-91fe-df482b57cb82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2628677d-8e9a-4448-9602-cb6d27d86be5/file/dd7b3ef2-712d-45b1-bcd6-5431438be9bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2F8a%2Fd5%2F218ad5a99dc942cb8bacc80b946d0ce6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01534154-fcde-4fbe-a430-b9a3d1095457/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2628677d-8e9a-4448-9602-cb6d27d86be5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537288c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -73.66666666666667, 41.0, 40.36666666666667)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-76537288c"
+}

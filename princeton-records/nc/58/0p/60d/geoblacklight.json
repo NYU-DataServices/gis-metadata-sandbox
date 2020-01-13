@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Aug. 1891.\" Includes key, streets and specials index, and text. \"4634.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580p60d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Millville,Maps",
+    "Millville (N.J.),Maps"
+  ],
+  "dc_title_s": "Millville, Cumberland Co., New Jersey (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416191\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0cc6a8cd-3d8c-4934-ae89-a78225b85e7f/file/bbd2f438-5972-44fe-afd2-27892e7d140f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0cc6a8cd-3d8c-4934-ae89-a78225b85e7f/file/39dee476-9b74-4f47-b22e-26b28ec6e341\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2F79%2Fc4%2F4c79c44a7c19426e9d9b682231420beb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48a90c1e-d8f4-45d1-a45b-f3ccfd05ba55/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0cc6a8cd-3d8c-4934-ae89-a78225b85e7f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580p60d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-nc580p60d"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, specials index, and text. \"September 1905.\" Oriented with the north to the upper left. \"8204.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/mc87ps345",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dunellen,Maps",
+    "Dunellen (N.J.),Maps"
+  ],
+  "dc_title_s": "Dunellen, Middlesex County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5520952\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31222531-6631-479d-88a8-71f236919288/file/f033ab18-0130-4bc6-bfef-6668037b6c5a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31222531-6631-479d-88a8-71f236919288/file/e5d3a5aa-9d19-4028-a313-f2df822d82b1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e0%2F9d%2Fa6%2Fe09da6e4cf6f4d47b87622459cdfaf0a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/393746d5-dc80-4433-be12-cf50be9fe5f6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-31222531-6631-479d-88a8-71f236919288",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-mc87ps345",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.478087, -74.452321, 40.599245, 40.580725)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-mc87ps345"
+}

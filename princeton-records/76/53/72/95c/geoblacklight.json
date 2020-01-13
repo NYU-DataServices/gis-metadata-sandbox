@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 10 feet contour intervals. Triangulation and topography by C.C. Vermeule. Surveyed in 1885-86. Verso: legend and explanatory notes, \"Description of the topographic map of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/76537295c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mullica Sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Mullica sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831183\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40ab40e2-f6dd-49ed-ae21-61e3ae0fb275/file/de6802fb-3d27-45bf-a1df-693c678438b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3f96d1c5-9519-42fc-9fe7-cfe8be1fb6ad/file/ce2d5fc1-dee4-4df0-912b-e1a147753610\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3f96d1c5-9519-42fc-9fe7-cfe8be1fb6ad/file/7833d08d-28fa-4ee8-bd0c-54644e706936\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2Fb4%2F49%2Fe3b449e836014d21a618778054d8e1f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/016d2833-ba9f-42e8-8bfe-e813be20e7d4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3f96d1c5-9519-42fc-9fe7-cfe8be1fb6ad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-76537295c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 39.75, 39.5)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-76537295c"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Great Britain. Ordnance Survey"
+  ],
+  "dc_description_s": "Map of County Offaly, Ireland centered on the town of Birr. Relief shown by contours, shading and spot heights. In upper margin: Ordnance Survey of Ireland. Sheet 15. \"Reduced from the one inch map of 1900-1913. Partly revised. Published at the Ordnance Survey Office, Southampton in 1917 by Colonel C.F. Close, C.B., C.M.G., R.E., Director General.\"--In margin below map. Cover title: Ordnance Survey road map of Birr. Originally issued folded in covers 18 x 10 cm. \"Diagram of sheets of the map\" on verso of cover.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88ck062",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Southampton : Ordnance Survey, 1917.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Birr (Ireland),Maps",
+    "Offaly (Ireland),Maps"
+  ],
+  "dc_title_s": "Birr [map].",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7778511\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/621d72bf-0d59-4487-9b70-0d8948be6ed8/file/f9fe759f-59c4-4ea7-9303-e4224809a3f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/621d72bf-0d59-4487-9b70-0d8948be6ed8/file/d33c55dc-b548-4c2f-8276-abb24eb711a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F80%2F67%2F368067e125144572b2b28947dfdfa08a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2bc45d3d-f5f1-4bd4-af6a-3f9308c44b1c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-621d72bf-0d59-4487-9b70-0d8948be6ed8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88ck062",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.5502, -7.2501, 53.4251, 52.9168)",
+  "solr_year_i": 1917.0,
+  "uuid": "princeton-7p88ck062"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "France. Ministe\u0300re des travaux publics"
+  ],
+  "dc_description_s": "Relief shown by shading. Inset: Tunis.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jq085m81b",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Direction ge\u0301ne\u0301rale des travaux publics, 1904.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads,Tunisia,Maps",
+    "Tunisia,Maps"
+  ],
+  "dc_title_s": "Carte routie\u0300re de la Tunisie : au 1er janvier 1904",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4627782\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ec18fbb-7828-4714-9b0b-45be3daf6c1c/file/f685d5f4-d4b0-4c4b-b6ea-a8187d13c88c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ec18fbb-7828-4714-9b0b-45be3daf6c1c/file/d03edfe8-14e9-4c01-a89c-0265b96c5ab4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Ffc%2Fec%2Fbffcecbae6a6448088fc177c1d3931c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/de5498e0-6a98-42c0-9b73-1f8ed3cea58d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Tunisia"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6ec18fbb-7828-4714-9b0b-45be3daf6c1c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jq085m81b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(7.52, 11.6, 37.76, 32.91)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-jq085m81b"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. \"802127 (R00855) 3-93.\" Also issued folded to 25 x 14 cm. Includes text, location map, comparative area diagram, graph, and coat-of-arms. Ancillary maps: Land use -- Economic activity and natural resources -- Population -- Ethnic majorities -- Sarajevo and vicinity.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cn69m584s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency], 1993.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bosnia and Hercegovina,Maps",
+    "Bosnia and Hercegovina,Economic conditions,Maps",
+    "Bosnia and Hercegovina,Population,Maps",
+    "Land use,Bosnia and Hercegovina,Maps",
+    "Ethnology,Bosnia and Hercegovina,Maps"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina : summary map",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8142192\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e28531ad-aecf-4b52-8cf2-93482ca619c0/file/89e6e5d1-2a20-4fbd-bde9-d4be5b6a7329\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/19d04e58-445b-43c9-ad4e-64b6b6e8c8a5/file/7c560de3-daeb-4c73-8b3f-39d861d6d8f8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19d04e58-445b-43c9-ad4e-64b6b6e8c8a5/file/a3b2a090-04d5-449e-8bcf-b2f9f3802719\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0c%2F1d%2Ff7%2F0c1df79328454960b8c4f72bf1fa4920%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6cd8800a-c388-4af7-931c-bba8523a973a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bosnia and Hercegovina"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-19d04e58-445b-43c9-ad4e-64b6b6e8c8a5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m584s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 20.0, 46.0, 42.0)",
+  "solr_year_i": 1993.0,
+  "uuid": "princeton-cn69m584s"
+}

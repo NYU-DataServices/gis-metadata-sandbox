@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Cuba at a scale of 1:1,000,000. The map was created by the United States Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0g354g77v",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Economic Activiy",
+    "Political and Administrational Boundaries",
+    "Airfield",
+    "Land Utilization",
+    "Sugar",
+    "Railroads",
+    "Roads",
+    "Population"
+  ],
+  "dc_title_s": "Cuba, 1969",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7a6b2ef8-c0e0-40a0-b769-ff9b0df85dc3/file/717239c8-57d2-491c-a8c6-f48980094146\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbbd5d09-29ff-4fc5-b460-24155bc53e05/file/855fe9e7-4a7d-445f-b585-f884ceae68e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbbd5d09-29ff-4fc5-b460-24155bc53e05/file/b72fa5b4-8dfe-4ef7-b9bf-7f897985ad31\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F6a%2F5c%2F6b6a5ce3091448c4941f5a5082a19794%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b1d3801-d329-4133-b171-2f784438cdca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Caribbean",
+    "Havana",
+    "Cuba",
+    "Guantanamo Bay"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-bbbd5d09-29ff-4fc5-b460-24155bc53e05",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0g354g77v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.0, -74.0, 25.0, 8.0)",
+  "solr_year_i": 1969.0,
+  "uuid": "princeton-0g354g77v"
+}

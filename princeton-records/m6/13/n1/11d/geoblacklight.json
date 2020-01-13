@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Trier in the German state of Rhineland-Palatinate. In lower margin: Woerl's Reisehandbu\u0308cher. Indexed for points of interest. Probably issued in: Fu\u0308hrer durch Trier und Umgebung / herausgegeben von Leo Woerl.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m613n111d",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wu\u0308rzburg : Kgl. Univers-Druckerei von H. Stu\u0308rtz, [1891]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rhineland-Palatinate (Germany),Maps",
+    "Trier (Germany),Maps"
+  ],
+  "dc_title_s": "Trier",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7434948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/23bad3a1-c228-4371-aa8a-747f89055be3/file/63ce67a3-8fc0-4292-ae0f-c0e6ae755cd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/23bad3a1-c228-4371-aa8a-747f89055be3/file/8c181335-ffe4-4c5d-8269-b13ea8146a34\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F64%2F2e%2F09642ed7b54b4b30ad1453ed1f3ad601%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7612f36b-4fe2-4d2c-9a20-21b5b2f62a57/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-23bad3a1-c228-4371-aa8a-747f89055be3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m613n111d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.6239524634, 6.6505814345, 49.7618166196, 49.7500021956)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-m613n111d"
+}

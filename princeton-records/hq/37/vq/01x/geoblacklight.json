@@ -1,0 +1,49 @@
+{
+  "dc_creator_sm": [
+    "United States. Geological Survey"
+  ],
+  "dc_description_s": "This is a scanned historical map of the Boston Quadrangle in Massachusetts shown at a scale of 1:62,500. This map was created by the US Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hq37vq01x",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "US Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries"
+  ],
+  "dc_title_s": "Massachusetts: Boston Quadrangle [1909 reprint]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b0cb98a6-8c71-4730-9ee8-567a1fae9288/file/e712924b-fd09-46d3-93d5-d9bd64a235be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9c3507d-31ae-4f82-a538-d6f4f46709e5/file/698ce16d-d996-4a81-bdd1-024c8fc95f2f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9c3507d-31ae-4f82-a538-d6f4f46709e5/file/9e07c02e-50ed-44b3-8d2b-c66dcb5d2b2e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2F15%2Fde%2F6c15de01c13040d282cf9e4eea480877%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/95a407e0-af5d-41a3-a8df-7400d3b6fcb6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "MC  G3761.C2.s62.U5G4 Boston (1909)",
+    "Middlesex County",
+    "Norfolk County",
+    "Boston",
+    "Suffolk County",
+    "Essex County",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f9c3507d-31ae-4f82-a538-d6f4f46709e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hq37vq01x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.25, -71.0, 42.5, 42.25)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-hq37vq01x"
+}

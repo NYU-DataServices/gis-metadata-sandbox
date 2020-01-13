@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: PA. Bedford. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1908. Surveyed in cooperation with the State of Pennsylvania.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9593tw72v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bedford Quadrangle (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Bedford Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868202\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cf113e82-62cb-492b-8e15-9f4b5a289ff2/file/d0ccdaf0-ab6e-41ca-8f47-83a3886a498f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98ed3983-c587-408e-b7f3-1e0b9bad8c35/file/b39903b2-bc5c-48a0-bd3a-704a96d4cbb5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98ed3983-c587-408e-b7f3-1e0b9bad8c35/file/8c8406c6-4943-4dc3-b1aa-59dd0a77b9b8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F61%2F9b%2F41619b4d2341430ebcf9af5bf9281d20%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c1f9570e-ef2e-4f0a-a549-de2b79cabe45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-98ed3983-c587-408e-b7f3-1e0b9bad8c35",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9593tw72v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.75, -78.5, 40.25, 40.0)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-9593tw72v"
+}

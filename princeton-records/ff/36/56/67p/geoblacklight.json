@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Aero Service Corporation"
+  ],
+  "dc_description_s": "Title supply by cataloguer.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ff365667p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Philadelphia, Pa. : Aero Service Corp., [1940]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps",
+    "Princeton (N.J.)",
+    "New Jersey,Princeton (Township)"
+  ],
+  "dc_title_s": "Aerial photograph of Princeton, New Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6810971\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/284825d9-b70e-4f39-a7b5-1138750e22e8/file/2f4947fd-bbd8-427a-8595-e14403a94ea0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1946f834-e6ba-405d-94b8-c6dbef2b7a6a/file/9ce04659-8532-4d6c-8150-120e4d1e5dd7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1946f834-e6ba-405d-94b8-c6dbef2b7a6a/file/b136bfc2-4c0f-4a35-9091-01daa806e92a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/31%2F62%2F19%2F316219af718f4ed0bbae8608a4e0ed68%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/11bea1e7-a7df-47d8-be86-a8802cc1c85a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1940"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1946f834-e6ba-405d-94b8-c6dbef2b7a6a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ff365667p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.669722, -74.622778, 40.395833, 40.343333)",
+  "solr_year_i": 1940.0,
+  "uuid": "princeton-ff365667p"
+}

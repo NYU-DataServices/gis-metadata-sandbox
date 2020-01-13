@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Troy, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1891. Triangulation by N. Y. State Survey and by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3197xn57f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Troy (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Troy sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867381\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36cfdca7-095a-46da-b934-cc4b22f48996/file/aeba48d4-38f7-4915-882d-3dfa772ecf67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9ed7c2e-1fd9-4fe9-babd-a980daa35f80/file/411d3307-30f4-40a7-aff1-51cd7aa2a84d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9ed7c2e-1fd9-4fe9-babd-a980daa35f80/file/f929f5db-0aeb-410a-b9a2-76cfb843f9b4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F8c%2F89%2F1d8c899fc65f430e8b5f367e9f89150f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6cfb350-840e-4736-8145-2cac120d355c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b9ed7c2e-1fd9-4fe9-babd-a980daa35f80",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3197xn57f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.75, -73.5, 42.75, 42.5)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-3197xn57f"
+}

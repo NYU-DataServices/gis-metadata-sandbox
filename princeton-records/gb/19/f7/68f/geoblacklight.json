@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheets 47 to 53 inclusive; issued in vol. 2 of New Jersey coast map series. Title from sheet 47. \"N.J.C.M. vol. 2.\" Includes text. North oriented toward upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f768f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1905]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ocean Grove,Maps",
+    "Real propery,New Jersey,West Ocean Grove,Maps",
+    "Ocean Grove (N.J.),Maps",
+    "West Ocean Grove (N.J.),Maps"
+  ],
+  "dc_title_s": "Ocean Grove and W. Ocean Grove (Sheet 47)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827664\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/defb70a5-2eda-4c0f-8841-5cc0fe97c348/file/f9e225df-829f-43a0-9e77-61de8c60dce1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/defb70a5-2eda-4c0f-8841-5cc0fe97c348/file/e62185a5-f234-4cdb-9ff3-780103c05a77\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F2a%2Ffa%2F6f2afa31fd5c49a597e38ac0e5416a66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f492432b-cab3-4416-9634-3d012820c467/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-defb70a5-2eda-4c0f-8841-5cc0fe97c348",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f768f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0160229, -73.9984811, 40.217172, 40.2068759)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-gb19f768f"
+}

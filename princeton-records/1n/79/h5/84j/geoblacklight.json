@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. United States. Geological Survey Relief shown by 20 feet contour interval. Depths shown by soundings in feet. Surveyed in 1887-89, and 1897 in cooperation with the State of New York and New Jersey. \" H. M. Wilson, Geographer in charge. Triangulation by U. S. Coast and Geodetic Survey.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1n79h584j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1901.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps",
+    "New York Metropolitan Area,Maps"
+  ],
+  "dc_title_s": "New York city and vicinity.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514152\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/753e9daa-0d4f-4442-948c-7a81f7d9eceb/file/3954533e-fc88-49cc-a6e0-23111f741a7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/753e9daa-0d4f-4442-948c-7a81f7d9eceb/file/9cbfb2f8-07b0-47de-a86f-d0da2726bab8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f7%2Fc2%2F2f%2Ff7c22f07d0a145499af050b61a564353%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29eb435a-320e-4af4-b837-9ae75f3af1a1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-753e9daa-0d4f-4442-948c-7a81f7d9eceb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1n79h584j",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.25, -73.66666666666667, 41.0, 40.36666666666667)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-1n79h584j"
+}

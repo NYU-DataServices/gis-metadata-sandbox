@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes location map, key, key map, streets and specials index, and text. \"April 1919.\" \"2637.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/xp68kj312",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1919.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dunellen,Maps",
+    "Real property,New Jersey,New Market,Maps",
+    "Dunellen (N.J.),Maps",
+    "New Market (N.J.),Maps"
+  ],
+  "dc_title_s": "Dunellen, Middlesex County, New Jersey : including New Market (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5520979\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9320c39c-2304-43ce-9a10-a39cd8d5f98a/file/86b1c1da-0d47-4a3f-b91a-c44ddf0dc8b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9320c39c-2304-43ce-9a10-a39cd8d5f98a/file/fe14af2d-1175-49ed-afb7-44a8666e2e58\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2F55%2F65%2F925565472f8547d3b33754f3edd42c0b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/743ee58a-ff8b-4b59-96f0-b88fcbf3a78f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1919"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9320c39c-2304-43ce-9a10-a39cd8d5f98a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-xp68kj312",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.478087, -74.452321, 40.599245, 40.580725)",
+  "solr_year_i": 1919.0,
+  "uuid": "princeton-xp68kj312"
+}

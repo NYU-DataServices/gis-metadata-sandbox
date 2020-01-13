@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Hooker, William"
+  ],
+  "dc_description_s": "Shows ward boundaries, streets, wharves, ferry routes, etc. Covers Manhattan below 31st St. \"Additions to 1827.\" \"Entered according to Act of Congress, the 27th day of March 1824, by Wm. Hooker, of the state of N. York.\" Colored in outline. Includes index to places of public worship and other points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q524jr201",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New-York : W. Hooker, 1826 [i.e. 1827]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps"
+  ],
+  "dc_title_s": "Hooker's new pocket plan of the city of New York",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82a885a0-03a3-44fd-aa36-591bcd243dc8/file/1e71eafe-d3b8-4d7b-9ece-8d9cfe9c7c65\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82a885a0-03a3-44fd-aa36-591bcd243dc8/file/ea8e631a-59cc-44ee-a861-1fc4f7df601f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e9%2Feb%2F60%2Fe9eb60d3087846e9a86af92fcfcb530a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19150bfe-77a3-4a19-a804-b9a16ff76523/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1826"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-82a885a0-03a3-44fd-aa36-591bcd243dc8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q524jr201",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019349, -73.965286, 40.745902, 40.69868)",
+  "solr_year_i": 1826.0,
+  "uuid": "princeton-q524jr201"
+}

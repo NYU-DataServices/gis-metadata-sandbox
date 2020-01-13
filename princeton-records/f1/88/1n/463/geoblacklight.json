@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Hodonin in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f1881n463",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Hodonin.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3584bfa9-93ec-4bb7-bbdc-56ec7b5a56a8/file/2b35b40c-e3f2-49b8-9f96-186c467d2ba4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50fa9542-6398-45f6-9432-5cb50a144650/file/ce84f04f-e9b3-4260-8175-8139e28bdc42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50fa9542-6398-45f6-9432-5cb50a144650/file/6051164c-4998-42f1-b4a1-e69c5ca00c88\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2Fb5%2Fe8%2F5bb5e85acb864371bc31cd7de9bd9dbe%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b694b80c-c958-4d55-aab6-f3402b307fcb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "G6031.C2.s100.A7M3",
+    "Hodonin",
+    "Central Europe",
+    "Czechoslovakia"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-50fa9542-6398-45f6-9432-5cb50a144650",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f1881n463",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(16.3333, 17.3333, 49.25, 48.75)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-f1881n463"
+}

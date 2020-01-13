@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Brunshaupten in the German state of Mecklenburg-Vorpommern. Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096944v",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Rostock : Hof-Stdr. v. Tiedemann Nachf., [1907?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Brunshaupten (Germany),Maps",
+    "Mecklenburg-Vorpommern (Germany),Maps"
+  ],
+  "dc_title_s": "Plan von dem Ostseebad Brunshaupten mit Angabe der Strassen, Ho\u0302tels u. Pensionen, Villen u. Logierha\u0308user",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7590198\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c560aea-f93c-417b-8770-a7c358f65d59/file/f584ecb7-507d-40d4-abec-5c56c8547b45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c560aea-f93c-417b-8770-a7c358f65d59/file/8afde8a2-857c-4357-a3d1-63cbf3cded11\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2F2d%2F9a%2Fc62d9a36613e4c7ebe3c5f256fba984a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ed85db7b-0068-42ec-bcf8-a6022d79cb4d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3c560aea-f93c-417b-8770-a7c358f65d59",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096944v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(11.735485, 11.769688, 54.155304, 54.130668)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-0p096944v"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Falmouth. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1886. Surveyed in cooperation with the state of Massachusetts. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c8874",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1893.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Falmouth (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Falmouth sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837228\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/362adf23-bdb3-4243-9816-63c3731522ab/file/8aea93fd-0619-45d3-b7fb-480e5ffc06cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f27f1627-80df-4309-9db9-9057f84c2e69/file/8e01afa7-b9ac-4356-8e1f-b676c814682e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f27f1627-80df-4309-9db9-9057f84c2e69/file/c8e3610d-c511-41c5-b0d1-9ecb2a2dced6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F34%2Feb%2F0834eb68ccce4bb0bf54d9296509a733%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3c956f76-d867-497c-b97b-ed1da1ab48f0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f27f1627-80df-4309-9db9-9057f84c2e69",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c8874",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.75, -70.5, 41.75, 41.5)",
+  "solr_year_i": 1893.0,
+  "uuid": "princeton-x059c8874"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Depew. Relief shown by 20 feet contour interval. Surveyed in 1903-1904. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rn301302k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Depew (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: (Erie County) Depew Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867739\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc0412a2-ef12-4e9a-84e8-20ed6006bf13/file/2c5f753f-0a72-49b2-be47-16ab04200d30\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60b4e606-b145-4bcf-8f29-6805b0044ce8/file/bdfd638c-f148-4349-9a4a-f4534f0f11fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60b4e606-b145-4bcf-8f29-6805b0044ce8/file/97954a09-e8eb-4d24-bf45-7dc5a17288aa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/39%2Fbf%2F17%2F39bf1720415e4a5b8c1907957c421bc9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73268a03-8290-4462-99f4-8145bfa2d8ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-60b4e606-b145-4bcf-8f29-6805b0044ce8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rn301302k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.75, -78.5, 43.0, 42.75)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-rn301302k"
+}

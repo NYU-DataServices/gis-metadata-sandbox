@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Triangulation by the Borden Survey. Surveyed in 1887. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8g84mn68d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1889.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Barre Sheet (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Barre sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837199\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d047a766-b58b-4cf2-8c15-9d7e0c09c646/file/e7ca947a-5ad5-4ed6-bb2b-363bfe2365a3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c846948-75e2-4acf-86c7-3dd3d42e20bf/file/a857c1a9-9ae2-456e-a9a4-3713109ed5c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c846948-75e2-4acf-86c7-3dd3d42e20bf/file/10802931-73d4-49ba-a90d-2ff5dd77be6c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Fba%2Fa6%2F8dbaa60cd84e443aae7352479090c1c6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d150eb5d-c13a-4e56-b2f5-37a486cbdacc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c846948-75e2-4acf-86c7-3dd3d42e20bf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8g84mn68d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.25, -72.0, 42.5, 42.25)",
+  "solr_year_i": 1889.0,
+  "uuid": "princeton-8g84mn68d"
+}

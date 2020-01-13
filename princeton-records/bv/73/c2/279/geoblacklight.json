@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree 90.000000. South Decimal Degree 0.000000. East Decimal Degree 180.000000. West Decimal Degree -180.000000. Polar stereogaphic projection. \"Pending postwar settlemets, political boundaries shown are as of 1935. Map is: No. GH-8a . Base no. 1R1. Sources: Britannica Atlas and Goode's School Atlas, Rand McNally.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c2279",
+  "dc_language_s": "English",
+  "dc_publisher_s": "St. Louis, Mo : Aeronautical Chart and Information Center, January 1947.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Economic geography",
+    "Northern Hemisphere,Maps"
+  ],
+  "dc_title_s": "Economic chart : Northern Hemisphere. Seires GH-8a",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867229\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/712064a9-9aa1-47b8-bcc9-b7c4171b4655/file/fb269a53-2f9c-4848-b11e-fd954d5b2357\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/712064a9-9aa1-47b8-bcc9-b7c4171b4655/file/8b49b685-026e-4a93-ae2e-4101ba2f2cc8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/80%2F45%2Fc0%2F8045c075a9334d53ac64ed9938447ec6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd59bf36-1226-497b-9ceb-b95d04cf8c2a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-712064a9-9aa1-47b8-bcc9-b7c4171b4655",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c2279",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 0.0)",
+  "solr_year_i": 1947.0,
+  "uuid": "princeton-bv73c2279"
+}

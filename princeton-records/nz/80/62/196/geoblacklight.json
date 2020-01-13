@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "General street map showing selected letter-keyed buildings in built-up area and field lines with generalized land use in rural areas. Relief shown by hachures. Also shows \"Road to Kings Bridge where the Rebels mean to make a stand\" and \"Road to Kepps Bay where the Kings troops landed.\" Also covers rural part of Manhattan Island up to present-day 14th Street and small parts of Long Island. Removed from: The Universal Magazine of Knowledge and Pleasure, London, Nov. 1776, v. 59. Watermark: Oval cartouche surmounted by crown with capital letter W at right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nz8062196",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : s.n., 1776]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New York (N.Y.),Maps,Early works to 1800",
+    "Land use, Rural,New York (State),New York,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A Plan of the city and environs of New York in North America",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7867142\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c6c394a-25ab-4c18-9b76-165d802c0476/file/9208bb33-cee1-4e1c-ab7f-75aab63b9f07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c6c394a-25ab-4c18-9b76-165d802c0476/file/51c6c286-40ef-4948-94f6-4d88a3f34b2c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2Fc3%2Fe8%2F17c3e82c34384c9b9f6f19eded215b6c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4930f444-4737-4b79-9029-85893842407c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1c6c394a-25ab-4c18-9b76-165d802c0476",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nz8062196",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.021367, -73.963517, 40.733565, 40.69362)",
+  "solr_year_i": 1776.0,
+  "uuid": "princeton-nz8062196"
+}

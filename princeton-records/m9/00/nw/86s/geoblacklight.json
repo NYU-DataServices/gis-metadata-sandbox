@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Buache, Jean-Nicolas, 1741-1825"
+  ],
+  "dc_description_s": "Relief shown by hachures. Taken from atlas accompanying the French translation of The life of Washington by John Marshall; maps by Jean-Nicolas Buache. cf. Tooley's dictionary of mapmakers, vol. 1.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/m900nw86s",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : Dentu, 1807]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Arnold, Benedict, 1741-1801,Military leadership,Maps",
+    "United States,History,Revolution, 1775-1783,Maps",
+    "New England,History,Revolution, 1775-1883,Maps",
+    "Canada,History,1775-1783,Maps"
+  ],
+  "dc_title_s": "The\u0301a\u0302tre des ope\u0301rations de l'arme\u0301e du nord, et de\u0301sert que le Ge\u0301ne\u0301ral Arnold traversa en marchant contre Que\u0301bec",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6364435\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9cd48ea-7ffb-4070-aa25-308baceb8649/file/0c35da69-5d5d-4443-945f-e5f470e61c5b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9cd48ea-7ffb-4070-aa25-308baceb8649/file/50fe4a84-6902-403d-af64-b5f39fcf6626\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2Ff5%2F75%2Fbff575d4c02448b2a2a2a4d6e4ea6a57%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f774004-0672-48d5-b6c0-3d359cfc1210/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "United States",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "1807"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9cd48ea-7ffb-4070-aa25-308baceb8649",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-m900nw86s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.38, -69.5, 47.0, 42.53)",
+  "solr_year_i": 1807.0,
+  "uuid": "princeton-m900nw86s"
+}

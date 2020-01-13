@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Toyohashi, Honshu, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour intervals and spot elevations. Depth shown by fathoms. In upper left margin \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq17h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1946.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Toyohashi, Aichi Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450028\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ad8bb4d3-2c82-4d3e-a2db-618824887947/file/d74aafa1-5fc4-423e-84f4-dbac43f3286c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15308180-9dab-4900-b61c-db1c8c2c73c3/file/64a1dc43-6bd6-476c-a4d9-cb8240546d51\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15308180-9dab-4900-b61c-db1c8c2c73c3/file/99022c5c-9378-4f71-aac9-7cb39120771d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2F18%2Fdb%2F9718db7bd4a947acbe58e1ec51eede5c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/20b57f8d-7faa-4036-ad0b-d0421a2d7ca9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1946"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-15308180-9dab-4900-b61c-db1c8c2c73c3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq17h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(137.43333333333334, 137.48333333333332, 34.78333333333333, 34.68333333333333)",
+  "solr_year_i": 1946.0,
+  "uuid": "princeton-vq27zq17h"
+}

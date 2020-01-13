@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 51 and 55-68 of Palisades, N.J. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gh93h111w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Fort Lee,Maps",
+    "Real property,New Jersey,Leonia,Maps",
+    "Fort Lee (N.J.),Maps",
+    "Leonia (N.J.),Maps"
+  ],
+  "dc_title_s": "Fort Lee, Leonia and Palisades Park, Bergen County, New Jersey (Sheet 66)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5255804\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36c10f11-3ce7-4f0e-933a-7af28357e132/file/b97e3e03-a278-4e1a-a613-81b5d4205d30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36c10f11-3ce7-4f0e-933a-7af28357e132/file/84eb1a7c-86ca-4f57-99b5-bb87d1f9a129\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/64%2Fa7%2Fa2%2F64a7a2b467974bb8b73fa5976afc75e5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f98edda2-8395-4741-b342-546d39a3073c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-36c10f11-3ce7-4f0e-933a-7af28357e132",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gh93h111w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.011, -73.953, 40.877, 40.828)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-gh93h111w"
+}

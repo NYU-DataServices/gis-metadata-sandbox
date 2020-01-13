@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Wm. M. Bradley & Co."
+  ],
+  "dc_description_s": "Shows county and township boundaries, Indian reservations, military reservations, inhabited places, railroads, drainage, etc. Relief shown by hachures. Prime meridians: Greenwich, Washington, D.C. \"92\" in upper right margin. Probably issued in: Atlas of the western hemisphere for commercial and library reference ... Philadelphia : [W.M. Bradley?], 1887.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/v692t8656",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Philadelphia, Pa.] : Wm. M. Bradley & Bro., c1887.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Arizona,Maps",
+    "New Mexico,Maps"
+  ],
+  "dc_title_s": "County and township map of Arizona and New Mexico",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6814186\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/093bac70-348e-4d6c-b05e-ab48b8f8edaa/file/b32910f8-4d7b-4bd2-8914-e6d054bcb332\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/093bac70-348e-4d6c-b05e-ab48b8f8edaa/file/6f426689-d075-4153-ba67-e60a77e959f3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1a%2Fda%2Fc2%2F1adac2714b9e4871a59eff98f53e0df9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9d1f6b4-d460-4fec-8e2e-4b7b3a8a40b6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Arizona",
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-093bac70-348e-4d6c-b05e-ab48b8f8edaa",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-v692t8656",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-115.01, -102.75, 37.25, 30.92)",
+  "solr_year_i": 1887.0,
+  "uuid": "princeton-v692t8656"
+}

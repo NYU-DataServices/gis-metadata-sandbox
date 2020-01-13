@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Atlantic City. Relief shown by 10 feet countour interval. Triangulation by U.S. Coast and Geodetic Survey. Verso: legend and explanatory notes, \"The topographic maps of the United States\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dv13zv83n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1894.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Atlantic City sheet (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey: Atlantic City sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831127\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3f02ab5-def7-4d0f-9861-338b8838884f/file/1ed9b460-729d-4be8-a4a1-9b51524e8a35\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cafc4377-5591-4efb-8ed4-b7999655b1f6/file/eadbab42-2bd1-4075-bc92-3b75fbd4e801\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cafc4377-5591-4efb-8ed4-b7999655b1f6/file/6c9a7319-a111-4b05-817a-fa7a816a9075\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F08%2F1f%2F93081f665c0c4cacb0dbd3e19254961e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8aeb91d0-278b-4582-97f7-c4fb798054f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cafc4377-5591-4efb-8ed4-b7999655b1f6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dv13zv83n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.5, -74.25, 39.5, 39.25)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-dv13zv83n"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Gibson, Hugh, 1883-1954"
+  ],
+  "dc_description_s": "Map on lining-papers. \"First edition.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sq87bw314",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York, Doubleday, Doran & company, inc., 1939.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Belgium",
+    "Belgium,Description and travel"
+  ],
+  "dc_title_s": "Belgium (AMS M603)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/2706398\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/807acc56-a316-4ec0-9494-4d09633d05b1/file/3f9d7918-c2c6-4b70-99fd-d41df948531c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/807acc56-a316-4ec0-9494-4d09633d05b1/file/6d5ed9df-7781-49fc-9e2f-d66112b4d7dd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/49%2F08%2F60%2F490860695817412bb28a450b09efe7db%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f01ffc09-c1fa-45c9-ba58-a0a9a27cc721/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "1939"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-807acc56-a316-4ec0-9494-4d09633d05b1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sq87bw314",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.0, 4.0, 51.5, 51.0)",
+  "solr_year_i": 1939.0,
+  "uuid": "princeton-sq87bw314"
+}

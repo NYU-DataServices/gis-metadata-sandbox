@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "National Geographic Society, Cartographic Division North Decimal Degree 12.466700 South Decimal Degree -56.0167 East Decimal Degree -34.8167 West Decimal Degree -81.3333 Chamberlin trimetric projection. Relief shown by shading and spot heights. Depths shown by contours, gradient tints, and soundings. Includes listings of geographical equivalents and abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7h149r69k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : National Geographic Society, 1994.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ocean currents",
+    "Physical maps",
+    "South America,Maps"
+  ],
+  "dc_title_s": "South America.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6457173\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/483b55d5-0a3b-4812-9a06-9e8771946548/file/6163a834-2a99-4d6a-86fa-0d8ac8c945a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/483b55d5-0a3b-4812-9a06-9e8771946548/file/9afe1e57-a987-451e-8078-0fef723cb043\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ef%2F19%2Fc3%2Fef19c354ec9240a8b243f41c412ee7a9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/855ca878-74b7-40c0-b6ac-093d852134cc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-483b55d5-0a3b-4812-9a06-9e8771946548",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7h149r69k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-81.3333, -34.8167, 12.4667, -56.0167)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-7h149r69k"
+}

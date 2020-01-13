@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1923.\" Includes location map, key, and text. \"1103.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7d278v73h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1923.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Wrightstown,Maps",
+    "Wrightstown (N.J.),Maps"
+  ],
+  "dc_title_s": "Wrightstown, Burlington County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5159136\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f21d518-b007-4f57-8248-205bc93c6173/file/f8b900f7-8814-4521-b418-ef9a2cddd328\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f21d518-b007-4f57-8248-205bc93c6173/file/2ef3040f-30c9-4c1c-a0d4-957ee4c09071\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2F62%2F38%2Fc1623885476e4cb08446f82a12df8132%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53a26fa7-d249-48fd-b3a9-d180f6b27bb8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5f21d518-b007-4f57-8248-205bc93c6173",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7d278v73h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.66, -74.601, 40.041, 40.006)",
+  "solr_year_i": 1923.0,
+  "uuid": "princeton-7d278v73h"
+}

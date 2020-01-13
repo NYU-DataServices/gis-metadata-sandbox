@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Woerl, Leo, 1843-1918"
+  ],
+  "dc_description_s": "Map of Nuremburg in the German state of Bavaria. In lower left-hand margin: Woerl's Reisehandbu\u0308cher. Street index on verso. Shows \"Rundgang nach dem Fu\u0308hrer.\" From: Fu\u0308hrer durch Nu\u0308rnberg und Umgebung : mit einem Stadtplan. Wu\u0308rzburg : Herausgegeben von Leo Woerl, [1894]",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/hm50tv25d",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wu\u0308rzburg : Kgl. Univers. Druckerei v. H. Stu\u0308rtz, [1894]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bavaria (Germany),Maps",
+    "Nuremberg (Germany),Maps"
+  ],
+  "dc_title_s": "Nu\u00a8rnberg [verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7620944\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6fe460f-666f-4ea8-96a0-fc231040ba91/file/f2fbab08-261a-4613-8098-039699a16809\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6fe460f-666f-4ea8-96a0-fc231040ba91/file/cb90b4a1-d4fe-4e6c-95f0-dd011f68781f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/90%2Ff9%2F98%2F90f998da91964e9ea4d45023f634d916%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f07f71d0-468a-4e3e-ab5c-3c9fe3312d6a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1894"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c6fe460f-666f-4ea8-96a0-fc231040ba91",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-hm50tv25d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.9763497, 13.8396373, 50.5647142, 47.2701114)",
+  "solr_year_i": 1894.0,
+  "uuid": "princeton-hm50tv25d"
+}

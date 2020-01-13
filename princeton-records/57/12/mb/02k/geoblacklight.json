@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_description_s": "Shapefile representing historical boundaries of provinces in Nigeria for 1934. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "ark:/88435/5712mb02k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Nigeria conflated historical administrative boundaries, 1934",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ccd2499-c8c9-4680-8ae4-6494f7dea56e/file/be07b37e-68b9-4daf-8910-9506b6a6b35b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1525bc8f-790d-467a-b436-14d860388292/file/66484866-b484-450e-b6d8-175ece3dfb90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1525bc8f-790d-467a-b436-14d860388292/file/11dcadcf-27ed-40a0-80bc-92fa6dbad19c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Nigeria",
+    "Cameroon",
+    "Cameroons",
+    "British Cameroons"
+  ],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "public-figgy:p-1525bc8f-790d-467a-b436-14d860388292",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5712mb02k",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(2.561274, 14.724671, 13.904533, 3.895491)",
+  "solr_year_i": 1934.0,
+  "uuid": "princeton-5712mb02k"
+}

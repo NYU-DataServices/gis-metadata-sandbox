@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Randel, John"
+  ],
+  "dc_description_s": "Detached from: Manual of the corporation of the city of New York, 1864. Oriented with north to the upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/jh343v72d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York, N.Y. : Common Council, 1864]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps",
+    "Paine, Thomas, 1737-1809,Homes and haunts,New York (State),New York,Maps"
+  ],
+  "dc_title_s": "Maps shewing the residence of Thomas Paine before, and at his death, 8th June 1809, at Greenwich in the City of New York : and also the house where he lived and the site of the building in which he died",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206236\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bfed1f9-3ebb-443d-9a12-dfc104c96851/file/f9b1d664-f45c-4478-8e6c-71f1b8d90d9e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bfed1f9-3ebb-443d-9a12-dfc104c96851/file/0e54b837-dc8f-4a3e-8332-5b93bf46143f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F6f%2Fd9%2F206fd9bafcd84880bfa1958876107f99%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1053acd1-7a36-43dc-b946-eb64d9586fa4/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2bfed1f9-3ebb-443d-9a12-dfc104c96851",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-jh343v72d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0044601409, -74.0016465036, 40.7337859759, 40.731726063)",
+  "solr_year_i": 1864.0,
+  "uuid": "princeton-jh343v72d"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Mercator, Rumold, approximately 1545-1599"
+  ],
+  "dc_description_s": "Relief shown pictorially. French text on verso. From: ... Strabonis rerum geographicarum libri XVII / Isaacus Casaubonus recensuit ... [Genevae] : Excudebat Eustathius Vignon ... , 1587.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8k71nm81c",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Geneva : Rumold Mercator], Ao. M.D.LXXXVII [1587]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "World maps,Early works to 1800",
+    "Early maps"
+  ],
+  "dc_title_s": "Orbis terrae compendiosa descriptio [map]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4457663\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29e4d3ff-5498-4252-b285-4bf2c08786ac/file/72515768-33ef-4832-b09f-927af1f64b9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29e4d3ff-5498-4252-b285-4bf2c08786ac/file/bc9e5fc0-1a0d-413b-bdd4-75f281239a5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2Fed%2Fad%2Ff9edad3e87d3427f810ad28ee5657131%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d862a8a1-6e47-463e-abe7-ab03f22acc4e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1587"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-29e4d3ff-5498-4252-b285-4bf2c08786ac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8k71nm81c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "solr_year_i": 1587.0,
+  "uuid": "princeton-8k71nm81c"
+}

@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bosnia and Herzogovina with relief. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/zp38wf22k",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads",
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation"
+  ],
+  "dc_title_s": "Bosnia and Herzegovina, 1994 (with relief)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af96c645-3cf9-4727-bbd5-8c9e2f75b341/file/963b366d-7bc1-4094-a56d-7f1935d06282\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f0598f8-3080-44e6-9fa5-ec526288e7ba/file/a15bca17-aca0-479d-96cc-3d18fae3efe1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f0598f8-3080-44e6-9fa5-ec526288e7ba/file/d5b3c866-01e5-40ff-ad1d-9497af220b15\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2Ffb%2F01%2F75fb01b534094ce6a60136048807f220%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3bf3a7a2-3bf1-4425-a4f9-64456ee7a273/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Herzegovina",
+    "Europe",
+    "Balkans",
+    "Bosnia"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9f0598f8-3080-44e6-9fa5-ec526288e7ba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-zp38wf22k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(15.0, 20.0, 45.0, 42.0)",
+  "solr_year_i": 1994.0,
+  "uuid": "princeton-zp38wf22k"
+}

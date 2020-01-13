@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1902.\" Includes key, streets and specials index, and text. \"No. 5521.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ft848s320",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Flemington,Maps",
+    "Flemington (N.J.),Maps"
+  ],
+  "dc_title_s": "Flemington, Hunterdon Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4781046\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64a1c60d-0005-4c4b-b5a7-b4cdff81c295/file/20fe2520-78e3-4258-9918-6bae60c9ea8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64a1c60d-0005-4c4b-b5a7-b4cdff81c295/file/3af3371e-bc19-4482-8728-31ad77ab7075\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F41%2F7c%2Ff4417c939da5475cac8988c2dc105d6e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2d5f4be9-2625-4b96-a0d0-476c13b3595a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-64a1c60d-0005-4c4b-b5a7-b4cdff81c295",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ft848s320",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.869, -74.851, 40.519, 40.498)",
+  "solr_year_i": 1902.0,
+  "uuid": "princeton-ft848s320"
+}

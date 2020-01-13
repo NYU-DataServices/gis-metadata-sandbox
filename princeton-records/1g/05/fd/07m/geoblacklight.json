@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. United States. Geological Survey. Relief shown by 250 feet contour intervals and spot elevations. Reduced from the eleven atlas sheets covering this area. Surveyed in 1893-1904.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1g05fd07m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "CA, south,Maps"
+  ],
+  "dc_title_s": "Southern California; sheet no. 3",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831165\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/32987e2b-1136-4045-ad2e-7dd6fdbf8571/file/4797913e-cd77-466e-bf54-4076585a7a26\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/12b0bded-caf3-4eb1-8600-128daa36126b/file/03422e17-01b7-4b96-9b5d-5fcb619e0751\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/12b0bded-caf3-4eb1-8600-128daa36126b/file/c2c78e99-b818-4f1b-8a0b-c4216aa1ef92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/75%2Fd3%2F8f%2F75d38f37ab694f6a90b9138e37f9b52c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/da0e4d95-d5c2-4b15-80c1-1bd0e04dd09f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-12b0bded-caf3-4eb1-8600-128daa36126b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1g05fd07m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-120.75, -118.5, 35.0, 33.88333333333333)",
+  "solr_year_i": 1910.0,
+  "uuid": "princeton-1g05fd07m"
+}

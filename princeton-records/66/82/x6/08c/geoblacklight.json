@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1909.\" Includes key, key sheet, streets and specials index, and text. \"1609.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6682x608c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Morristown,Maps",
+    "Real property,New Jersey,Whippany,Maps",
+    "Real property,New Jersey,Morris Plains,Maps",
+    "Real property,New Jersey,Tabor,Maps",
+    "Morristown (N.J.),Maps",
+    "Whippany (N.J.),Maps",
+    "Morris Plains (N.J.),Maps",
+    "Tabor (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Morristown, Morris County, New Jersey : including Morristown suburbs, Whippany, Morris Plains and Mt. Tabor (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5563753\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c2e8c62-428d-4a7a-ba0e-68bfb8a4cc8f/file/57ec7584-05f0-448f-81cb-1a1541dc7ce7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c2e8c62-428d-4a7a-ba0e-68bfb8a4cc8f/file/7c2e31c5-dde0-43f8-8881-d229ef56ce74\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9e%2F08%2Fa3%2F9e08a3bb9d7e43b1b5f72d8ecc0454f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e83e80a0-470a-44cc-94bd-e84978d03c39/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3c2e8c62-428d-4a7a-ba0e-68bfb8a4cc8f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6682x608c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-6682x608c"
+}

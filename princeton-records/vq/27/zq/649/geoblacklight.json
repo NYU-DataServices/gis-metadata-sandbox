@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1895.\" Includes key, key map, streets and specials index, and text. \"132.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vq27zq649",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1895, c1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Somerville,Maps",
+    "Somerville (N.J.),Maps"
+  ],
+  "dc_title_s": "Somerville, Somerset Co., N. J. (Sheet 6)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5605409\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/026c283b-0971-4c2d-a0d6-1deb33db8724/file/5fe544a9-36f7-4197-b414-8de68b1a5ab6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/026c283b-0971-4c2d-a0d6-1deb33db8724/file/c66f9588-116d-4b66-ba42-e54428f74a66\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/53%2Fc8%2Fd9%2F53c8d9e1d72341969ae3c64f3cd67065%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b74c1ee9-a32d-4ee2-bf70-2b75dc5c5667/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-026c283b-0971-4c2d-a0d6-1deb33db8724",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vq27zq649",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-vq27zq649"
+}

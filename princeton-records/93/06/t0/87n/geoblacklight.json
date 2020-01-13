@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4380 In upper left margin: Italy. North Italy grid. Convergence: grid north is 2-degree 4' W of True North on this sheet. Relief shown by spot heights and rock drawings.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9306t087n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Trento (Italy),Maps"
+  ],
+  "dc_title_s": "Town plan of Trento. G.S.G.S. 4380",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449681\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84d81c02-282c-488f-a537-a023a8e888a7/file/6b39945e-07dc-482a-9f97-e1aa13e06401\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1cabd736-d6bd-4d1d-8205-fec6f333042c/file/78f77475-2619-4940-a8f8-dbed688a6d13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1cabd736-d6bd-4d1d-8205-fec6f333042c/file/0502641d-345a-4c13-8c46-6db3a5821a19\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dd%2F61%2F3f%2Fdd613f29f3e74c399bd53abaa7bdfd5f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ac9c34b0-e4de-454a-b260-c083d8dd0783/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1cabd736-d6bd-4d1d-8205-fec6f333042c",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9306t087n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.133333333333333, 12.2, 46.1, 46.03333333333333)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-9306t087n"
+}

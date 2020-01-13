@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Willsboro, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1893. Triangulation by U.S. Coast and Geodetic Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qj72p8956",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York-Vermont: Willsboro Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868434\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e97de8dd-fa56-41ff-8890-9cd1f68d430d/file/25d7c728-e5b7-411f-a411-c16c9fa80e0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e97de8dd-fa56-41ff-8890-9cd1f68d430d/file/e3860743-ba9b-4eff-aaa8-f6e7293d6f12\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F8d%2F04%2Fc08d049a8747419e95a48cc4c35e2bc0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94aa3319-bfad-4479-9249-485d33bbb2d6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e97de8dd-fa56-41ff-8890-9cd1f68d430d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qj72p8956",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.5, -73.25, 44.5, 44.25)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-qj72p8956"
+}

@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "North Decimal Degree 48.7409 South Decimal Degree 48.3814 East Decimal Degree -0.7099 West Decimal Degree -1.5792",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/q237ht764",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique de la France a1/80,000; Avranches",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d4be5b9-c3ef-4b85-9364-3c475548f348/file/a1351d9f-55a4-4132-9d9d-c995bdb5d202\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d4be5b9-c3ef-4b85-9364-3c475548f348/file/7aa741b4-10ff-4eb2-8474-5f437ec62a9e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F3c%2Fb9%2F793cb90b468c44a5bb7bed8d00f8cc69%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fa07fbf7-f337-43ae-8496-cc9f115ce4a0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d4be5b9-c3ef-4b85-9364-3c475548f348",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-q237ht764",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.5792, -0.7099, 48.7409, 48.3814)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-q237ht764"
+}

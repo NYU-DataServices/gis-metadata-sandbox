@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Nov. 1922.\" Includes location map, key, key map, streets and specials index, and text. \"5582.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/n583xx158",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Lakewood,Maps",
+    "Lakewood (N.J.),Maps"
+  ],
+  "dc_title_s": "Lakewood, Ocean County, New Jersey (Sheet 7)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5573558\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3644fb0-a6be-4302-87eb-fc2943c55a9f/file/6315410c-78dd-49ff-8664-3f6641b60a47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3644fb0-a6be-4302-87eb-fc2943c55a9f/file/28eab0cb-5756-4ae3-abe3-e9180f884f67\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e3%2F81%2Fed%2Fe381ed147db049faa75dd5047c8b48e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b2e70fca-ea35-4d6a-b776-84fafbfb5ebd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f3644fb0-a6be-4302-87eb-fc2943c55a9f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-n583xx158",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
+  "solr_year_i": 1922.0,
+  "uuid": "princeton-n583xx158"
+}

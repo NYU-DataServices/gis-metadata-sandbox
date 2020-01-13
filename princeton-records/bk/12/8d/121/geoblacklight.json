@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Including Basking Ridge.\" \"July 1909.\" Includes key, key map, streets and specials index, and text. \"1603.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bk128d121",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bernardsville,Maps",
+    "Real property,New Jersey,Basking Ridge,Maps",
+    "Bernardsville (N.J.),Maps",
+    "Basking Ridge (N.J.),Maps"
+  ],
+  "dc_title_s": "Bernardsville, Somerset County, New Jersey (Sheet 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5597948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/210f585c-e68c-4915-ab7c-359370ee52de/file/fb8f0c40-9b7b-4a48-a981-d5022f21a562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/210f585c-e68c-4915-ab7c-359370ee52de/file/77385bf1-6184-43cb-b4f7-a345acd0658e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2F23%2Ffb%2Fb023fb0190f041fa9d71428fc3ed87df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bec96e2f-f513-410e-8e2f-3d4336f7a41b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-210f585c-e68c-4915-ab7c-359370ee52de",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bk128d121",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-bk128d121"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, key map and text. \"9482.\" Historic Maps copy has sheets 1-22 and 33-34 of series, showing Harrison; sheets showing East Newark and Kearny foldered separately.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gm84m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Harrison,Maps",
+    "Harrison (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Harrison, East Newark and Kearny, Hudson County, New Jersey (Sheet 9)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5498102\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2b34d63-31be-49a1-addc-46a39cf72014/file/581380c3-a41d-4459-bc07-1c3f204ee331\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2b34d63-31be-49a1-addc-46a39cf72014/file/2c75981f-b560-41db-a886-c2e67bff0c3d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2Ff7%2F37%2Ff5f737b38a4e4ea69aaf00c6514b777b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e09d4adb-c02d-4ac8-85b1-87d087fc50c8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b2b34d63-31be-49a1-addc-46a39cf72014",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gm84m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
+  "solr_year_i": 1907.0,
+  "uuid": "princeton-c821gm84m"
+}

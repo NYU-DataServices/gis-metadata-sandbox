@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Ortelius, Abraham, 1527-1598"
+  ],
+  "dc_description_s": "From: Theatrum orbis terrarum. Antverpiae : Ex officina Plantiniana, Apud I. Moretum, 1601. Latin text on verso. Map shows Americas, Pacific Ocean and Australia. Relief shown pictorially. Reference: Atlantes Neerlandici / Ir. C. Koeman. Amsterdam : Theatrum Orbis Terrarum Ltd, 1969. vol. III. Ort. 22. Signature: 5.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj139379z",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Antverpiae : Ex officina Plantiniana, Apud I. Moretum, 1601]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "North America,Maps",
+    "Pacific Ocean,Maps",
+    "South America,Maps"
+  ],
+  "dc_title_s": "Americae sive novi orbis, nova descriptio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4735135\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06811cd9-211a-484f-81fb-5efce98ba015/file/0e13cf8f-9a5a-4a11-b47d-986ce06108db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06811cd9-211a-484f-81fb-5efce98ba015/file/d65d8bd6-86c2-4f10-916a-6b53fb3fcc50\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/36%2F01%2Fd3%2F3601d31e9c884d35a9cbc1b180972903%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/864cf5fe-be83-46e0-9219-99532cb81666/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "North America",
+    "South America",
+    "Pacific Ocean",
+    "Australasia"
+  ],
+  "dct_temporal_sm": [
+    "1601"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-06811cd9-211a-484f-81fb-5efce98ba015",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj139379z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-170.01, -20.0, 70.0, -70.01)",
+  "solr_year_i": 1601.0,
+  "uuid": "princeton-sj139379z"
+}

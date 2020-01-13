@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Burr, David H., 1803-1875"
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridians: Greenwich and Washington. \"Entered according to act of Congress in the year 1835 by Thos. Illman in the ... District Court for the Southern District of New York.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0k225d21r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Thos. Illman, 1835.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps"
+  ],
+  "dc_title_s": "New-Jersey",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5591135\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45611508-f9fd-4013-9914-185c13bbc05d/file/4e9defa9-f424-4e95-b812-4a5e0ccdc5f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45611508-f9fd-4013-9914-185c13bbc05d/file/67804686-ed64-4212-af77-76f287f0baf3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F8b%2Ff7%2Ff48bf70094554bf2a4b1fa32bac25341%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b2e4acf2-5409-4db1-9a63-684104621ad6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-45611508-f9fd-4013-9914-185c13bbc05d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0k225d21r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.759, -73.2651, 41.3633, 38.9157)",
+  "solr_year_i": 1835.0,
+  "uuid": "princeton-0k225d21r"
+}

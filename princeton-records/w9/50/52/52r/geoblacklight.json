@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bowen, Emanuel, d. 1767"
+  ],
+  "dc_description_s": "Map of New Guinea with relief shown pictorially. In upper right margin: Vol. I. p. 125. From: Navigantium atque itinerantium bibliotheca, or, A complete collection of voyages and travels / by John Harris. London : Printed for T. Woodward, 1744-1748. \"Longitude east from the Lizards\". Includes notes.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w9505252r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London : Printed for T. Woodward, 1744-1748]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dampier, William, 1652-1715,Travel",
+    "New Guinea,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A map of the discoveries made by Captn. Willm. Dampier in the Roebuck in 1699",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5521128\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/956e0d12-aecb-4a0c-af6f-488c1e94cf5b/file/c06f8f1b-20fc-4f40-bc84-6acf46c906f8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/956e0d12-aecb-4a0c-af6f-488c1e94cf5b/file/15e8ea09-ee72-4ec2-96c3-0edbda24b81e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/44%2Fa0%2Fc3%2F44a0c32e536e4dcab9f420f781dc84e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/50b6d816-0ce3-48b0-82e8-d15ee9350af3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Papua New Guinea"
+  ],
+  "dct_temporal_sm": [
+    "1744"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-956e0d12-aecb-4a0c-af6f-488c1e94cf5b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w9505252r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(124.51, 154.49, 4.5, -13.5)",
+  "solr_year_i": 1744.0,
+  "uuid": "princeton-w9505252r"
+}

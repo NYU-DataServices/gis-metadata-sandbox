@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Nagano, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 20 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wp988m36k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Nagano, Nagano Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449973\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b6d2bd20-a2de-4ff0-ab93-928fbdccd087/file/73141408-125a-4ed2-84c8-6450d53af14a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/974b4e9a-820e-479d-91ff-69479d1537dc/file/1c799447-9c36-4354-b69c-937655638d6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/974b4e9a-820e-479d-91ff-69479d1537dc/file/7dac7afa-334d-4b8a-b1b2-2952aba5e395\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a3%2F3c%2F39%2Fa33c393ed5ae4fc48e1f268b272ac14c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9ed032b7-01ae-409d-b386-31f2f527fe46/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-974b4e9a-820e-479d-91ff-69479d1537dc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wp988m36k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(138.15, 138.23333333333332, 36.68333333333333, 36.61666666666667)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-wp988m36k"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Junta Provincial del Turismo de Coridoba. North Decimal Degree 37.900000. South Decimal Degree 37.866667. East Decimal Degree -4.766667. West Decimal Degree -4.800000. Includes inset \"Monumentos y lugares mas importantes.\" Verso: Tourist information.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3f4627849",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "Cordoba : [s.n.], 1950[?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tourist maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Plano de Cordoba",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816694\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1330f109-81ec-4cf2-9fd7-adb78fd46e3f/file/c7357be7-146b-4b46-b4d1-4b24348e7129\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1330f109-81ec-4cf2-9fd7-adb78fd46e3f/file/d9bd9521-7e07-46d2-b7bf-76d47db69a5b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2F97%2Fbc%2F9697bc9ca5b74168b096225574e1c77e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d60fb3d8-d0e6-4a10-9e4b-de88fcbd1434/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1330f109-81ec-4cf2-9fd7-adb78fd46e3f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3f4627849",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-4.8, -4.766667, 37.9, 37.866667)",
+  "solr_year_i": 1950.0,
+  "uuid": "princeton-3f4627849"
+}

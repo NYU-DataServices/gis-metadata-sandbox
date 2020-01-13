@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -7.0000. West Decimal Degree -8.0000. Alternate title: Evora, Portugal. Polyconic projection. With Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Instituto Geografico, 1932-1934; Portugal, 1:100,000, Servicos Geodesicos, 1866-87; Portugal, 1:250,000, Estador Maior do Exercito, 1935-37; Spain, 1:50,000, Instituto Geografico, undated and 1937-41; Spain, 1:200,000, Cuartel General del Generalisimo, undated and 1901-19; Road Map of Spain and Portugal, 1:400,000, AMS, sheets 46 and 48, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r494vn02d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Evora, sheet 58. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839268\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e43d49a1-91aa-4949-ac69-738ff42f528f/file/8a37d6ab-3e35-496b-8ed2-27a052e2e7de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e43d49a1-91aa-4949-ac69-738ff42f528f/file/0a4d7b31-1806-4ae6-8ef0-055db4982cb9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2F71%2Faf%2Fcd71af0110ce472aa63a930b5ed12c8c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3461f404-99b9-4b22-a52b-e0721ba43d05/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e43d49a1-91aa-4949-ac69-738ff42f528f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r494vn02d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-r494vn02d"
+}

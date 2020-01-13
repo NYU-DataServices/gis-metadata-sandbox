@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology of the Piseco Lake Quadrangle / Ralph Smyser Cannon Jr. Albany: New York State Museum. Bulletin 312. 1937. 107p. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6q182m565",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1934.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Piseco Lake (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Piseco Lake Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6513903\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c9d4c87a-655f-4fc4-b6b3-0b42c68ab67f/file/d051c5a0-fd5c-4183-847a-2baa29f87a92\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/87f61bdd-9fe4-4688-a05d-65063a0ddb29/file/0ba24121-f55b-44e4-a24a-589ca9b918cc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/87f61bdd-9fe4-4688-a05d-65063a0ddb29/file/a5cb8612-8d03-4647-8339-3349458493a7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d2%2Fcc%2Fda%2Fd2ccda3902574740b690ed80b558ccec%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74dc895a-ac7c-4e2a-8ed9-f4bd2f8e93c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1934"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-87f61bdd-9fe4-4688-a05d-65063a0ddb29",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6q182m565",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.75, -74.5, 43.5, 43.25)",
+  "solr_year_i": 1934.0,
+  "uuid": "princeton-6q182m565"
+}

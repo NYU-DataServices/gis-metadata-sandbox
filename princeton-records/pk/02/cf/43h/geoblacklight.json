@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Didier, 1723-1786"
+  ],
+  "dc_description_s": "Polar projection. Shows Robert de Vaugondy's proposed route across the North Pole to the Pacific Ocean. Historic Maps copy has ms. annotations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pk02cf43h",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Che\u0301s l'Auteur Quai de l'horloge du Palais pre\u0300s le Pont neuf, 1774.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Arctic regions,Maps,Early works to 1800",
+    "Polar regions,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Essai d\u2019une carte polaire arctique : construite d\u2019apre`s toutes les connoissances les plus nouvelles pour servir aux navigations et aux de\u00b4couvertes a` faire dans la mer glaciale",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7292163\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1e4fb1d-a2eb-4e7d-bb87-0bd2b1af70f9/file/2eb547c9-cead-40a6-b0da-bb770faab32f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1e4fb1d-a2eb-4e7d-bb87-0bd2b1af70f9/file/d9c6ca48-4592-4be8-be53-b848e134ad0c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/28%2Fdf%2F63%2F28df6348a0174908baf01bfb77098187%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/726a4ab5-8a82-4f80-971c-1fa3fce62858/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Arctic Ocean; Arctic regions"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c1e4fb1d-a2eb-4e7d-bb87-0bd2b1af70f9",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pk02cf43h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, 60.0)",
+  "solr_year_i": 1774.0,
+  "uuid": "princeton-pk02cf43h"
+}

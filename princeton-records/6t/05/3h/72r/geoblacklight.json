@@ -1,0 +1,50 @@
+{
+  "dc_creator_sm": [
+    "Vermeule, Cornelius Clarkson",
+    "Kummel, Henry Barnard",
+    "Plummer, Loren P."
+  ],
+  "dc_description_s": "A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6t053h72r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "New Jersey. Department of Conservation. Division of Geology and Topography",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "historical maps",
+    "Contour",
+    "Topography",
+    "Administrative and political boundaries",
+    "Railroad Stations",
+    "Mineral resources"
+  ],
+  "dc_title_s": "[New Jersey.] Atlas sheet no. 24.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4b1f6ad2-a52f-4024-a32e-0c6ac4289f33/file/0c391668-b144-41e1-bdb9-fee4894b8d4d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6281b3d4-7e1a-4e4b-9b5a-f03b4cfa0164/file/e1ef0049-4467-431e-8667-af847e5eeb59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6281b3d4-7e1a-4e4b-9b5a-f03b4cfa0164/file/378df94c-3bc0-405f-9ee4-6cc2fa49f5ce\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2F21%2Fe6%2F4c21e6e23c474963aae9ebb4c4f6c1bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0cc723f5-cd6c-4813-805b-5c704e397543/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Hunterdon",
+    "Warren",
+    "New Jersey",
+    "Morris",
+    "MC  G3811.C2.s63.N4J4 no.24 (1936)"
+  ],
+  "dct_temporal_sm": [
+    "1936"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6281b3d4-7e1a-4e4b-9b5a-f03b4cfa0164",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6t053h72r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.2, -74.7667, 41.4, 40.5167)",
+  "solr_year_i": 1936.0,
+  "uuid": "princeton-6t053h72r"
+}

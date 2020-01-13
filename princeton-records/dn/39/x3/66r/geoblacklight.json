@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"February 1911.\" Includes key, key map, streets and specials index, and text. \"3482.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dn39x366r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Butler,Maps",
+    "Real property,New Jersey,Bloomingdale,Maps",
+    "Butler (N.J.),Maps",
+    "Bloomingdale (N.J.),Maps"
+  ],
+  "dc_title_s": "Butler, Morris County, New Jersey : including Bloomingdale, Passaic County (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5550691\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e11eecd8-50e7-4356-95b4-c556d013e39a/file/5106455e-eb3f-41ef-b858-9ce245bbf7ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e11eecd8-50e7-4356-95b4-c556d013e39a/file/95fd7e01-7d1f-43f8-9d49-459573b2eb3b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8f%2F65%2F08%2F8f650837e1ab480ebe0036ef2d7ee1cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6b5fc758-ec1d-405f-b357-b7a62f648ca0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e11eecd8-50e7-4356-95b4-c556d013e39a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dn39x366r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.363116, -74.300322, 41.068396, 40.998442)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-dn39x366r"
+}

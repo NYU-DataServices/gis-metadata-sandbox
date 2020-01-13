@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -10.833333. South Decimal Degree -11.000000. East Decimal Degree -69.000000. West Decimal Degree -69.250000. Alternate title: Barraca San Vicente, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qz20sv367",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1986.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Barraca San Vicente, hoja 5761 II. Serie H731.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840897\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a532f53-db27-4245-b70b-d9490cb9f399/file/eac24b53-132a-4986-9336-84a2f82e3a40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a532f53-db27-4245-b70b-d9490cb9f399/file/c85d35d4-ad65-4378-9640-c97452a2199e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F9b%2F40%2Fe59b4049b9e843d48ec1bff01b9fd51a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/16a170be-6ada-451c-8ac0-bced4154b9bf/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6a532f53-db27-4245-b70b-d9490cb9f399",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qz20sv367",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-69.25, -69.0, -10.833333, -11.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-qz20sv367"
+}

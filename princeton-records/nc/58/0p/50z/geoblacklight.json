@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 40.0000. South Decimal Degree 39.0000. East Decimal Degree -6.0000. West Decimal Degree -7.0000. Alternate title: Caceres, Spain, Portugal. Polyconic projection. With Spanish-Portuguese-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Portugal, 1:50,000, Servicos Geodesicos, 1907-1933; Portugal, 1:100,000, Instituto Geografico, sheet 25, 1935; Portugal, 1:250,000, Estado Maior do Exercito, 1935-37; Spain, 1:50,000, Instituto Geografico, undated and 1885-1939; Spain, 1:100,000, Estado Mayor, 1919-22; Spain, 1:200,000, Cuartel General del Generalisimo, 1916-36; Spain, 1:200,000, Instituto Geografico PROVINCIA de BADAJOZ, 1903 and PROVINCIA de CACERES, 1914; Road Map of Spain and Portugal, 1:400,000, AMS, sheet 46, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/nc580p50z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Caceres, sheet 49. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839259\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f0452c05-53a4-4f66-abfe-285465efff86/file/85b979db-f2b3-40ff-a351-d0b5668cbd2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f0452c05-53a4-4f66-abfe-285465efff86/file/b6925ff5-e4e2-452a-8282-ba6dbff6eaf5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4f%2F52%2F45%2F4f5245660593429389f57f6ccd9fa8eb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/92014f8c-51b4-4712-be76-152da84cb8ba/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f0452c05-53a4-4f66-abfe-285465efff86",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-nc580p50z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-7.0, -6.0, 40.0, 39.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-nc580p50z"
+}

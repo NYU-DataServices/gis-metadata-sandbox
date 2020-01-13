@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Reprinted 1944 by A.M.S. United States. Army Map Service Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4234 Great Britain. Inter Service Topographical Department In upper left margin: \"France \". Lambert Zone I grid.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9w032476b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London ; Washington, D.C.] : War Office ; Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "France,Maps"
+  ],
+  "dc_title_s": "Concarneau plan of port and town. G.S.G.S. 4234",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449603\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74f25ac5-7d11-41a7-b878-102924dd657b/file/737c720e-956f-46f5-88dd-9d80353c53c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c51e55d4-580d-4770-91c7-610d964413af/file/63c2d8e5-7f12-400c-aedf-c3c4076bd083\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c51e55d4-580d-4770-91c7-610d964413af/file/79b24d49-4346-49c4-b0c5-e99d0c92e824\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/62%2F2f%2F30%2F622f305ef4dd493ca4e4d2ed7433ee96%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ae76a9b-53dd-4a1c-b283-b50348c96a59/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c51e55d4-580d-4770-91c7-610d964413af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9w032476b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.9, 3.9333333333333336, 47.88333333333333, 47.86666666666667)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-9w032476b"
+}

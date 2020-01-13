@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"January 1915.\" Includes location map, key, key map, streets and specials index, and text. \"346.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rb68xf02s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Little Falls,Maps",
+    "Little Falls (N.J.),Maps"
+  ],
+  "dc_title_s": "Little Falls, Passaic County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5575821\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93cd8d7c-fc7c-48ca-93bb-6467831f48d4/file/01c0004a-984c-46f2-9f58-caef4fc7dac9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93cd8d7c-fc7c-48ca-93bb-6467831f48d4/file/ada76318-c635-440f-853b-85778e3f0d28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2F73%2F6a%2Ff9736a1277dc40d28b73abd3949e35d9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e991406-c902-466d-a5d7-f139d9171923/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-93cd8d7c-fc7c-48ca-93bb-6467831f48d4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rb68xf02s",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.254476, -74.190689, 40.89264, 40.859622)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-rb68xf02s"
+}

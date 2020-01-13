@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Sanson, Nicolas, 1600-1667"
+  ],
+  "dc_description_s": "Relief shown pictorially. Probably issued in: Cartes particulie\u0300res de la France ... Paris : l'auteur, 1676.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dj52w7146",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez P. Mariette, 1657.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Flanders (Belgium),Maps,Early works to 1800",
+    "Flanders (France),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Morini, Gorduni, et pleumosij in Morinis : les Evesche\u0301s de St. Omer, Ipres, et Tournay : partie occidentale du Comte\u0301 de Flandre : ou sont la Flandre Wallone, et les quartiers du Plat Pays du Francnat., et d'Ipres, dans la Flandre Teutone",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6910515\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3484e83-6e90-4964-b5a2-bffa7de97d30/file/8d75753e-afa2-451f-960c-7bc8a7cdf261\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3484e83-6e90-4964-b5a2-bffa7de97d30/file/82ef8402-61a6-495c-bffc-da6f2905a695\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2Fb1%2F56%2Ffdb1568f599b4cee97c29fe443df1517%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56ea6c32-4ee4-4826-a9b4-fb59fc95e4a3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium",
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1657"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-e3484e83-6e90-4964-b5a2-bffa7de97d30",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dj52w7146",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.8314, 3.6067, 51.2771, 50.3477)",
+  "solr_year_i": 1657.0,
+  "uuid": "princeton-dj52w7146"
+}

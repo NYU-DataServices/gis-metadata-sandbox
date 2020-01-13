@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Map of Borkum in the German state of Lower Saxony. Relief shown by hachures.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sb397c97g",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Emden : Lithogr. u. Druck v. W. Schwalbe, [1906?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Borkum (Germany),Maps",
+    "Borkum Island (Germany),Maps",
+    "Lower Saxony (Germany),Maps"
+  ],
+  "dc_title_s": "Plan des Nordseebades \"Borkum\" ; Insel Borkum",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7561120\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b187fed-b7f1-40a9-9535-d6bd2a176f9f/file/a373b766-c72e-4bf1-973d-663233d4169d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b187fed-b7f1-40a9-9535-d6bd2a176f9f/file/9428b6b1-5b71-494e-a559-d9b1ea0d4d23\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4d%2F97%2F69%2F4d97697eb8e94b7da65979b164f266a6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cf644034-66cf-4403-8928-f9117c6de0cd/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9b187fed-b7f1-40a9-9535-d6bd2a176f9f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sb397c97g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.6367623, 6.818113, 53.6174981, 53.5550137)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-sb397c97g"
+}

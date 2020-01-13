@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "W. & A.K. Johnston Limited"
+  ],
+  "dc_description_s": "Originally published on one sheet. Inset: Chart showing rain, winds, isothermal lines and ocean currents. W. & A. K. Johnston Ltd. operated as a limited company from 1901. cf. Tooley's dictionary of mapmakers.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f4752j279",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : W. & A. K. Johnston Ltd., [1901 or later]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rain,Maps",
+    "Wind,Maps",
+    "Atmospheric temperature,Maps",
+    "Ocean currents,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Imperial chart of the world on Mercator's projection (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4554022\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28fd69ae-f415-44ee-93c6-d71ad288d5dc/file/825c0e49-8f0d-4317-ad2c-c6f5d59c9583\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28fd69ae-f415-44ee-93c6-d71ad288d5dc/file/40fe86ab-83cd-40a9-ae9b-34b25a003f1c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2F58%2F3e%2F8d583e7884764e16b6c91bf52a47d359%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e3de9a8-9cc9-4d2e-9b04-09dd4ee8993a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-28fd69ae-f415-44ee-93c6-d71ad288d5dc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f4752j279",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -78.0)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-f4752j279"
+}

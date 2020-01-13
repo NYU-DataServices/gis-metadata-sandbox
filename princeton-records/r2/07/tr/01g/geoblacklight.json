@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey Relief shown by 25 feet contour intervals excepting that on Marysville Buttes above 500, the interval is 250 feet. Reduced from U.S. Geological Survey Atlas sheets surveyed in 1903-1920 in cooperation with the State of Califronia. Inset map: Index to topographic maps of the Sacramento Valley.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/r207tr01g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : [s.n.], 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Sacramento Valley (Calif.),Maps"
+  ],
+  "dc_title_s": "Topographic map of the Sacramento Valley, California",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6457397\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a390dd6d-111b-4414-afbf-d29bd8d64a12/file/da2917c6-30de-43c5-b64b-ae08023d140f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3163c2e2-ef85-4baf-91d2-6970003322ef/file/f9c15707-2e95-4445-b01e-1ccea7b346aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3163c2e2-ef85-4baf-91d2-6970003322ef/file/8d6dfb48-ab34-4703-bbc0-281011226d8d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ab%2F20%2Fc6%2Fab20c63ef11147fa85212c4f7866466f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e35b4fba-5a77-4ace-b6f8-94e2e9a3352b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3163c2e2-ef85-4baf-91d2-6970003322ef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-r207tr01g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-122.35, -121.0, 40.25, 38.0)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-r207tr01g"
+}

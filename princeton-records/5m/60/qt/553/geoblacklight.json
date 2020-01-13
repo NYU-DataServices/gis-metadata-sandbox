@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: No. 58 Tatta. Polyconic projection. North Sahara zone grid. Relief shown by 82 foot form line intervals. Compiled from Service Geographique du Maroc 1:100,000, 1934. Road classifications corrected from Army Map Service road map Northwest Africa, 1:1,000,000, 1942.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5m60qt553",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Tatta, sheet 58. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831036\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6634d34-5c89-4dfa-af6a-7ca602db2993/file/67ea4675-07f6-49a7-9f6b-b698abefc1fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8612518-c22a-46f2-9345-fa934bc732e4/file/b02f40fa-cba8-446b-a4d5-240039a710e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8612518-c22a-46f2-9345-fa934bc732e4/file/7abc6d21-1415-4798-8592-beb5e745218c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/07%2F9c%2F08%2F079c08075d4a423bb709f5fb980f8927%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4127b7b6-2ba8-468a-af58-3e9260a69856/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a8612518-c22a-46f2-9345-fa934bc732e4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5m60qt553",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.0, -7.5, 30.0, 29.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-5m60qt553"
+}

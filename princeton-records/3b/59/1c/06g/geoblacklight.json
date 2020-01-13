@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Wyld, James, 1812-1887"
+  ],
+  "dc_description_s": "Also shows counties and channel crossing routes with distances.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591c06g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : Published by James Wyld, geographer to the Queen, Charing Cross East, 1851.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Roads,England,Maps",
+    "Roads,Wales,Maps",
+    "England,Distances, etc,Maps",
+    "Wales,Distances, etc,Maps"
+  ],
+  "dc_title_s": "Wyld's road director, through England and Wales : being a new and comprehensive display of the roads and distances from town to town and of each remarkable place from London",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7195424\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/8fbd21b3-2eb2-42e8-ab65-5f00e856e99b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/60daec69-4d13-467b-93ec-0f083bdbeb92\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7a%2F70%2F95%2F7a7095c2237245bc80e43054276ff2cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8180d730-8b7d-439a-a43a-beb2e494d166/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8305807d-9b5a-439c-837c-ed554a8d7b72",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591c06g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-7.51, 2.58, 56.24, 49.52)",
+  "solr_year_i": 1851.0,
+  "uuid": "princeton-3b591c06g"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Fer, Nicolas de, 1646-1720"
+  ],
+  "dc_description_s": "Map of Italy, including Corsica and Sardinia, showing postal routes; relief shown pictorially. Includes table of distances between locations. From: Les routes des postes du Royaume de France / dedie\u0301e a Sa Majeste\u0301 Catholique par ... de Fer, geographe de sa Majeste\u0301 Catholique ; corrige\u0301 par Desnos en 1761. [Paris : Desnos], 1761.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9s1618618",
+  "dc_language_s": "French",
+  "dc_publisher_s": "A Paris : Chez l'auteur dans l'Isle du Palais sur le Quay de l'Orloge a\u0300 la Sphere Royale, 1705.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Post roads,Italy,Maps,Early works to 1800",
+    "Italy,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Routes des postes d'Italie",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6468306\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f292b3e1-e35d-48ab-84ec-367928af32cc/file/a39ef521-3b1a-4251-b4c8-c8e82e8e674b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f292b3e1-e35d-48ab-84ec-367928af32cc/file/b680a546-0ceb-45ba-9986-00236570fccd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1c%2Fc3%2F8b%2F1cc38bfe403d4782bcc1147397d36fe0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03ce8963-ebf1-4c42-8be7-d4b22153b4b2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f292b3e1-e35d-48ab-84ec-367928af32cc",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9s1618618",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.61, 18.78, 47.09, 37.47)",
+  "solr_year_i": 1705.0,
+  "uuid": "princeton-9s1618618"
+}

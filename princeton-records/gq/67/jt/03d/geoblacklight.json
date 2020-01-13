@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 39.0000. South Decimal Degree 38.0000. East Decimal Degree -5.0000. West Decimal Degree -6.0000. Alternate title: Don Benito, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, undated and 1916-1941; Spain, 1:200,000, Cuartel General del Generalisimo, undated and 1915-1939; Road Map of Spain and Portugal, 1:400,000, A.M.S., Sheets 46 and 48, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from Intelligence Reports, 1942-1943.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gq67jt03d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Don Benito, sheet 60. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839270\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48f2294d-da63-4d5b-af62-86bad0324e1d/file/ffe470c1-3f3d-4d79-b526-00ca78141182\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48f2294d-da63-4d5b-af62-86bad0324e1d/file/b8b76e35-8a2f-4a71-9ea5-d861c0424250\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2F78%2F05%2F2e7805e6287c462abc3d0f5cbb2c4472%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbc7c72d-2c66-4cc6-b33f-a51a3782f9f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-48f2294d-da63-4d5b-af62-86bad0324e1d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gq67jt03d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.0, -5.0, 39.0, 38.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-gq67jt03d"
+}

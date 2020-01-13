@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Prussia (Germany). Landesaufnahme. Kartogr. Abteilung"
+  ],
+  "dc_description_s": "Set covers eastern China, Korea and adjacent parts of Mongolia. Some sheets in German and Chinese. Various issues of some sheets. Relief shown by shading and spot heights. Geographic coverage complete in 22 sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sb397b775",
+  "dc_language_s": "German",
+  "dc_publisher_s": "[Berlin] : Ko\u0308nigl. Preuss. Landes-Aufnahme, 1901-",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Maps",
+    "Korea,Maps"
+  ],
+  "dc_title_s": "Karte von Ost-China [Tie ling hsie\u00a8n]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7768571\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8790e68-c09e-4295-9d04-6c7241395381/file/5fac4224-78a5-4f30-b269-8db6d47d0d7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8790e68-c09e-4295-9d04-6c7241395381/file/18b966a5-65a1-4e10-8715-68aaa1d1a90c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2Fbd%2F13%2F41bd133b026d4308b25acc10ad2f3fb7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7921ea98-7b6a-4f5a-a7bd-a63fbf189c3a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Korea"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d8790e68-c09e-4295-9d04-6c7241395381",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sb397b775",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(73.4997347, 134.7754563, 53.5608154, 3.966232)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-sb397b775"
+}

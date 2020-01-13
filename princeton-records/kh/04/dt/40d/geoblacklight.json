@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Belgian State Railway and Mail Packet Service"
+  ],
+  "dc_description_s": "Ancillary map shows route from London to Istanbul.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kh04dt40d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Brussels] : Belgian State Railways & Mail Steamers ; Ko\u0308nigl. Belgische Staats-Eisenbahnen und Postdampfer, [1904?] (Bruxelles : Lith. Ad. Mertens)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Belgium,Maps"
+  ],
+  "dc_title_s": "London-Switzerland & Italy via Dover-Ostend ... [side 1]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6924932\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c817f18f-9b86-4760-afc9-cb4b1a62dda0/file/32c28189-21aa-42e1-a16f-11b548d719fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c817f18f-9b86-4760-afc9-cb4b1a62dda0/file/626add04-62e3-41e0-83a0-2150a72420f3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F23%2F82%2Ffa2382c874084c599ffc635bed1b572b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cceb3b3d-fc78-499d-b73d-3683f590434e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c817f18f-9b86-4760-afc9-cb4b1a62dda0",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kh04dt40d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.3889137, 6.4080405, 51.5516667, 49.4969821)",
+  "solr_year_i": 1904.0,
+  "uuid": "princeton-kh04dt40d"
+}

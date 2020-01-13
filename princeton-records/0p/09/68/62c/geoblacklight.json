@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bartholomew, John, 1805-1861"
+  ],
+  "dc_description_s": "At head of map: II-I. World maps showing physical features, precipitation, population distribution and religions. Plate II-I from: General atlas of the world ... / engraved on steel ... by Sidney Hall, William Hughes ... New ed. Edinburgh : Adam and Charles Black ... , 1854.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0p096862c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Physical geography,Maps",
+    "Precipitation (Meteorology),Maps",
+    "Ethnography,Maps",
+    "Religions,Maps",
+    "World maps"
+  ],
+  "dc_title_s": "Chart of the world exhibiting its chief physical features, currents of the ocean, &c.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4538061\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6c2984b6-e2e4-4eaa-8144-d1b12358a01c/file/a438622d-2fff-454a-b534-ef9a98d15b94\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/abf12d63-e782-4935-be09-834037bdecb1/file/6fac1737-46bb-40f6-87dc-58d02adfda0b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/abf12d63-e782-4935-be09-834037bdecb1/file/27a16e5a-8704-4d04-be03-f3baff5e6541\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2F99%2F6c%2F8b996c42ee9f4b3c908581b5d54e0b15%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57a414ce-2ac0-43ca-a49d-6585d42e9858/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-abf12d63-e782-4935-be09-834037bdecb1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0p096862c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 80.0, -60.0)",
+  "solr_year_i": 1854.0,
+  "uuid": "princeton-0p096862c"
+}

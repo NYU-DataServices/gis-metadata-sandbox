@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Lo\u0308we, Cornelius"
+  ],
+  "dc_description_s": "Pictorial map of Wiesbaden in the German state of Hesse. Includes col. ill.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qb98mk17k",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Berlin : Pharus-Verlag, [ca. 1905].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hesse (Germany),Maps",
+    "Wiesbaden (Germany),Maps"
+  ],
+  "dc_title_s": "Pharus-Plan Wiesbaden",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7591164\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4f03f8f-7465-4471-bee9-8f0af8353e18/file/e7ea13a6-b643-48c2-9d85-7f9b41b85258\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4f03f8f-7465-4471-bee9-8f0af8353e18/file/5d089998-bc94-4e74-a737-9480992e314c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F3b%2Fc3%2F093bc3d470b14f2a8197c03cb221d586%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9cc9be5a-62eb-4ca8-8010-d0e45e093f15/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c4f03f8f-7465-4471-bee9-8f0af8353e18",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qb98mk17k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.221015, 8.258609, 50.096011, 50.062743)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-qb98mk17k"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheet 68 of Essex Co., vol. II, series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sx61dp65n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : Sanborn Map Co., 1916.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bloomfield,Maps",
+    "Bloomfield (N.J.),Maps"
+  ],
+  "dc_title_s": "Bloomfield, N.J. : add'l. sheet, Sept. 1916 (Sheet 68)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5705010\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/19960902-bc6d-4139-a8b5-d7c1d2bfe6bf/file/1ee6df2c-c560-41ce-b474-94203f537dfc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19960902-bc6d-4139-a8b5-d7c1d2bfe6bf/file/9326ffb2-7972-42fd-84d0-1942d98effd2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/76%2F99%2F95%2F76999534725a4fa58d5ea2b79c0f768e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af4b760a-f995-4df2-8f04-b744666d0109/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-19960902-bc6d-4139-a8b5-d7c1d2bfe6bf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sx61dp65n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
+  "solr_year_i": 1916.0,
+  "uuid": "princeton-sx61dp65n"
+}

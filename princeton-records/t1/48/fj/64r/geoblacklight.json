@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"3403.\" Historic Maps has sheets 47 and 74-76 of Palisades, N.J. series, showing Palisades Park.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fj64r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Palisades Park,Maps",
+    "Palisades Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of the Palisades of lower Bergen County, New Jersey : comprising Edgewater, Fairview, Cliffside Park, Ridgefield, Fort Lee, Leonia and Palisades Park (Sheet 74)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274562\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d763f73c-8d79-400d-a2df-6bd027821800/file/27a1e274-d5f6-427b-996c-fca5017fb614\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d763f73c-8d79-400d-a2df-6bd027821800/file/bd377e93-1cca-4845-b191-9605325b22a2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F48%2F3b%2Fb2483ba94e734a01b0f9248f1383f9b1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07859c6c-d9b0-4231-a41a-fbb4886f60b3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d763f73c-8d79-400d-a2df-6bd027821800",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fj64r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.036, -73.953, 40.877, 40.806)",
+  "solr_year_i": 1911.0,
+  "uuid": "princeton-t148fj64r"
+}

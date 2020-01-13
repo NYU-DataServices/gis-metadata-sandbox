@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Dec. 1901.\" Includes key, key map, streets and specials index, and text. \"5233.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0c483m60t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1901, c1902.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Bernardsville,Maps",
+    "Bernardsville (N.J.),Maps"
+  ],
+  "dc_title_s": "Bernardsville, Somerset Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5597943\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b037c204-6838-402c-b1f5-a44179b62eab/file/3aca7ae0-b6ef-4721-b8ed-1ac8a18b8f5f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b037c204-6838-402c-b1f5-a44179b62eab/file/60f48718-83d1-4c62-a312-0b2f51284a81\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/73%2F81%2Fbd%2F7381bd7006084ffd96afe59e68bbc298%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c397043-271b-4e97-896c-7025dfb99cfb/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b037c204-6838-402c-b1f5-a44179b62eab",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0c483m60t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",
+  "solr_year_i": 1901.0,
+  "uuid": "princeton-0c483m60t"
+}

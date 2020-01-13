@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Bartlett, John Russell, 1805-1886"
+  ],
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Greenwich and Washington. Includes historic notes.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tq57nt55v",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : J.H. Colton & Co., [1853]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Southwestern States,Maps",
+    "Mexico,Maps",
+    "United States,Boundaries,Mexico,Maps",
+    "Mexico,Boundaries,United States,Maps"
+  ],
+  "dc_title_s": "General map showing the countries explored & surveyed by the United States & Mexican Boundary Commission in the years 1850, 51, 52 & 53",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8257072\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/394c97e7-95e7-4fba-a268-2a9ceaaea33f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/c808a5e7-a9d1-496d-aa87-cdbbf137baec\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/97%2F7d%2Fd7%2F977dd7ee161a4839b88c242dd569a336%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a335913a-e8cc-4c48-8657-679d7f15dec0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Southwest, New",
+    "Southern States",
+    "Mexico",
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8b70d0b8-9d96-4b53-b79a-14c7a9ddec84",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tq57nt55v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-125.76, -88.95, 45.01, 21.01)",
+  "solr_year_i": 1853.0,
+  "uuid": "princeton-tq57nt55v"
+}

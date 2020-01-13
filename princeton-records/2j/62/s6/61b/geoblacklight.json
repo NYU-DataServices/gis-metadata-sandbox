@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Aero Service Corporation"
+  ],
+  "dc_description_s": "This is a scanned Aerial photograph of the Princeton Area taken in the 1920's.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/2j62s661b",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Aero Service Corporation",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Aerial photograph",
+    "Princeton University",
+    "digital aerial photo",
+    "Imagery and Base Maps",
+    "Historical aerial photo"
+  ],
+  "dc_title_s": "Princeton Aerial Photograph (Towards Trenton) c. 1920s",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/768a34f5-d76c-4102-8f95-ff0ecd958519/file/f3a5e40d-726d-4e68-b37e-6677f381edba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b08a700-ba62-4eb6-a022-b7eac0dbb1a3/file/cdfb9cfb-52f6-453a-9744-968fc1c22e36\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b08a700-ba62-4eb6-a022-b7eac0dbb1a3/file/b6b5b7e2-86f0-4146-9147-ca31d53a13f7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7d%2F3d%2Fd6%2F7d3dd6daf97e4e239b328d98bfc3928e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0b8b2438-01e5-4902-9cf2-7749f4a30811/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Princeton",
+    "Mercer county"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2b08a700-ba62-4eb6-a022-b7eac0dbb1a3",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-2j62s661b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.939246, -74.48246, 40.424427, 40.135958)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-2j62s661b"
+}

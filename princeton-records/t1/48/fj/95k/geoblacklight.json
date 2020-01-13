@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France Explanatory text: 1 sheet in MC folder. North Decimal Degree 49.8383 South Decimal Degree 49.4788 East Decimal Degree 5.4516 West Decimal Degree 4.5624 Alternate title: Mezieres. Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/t148fj95k",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1964.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Mines and mineral resources",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Mezieres",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518412\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/857cae8c-3936-4ef4-b48b-b98bbfc7b627/file/54429015-6e65-459c-a719-604fa9f956d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/857cae8c-3936-4ef4-b48b-b98bbfc7b627/file/5ce0b4be-5cac-4bba-b995-e8c790d69c6a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F0a%2F1d%2F140a1d22bd684df79e50d4148471ed10%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bfd5ea42-f907-4672-9fee-6ae6ac7b68aa/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-857cae8c-3936-4ef4-b48b-b98bbfc7b627",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-t148fj95k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(4.5624, 5.4516, 49.8383, 49.4788)",
+  "solr_year_i": 1964.0,
+  "uuid": "princeton-t148fj95k"
+}

@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. North Decimal Degree 31.000000. South Decimal Degree 30.5000. East Decimal Degree -6.0000. West Decimal Degree -6.5000. Alternate title: No. 36 Timidert. Polyconic projection. Northwest Africa zone grid. Relief shown by form lines and spot heights. \"Compiled from Service Geographique du Maroc 1:100,000, 1936 to 1940. Road classifications corrected from Army Map Service Road Map Northwest Africa, 1:1,000,000, 1942.\".  AMS 1.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/1j92g9320",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Morocco,Maps"
+  ],
+  "dc_title_s": "Southern Morocco 1:125,000. Timidert, sheet 36. A.M.S. P632",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840819\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b39bd287-a9f2-453f-8003-510c96ae3188/file/e94ff701-fcda-44fa-82ec-ccaab5cac8de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b39bd287-a9f2-453f-8003-510c96ae3188/file/3596be92-db8f-4a4e-b7a1-234b302437d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f2%2F1c%2F18%2Ff21c18f516a449e9bfd79c8536469c7e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/604fb742-58ce-40b1-97c1-d9aca5416a3e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b39bd287-a9f2-453f-8003-510c96ae3188",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-1j92g9320",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.5, -6.0, 31.0, 30.5)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-1j92g9320"
+}

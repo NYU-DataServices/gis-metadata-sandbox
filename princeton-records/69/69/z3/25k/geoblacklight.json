@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Robert de Vaugondy, Gilles, 1688-1766"
+  ],
+  "dc_description_s": "Map of France showing diocesan boundaries. Relief shown pictorially. From: Atlas portatif, universel et militaire ... / par M. Robert ... Paris : Chez l'auteur ; Durand libraire ; Pissot fils libraire, 1748.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6969z325k",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : Chez l'auteur ; Durand libraire ; Pissot fils libraire, 1748]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Ecclesiastical geography,France",
+    "France,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "France eccle\u0301siastique",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7128990\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf0cf79f-aa7e-4580-85cd-a64b60f7fdd8/file/cab6a36e-daf5-492b-b8bc-b7545f417ea6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf0cf79f-aa7e-4580-85cd-a64b60f7fdd8/file/d74d2b57-9f35-4188-9fae-0b825023a836\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3c%2F89%2Fd7%2F3c89d7097254478c9dc27e91a6d5c8d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bad9e194-35ff-4f86-9881-964721a920c7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1748"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cf0cf79f-aa7e-4580-85cd-a64b60f7fdd8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6969z325k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.27, 8.36, 51.25, 42.26)",
+  "solr_year_i": 1748.0,
+  "uuid": "princeton-6969z325k"
+}

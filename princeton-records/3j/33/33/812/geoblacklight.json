@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Aero Service Corporation"
+  ],
+  "dc_description_s": "This is a scanned Aerial photograph of the Princeton Area taken between 1927and 1929.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3j3333812",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Aero Service Corporation",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton University",
+    "digital aerial photo",
+    "Aerial photograph",
+    "Imagery and Base Maps",
+    "Historical aerial photo"
+  ],
+  "dc_title_s": "Princeton Aerial Photograph (1927-1929)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/385a8ec3-2491-4071-9363-a8f589da051d/file/ab90bf39-a749-453b-a64a-a12ecb675b0e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb55cba6-646b-485f-97e9-776412514577/file/c702fa9e-06b1-4ac4-95ca-adac74330755\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb55cba6-646b-485f-97e9-776412514577/file/e288d0c5-49d3-40f6-aa7a-393dd81cf3e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/18%2F83%2Fe5%2F1883e511c742414396b26b39e4b352d1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f34b827c-1c19-454c-ac81-27e51813e6f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Princeton",
+    "Mercer county"
+  ],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb55cba6-646b-485f-97e9-776412514577",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3j3333812",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.939246, -74.48246, 40.424427, 40.135958)",
+  "solr_year_i": 1927.0,
+  "uuid": "princeton-3j3333812"
+}

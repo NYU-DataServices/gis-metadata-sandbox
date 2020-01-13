@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1884-5. Triangulation by the U.S. Coast and Geodetic and Borden Surveys. In upper left margin: U.S. Geological Survey, J. W. (John Wesley) Powell Director.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c821gm22z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Northampton (Mass.),Maps"
+  ],
+  "dc_title_s": "Massachusetts: Northampton sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837253\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0f9978ab-0c0b-4e58-b959-0e491dd5ad29/file/26f7bf7b-3978-4e5f-aa0e-0583ea59d4d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc0f4090-51ae-4feb-8911-44ff6a8ca3cb/file/498b0325-ce6b-4f6b-a9fc-7c4b6122368f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc0f4090-51ae-4feb-8911-44ff6a8ca3cb/file/8af9ba35-94f9-4b1f-a475-86c991bc9c0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fe%2F48%2F15%2Ffe481555f5b8491cb8530ed8155561ed%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/67d5a1e2-ddfd-4478-b00e-de7004109e31/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-cc0f4090-51ae-4feb-8911-44ff6a8ca3cb",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c821gm22z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.75, -72.5, 42.5, 42.25)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-c821gm22z"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Clarke, W. B."
+  ],
+  "dc_description_s": "Plan of the city of Dresden in the German state of Saxony. Includes a comparison of the principal buildings in Dresden.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/rx913s439",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[London] : Published by Baldwin & Cradock, 47 Paternoster Row : Printed by Henshall, 1833.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Dresden (Germany),Maps",
+    "Saxony (Germany),Maps"
+  ],
+  "dc_title_s": "Dresden",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7442478\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b66f9f9d-c886-483c-a0d6-ebc9cef2cd7d/file/1f6b82e2-6238-4462-80b4-6a741e711114\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b66f9f9d-c886-483c-a0d6-ebc9cef2cd7d/file/a7a69bed-b138-4d3d-9710-2fb62dd5a592\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2Fbd%2F27%2Ff9bd27e0a612432a9612ecf105a55f19%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34469628-462c-4aee-bb2e-d4fcf7c632e9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany (East)"
+  ],
+  "dct_temporal_sm": [
+    "1833"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b66f9f9d-c886-483c-a0d6-ebc9cef2cd7d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-rx913s439",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.718406, 13.765097, 51.071855, 51.030228)",
+  "solr_year_i": 1833.0,
+  "uuid": "princeton-rx913s439"
+}

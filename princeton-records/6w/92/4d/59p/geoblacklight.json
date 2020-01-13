@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
+  "dc_description_s": "\"504123 4-79 (544407).\" Relief shown by shading. Place names in Pinyin and Vietnamese. \"Map 1.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/6w924d59p",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "[Washington, D.C. : Central Intelligence Agency, 1979]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "China,Boundaries,Vietnam,Maps",
+    "Vietnam,Boundaries,China,Maps"
+  ],
+  "dc_title_s": "China-Vietnam boundary markers",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7215394\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81447c8d-4c2a-473a-b674-facc55bf0510/file/0a736011-f843-4a8d-bc1b-9619eae5f22b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86689ce1-1ac8-4934-937d-e0fd4c788971/file/f0e5cc68-5aeb-4854-bc24-b1090cdf22bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86689ce1-1ac8-4934-937d-e0fd4c788971/file/fc973b07-c934-4b17-a0b0-dcf0054c0c2c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F9e%2F97%2Fa79e9715c55342fa98800d1f083c3795%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6d690cf5-e951-4347-8e17-aa78bbf38a68/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "China",
+    "Vietnam"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-86689ce1-1ac8-4934-937d-e0fd4c788971",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-6w924d59p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(102.0, 108.0, 24.0, 21.0)",
+  "solr_year_i": 1979.0,
+  "uuid": "princeton-6w924d59p"
+}

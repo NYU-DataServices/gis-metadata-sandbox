@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 39.000000. South Decimal Degree 38.875000. East Decimal Degree -74.875000. West Decimal Degree -75.000000. Alternate title: Cape May, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Depth curve and surroundings in feet- datum is mean low water. Shoreline shown represents the approximate line of mean high water. The mean range of tide is apporoximately 4.3 feet.\"Mapped, edited, and published by the United States Geological Survey. Control by USGS, USC&GS, and New Jersey Geodetic Survey. Culture and drainage in part compiled by Corps of Engineers, Dept. of the Army, from aerial photographs taken 1943. Topography by planetable surveys 1954. Hydrography compiled from USC&GS charts 827 and 1219 (1955).\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9880vs424",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bathymetric maps"
+  ],
+  "dc_title_s": "Cape May Quadrangle, New Jersey--Cape May Co.. 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844969\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3ad00f7-2841-4386-9ba6-9367d31eb267/file/521d990f-6845-486a-8d8e-f3f797b3e58b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0868043-91ec-419e-857b-0218aa017fce/file/99560e2a-04ae-4289-87bd-c1df5de5ac46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0868043-91ec-419e-857b-0218aa017fce/file/1e1b7da6-7162-4fd7-b040-a3e3800bd76a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b4%2F52%2Faa%2Fb452aaaa8349467ab7cf8b7709d8a977%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7472250c-3076-4721-a76e-a93b8389f619/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c0868043-91ec-419e-857b-0218aa017fce",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9880vs424",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.875, 39.0, 38.875)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-9880vs424"
+}

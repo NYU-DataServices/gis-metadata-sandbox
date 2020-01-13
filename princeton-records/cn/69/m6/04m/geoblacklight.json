@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"Dec. 1909.\" Sheet 16, showing Little Ferry, foldered separately. \"2252.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cn69m604m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909, c1910.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Ridgefield Park,Maps",
+    "Ridgefield Park (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Ridgefield Park and Little Ferry, Bergen County, New Jersey (Sheet 15)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5287848\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1235b0a2-eded-47e8-a6d7-62e5e0ee69e5/file/0d83159b-5fb9-4bec-b506-e0444375aaaf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1235b0a2-eded-47e8-a6d7-62e5e0ee69e5/file/64f09d4f-e649-47a4-b53b-dc2bde6cea1f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2Fde%2F30%2F52de30c3e1074bc0ba0912c1ffa504a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19664754-3e97-420b-a98e-1de49f6a8ed0/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-1235b0a2-eded-47e8-a6d7-62e5e0ee69e5",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cn69m604m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-cn69m604m"
+}

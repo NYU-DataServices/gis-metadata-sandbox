@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Companion text: Geology and mineral resources of the Hammond, Antwerp and Lowville quadrangles. A. F. Buddington. Albany: New York State Museum. Bulletin 296. 1934. 25p. 54 fig. Another copy of map with source publication.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/w3763838h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Albany, N.Y. : University of the State of New York, New York State Museum, 1929.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Carthage (N.Y.),Maps"
+  ],
+  "dc_title_s": "Geologic map of the Precambrian area, Carthage Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6513898\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f8a5da13-2de5-4c4c-8f99-0196d2283c55/file/2b85ecb5-966f-4145-a650-b543174e51ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7d06b18f-77b0-437f-a915-f464524fd982/file/81ab69e6-7377-45e2-8a8c-2bfb0b37f8bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d06b18f-77b0-437f-a915-f464524fd982/file/6a1a824c-a316-4a5e-9ca4-0a5e1d01ba2d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F17%2Ffd%2F5a17fd2d83154eeea300a06b48b2473c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/12aecefb-51df-4723-8a1b-0ad33a585b40/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7d06b18f-77b0-437f-a915-f464524fd982",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-w3763838h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.75, -75.5, 44.0, 43.75)",
+  "solr_year_i": 1929.0,
+  "uuid": "princeton-w3763838h"
+}

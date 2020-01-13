@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sauthier, Claude Joseph"
+  ],
+  "dc_description_s": "Relief shown by hachures. \"Published as the Act directs, March 1, 1777, by Wm. Faden, corner of St. Martins Lane, Charing Cross.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5x21th83g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London, W. Faden, 1777.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Fort Washington (New York, N.Y.),Capture, 1776,Maps,Early works to 1800",
+    "Manhattan (New York, N.Y.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "A topographical map of the northn. part of New York Island, exhibiting the plan of Fort Washington, now Fort Knyphausen\u2026 [copy 2]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6331935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a6f6a9f2-ab68-45f6-b6a3-d939da0ea97d/file/bf22ea44-8ebf-419c-b863-c70575a3339b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a6f6a9f2-ab68-45f6-b6a3-d939da0ea97d/file/4e6a3bec-53b3-4d3b-a3a4-cb0841215a6c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d8%2F28%2F60%2Fd828604c18104320846e7adc7707aa84%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b0a68d7-8726-43de-9dfb-ce9af7436830/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-a6f6a9f2-ab68-45f6-b6a3-d939da0ea97d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5x21th83g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.980327, -73.887201, 40.886258, 40.79285)",
+  "solr_year_i": 1777.0,
+  "uuid": "princeton-5x21th83g"
+}

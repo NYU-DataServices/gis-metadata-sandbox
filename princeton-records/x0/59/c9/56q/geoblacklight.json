@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"April 1897.\" Includes key, key map, streets and specials index, and text. \"1192.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x059c956q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1897.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Newton,Maps",
+    "Newton (N.J.),Maps"
+  ],
+  "dc_title_s": "Newton, Sussex Co., N. J. (Sheet 4)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607544\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b732b37c-9db5-4b66-9417-26ebf65aecd4/file/95bffda2-d468-4b47-8e78-74678161a423\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b732b37c-9db5-4b66-9417-26ebf65aecd4/file/ff486a60-5bb0-4c8a-9e03-2837cfb66bea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Fcf%2Fcc%2F8bcfccb0313a48c48fbe6d74db0eb434%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aef5f250-1553-4604-9b1a-8c30d0a53dec/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b732b37c-9db5-4b66-9417-26ebf65aecd4",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x059c956q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
+  "solr_year_i": 1897.0,
+  "uuid": "princeton-x059c956q"
+}

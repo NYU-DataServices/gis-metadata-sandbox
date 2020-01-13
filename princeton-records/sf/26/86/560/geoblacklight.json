@@ -1,0 +1,54 @@
+{
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_description_s": "A scanned USGS 1:62500 topographic map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sf2686560",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "United States Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "geoscientificInformation",
+    "Elevation",
+    "Contour line",
+    "15 Minute Quadrangle Map",
+    "Roads",
+    "Topographic map"
+  ],
+  "dc_title_s": "New Jersey, Glassboro Sheet (1886) ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/761ea65f-e614-4eab-b523-7b80b70a5c1e/file/2d48363f-28a5-4109-b6a6-4ca9b85e4297\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c04cf56-d2a0-449e-a770-df1432db276b/file/7094c904-4688-469e-a364-a79c62ad4881\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c04cf56-d2a0-449e-a770-df1432db276b/file/af9375be-05b1-42f5-a737-5df58668fa69\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ca%2F7a%2F6a%2Fca7a6adebe4447a1b9551397229459b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/caa21df5-1c11-4175-a0c7-eadf3338b624/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Washington",
+    "Salem County",
+    "Glassboro",
+    "Clayton",
+    "Deerfield",
+    "Cumberland",
+    "Mantua",
+    "Gloucester County",
+    "New Jersey",
+    "Pittsgrove",
+    "Monroe",
+    "Harrison"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5c04cf56-d2a0-449e-a770-df1432db276b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sf2686560",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 39.75, 39.5)",
+  "solr_year_i": 1886.0,
+  "uuid": "princeton-sf2686560"
+}

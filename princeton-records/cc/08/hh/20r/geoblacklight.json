@@ -1,0 +1,48 @@
+{
+  "dc_creator_sm": [
+    "Army Map Service"
+  ],
+  "dc_description_s": "This is a map of the city of Papa in a series of maps of the Danube River shown at a 1:100,000 scale. The map was created for use by War and Navy Department agencies during World War II.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cc08hh20r",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Army Map Service",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Industry",
+    "City map",
+    "World War II",
+    "Railroads",
+    "Transportation",
+    "Facilities and Structures",
+    "Military",
+    "Roads"
+  ],
+  "dc_title_s": "Middle Danube 1:100,000. A.M.S. M671 (G.S.G.S. 4416). Papa. ",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08622863-14ae-4c28-bf24-ab4f208ff13f/file/7951ed4f-2998-40e0-b933-1b6628459822\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0ef8333-cf5f-48dc-a0f1-c12b87164a57/file/d5a13a87-8feb-467b-9fae-96d7e3932ae4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0ef8333-cf5f-48dc-a0f1-c12b87164a57/file/ae8257f9-849f-486b-8c9b-bd7d1242c8d3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a8%2F79%2F4d%2Fa8794df236304768a0856fcce2899d50%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5cfd1f1e-c073-4557-9a47-a97ea735327c/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Papa",
+    "G6031.C2.s100.A7M3",
+    "Central Europe",
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b0ef8333-cf5f-48dc-a0f1-c12b87164a57",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cc08hh20r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(17.3333, 18.3333, 47.5, 47.0)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-cc08hh20r"
+}

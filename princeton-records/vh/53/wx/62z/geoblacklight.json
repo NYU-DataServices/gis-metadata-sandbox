@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"Jany. 1891.\" Includes key, streets and specials index, and text. \"4236.\" North oriented towards upper left.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vh53wx62z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Perris Map Co., Limited, 1891.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Burlington,Maps",
+    "Burlington (N.J.),Maps"
+  ],
+  "dc_title_s": "Burlington, Burlington County, New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5053532\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f19ffdc5-b50e-4f92-8cf8-4681c443919b/file/195fa63d-7acf-4554-b10b-aebe484d8e5a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f19ffdc5-b50e-4f92-8cf8-4681c443919b/file/ea5bee0d-d7ff-4aab-9ebd-77722b75fc2b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/09%2F69%2F7a%2F09697ab980294e2388d5d8b90ef1442e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2833b5d0-c2c6-41bb-8948-e8939ecdbc4f/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f19ffdc5-b50e-4f92-8cf8-4681c443919b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vh53wx62z",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
+  "solr_year_i": 1891.0,
+  "uuid": "princeton-vh53wx62z"
+}

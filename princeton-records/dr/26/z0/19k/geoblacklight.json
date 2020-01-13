@@ -1,0 +1,36 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Kartographische Anstalt Freytag-Berndt und Artaria. Relief shown by spot heights. In upper left margin: Freytag-Berndt Stadtplan. In lower left corner: 193-56. Inset: map continuation. Bezirke, administrative districts, are indicated. Accompanied by index, [50] p. Map Library does not have this booklet.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/dr26z019k",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Wien : [s.n.], 1956.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Transportation",
+    "Austria,Maps"
+  ],
+  "dc_title_s": "Wien Gesamtplan, 1:25.00",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866045\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcdfb82f-b2b1-4b2e-9e82-92cdb6638911/file/1934c874-7664-4d70-990f-587a39d23ec8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcdfb82f-b2b1-4b2e-9e82-92cdb6638911/file/c439b266-e493-4ad2-8b96-e4bce16c6a61\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d7%2Fd9%2F2b%2Fd7d92b4b207040dc841b9c5901b618a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8cddb628-a6cc-4fdd-94b3-df081b313a26/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1956"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-dcdfb82f-b2b1-4b2e-9e82-92cdb6638911",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-dr26z019k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(16.166666666666668, 16.55, 48.333333333333336, 48.11666666666667)",
+  "solr_year_i": 1956.0,
+  "uuid": "princeton-dr26z019k"
+}

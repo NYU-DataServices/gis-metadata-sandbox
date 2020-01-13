@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "France. Service de la carte geologique de France Explanatory text: 1 sheet in MC folder. North Decimal Degree 49.4349 South Decimal Degree 49.0757 East Decimal Degree -1.6362 West Decimal Degree -2.5171 Alternate title: Barneville. Relief shown by hachures. Principal meridian: Paris. Longitude is given in centesimal values (100 grades = 90 degrees) .The Service de la carte geologique de la France was integrated to the BRGM to become the only France Service geologique national. Based on \"Carte topograqphique de l'etat major.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418q02t",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Orle\u0301ans : Bureau de recherches ge\u0301ogiques et minie\u0300res, 1963.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "France,Maps"
+  ],
+  "dc_title_s": "Carte geologique detaillee de la France [a 1/80 000]: Barneville",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6518413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76e2abf6-04b1-4e2f-995b-807c03354aef/file/e69644d9-1c9f-40b7-aa3e-a207342774dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76e2abf6-04b1-4e2f-995b-807c03354aef/file/d2f90fae-fc12-442c-8da9-025f8d23dd2b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e4%2F7a%2F9d%2Fe47a9d6eb5934137b76269d48a556c61%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c20658ba-a964-48a4-8b5d-5f041a6c5fad/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1963"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-76e2abf6-04b1-4e2f-995b-807c03354aef",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418q02t",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.5171, -1.6362, 49.4349, 49.0757)",
+  "solr_year_i": 1963.0,
+  "uuid": "princeton-p8418q02t"
+}

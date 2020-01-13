@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Terry"
+  ],
+  "dc_description_s": "Includes index to street names.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3j3334622",
+  "dc_language_s": "French",
+  "dc_publisher_s": "Paris : Terry, Boulevard Bonne Nouvelle, No. 37, 1828.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Paris (France),Maps"
+  ],
+  "dc_title_s": "Plan routier de la ville de Paris, divise\u0301 en douze arrondissemens",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030716\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc424d89-59ae-416f-abd9-9bba731ec3e1/file/cff7b384-e8af-48c8-930c-1f24455aa919\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc424d89-59ae-416f-abd9-9bba731ec3e1/file/3f4c01c5-6878-41f7-9d9e-6ed0ace9a7fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d7%2F4f%2F25%2Fd74f2502791f439eb0c7ba07a0ee3c4a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/adbf2355-20d6-4bd4-b93c-49a53ab810ef/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1828"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fc424d89-59ae-416f-abd9-9bba731ec3e1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3j3334622",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.288235, 2.40194, 48.884886, 48.830236)",
+  "solr_year_i": 1828.0,
+  "uuid": "princeton-3j3334622"
+}

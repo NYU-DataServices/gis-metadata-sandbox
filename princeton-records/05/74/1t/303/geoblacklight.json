@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "\"Tome IV, no. 93.\" in upper margin. Relief shown pictorially and by soundings. Coastline outlined in blue. From: Le petit atlas maritime. Paris, 1764.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/05741t303",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : s.n., 1764]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Porto-Vecchio (France),Maps,Early works to 1800",
+    "Corsica (France),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Plan de Porto Vecchio",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4721844\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b4b4ce8-3c8a-4916-b594-887facf97a16/file/2674e56b-c4e1-43d6-8786-a402b8d3a6f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9271c17f-3483-43ee-9749-a0de873d778b/file/c5a98654-bff2-4303-84ac-b55f71f1dba8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9271c17f-3483-43ee-9749-a0de873d778b/file/4b954007-cd43-41bb-8352-c80c9f4047e7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F30%2Ff1%2F0f30f165592641f2bcfe4fa4cfe28994%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/373ac378-93e3-45c1-ba4f-69597fbf2bfc/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9271c17f-3483-43ee-9749-a0de873d778b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-05741t303",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.262606, 9.395987, 41.650089, 41.533452)",
+  "solr_year_i": 1764.0,
+  "uuid": "princeton-05741t303"
+}

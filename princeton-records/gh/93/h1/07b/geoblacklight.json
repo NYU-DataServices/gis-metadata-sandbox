@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Pluckemin (1905) Alternate title: Pluckemin sheet. \"Surveyed in 1886. Resurveyed in 1905.\" Relief shown by 10 and 20 feet contour intervals and spot elevations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gh93h107b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1905.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Pluckemin (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Pluckemin",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448914\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ded53ab0-927a-407d-a8d0-fad832d9bc81/file/a54545b0-c495-413d-86b0-7e194a92c354\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/303a7356-ec23-46f7-b149-220c08fb3069/file/b905a80f-65a9-4676-8e35-2a641afa37ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/303a7356-ec23-46f7-b149-220c08fb3069/file/495500a6-a705-44e2-aa96-7dbd6a1e72e4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F64%2F64%2Fd064649bb6d04a15a06dc992f8ddc5f7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/086ae5d4-f456-4328-be7e-c6238df124c6/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-303a7356-ec23-46f7-b149-220c08fb3069",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gh93h107b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.76666666666667, -74.55, 40.7, 40.583333333333336)",
+  "solr_year_i": 1905.0,
+  "uuid": "princeton-gh93h107b"
+}

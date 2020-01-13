@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Hornby, A. J. W."
+  ],
+  "dc_description_s": "Map shows summer and autumn rainfall in inches, boundaries, all-weather and seasonal roads, railways, telegraph lines, lake steamer routes, and forest and game reserves. Includes ancillary map: Inset shewing connection between the Nyasaland Protectorate and the Indian Ocean [scale approximately 1:5,789,000 at 17°S]. Original map is filed in the Map and Geospatial Information Center. A map reproduction is attached to companion volume.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/vt150n46r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London : His Majesty's Stationery Office, 1938.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Rain and rainfall,Malawi",
+    "Rain and rainfall,Maps",
+    "Great Britain,Colonies",
+    "Malawi,Maps"
+  ],
+  "dc_title_s": "Nyasaland: rainfall map, summer and autumn climate, November 1st to April 30th, compiled by A. J. W. Hornby",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10079632\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b6903bc-1fc3-4289-8c24-0b219950afda/file/b698e960-5211-4e2e-9ea5-f2c2786847a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b6903bc-1fc3-4289-8c24-0b219950afda/file/129db5a8-1ec2-4b90-81ca-a714ff955760\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F2d%2Fe0%2F412de0019960433fb9f5ba839f3e7895%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/599335a7-8905-4167-9a71-4c1a9833e823/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-0b6903bc-1fc3-4289-8c24-0b219950afda",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-vt150n46r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.442308, 36.557692, -9.0, -17.166667)",
+  "solr_year_i": 1938.0,
+  "uuid": "princeton-vt150n46r"
+}

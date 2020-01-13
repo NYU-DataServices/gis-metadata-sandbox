@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1 Alternate title: Niigata, Japan. Polyconic projection. Names transcribed according to modified Hepburn (Romaji) system. Relief shown by 10 meter contour interval and spot elevations. Depth shown by fathoms. In upper left margin: \"Japan city plans 1:12,500\". Includes \"Glossary\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ks65hd729",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Phytogeography",
+    "Topographic maps",
+    "Bathymetric maps",
+    "Japan,Maps"
+  ],
+  "dc_title_s": "Niigata, Niigata Prefecture, Honshu, Japan. A.M.S. L902",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449979\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b6291bc3-e42b-4a82-b02a-c8968fe3d8b0/file/4e273984-9150-4968-a58f-8b97609a5ffd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9995d197-c3ab-4981-a9d4-f49e995bec0d/file/7f30fd96-05c2-467f-bbb5-8cc24c8e0b6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9995d197-c3ab-4981-a9d4-f49e995bec0d/file/47474990-ee6d-40c9-8937-8dce8d34349b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0f%2F6e%2F20%2F0f6e2068b8ca4083af3dc4a0e59c2dbf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ed762ccc-6ae4-4080-83d4-229b12f1c671/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-9995d197-c3ab-4981-a9d4-f49e995bec0d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ks65hd729",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(139.01666666666668, 139.08333333333334, 37.95, 37.9)",
+  "solr_year_i": 1945.0,
+  "uuid": "princeton-ks65hd729"
+}

@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"July 1896.\" Includes key, key map, streets and specials index, and text. \"561.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7m01bn91p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn-Perris Map Co., Limited, 1896.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Salem,Maps",
+    "Salem (N.J.),Maps"
+  ],
+  "dc_title_s": "Salem, Salem Co., N. J. (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5594894\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1129e91-a422-4e84-8764-9448dc51fb81/file/6aff1c3e-8499-4d22-9dd4-3cbfeed1981e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1129e91-a422-4e84-8764-9448dc51fb81/file/ed339542-3e33-4806-a416-27e66daf0e3f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2F4d%2F71%2Fbf4d71a40437489d9687bcf215bb062f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/35b00718-7060-4a68-81dd-eb5f4da13cc3/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f1129e91-a422-4e84-8764-9448dc51fb81",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7m01bn91p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
+  "solr_year_i": 1896.0,
+  "uuid": "princeton-7m01bn91p"
+}

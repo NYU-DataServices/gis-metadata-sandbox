@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Inter American Geodetic Survey. North Decimal Degree -11.500000. South Decimal Degree -11.666667. East Decimal Degree -68.500000. West Decimal Degree -68.750000. Alternate title: Barraca Alegria, Bolivia. Relief shown by 20 m. contour interval and spot heights. Universal transverse Mercator projection. Standard map series designation: Serie H731=[Series] H731. With a key to abbreviations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/x633f289b",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[La Paz] : Bolivia. Instituto Geografico Militar, 1985.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bolivia,Maps"
+  ],
+  "dc_title_s": "Bolivia 1:50.000: Barraca Alegria, hoja 5859 II. Serie H731",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6840980\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb65257c-c1bc-4984-8969-348ba9fe974f/file/c12bc935-c5a6-4db4-b10e-df96d930e771\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb65257c-c1bc-4984-8969-348ba9fe974f/file/ed5541e9-a906-492e-846b-c68b6ddb42f9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F85%2F0c%2Fb2850c5558254cae96db5237f152bfbc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5a5e089d-53b2-4c1e-a0b6-d6f1beb8cbae/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fb65257c-c1bc-4984-8969-348ba9fe974f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-x633f289b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.75, -68.5, -11.5, -11.666667)",
+  "solr_year_i": 1985.0,
+  "uuid": "princeton-x633f289b"
+}

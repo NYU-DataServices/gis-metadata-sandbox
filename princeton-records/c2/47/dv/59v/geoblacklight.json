@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Bibliographisches Institut Leipzig"
+  ],
+  "dc_description_s": "Relief shown by shading and spot heights. Includes 2 ancillary maps: Garmisch-Partenkirchen -- Mittenwald. Probably issued in: Deutsche Alpen / Bibliographisches Institut, Leipzig. 6. Aufl. Leipzig : Bibliographisches Institut, 1898.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/c247dv59v",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Leipzig : Bibliographisches Institut (Meyers Reisebu\u0308cher), [1898?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Alps, Bavarian (Germany),Maps",
+    "Garmisch-Partenkirchen (Germany),Maps",
+    "Mittenwald (Germany),Maps",
+    "Wettersteingebirge (Austria and Germany),Maps"
+  ],
+  "dc_title_s": "Wetterstein-Gebirge",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7414590\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2d0d975-ce70-4d0b-bef3-2f303dfdb37f/file/46d6914c-3c24-4d1b-8fd6-0da4a5d3eff1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2d0d975-ce70-4d0b-bef3-2f303dfdb37f/file/43435b03-0a45-4cd7-8ae7-c8cba73348c9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5c%2F90%2F98%2F5c909807f7ab4502965680c23357d0aa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/12596983-6c70-422c-9e19-dd7eed3eda5b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f2d0d975-ce70-4d0b-bef3-2f303dfdb37f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-c247dv59v",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.950259, 11.291694, 47.550166, 47.366784)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-c247dv59v"
+}

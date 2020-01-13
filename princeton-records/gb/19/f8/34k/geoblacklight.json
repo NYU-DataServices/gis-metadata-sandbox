@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "Map of the Abruzzo, Lazio, and Molise regions in Italy. Relief shown pictorially. Latin text on verso with caption title: Comitatus Molissinus, et principatus ulterior; p. 99; signature Mmmm. From: Theatrum orbis terrarum, sive, Atlas novus ... / editae a Guiljel. et Ioanne Blaeu. Amsterdami : apud Iohannem Guiljelmi F. Blaeu, 1644-1645. Vol. 3.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/gb19f834k",
+  "dc_language_s": "Latin",
+  "dc_publisher_s": "[Amsterdam : Willem Janszoon Blaeu and Joan Blaeu, 1645]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Abruzzo (Italy),Maps,Early works to 1800",
+    "Lazio (Italy),Maps,Early works to 1800",
+    "Molise (Italy),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Contado di Molise et principato vltra [verso]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8489413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddb1a840-e5e2-4ad0-ac27-b67f00c7c76d/file/29cc03a7-cd77-4ae0-b510-8800d5033f5a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddb1a840-e5e2-4ad0-ac27-b67f00c7c76d/file/ec84b522-3392-4a3a-a3e7-3f3d6b2ee5bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2Fac%2F9f%2Fbaac9fe95d2f4e1198ac8089d246a892%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/168243b5-e73c-44ca-8728-bd2363271a06/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "1645"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ddb1a840-e5e2-4ad0-ac27-b67f00c7c76d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-gb19f834k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.0194056, 14.7838895, 42.8950814, 41.6830806)",
+  "solr_year_i": 1645.0,
+  "uuid": "princeton-gb19f834k"
+}

@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Ridgway, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1940-1941. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d504rm741",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "Pennsylvania: Ridgway Quadrangle 15-minute series",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836961\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d96ca911-9227-4aed-a9f7-61080ab886b1/file/3c32c862-b127-47b2-833d-73e1748f4a21\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad587376-8262-4f10-8e20-1c9d2bd6c579/file/890053ce-f7f2-4c30-a605-93e030a158c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad587376-8262-4f10-8e20-1c9d2bd6c579/file/c1b59399-3800-4666-aa1f-0b5dc49d6164\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4b%2Ff3%2Ffa%2F4bf3faf37ee84586bc1c60faa3558780%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cdbe48a0-aec4-429b-b8dc-845cddd630f8/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ad587376-8262-4f10-8e20-1c9d2bd6c579",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d504rm741",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.75, -78.5, 41.5, 41.25)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-d504rm741"
+}

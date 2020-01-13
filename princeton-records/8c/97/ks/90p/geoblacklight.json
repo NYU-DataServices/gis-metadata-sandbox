@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Sydow, E. von (Emil), 1812-1873"
+  ],
+  "dc_description_s": "Relief shown by contours and gradient tints. Wall map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/8c97ks90p",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Gotha : bei Justus Perthes, [ca. 1870]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Europe,Maps"
+  ],
+  "dc_title_s": "Europa",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7099879\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3eda2924-be69-415a-97ad-5da840ea1661/file/f9c48955-7ae0-4056-a644-dbe356771415\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3eda2924-be69-415a-97ad-5da840ea1661/file/dd411aec-550e-41b4-9dd6-ebf32df15408\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0a%2F79%2Ffd%2F0a79fdd4d78f4405a06094eded58b12d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/97472f5e-01f4-43d5-836d-cea52cd4eba5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1870"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3eda2924-be69-415a-97ad-5da840ea1661",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-8c97ks90p",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-45.0, 87.0, 72.5, 25.0)",
+  "solr_year_i": 1870.0,
+  "uuid": "princeton-8c97ks90p"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [
+    "Kartun, Derek"
+  ],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kp78gh89h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "London, Lawrence & Wishart, 1954.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Great Britain,Colonies,Africa",
+    "Africa,Race relations"
+  ],
+  "dc_title_s": "Africa.",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/2728396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55b7244e-c69d-42c0-aafe-03f5a492e16b/file/e19fe1f2-0069-4281-95f9-6db76e8b050e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55b7244e-c69d-42c0-aafe-03f5a492e16b/file/df209167-8408-4635-94e8-b7c406e93a1c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F71%2F57%2F33715713225a407c940bd72601a25e3f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6ae29b26-ce4e-4165-864e-eaebca71bdca/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-55b7244e-c69d-42c0-aafe-03f5a492e16b",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kp78gh89h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-25.6244, 51.5195, 37.5071, -35.0869)",
+  "solr_year_i": 1954.0,
+  "uuid": "princeton-kp78gh89h"
+}

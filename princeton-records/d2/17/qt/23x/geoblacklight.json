@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sincerbeaux, C. S."
+  ],
+  "dc_description_s": "C.S. Sincerbeaux, Princeton Class of 1902.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/d217qt23x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Princeton, N.J.] : Published by Wm. L. Ulyat, 1915.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Princeton (N.J.),Maps",
+    "Real property,New Jersey,Princeton,Maps"
+  ],
+  "dc_title_s": "Map of the Borough of Princeton, Mercer County, New Jersey (Copy 1)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5490309\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b3d8de7-7880-4602-894c-4823c56d0b12/file/5ef29887-fa06-4e4d-8315-80552fe86c78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b3d8de7-7880-4602-894c-4823c56d0b12/file/5fe656fb-5a51-44f1-a30e-176aca42253a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/37%2Fa8%2Ff1%2F37a8f1963b384d94a60ed748b1dbdf65%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52e304b5-5479-4055-9e4c-fd4b80bc4d4d/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b3d8de7-7880-4602-894c-4823c56d0b12",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-d217qt23x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.687653, -74.633579, 40.379285, 40.333501)",
+  "solr_year_i": 1915.0,
+  "uuid": "princeton-d217qt23x"
+}

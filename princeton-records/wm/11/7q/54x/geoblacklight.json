@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "U.S.G.S. 7.5 minute series (topographic) North Decimal Degree 40.875000. South Decimal Degree 40.750000. East Decimal Degree -74.750000. West Decimal Degree -74.875000. Alternate title: Hackettstown, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. \"Mapped by the Army Map Service; Edited and published by the United States Geological Survey. Control by USC&GS, USCE, and New Jersey Geodetic Survey. Topography from aerial photographs by stereophotogrammetric methods. Aerial photographs taken 1942. Field check 1943. Culture revised by the Geological Survey 1953\" Map is temporarily filed in the Reserve Course Materials Collection.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/wm117q54x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1953.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Hackensack (N.J.),Maps"
+  ],
+  "dc_title_s": "Hackettstown Quadrangle, New Jersey 7.5 minute series (topographic)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844277\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c25cb85a-c894-493c-a1fb-8f7f84d92200/file/9c54ff1e-1fe1-496b-a00b-69e7018ce9f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6351394d-b89e-434f-acd0-b644636e940d/file/5c33c19d-58e0-48e2-919f-9d0453b394cb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6351394d-b89e-434f-acd0-b644636e940d/file/dd5e173b-ae55-4e33-829c-d239acc9249e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F36%2F5b%2F02365b70e3eb467080a5a1d33cf2940c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/80f0fc89-2b45-4f9d-972b-e3bb5a234a06/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1953"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6351394d-b89e-434f-acd0-b644636e940d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-wm117q54x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.875, -74.75, 40.875, 40.75)",
+  "solr_year_i": 1953.0,
+  "uuid": "princeton-wm117q54x"
+}

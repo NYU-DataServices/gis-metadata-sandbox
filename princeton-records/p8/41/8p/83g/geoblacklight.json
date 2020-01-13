@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Alternate title: La Libertad.Transverse Merrcator projection. Relief shown by 20 meter contour intervals and spot elevations. Coordinate conversion NAD 27 to NAD 83. \"Compiled in 1990 from best available sources.\" With a glossary.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/p8418p83g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Defense Mapping Agency Hydrographic-Topographic Center, 1991.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "El Salvador,Maps"
+  ],
+  "dc_title_s": "El Salvador city graphic 1:10,000 : La Libertad. Series E955",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830303\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/555355c3-cc56-453d-9941-59291c1acd97/file/42bf0a05-a7a8-449b-9519-1a83af012f5f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b4ebb6a-8c6a-4e34-803c-4d25a152f1c1/file/bfb4d9b7-4a3b-4be0-bae0-37552d60b2f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b4ebb6a-8c6a-4e34-803c-4d25a152f1c1/file/34495249-89aa-4761-93e4-0d0862b474d0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f8%2F68%2F2f%2Ff8682fa42f02412e9eeac09c2e18ab02%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e07e5baf-96ed-4711-929b-651559b28d19/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-3b4ebb6a-8c6a-4e34-803c-4d25a152f1c1",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-p8418p83g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-89.33333333333333, -89.3, 13.483333333333333, 13.466666666666667)",
+  "solr_year_i": 1991.0,
+  "uuid": "princeton-p8418p83g"
+}

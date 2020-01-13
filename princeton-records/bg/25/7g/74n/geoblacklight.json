@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Oneonta. Relief shown by 20 feet contour interval. Surveyed in 1915. Surveyed in cooperation with the State of New York. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bg257g74n",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1918.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Oneonta (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Oneonta Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867943\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6ed8c7d-1824-488f-bd86-72ab7405af16/file/d1c4ed82-f0c9-475f-a6ce-a179f242252e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e10bc23-4760-4346-b9d8-8167c4299fdf/file/09bda213-72ce-4f28-8180-072ffbdf08d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e10bc23-4760-4346-b9d8-8167c4299fdf/file/e7aed428-7a06-4214-b3b9-e86648e3d490\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F44%2Fde%2F9f44de8e21cf4220b271a1d94830fe7e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c9e2ed9-5a6d-420b-8364-142b64fc24f7/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1918"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-5e10bc23-4760-4346-b9d8-8167c4299fdf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bg257g74n",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.25, -75.0, 42.5, 42.25)",
+  "solr_year_i": 1918.0,
+  "uuid": "princeton-bg257g74n"
+}

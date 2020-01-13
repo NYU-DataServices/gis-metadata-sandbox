@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Ithaca, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1893. Surveyed in cooperation with the State of New York. Surveyed by reconnaissace methods. Triangulation by N.Y. State Survey. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/08612q21r",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1895.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "dc_title_s": "New York: Ithaca Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867874\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1cf48f43-a7f2-4705-88b6-b798a8276418/file/e1b62f2e-01d1-4e81-90ec-30c4c944fdb8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/646b52b3-692d-485d-b647-3e9288ee0d41/file/13f78fb5-524c-4bc9-afd9-ae4156bc4a3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/646b52b3-692d-485d-b647-3e9288ee0d41/file/d16a2efa-4620-43fd-9086-c91f44e15ac2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1d%2F69%2F5e%2F1d695e58becc4744959104f23cb45922%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ba0ba077-ef79-4dda-a18d-935551d5a06a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-646b52b3-692d-485d-b647-3e9288ee0d41",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-08612q21r",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.75, -76.5, 42.5, 42.25)",
+  "solr_year_i": 1895.0,
+  "uuid": "princeton-08612q21r"
+}

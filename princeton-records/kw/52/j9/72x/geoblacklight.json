@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Andes, N.Y. Polyconic projection. Relief shown by 20 feet contour interval. Surveyed in 1922 in cooperation with the State of N.Y. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kw52j972x",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Reston, Va.] : U.S. Geological Survey, 1924.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Andes (N.Y.),Maps"
+  ],
+  "dc_title_s": "New York: Andes Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866529\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2e7420a-6a0d-4c59-827e-07e795e6c951/file/aab34fea-f71f-4489-902d-166e1584cead\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d16289b-bd19-4118-802f-ab9ea25690ad/file/959fffab-0fbf-4377-b696-23f774915ea6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d16289b-bd19-4118-802f-ab9ea25690ad/file/3dc5d9ed-284b-4e9a-978a-98be4c12440a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/03%2Fd2%2F9e%2F03d29e49a9844fa7b2e15e75d06e1202%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d0bb46c1-0b26-4bc9-be68-5295ea63f42e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-6d16289b-bd19-4118-802f-ab9ea25690ad",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kw52j972x",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.0, -74.75, 42.25, 42.0)",
+  "solr_year_i": 1924.0,
+  "uuid": "princeton-kw52j972x"
+}

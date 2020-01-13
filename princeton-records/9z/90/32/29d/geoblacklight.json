@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Poppleton, Thomas H."
+  ],
+  "dc_description_s": "Relief shown by hachures. Originally published: [New York] : Prior & Dunning, 1817. \"Engraved from the original map by G. Hayward for D.T. Valentines Manual for 1855.\" Shows ward boundaries, ferry lines, slip numbers and selected places of interest. Includes key to places of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/9z903229d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York] : New York Common Council, 1855.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps",
+    "New York (N.Y.),Maps",
+    "New York (N.Y.),Administrative and political divisions,Maps"
+  ],
+  "dc_title_s": "Plan of the City of New York : the greater part from actual survey made expressly for the purpose (the rest from authentic documents)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6207321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c93f6f04-5535-4ec2-a0d6-ae0ddd7fca49/file/35a6b83c-295c-4b78-a049-ffb20431ef6b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c93f6f04-5535-4ec2-a0d6-ae0ddd7fca49/file/8ec500b9-85ab-4dbc-99ff-d9c1546784bf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F71%2Fb2%2F8a71b268ed8d43408fc824100867329a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ccd54e6f-b59e-4d86-987c-91a0454894b1/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1855"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c93f6f04-5535-4ec2-a0d6-ae0ddd7fca49",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-9z903229d",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.019641, -73.970825, 40.744616, 40.699634)",
+  "solr_year_i": 1855.0,
+  "uuid": "princeton-9z903229d"
+}

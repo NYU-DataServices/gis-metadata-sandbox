@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Geological Survey. U.S.G.S. Alternate title: Bellefonte, PA. Polyconic projection. Relief shown by 20 feet contour interval and spot heights. Surveyed in 1908. Surveyed in cooperation with the State of Pennsylvania. Verso: The topographic maps of the United States.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bc386k82h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Geological Survey, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Bellefonte (Pa.),Maps"
+  ],
+  "dc_title_s": "Pennsylvania: Bellefonte Quadrangle",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868205\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/052f2666-daf9-46e9-8d21-cb774cde2294/file/da87d501-bf77-471c-b016-db8963cdf781\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98e0f0bc-28fd-4840-b76c-05cfe0a728da/file/48d317fb-5922-4560-9f5a-3b4007514bbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98e0f0bc-28fd-4840-b76c-05cfe0a728da/file/bd8ea3f9-d4ce-4602-9108-19866bf48357\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3f%2F94%2F0e%2F3f940e329f2a4831b52f350a82251f41%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6816295-30b9-45f2-91c9-c43e58b9e804/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-98e0f0bc-28fd-4840-b76c-05cfe0a728da",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bc386k82h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.0, -77.75, 41.0, 40.75)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-bc386k82h"
+}

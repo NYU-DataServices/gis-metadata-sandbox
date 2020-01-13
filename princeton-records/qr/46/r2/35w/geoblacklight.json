@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "AMS 1. Alternate title: Reus city plan. With key to street names. Projection approximate. Prepared from Spanish map 1:50,000 472; Europe B24-MG-33.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qr46r235w",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1943.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Spain 1:10,000. Reus city plan. A.M.S. M981",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816738\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/290b3a73-3237-4d5d-b677-3777379a374e/file/5c1615c2-dabc-4ebe-95f9-43c24e6a30ab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2b0a124-2af5-4df9-9fd6-cfbbc57acc2d/file/0fbccb35-4ed8-4c1d-9b40-badff27da47d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2b0a124-2af5-4df9-9fd6-cfbbc57acc2d/file/ce25d9cf-1a3c-4b83-8044-68590b73d4cf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2Fb6%2Fcc%2F48b6cce794184ac7966adbf6a99c545e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f8bf86fa-5cfe-4fd0-a8d3-1aeb87d1ea98/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d2b0a124-2af5-4df9-9fd6-cfbbc57acc2d",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qr46r235w",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.0833333333333333, 1.1333333333333333, 41.166666666666664, 41.13333333333333)",
+  "solr_year_i": 1943.0,
+  "uuid": "princeton-qr46r235w"
+}

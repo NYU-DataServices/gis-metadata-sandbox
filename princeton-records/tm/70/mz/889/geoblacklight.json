@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Beyrich, H."
+  ],
+  "dc_description_s": "Map shows districts by color code, street names, public buildings, railways and tram routes. Include a list of abbreviations. In lower left margin: \"De venta en la Libreria Internacional de Romo y Fu\u0308ssel.\" Buildings are numbered. The library does not have the companion text to identify them. South Decimal Degree 40.400000. East Decimal Degree -3.666667. West Decimal Degree -3.716667. Romo y Fussel. North Decimal Degree 40.450000.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/tm70mz889",
+  "dc_language_s": "Spanish",
+  "dc_publisher_s": "[Madrid] : H. Beyrich, [1920].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions,Maps",
+    "Streets,Spain,Madrid,Maps",
+    "Madrid (Spain),Maps",
+    "Spain,Maps",
+    "Cities and towns"
+  ],
+  "dc_title_s": "Plano nuevo de Madrid",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6816723\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8213c176-2861-48ed-82e8-633e026a77af/file/e3d3c090-3a56-4c19-a202-c200aa9f7cec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8213c176-2861-48ed-82e8-633e026a77af/file/f323612b-918d-4066-a30a-a53798d7526b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/00%2F90%2F7e%2F00907ead1bab45e0a687d92f0e18d8c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/26ded5cb-77c4-41c0-82cc-ab68cb57a049/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-8213c176-2861-48ed-82e8-633e026a77af",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-tm70mz889",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-3.722222, -3.661944, 40.467778, 40.406944)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-tm70mz889"
+}

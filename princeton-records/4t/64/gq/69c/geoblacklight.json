@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "United States Coast Survey"
+  ],
+  "dc_description_s": "Covers Captain Harbor and adjacent waters. The harbor is between the islands and the mainland of Greenwich, Conn., immediately east of the New York state line. Captain's Island East is now called Little Captain Island. Captain's Island West is now called Great Captain Island. Relief shown by hachures and landform drawings. Depths shown by soundings and contours. Includes sailing directions and information on tides. \"The triangulation was executed in 1834, the topography in 1836, and the hydrography in 1836.\" At foot of title: Harbors of refuge no. \"Harbor map no.\"--Upper left margin. \"Topography reduced by W. Luce, draughtsman. Hydrography reduced by W.C. Barney, Lt. U.S. Navy. Hills by A. Rolle, title by W. Smith, and the rest by S.T. Pettit.\"--Lower margin.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4t64gq69c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1849.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Connecticut,Captain Harbor",
+    "Harbors,Connecticut,Captain Harbor,Maps",
+    "Captain Harbor (Conn.),Maps",
+    "Greenwich (Conn.),Maps"
+  ],
+  "dc_title_s": "Harbors of Captain's Island East and Captain's Island West",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7684900\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4538761d-23e6-47a2-8510-555ad8d0647f/file/3cb2df6d-7721-49fb-b7c2-805fd85a1d23\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4538761d-23e6-47a2-8510-555ad8d0647f/file/f0f41bf3-b996-4eb4-8b1a-ff8dbfe91452\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4c%2Fd5%2Ffa%2F4cd5fa0dc3714a719327857d103192e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e04f8bbe-8efe-466f-9fdd-4c647b17a720/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1849"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-4538761d-23e6-47a2-8510-555ad8d0647f",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4t64gq69c",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.675053, -73.575146, 41.016819, 40.962657)",
+  "solr_year_i": 1849.0,
+  "uuid": "princeton-4t64gq69c"
+}

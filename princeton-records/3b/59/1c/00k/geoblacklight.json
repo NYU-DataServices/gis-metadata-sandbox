@@ -1,0 +1,50 @@
+{
+  "dc_creator_sm": [
+    "Viele, Egbert L. (Egbert Ludovicus), 1825-1902"
+  ],
+  "dc_description_s": "Ground characteristics map. Covers Manhattan and the Bronx, Roosevelt Island, Ward's Island and Randall's Island in New York city. Shows streams, ponds and wetlands, reservoirs and landfill. Also shows location of piers, streets and railroad lines. Also shows buildings. Shows relief throughout by hachures and gradient tints. Also shows relief on ancillary map profiles. Supplementary statements of responsibility at lower left and right of map. Publisher inferred by cataloger from statement of responsibility. Printer's ink on paper. Includes color key. Sheets numbered at upper right. Includes three ancillary maps: \"Section across Central Park, Section from 50th Street to Brooklyn Heights, Section from Hoboken to Brooklyn.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/3b591c00k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Julius Bien lith.], 1874.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps",
+    "Bronx (New York, N.Y.),Maps",
+    "Ward's Island (N.Y.),Maps",
+    "Randalls Island (N.Y.),Maps",
+    "Roosevelt Island (New York, N.Y.),Maps",
+    "Rivers,New York (State),New York,Maps",
+    "Ponds,New York (State),New York,Maps",
+    "Wetlands,New York (State),New York,Maps",
+    "Fills (Earthwork),New York (State),New York,Maps",
+    "Railroads,New York (State),New York,Maps",
+    "Piers,New York (State),New York,Maps",
+    "Reservoirs,New York (State),New York,Maps",
+    "Buildings,New York (State),New York,Maps"
+  ],
+  "dc_title_s": "Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land. [Sheet 4 of 5]",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6237381\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/faec64a2-af0b-4a63-b2d5-c5b7918c0fac/file/dede1cb3-40ca-4179-85f9-018cc0c90336\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/faec64a2-af0b-4a63-b2d5-c5b7918c0fac/file/2a7d0eb4-687e-40ba-8335-63142aaf1548\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7d%2Ffb%2F52%2F7dfb526201c64d4d8667f2de336bb9cb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/81511ba0-7526-4eb8-871f-609b836d9c45/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-faec64a2-af0b-4a63-b2d5-c5b7918c0fac",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-3b591c00k",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0166666667, -73.9, 40.8666666667, 40.7)",
+  "solr_year_i": 1874.0,
+  "uuid": "princeton-3b591c00k"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a map of Bolivia. The map was created by the Central Intelligence Agency.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/k930bz45m",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "Central Intelligence Agency",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and Political Boundaries",
+    "Railroads",
+    "Transportation",
+    "Roads"
+  ],
+  "dc_title_s": "Bolivia, 1986",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d87f4d2c-e410-4aae-8c5a-fec705a9935d/file/9cff9921-9c82-456b-b86a-1fe0f79c7347\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9357cc5-ec89-41b3-b128-700b998c7bdf/file/7ff7bf46-ec31-4aa5-b1e1-047fd1ac7869\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9357cc5-ec89-41b3-b128-700b998c7bdf/file/30116cbf-7f5b-4763-978d-cb9d201f09b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F3e%2F8a%2Ffa3e8aae1b3f4e56b146028adf6d4244%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/907267f7-4296-4c15-bb98-5243d3cc34f9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Bolivia",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1986"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-c9357cc5-ec89-41b3-b128-700b998c7bdf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-k930bz45m",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.0, -60.0, -10.0, -24.0)",
+  "solr_year_i": 1986.0,
+  "uuid": "princeton-k930bz45m"
+}

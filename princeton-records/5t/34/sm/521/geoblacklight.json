@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 25-74 of vol. 1 of Essex Co. series.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/5t34sm521",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Belleville,Maps",
+    "Belleville (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Belleville, Essex County, New Jersey (Sheet 45)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5418942\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed1ab354-fa78-4da7-b357-66b916fcc6ba/file/357031be-6264-4f30-8511-40dd851cedff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed1ab354-fa78-4da7-b357-66b916fcc6ba/file/4e6dbe59-c4fd-4b37-9d80-fd692ad08703\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4f%2F91%2Fc5%2F4f91c5691fc3473692533bfaa7ad8640%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1c7c71a-664c-4f07-b2a8-1852d943e501/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-ed1ab354-fa78-4da7-b357-66b916fcc6ba",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-5t34sm521",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-5t34sm521"
+}

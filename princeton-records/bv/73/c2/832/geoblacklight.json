@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "A scanned map object.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/bv73c2832",
+  "dc_language_s": "Undetermined",
+  "dc_publisher_s": "s.l. : [s.n.], [ca. 1970].",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps, Outline and base",
+    "Yugoslavia,Maps"
+  ],
+  "dc_title_s": "Porec",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6837777\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f453fe40-8da9-40be-b49a-4563e29f4992/file/efa555a2-45d2-4221-a9b7-f1195ed219ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f453fe40-8da9-40be-b49a-4563e29f4992/file/dc886f2c-88a9-4a79-b597-30b477546ac8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/52%2F95%2F1f%2F52951fa5c03a4d858a0a70953dd66d8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/181cd188-bfb9-4f02-a0c6-db1fc0499277/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-f453fe40-8da9-40be-b49a-4563e29f4992",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-bv73c2832",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.566666666666666, 13.616666666666667, 45.233333333333334, 45.21666666666667)",
+  "solr_year_i": 1970.0,
+  "uuid": "princeton-bv73c2832"
+}

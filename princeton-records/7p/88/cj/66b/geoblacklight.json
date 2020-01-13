@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"November 1921.\" Includes location map, key, key map, streets and specials index, and text. \"4433.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/7p88cj66b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1921, c1922.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Chatham,Maps",
+    "Chatham (N.J.),Maps"
+  ],
+  "dc_title_s": "Chatham, Morris County, New Jersey (Sheet 5)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5552301\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eba0b859-cd8a-4530-b0de-5d4edd8bc599/file/7d705dd0-3470-4a1d-8c2f-c406fd69244f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eba0b859-cd8a-4530-b0de-5d4edd8bc599/file/2cef8b63-b703-47cb-8241-c5a1be6832bc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F45%2Fab%2F9f45ab62e3914cccbfaf961746aade08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/069cae94-8164-4260-914a-63d863c1a7b5/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-eba0b859-cd8a-4530-b0de-5d4edd8bc599",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-7p88cj66b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.399721, -74.363072, 40.75521, 40.724299)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-7p88cj66b"
+}

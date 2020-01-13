@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "United States. Army Map Service. North Decimal Degree 43.0000. South Decimal Degree 42.0000. East Decimal Degree -6.0000. West Decimal Degree -7.0000. Alternate title: Ponferrada, Spain. Polyconic projection. With Spanish-English glossary. Relief shown by 100 m. contour interval, gradient tint and spot heights. Standard map series designation: A.M.S. M581. \"Compiled from Spain, 1:50,000, Instituto Geografico, 1925-42; Iberian Peninsula, 1:250,000, Geographical Section, General Staff, 1941, sheets S. 2480-3680; Road Map of Spain and Portugal, 1:400,000, A.M.S. sheets 41 and 44, Third Edition, 1943; Railways of Spain and Portugal 1:1,500,000, G.S.G.S., 1941, corrected from intelligence Reports, 1942-44.\".",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/kw52j991b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Washington, D.C. : [s.n.], 1944.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Spain,Maps"
+  ],
+  "dc_title_s": "Iberian Peninsula 1:250,000: Ponferrada, sheet 12. Series A.M.S. M581",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6839237\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a250120-e5b1-41f9-bc9d-7e6b7bd73784/file/156e882a-2361-4a0a-89cc-82616b3cc479\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a250120-e5b1-41f9-bc9d-7e6b7bd73784/file/c16898f9-ccfa-4736-86cc-840b64fc92b1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ad%2Fdf%2F0f%2Faddf0f1e0f984d45a8a61d0bbd0a5a5e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9880744b-e901-43f4-a11f-8420c6f4bd1e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7a250120-e5b1-41f9-bc9d-7e6b7bd73784",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-kw52j991b",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-7.0, -6.0, 43.0, 42.0)",
+  "solr_year_i": 1944.0,
+  "uuid": "princeton-kw52j991b"
+}

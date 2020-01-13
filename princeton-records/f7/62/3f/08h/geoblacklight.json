@@ -1,0 +1,35 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Topographic Name Sheet. Somerville New Jersey. Department of Conservation and Development. Division of Geology and Topography Alternate title: Somerville sheet. \"Surveyed in 1886. Resurveyed in 1917.\" Relief shown by 10 and 20 feet contour intervals and spot elevations.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/f7623f08h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : New Jersey Geological Survey, 1920.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Somerville (N.J.),Maps"
+  ],
+  "dc_title_s": "New Jersey topographic name sheet. Somerville",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6448915\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca6aee6e-56ae-4aaf-ba03-57265f1d9c80/file/1ab5bf5d-83a1-4baa-8afb-57c9671bb971\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d20240ac-83a0-42f6-b968-222588ecd1ec/file/364f133b-3062-4a33-9d1e-16f87da174cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d20240ac-83a0-42f6-b968-222588ecd1ec/file/641c8b66-27c4-43e7-8bf9-d2e0f3a2952c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/06%2F3c%2F66%2F063c6683c7b645e39c2965a1cffdc84f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f5d557ff-cf8b-4a41-837e-621dbaf26664/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-d20240ac-83a0-42f6-b968-222588ecd1ec",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-f7623f08h",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.76666666666667, -74.55, 40.583333333333336, 40.46666666666667)",
+  "solr_year_i": 1920.0,
+  "uuid": "princeton-f7623f08h"
+}

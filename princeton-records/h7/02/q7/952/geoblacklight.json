@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "New Jersey Geological Survey. Geological Survey of New Jersey. Companion text: Report on forestry in northern New Jersey / C. C. Vermeule. Annual Report of the State Geologist for the Year 1895. Trenton : New Jersey Geological Survey. 1896. 97-156 pp. Relief shown by 10 ft. contour interval and spot heights. Map is in six sheets.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/h702q7952",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1900.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Forests and forestry",
+    "Mines and mineral resources",
+    "Quarries and quarrying",
+    "Topographic maps",
+    "Plants",
+    "NJ, north,Maps"
+  ],
+  "dc_title_s": "Forest of northern New Jersey: north central sheet",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6867455\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/93083089-e21a-4bce-93e5-e12bcba42a1f/file/1661efb4-9de4-41da-852e-3392d6395e2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93f2a65f-7638-497c-be56-de5109631793/file/7678668a-bc69-46ae-a7e8-ce1aeb46c5d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93f2a65f-7638-497c-be56-de5109631793/file/f554f7bc-3dcb-47da-80af-578354e289a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/43%2Ff3%2Ffb%2F43f3fb14928e4ff097f43fc85e07a769%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2f4c58d-d327-4ff6-b93c-e7b1214907a2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-93f2a65f-7638-497c-be56-de5109631793",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-h702q7952",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.76666666666667, -74.33333333333333, 41.36666666666667, 40.93333333333333)",
+  "solr_year_i": 1900.0,
+  "uuid": "princeton-h702q7952"
+}

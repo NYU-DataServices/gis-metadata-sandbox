@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes text. Sheets 64-65 of New Jersey coast map, vol. 4, series. North oriented towards upper right.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/qn59q6346",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York : Sanborn Map Co., 1921?]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Avalon,Maps",
+    "Avalon (N.J.),Maps"
+  ],
+  "dc_title_s": "Avalon (Sheet 64)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5689431\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/022f74c3-715a-49b6-9ac6-42f13bb4a406/file/fc89839d-03df-459c-a9d5-29dca70e1335\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/022f74c3-715a-49b6-9ac6-42f13bb4a406/file/f9fa040d-9712-4e38-972f-07b7b5c9405f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ab%2F5e%2Fb4%2Fab5eb43613704181b3bce90e8896c36d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68229d9e-1539-4cf7-b5ad-5763fddb23d2/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-022f74c3-715a-49b6-9ac6-42f13bb4a406",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-qn59q6346",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.767229, -74.704901, 39.117942, 39.06237)",
+  "solr_year_i": 1921.0,
+  "uuid": "princeton-qn59q6346"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sarmiento, Domingo Faustino, 1811-1888"
+  ],
+  "dc_description_s": "Reproduction of original from Huntington Library. Sabin no. 77082.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b740f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Providence : Knowles, Anthony & Co., Printers, 1866.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "South America,Politics and government,1830-1980",
+    "North America,Relations,South America",
+    "South America,Relations,North America"
+  ],
+  "dc_title_s": "North and South America a discourse delivered before the Rhode-Island Historical Society, December 27, 1865",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5051917\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f65106ad-b98a-4d26-8274-8e6d6dc55890/file/382920a5-b133-4e72-8a4a-9c3071fb940c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/acb42c8e-d931-4135-9e29-7978a9f66004/file/06242472-b395-403c-9702-36ac72623900\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/acb42c8e-d931-4135-9e29-7978a9f66004/file/58452b44-16b1-4db6-b8c3-06960a8f24a0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9a%2F36%2F83%2F9a3683e43a1a43bc9a6e572037cba2c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1bcf6535-e6ab-476c-84f7-d2bb28e43b02/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "South America",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1866"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-acb42c8e-d931-4135-9e29-7978a9f66004",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b740f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-165.0, -15.0, 90.0, -60.0)",
+  "solr_year_i": 1866.0,
+  "uuid": "princeton-4b29b740f"
+}

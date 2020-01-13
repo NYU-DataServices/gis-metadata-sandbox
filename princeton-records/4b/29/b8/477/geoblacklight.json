@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Goos, Pieter, ca. 1616-1675"
+  ],
+  "dc_description_s": "Depths shown by soundings. \"In effect this map is the first of present day New Jersey and is the most detailed map of the region to date.\"--Burden, P.D. The mapping of North America, p. 495. Imprint from Burden. From: De zee-atlas ofte water-wereld / Pieter Goos. Amsterdam: Pieter Goos, 1666.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/4b29b8477",
+  "dc_language_s": "Dutch; Flemish",
+  "dc_publisher_s": "[Amsterdam : Pieter Goos, 1666]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "New Jersey,Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Paskaerte van de Zuy\u00a8dt en Noordt Revier in Nieu Nederlant : streckende van Cabo Hinloopen tot Rechkewach (Copy 3)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825141\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03d9db09-7e50-4816-954d-2deaf3cb87c6/file/294c7384-9245-4638-863e-790214207b0a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03d9db09-7e50-4816-954d-2deaf3cb87c6/file/8365c76f-920e-4e44-aa91-0e47b910d1e3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3a%2Fa1%2F86%2F3aa186fc8a3c469a8c785a657f28b0d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/44067ee9-67dc-4236-be6b-55478b5e3008/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1666"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-03d9db09-7e50-4816-954d-2deaf3cb87c6",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-4b29b8477",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.56, -70.73, 41.85, 38.76)",
+  "solr_year_i": 1666.0,
+  "uuid": "princeton-4b29b8477"
+}

@@ -1,0 +1,37 @@
+{
+  "dc_creator_sm": [],
+  "dc_description_s": "Geological Survey of New Jersey. Atlas Sheet 3 (Central Highlands) (1898) New Jersey Geological Survey. Relief shown by 20 ft contour interval and spot heights. From original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey. In upper margin: Geological Survey of New Jersey. Atlas sheet no. 3 (central Highlands).",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/cz30pv125",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Trenton, N.J. : Geological Survey of New Jersey, 1898.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Topographic maps",
+    "Mines and mineral resources",
+    "Quarries and quarrying",
+    "Central Highlands (N.J.),Maps"
+  ],
+  "dc_title_s": "A topographical map of the central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866933\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/95d1f86b-9fb8-4a55-af19-3f1935e0eeee/file/ce0696c6-3ea5-4950-b25b-aa0279b31053\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7376e2db-d268-406b-b1dd-e86ee5c36e7e/file/44338c86-4819-46d8-a5ab-0b772966596e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7376e2db-d268-406b-b1dd-e86ee5c36e7e/file/86322240-50c9-4805-86b5-5f3230ba4310\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2F9b%2F5c%2F489b5cb3998240d5b90d91b8ac053fc1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/49498dd6-bbb7-4af3-9a2b-907590c9421a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-7376e2db-d268-406b-b1dd-e86ee5c36e7e",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-cz30pv125",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.85, -74.4, 48.15, 40.65)",
+  "solr_year_i": 1898.0,
+  "uuid": "princeton-cz30pv125"
+}

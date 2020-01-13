@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Includes key, streets and specials index, and text. \"December 1906.\" \"9229.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/0v838246g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1906, c1907.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,May's Landing,Maps",
+    "May's Landing (N.J.),Maps"
+  ],
+  "dc_title_s": "May's Landing, Atlantic Co., New Jersey (Sheet 2)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190660\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b978855e-2596-4b22-a355-1e53cb1c3fcf/file/c9ea9ef3-75b7-4ea1-871f-259d037275de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b978855e-2596-4b22-a355-1e53cb1c3fcf/file/b2e8c6ae-d4e2-4af1-8652-dc476c461b55\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2F5c%2F40%2F555c403fe5124e4bbfd3e3c800818b12%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5a6d742e-146c-4291-a41a-fda395fa05c9/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-b978855e-2596-4b22-a355-1e53cb1c3fcf",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-0v838246g",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
+  "solr_year_i": 1906.0,
+  "uuid": "princeton-0v838246g"
+}

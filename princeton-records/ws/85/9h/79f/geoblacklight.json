@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "\"May 1909.\" Includes key, key map, streets and specials index and text. \"1419.\"",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ws859h79f",
+  "dc_language_s": "English",
+  "dc_publisher_s": "New York : Sanborn Map Company, 1909.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Real property,New Jersey,Dover,Maps",
+    "Real property,New Jersey,Wharton,Maps",
+    "Dover (N.J.),Maps",
+    "Wharton (N.J.),Maps"
+  ],
+  "dc_title_s": "Insurance maps of Dover and Wharton, Morris County, New Jersey (Sheet 19)",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5557078\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86afd301-e705-4282-9efb-d0e7ffb6f400/file/40e1b0cb-cb22-4866-9247-636842bd1b89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86afd301-e705-4282-9efb-d0e7ffb6f400/file/7b6afd78-2230-48c7-af77-ada8ad74ee72\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2F82%2F81%2Fd48281c6ba274bdcb9c4ecf0bb0883a2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9a1a50ee-3768-4620-8223-aad385b25524/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-86afd301-e705-4282-9efb-d0e7ffb6f400",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ws859h79f",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
+  "solr_year_i": 1909.0,
+  "uuid": "princeton-ws859h79f"
+}

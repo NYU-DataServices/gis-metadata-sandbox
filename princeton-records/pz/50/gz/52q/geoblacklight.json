@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Lyne, James"
+  ],
+  "dc_description_s": "Shows wards, streets and public buildings. \"For D. Valentine's Manual.\" Includes index to points of interest.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/pz50gz52q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "[New York, N.Y. : D.T. Valentine, 1850]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Manhattan (New York, N.Y.),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Plan of New York in 1729",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6165613\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d2a4b36-d1ea-479d-b628-3b99eb8f0824/file/a8e4334c-03b9-4a75-931e-a06c39b5d06e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d2a4b36-d1ea-479d-b628-3b99eb8f0824/file/15bd8861-96fa-4a44-b7c1-e0fae20647e5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F85%2F49%2Ffa8549a83ff2470f9eea460cae8883b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d11869cb-250a-4f79-994b-38e2598b0f4a/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-2d2a4b36-d1ea-479d-b628-3b99eb8f0824",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-pz50gz52q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.0196413297, -74.0000612039, 40.7126848489, 40.6993139235)",
+  "solr_year_i": 1850.0,
+  "uuid": "princeton-pz50gz52q"
+}

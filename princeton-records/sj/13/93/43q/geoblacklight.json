@@ -1,0 +1,39 @@
+{
+  "dc_creator_sm": [
+    "Bellin, Jacques Nicolas, 1703-1772"
+  ],
+  "dc_description_s": "\"Tome IV, no. 51.\" in upper margin. Relief shown pictorially and by soundings. Coastline outlined in blue. From: Le petit atlas maritime. Paris, 1764.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/sj139343q",
+  "dc_language_s": "French",
+  "dc_publisher_s": "[Paris : s.n., 1764]",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Nautical charts,Early works to 1800",
+    "Ferrol (Spain),Maps,Early works to 1800"
+  ],
+  "dc_title_s": "Plan du port de Ferrol",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4722285\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/20cca321-0454-4b03-8306-d2b378d996c9/file/6cb9a0a9-71bb-4471-856b-9d9e216ea435\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc292b10-1b3f-4936-b613-9c0c5ea9145a/file/064917fa-22f6-49fd-b53f-2cda734819e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc292b10-1b3f-4936-b613-9c0c5ea9145a/file/d2a40228-563e-49d5-b98d-946750f87e5a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F99%2Ff9%2F5b99f95431154711ab46f2476fffe879%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d9a8340e-b1ed-4ead-91f2-c707a22ed19e/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-fc292b10-1b3f-4936-b613-9c0c5ea9145a",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-sj139343q",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(-8.350168, -8.154302, 43.58751, 43.429331)",
+  "solr_year_i": 1764.0,
+  "uuid": "princeton-sj139343q"
+}

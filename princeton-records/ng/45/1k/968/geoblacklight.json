@@ -1,0 +1,38 @@
+{
+  "dc_creator_sm": [
+    "Schu\u0308tz, E."
+  ],
+  "dc_description_s": "Wall map.",
+  "dc_format_s": "TIFF",
+  "dc_identifier_s": "ark:/88435/ng451k968",
+  "dc_language_s": "German",
+  "dc_publisher_s": "Frankfurt : Atlantik-Verlag Paul List, 1952, c1951 (Berlin-West : Lindemann & Lu\u0308decke)",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Germany,Maps"
+  ],
+  "dc_title_s": "Deutschland im Jahre 1789 : Staats- und Verwaltungsgrenzen",
+  "dc_type_s": "Image",
+  "dct_isPartOf_sm": [],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Princeton",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6579037\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34eb10ec-8018-4635-b5a5-0aaca0c291b8/file/cb227896-b081-43aa-8247-265584466663\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34eb10ec-8018-4635-b5a5-0aaca0c291b8/file/2b4cf369-495d-4bbf-9ddb-85e419f1f6b5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b6%2Fa9%2Fd3%2Fb6a9d367e2c54e159d51555778db3972%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8c7f886-d248-4ab1-827b-1f228835b07b/manifest\"}",
+  "dct_source_sm": [],
+  "dct_spatial_sm": [
+    "Germany (West)"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "geoblacklight_version": 1.0,
+  "layer_geom_type_s": "Image",
+  "layer_id_s": "public-figgy:p-34eb10ec-8018-4635-b5a5-0aaca0c291b8",
+  "layer_modified_dt": "2019-02-28T00:22:29Z",
+  "layer_slug_s": "princeton-ng451k968",
+  "nyu_addl_format_sm": [
+    "TIFF"
+  ],
+  "solr_geom": "ENVELOPE(1.2586, 23.9234, 55.7583, 44.6768)",
+  "solr_year_i": 1952.0,
+  "uuid": "princeton-ng451k968"
+}
