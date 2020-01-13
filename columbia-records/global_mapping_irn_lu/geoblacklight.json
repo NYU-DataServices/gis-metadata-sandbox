@@ -1,0 +1,35 @@
+{
+  "dc_description_s": "Iran Landuse is a raster theme representing landuse classifications throughout Iran at a resolution of 30 arc seconds. This layer is a component of the Global Map a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide. The Global Map data had been managed by the Geospatial Information Authority of Japan, but that organization was terminated in August, 2016. The data has been transferred to the Geospatial Information Section in the United Nations. For the most recent documentation, refer to the Global Map Specifications at https://github.com/globalmaps/specifications/.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.global_mapping_irn_lu",
+  "dc_language_s": "English",
+  "dc_publisher_s": "International Steering Committee for Global Mapping",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Land use"
+  ],
+  "dc_title_s": "Iran Landuse, 2005",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Global Map"
+  ],
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clio.columbia.edu/?q=urn:columbia.edu:Columbia.global_mapping_irn_lu\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/irn_lu.zip\",\"http://lccn.loc.gov/sh85035852\":\"https://github.com/globalmaps/specifications/blob/master/gmspec-2.2.pdf\"}",
+  "dct_spatial_sm": [
+    "Iran"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.global_mapping_irn_lu",
+  "layer_modified_dt": "2018-04-23T00:16:00Z",
+  "layer_slug_s": "sde-columbia-global_mapping_irn_lu",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(39.999999, 65.0, 40.0, 24.999999)",
+  "solr_year_i": 2005
+}
