@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "County of Marin"
+  ],
+  "dc_description_s": "Ridge and Upland Greenbelt is designated in the Marin Countywide Plan as \"visually prominent ridgelines\".  They are also known as \"community separators\".  The map denotes the spatial extent defined in the Countywide Plan.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7r59d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Land Use"
+  ],
+  "dc_title_s": "Marin County Ridge and Upland Greenbelt 2007",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7r59d\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7r59d/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7r59d",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7r59d",
+  "solr_geom": "ENVELOPE(-122.655183, -122.444703, 38.179501, 37.845788)",
+  "solr_year_i": 2007
+}

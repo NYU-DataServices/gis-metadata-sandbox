@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency (FEMA)"
+  ],
+  "dc_description_s": "The Digital Flood Insurance Rate Map (DFIRM) Database depicts flood risk information and supporting data used to develop the risk data. The primary risk classifications used are the 1-percent-annual-chance flood event, the 0.2-percent-annual-chance flood event, and areas of minimal flood risk. The DFIRM Database is derived from Flood Insurance Studies (FISs), previously published Flood Insurance Rate Maps (FIRMs), flood hazard analyses performed in support of the FISs and FIRMs, and new mapping data, where available. The FISs and FIRMs are published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using the State Plane projection and coordinate system.The specifications for the horizontal control of DFIRM data files are consistent with those required for mapping at a scale of 1:12,000.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7w89p",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrology"
+  ],
+  "dc_title_s": "FEMA Flood zones in Napa County",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7w89p\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7w89p/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7w89p",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7w89p",
+  "solr_geom": "ENVELOPE(-122.615384, -122.096061, 38.823924, 38.153977)",
+  "solr_year_i": 2008
+}

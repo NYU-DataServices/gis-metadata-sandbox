@@ -1,0 +1,30 @@
+{
+  "dc_creator_sm": [
+    "Elections"
+  ],
+  "dc_description_s": "Polling Places as of June 15, 2004.  Derived from SQLServer DB, GISPUB.Elections.WebSitePollLookupGIS.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7zs36",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Elections",
+    "Polling Places"
+  ],
+  "dc_title_s": "San Francisco Polling Places",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7zs36\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7zs36/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "s7zs36",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7zs36",
+  "solr_geom": "ENVELOPE(-122.510231, -122.366841, 37.824901, 37.707735)",
+  "solr_year_i": 2004
+}

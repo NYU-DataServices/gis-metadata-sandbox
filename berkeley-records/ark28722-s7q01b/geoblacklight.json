@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "Solano County, CA Department of Resource Management - GIS assistance provided by Mike Bobbitt (Mike Bobbitt and Associates)."
+  ],
+  "dc_description_s": "This file provides Solano County, California General Plan Unincorporated Area Land Use information in ESRI polygon shapefile format.\nSolano County General Plan Land Use and Circulation Layer as originally adopted by Board of Supervisor Resolution 81-180 on August 4, 1981 and last Amended by Board of Supervisor August 4, 2004.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7q01b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Land Use"
+  ],
+  "dc_title_s": "Solano County Unincorporated Areas Land Use",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7q01b\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7q01b/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7q01b",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7q01b",
+  "solr_geom": "ENVELOPE(-122.409251, -121.592064, 38.539117, 38.0313)",
+  "solr_year_i": 2006
+}

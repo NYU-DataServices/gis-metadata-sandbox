@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "County of Napa ITS Department"
+  ],
+  "dc_description_s": "Point layers which marks locations where Napa County roads meet roads of surrounding counties.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7c590",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dc_title_s": "Napa Road Meeting Points with Other Counties",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7c590\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7c590/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "s7c590",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7c590",
+  "solr_geom": "ENVELOPE(-122.645066, -122.365004, 38.672027, 38.154612)",
+  "solr_year_i": 2007
+}

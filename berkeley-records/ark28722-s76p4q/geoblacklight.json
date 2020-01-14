@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "United States Fish and Wildlife Service"
+  ],
+  "dc_description_s": "This data layer depicts the external boundaries of lands and waters that are approved for acquisition by the U.S. Fish and Wildlife Service (USFWS) in North America, U.S. Trust Territories and Possessions.  The primary source for this information is the USFWS Realty program.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s76p4q",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Arlington (va.). Us Fish and Wildlife Service.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dc_title_s": "United States Fish and Wildlife Service Cadastral Geodatabase  FwsApproved",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s76p4q\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s76p4q/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s76p4q",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s76p4q",
+  "solr_geom": "ENVELOPE(-179.150067, 179.77173, 70.329407, -14.609461)",
+  "solr_year_i": 2009
+}

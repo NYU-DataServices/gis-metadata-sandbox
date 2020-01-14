@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "Department of Public Works"
+  ],
+  "dc_description_s": "Lakes and reservoirs in San Francisco.  Derived from city features drawings from DPW. Modified by DTIS to show type of water body and name.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7dw38",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrology"
+  ],
+  "dc_title_s": "Water Bodies within San Francisco",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7dw38\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dw38/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7dw38",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7dw38",
+  "solr_geom": "ENVELOPE(-122.504644, -122.410079, 37.804701, 37.709645)",
+  "solr_year_i": 2004
+}

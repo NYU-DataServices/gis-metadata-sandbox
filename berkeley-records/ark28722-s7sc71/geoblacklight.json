@@ -1,0 +1,31 @@
+{
+  "dc_creator_sm": [
+    "Napa County Airport Planning Comission"
+  ],
+  "dc_description_s": "This view shows the parcel number and client of parcels within the County of Napa that have an avigation and hazard easement deed in conjunction with the Napa County Airport.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7sc71",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Planning and Cadastral",
+    "Noise Corridors",
+    "Airport Deeds"
+  ],
+  "dc_title_s": "Napa County Parcels with Avigation and Hazard Easement Deed with Napa Airport",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7sc71\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7sc71/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7sc71",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7sc71",
+  "solr_geom": "ENVELOPE(-122.662302, -122.061226, 38.864947, 38.153245)",
+  "solr_year_i": 2009
+}

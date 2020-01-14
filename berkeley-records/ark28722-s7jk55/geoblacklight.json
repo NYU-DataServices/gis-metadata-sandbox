@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "HJW Geospatial, Inc."
+  ],
+  "dc_description_s": "Survey Points developed for use in orthophotography.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7jk55",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dc_title_s": "Global Positioning System (GPS) Control Survey in San Francisco",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7jk55\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7jk55/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "s7jk55",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7jk55",
+  "solr_geom": "ENVELOPE(-122.515096, -122.166611, 37.813519, 37.439071)",
+  "solr_year_i": 1993
+}

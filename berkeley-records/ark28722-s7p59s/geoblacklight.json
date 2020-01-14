@@ -1,0 +1,30 @@
+{
+  "dc_creator_sm": [
+    "DPW"
+  ],
+  "dc_description_s": "San Francisco mainland shoreline and in the south, the county line. This layers also includes the islands in the county.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7p59s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dc_title_s": "Extended San Francisco Shoreline",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7p59s\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7p59s/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7p59s",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7p59s",
+  "solr_geom": "ENVELOPE(-123.113714, -122.325834, 37.93135, 37.691039)",
+  "solr_year_i": 2000
+}

@@ -1,0 +1,31 @@
+{
+  "dc_creator_sm": [
+    "Marin County Community Development Agency"
+  ],
+  "dc_description_s": "Bikeways were defined by the \"Marin County Bicycle and Pedestrian Master Plan\" (January 2000) and \"Marin County Unincorporated Area Bicycle and Pedestrian Master Plan\" (June 2001) by Alta Transportation Consulting.  Data was both digitized and extracted from existing road data.\n\nAttribute BIKECLASS is defined as:\n1 = Existing Bike Paths (Class 1)\n2 = Existing Bike Lanes/Shoulders (Class 2)\n3 = Existing Bike Routes (Class 3)\n\nAttribute BIKEPROP is defined as:\n1 = Proposed Bike Paths (Class 1)\n2 = Proposed Bike Lanes/Shoulders (Class 2)\n3 = Proposed Bike Routes (Class 3)",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7ms33",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bikes",
+    "Bike Routes",
+    "Bike Networks",
+    "Transportation"
+  ],
+  "dc_title_s": "Marin County Bikeways",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7ms33\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ms33/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7ms33",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7ms33",
+  "solr_geom": "ENVELOPE(-122.839783, -122.406402, 38.194766, 37.802318)",
+  "solr_year_i": 2007
+}

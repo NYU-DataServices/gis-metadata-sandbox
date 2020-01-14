@@ -1,0 +1,30 @@
+{
+  "dc_creator_sm": [
+    "City of Berkeley, CA"
+  ],
+  "dc_description_s": "Polygon later delimiting police beats in the city of Berkeley, CA. A police beat is a territory which an officer patrols while on duty. ",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7wc7z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Berkeley (Calif.). City Of Berkeley.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dc_title_s": "Police Beats Berkeley California 2010",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7wc7z\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7wc7z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7wc7z",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7wc7z",
+  "solr_geom": "ENVELOPE(-122.345492, -122.233613, 37.906043, 37.840733)",
+  "solr_year_i": 2006
+}

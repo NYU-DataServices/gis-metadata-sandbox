@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "San Mateo County"
+  ],
+  "dc_description_s": "Boundaries for remote sensing imagery at 1in. equals 800 feet scale in San Mateo County, California",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7n59g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Mateo County (Calif.). County Of San Mateo.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Imagery File Boundaries at 800 Scale San Mateo County 2011",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7n59g\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7n59g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Mateo County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7n59g",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7n59g",
+  "solr_geom": "ENVELOPE(-122.540917, -122.037714, 37.715453, 37.100373)",
+  "solr_year_i": 2011
+}

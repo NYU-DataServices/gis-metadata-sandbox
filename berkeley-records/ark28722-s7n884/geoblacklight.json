@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "Trails data were created for the Marin Countywide Plan update.  Data was compiled from various sources including:  Digitized from Marin County's existing trails maps, data from Tomales Bay State Park, data from Bay Trail, data from Marin County Parks and Open Space, data from Marin Municipal Water District, and data from GGNRA.  \n\nAccuracy of data may vary.  Trails have been rectified when possible to orthophotography and checked for accuracy by David Hansen of Marin County Parks and Open Space.  Areas with tree coverage are not orthorectified and will not be as accurate.\n\n***There is still much clean up work to be done on this data.***\n\nThe attributes of ID are reflective of the original county trail mylar map legend where:\n1 = Paved Path, Trail Proposed\n2 =  Paved Path, Trail Right of Way Secured\n3 =  Paved Path, Trail Open to Public\n4 = Combined Use, Trail Proposed\n5 = Combined Use, Trail Right of Way Secured\n6 = Combined Use, Trail Open to Public\n7 = Equestrian/Hiking, Trail Proposed\n8 = Equestrian/Hiking, Trail Right of Way Secured\n9 = Equestrian/Hiking, Trail Open to Public\n10 = Hiking Only, Trail Proposed\n11 = Hiking Only, Trail Right of Way Secured\n12 = Hiking Only, Trail Open to Public\n0 = Unknown, Data came from other source",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7n884",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Trails"
+  ],
+  "dc_title_s": "Marin County Trails",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7n884\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7n884/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7n884",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7n884",
+  "solr_geom": "ENVELOPE(-123.033825, -122.419037, 38.318792, 37.806178)",
+  "solr_year_i": 2011
+}

@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "Jones   Stokes"
+  ],
+  "dc_description_s": "The Napa County Watersheds were generated from two elevation datasets.  The Napa River Watershed was generated from LIDAR data processed by NCALM at UC Berkeley (http://calm.geo.berkeley.educalm/index.html).  The eastern side of the county was delineated from DTM data which was generated from aerial photography (2002).  The watersheds are intended to be used for hydrologic modeling and planning.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s74s44",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrology"
+  ],
+  "dc_title_s": "Napa County Watersheds",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s74s44\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s74s44/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s74s44",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s74s44",
+  "solr_geom": "ENVELOPE(-122.648961, -122.061188, 38.864112, 38.144157)",
+  "solr_year_i": 2005
+}

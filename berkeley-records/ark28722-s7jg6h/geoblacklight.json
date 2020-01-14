@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "Community Development Agency, County of Marin, California"
+  ],
+  "dc_description_s": "A sphere of influence is a plan adopted by LAFCO for the probable physical boundaries and service areas of a city or special district.  Recreation District Sphere of Influence is a topologically correct polygon representation of sphere of influence boundaries of the recreation districts of Marin County.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7jg6h",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Marin County Recreation District Sphere of Influence",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7jg6h\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7jg6h/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7jg6h",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7jg6h",
+  "solr_geom": "ENVELOPE(-122.731547, -122.681545, 37.927859, 37.89296)",
+  "solr_year_i": 2004
+}

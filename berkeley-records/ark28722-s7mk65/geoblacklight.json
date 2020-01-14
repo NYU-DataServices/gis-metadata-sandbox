@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "Dept of Public Works"
+  ],
+  "dc_description_s": "Curbs and islands within the city rights-of-way. The data was develped by merging the 73 individual feature files of the Basemap into one citywide map. While the individual features files have not been updated since their development, the citywide file was updated to reflect changes along the Embarcardero corridor and along King St. Please note that the sidewalk widths (curbs) were derived from project working drawings and may not be as-builts conditions.  There are plans by DPW to update the layers found in the features drawings.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7mk65",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dc_title_s": "Planimetric Features - Curbs and Islands within the Right of Way in San Francisco",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7mk65\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7mk65/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7mk65",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7mk65",
+  "solr_geom": "ENVELOPE(-122.513296, -122.362103, 37.810333, 37.70646)",
+  "solr_year_i": 2002
+}

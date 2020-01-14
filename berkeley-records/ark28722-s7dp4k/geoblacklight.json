@@ -1,0 +1,31 @@
+{
+  "dc_creator_sm": [
+    "DTIS"
+  ],
+  "dc_description_s": "Highways in San Francisco.  Based on comparison to TIGER designations for San Francisco streets.  A view of the STCLINES layer.   (Does not include portion of US HWY 1 in the Presidio which can be found in STCLINES_FREEWAYS).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7dp4k",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Roads",
+    "Highways"
+  ],
+  "dc_title_s": "San Francisco Highways",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7dp4k\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dp4k/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7dp4k",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7dp4k",
+  "solr_geom": "ENVELOPE(-122.531648, -122.351793, 37.838258, 37.703557)",
+  "solr_year_i": 2005
+}

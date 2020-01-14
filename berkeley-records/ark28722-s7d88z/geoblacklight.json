@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [
+    "Napa County Conservation, Development and Planning Department"
+  ],
+  "dc_description_s": "City limits for all cities within Napa County. It is actually a view of the zoning layer. Users should refer to the zoning layer for full metadata and update information.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7d88z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dc_title_s": "City Limits for Cities in Napa County",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7d88z\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7d88z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "American Canyon (Calif.)",
+    "Napa (Calif.)",
+    "St Helena (Calif.)",
+    "Yountville (Calif.)",
+    "Calistoga (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7d88z",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7d88z",
+  "solr_geom": "ENVELOPE(-122.649028, -122.061248, 38.864957, 38.152626)",
+  "solr_year_i": 2003
+}

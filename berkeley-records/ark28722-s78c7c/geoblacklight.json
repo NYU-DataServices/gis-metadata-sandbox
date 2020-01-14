@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "County of Marin"
+  ],
+  "dc_description_s": "An elementary school district is a geographical area that serves to operate local elementary schools within its boundaries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s78c7c",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Education",
+    "Boundaries"
+  ],
+  "dc_title_s": "Marin County Elementary School District",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s78c7c\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78c7c/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s78c7c",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s78c7c",
+  "solr_geom": "ENVELOPE(-123.105808, -122.346188, 38.438722, 37.804228)",
+  "solr_year_i": 2003
+}

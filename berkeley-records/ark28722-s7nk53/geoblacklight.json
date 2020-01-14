@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "County of Marin"
+  ],
+  "dc_description_s": "Data are a graphic representation of County Service Area boundaries in Marin County, California.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7nk53",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dc_title_s": "County Service Areas in Marin County",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7nk53\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7nk53/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7nk53",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7nk53",
+  "solr_geom": "ENVELOPE(-123.035246, -122.346184, 38.330914, 37.805672)",
+  "solr_year_i": 2000
+}

@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "Metropolitan Transportation Commission"
+  ],
+  "dc_description_s": "All transit routes, including bus, light rail, and commuter rail, in the San Francisco Bay Area, California",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7j59j",
+  "dc_language_s": "English",
+  "dc_publisher_s": "California. Metropolitan Transportation Commission.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Transit Networks"
+  ],
+  "dc_title_s": "San Francisco Bay Area Transit Routes 2008",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7j59j\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7j59j/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco Bay (Calif.)",
+    "San Francisco Bay Area (Calif.)",
+    "Alameda County (Calif.)",
+    "Contra Costa County (Calif.)",
+    "Marin County (Calif.)",
+    "Napa County (Calif.)",
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)",
+    "San Mateo County (Calif.)",
+    "Santa Clara County (Calif.)",
+    "Solano County (Calif.)",
+    "Sonoma County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7j59j",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7j59j",
+  "solr_geom": "ENVELOPE(-123.054431, -121.259774, 38.80635, 36.975123)",
+  "solr_year_i": 2003
+}

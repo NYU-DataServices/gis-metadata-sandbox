@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "Towill, Inc."
+  ],
+  "dc_description_s": "Boundaries of the tiles used in the 2002 Orthophotography Project.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s71w2g",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Aerial Photos"
+  ],
+  "dc_title_s": "Orthophoto Project Tile Boundaries",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s71w2g\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71w2g/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s71w2g",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s71w2g",
+  "solr_geom": "ENVELOPE(-122.655675, -122.023181, 38.873681, 38.146941)",
+  "solr_year_i": 2002
+}

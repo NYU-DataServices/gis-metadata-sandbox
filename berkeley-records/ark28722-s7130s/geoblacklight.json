@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "EDAW, Inc."
+  ],
+  "dc_description_s": "Elevation Ranges for County by 100 ft Intervals",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7130s",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dc_title_s": "Napa County Elevation Ranges",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7130s\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7130s/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7130s",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7130s",
+  "solr_geom": "ENVELOPE(-122.651728, -122.058454, 38.867138, 38.151142)",
+  "solr_year_i": 2005
+}

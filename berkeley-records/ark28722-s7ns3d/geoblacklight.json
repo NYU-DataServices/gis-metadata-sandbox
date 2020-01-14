@@ -1,0 +1,30 @@
+{
+  "dc_creator_sm": [
+    "Towill Inc"
+  ],
+  "dc_description_s": "Elevation Contours of Napa County for non-watershed Area, 10 foot interval.  These are the 10 ft contours produced during the 2002/2003 Orthophotography Project. The area covered by this data is referred to as the Non-watershed Area because it lies outside the Napa River Watershed.\nThe contours were mapped at a scale of 1\"=400ft and meet National Map Accuracy standards at this scale. \nThe vertical datum for the contours is NAVD88.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7ns3d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Elevation",
+    "Topography",
+    "Contours"
+  ],
+  "dc_title_s": "Napa County Elevation Contours, 10 ft interval, Non-Watershed area",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7ns3d\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ns3d/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "s7ns3d",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7ns3d",
+  "solr_geom": "ENVELOPE(-122.6537, -122.050421, 38.872989, 38.313366)",
+  "solr_year_i": 2010
+}

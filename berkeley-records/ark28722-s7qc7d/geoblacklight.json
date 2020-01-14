@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "U.S. GEOLOGICAL SURVEY"
+  ],
+  "dc_description_s": "Slides and earth flows are landslides that can pose serious hazard to property\nin the hillside terrain of the San Francisco Bay region. They tend to move\nslowly and thus rarely threaten life directly. When they move -- in response\nto such changes as increased water content, earthquake shaking, addition of\nload, or removal of downslope support -- they deform and tilt the ground\nsurface. The result can be destruction of foundations, offset of roads, and\nbreaking of underground pipes within and along the margins of the landslide,\nas well as overriding of property and structures downslope.\n\nThe best available predictor of where movement of slides and earth flows might\noccur is the distribution of past movements (Nilsen and Turner, 1975). These\nlandslides can be recognized from their distinctive topographic shapes, which\ncan persist in the landscape for thousands of years. Most of the landslides\nrecognizable in this fashion range in size from a few acres to several square\nmiles. Most show no evidence of recent movement and are not currently active.\nSome small proportion of them may become active in any one year, with\nmovements concentrated within all or part of the landslide masses or around\ntheir edges.\n\nThese maps and databases provide a summary of the distribution of landslides\nevident in the landscape of the San Francisco Bay region. Original\nidentification and map delineation of these landslides required detailed\nanalysis of the topography by skilled geologists, a task generally\naccomplished through the study of aerial photographs. Such original landslide\nmaps are now available for most of the region at scales of 1:24,000 - 1:62,500\n(Pike, 1997). The summary map presented here makes selected use of these\noriginal maps and the 9-county compilation by Nilsen, Wright, and others\n(1979) to provide a basis for initial evaluation of areas vulnerable to\nslumps, translational slides, and earth flows in the region. \n\nThe summary map modifies and improves the compilation by Nilsen and Wright,\nwhich was prepared from sources available in the mid-1970's. The generalized\nlandslide distribution shown on that map has here been improved in areas where\nthe 1970's sources were notably deficient (Figure 1), has been extended to\ninclude Santa Cruz County, and includes the distribution of surficial deposits\nthat define landscape not generally vulnerable to these kinds of landslides.\nThe method of compilation and resolution of 1:125,000 (1 inch = 2 miles)\nlimits use of the map to regional considerations. For more detailed\ninformation, see the maps listed by Pike (1997) or consult local officials or\nprivate consultants.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7qc7d",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Menlo Park (Calif.) U.s. Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Geology",
+    "Landslides"
+  ],
+  "dc_title_s": "Bay Area Landslide Distribution",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7qc7d\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7qc7d/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7qc7d",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7qc7d",
+  "solr_geom": "ENVELOPE(-123.055543, -122.315672, 38.351839, 37.787427)",
+  "solr_year_i": 1997
+}

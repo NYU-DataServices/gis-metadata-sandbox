@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "Napa County Conservation Division"
+  ],
+  "dc_description_s": "Boundary of the County of Napa developed using the California Government Code 23128 descriptions.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7x88m",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dc_title_s": "Napa County Boundary",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7x88m\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7x88m/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7x88m",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7x88m",
+  "solr_geom": "ENVELOPE(-122.649028, -122.061248, 38.864957, 38.152626)",
+  "solr_year_i": 2005
+}

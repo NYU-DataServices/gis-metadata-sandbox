@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture, Natural Resources Conservation Service"
+  ],
+  "dc_description_s": "This data set is a digital soil survey and generally is the most\ndetailed level of soil geographic data developed by the National\nCooperative Soil Survey. The information was prepared by digitizing\nmaps, by compiling information onto a planimetric correct base\nand digitizing, or by revising digitized maps using remotely\nsensed and other information.\n\nThis data set consists of georeferenced digital map data and\ncomputerized attribute data. The map data are in a soil survey area\nextent format and include a detailed, field verified inventory\nof soils and miscellaneous areas that normally occur in a repeatable\npattern on the landscape and that can be cartographically shown at\nthe scale mapped. A special soil features layer (point and line\nfeatures) is optional. This layer displays the location of features\ntoo small to delineate at the mapping scale, but they are large\nenough and contrasting enough to significantly influence use and\nmanagement. The soil map units are linked to attributes in the\nNational Soil Information System relational database, which gives\nthe proportionate extent of the component soils and their properties.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7v59b",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Farming",
+    "Soils"
+  ],
+  "dc_title_s": "Napa County Digital Soil Survey 2004",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7v59b\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7v59b/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7v59b",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7v59b",
+  "solr_geom": "ENVELOPE(-122.64909, -122.061703, 38.864982, 38.153314)",
+  "solr_year_i": 2004
+}

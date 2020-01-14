@@ -1,0 +1,34 @@
+{
+  "dc_creator_sm": [
+    "DTIS"
+  ],
+  "dc_description_s": "San Francisco City Lands - properties owned by the City and County of San Francisco.  Spatial representation of REIS Citylands attribute table.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s73c7t",
+  "dc_language_s": "English",
+  "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Property",
+    "City-owned Facilities",
+    "Parks",
+    "Libraries",
+    "Structure",
+    "Society"
+  ],
+  "dc_title_s": "San Francisco City Lands",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s73c7t\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73c7t/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s73c7t",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s73c7t",
+  "solr_geom": "ENVELOPE(-122.517761, -122.350876, 37.812596, 37.602168)",
+  "solr_year_i": 2005
+}

@@ -1,0 +1,28 @@
+{
+  "dc_creator_sm": [
+    "Sean Wilson, Geologist"
+  ],
+  "dc_description_s": "Expansive Soils are defined as Maximum Measured Shrink-Swell Potential and were grouped by consultant Sean Wilson, geologist.  Data originates from the NRCS Soils data known within the County of Marin GIS database as Soils.  NRCS soils were downloaded from ftp://ftp.tfw.nrcs.usda.gov/pub/ssurgo/online98/data/ca041/ .\nThis data set is a digital soil survey and generally is the most\ndetailed level of soil geographic data developed by the National\nCooperative Soil Survey. The information was prepared by digitizing\nmaps, by compiling information onto a planimetric correct base\nand digitizing, or by revising digitized maps using remotely\nsensed and other information.\n\nThis data set consists of georeferenced digital map data and\ncomputerized attribute data. The map data are in a soil survey area\nextent format and include a detailed, field verified inventory\nof soils and miscellaneous areas that normally occur in a repeatable\npattern on the landscape and that can be cartographically shown at\nthe scale mapped. A special soil features layer (point and line\nfeatures) is optional. This layer displays the location of features\ntoo small to delineate at the mapping scale, but they are large\nenough and contrasting enough to significantly influence use and\nmanagement. The soil map units are linked to attributes in the\nNational Soil Information System relational database, which gives\nthe proportionate extent of the component soils and their properties.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s72g65",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Fort Worth (tex.). U.s. Department Of Agriculture, Natural Resources Conservation Service.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Soils"
+  ],
+  "dc_title_s": "Marin County Expansive Soils",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s72g65\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72g65/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s72g65",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s72g65",
+  "solr_geom": "ENVELOPE(-123.035461, -122.346275, 38.331077, 37.805996)",
+  "solr_year_i": 2011
+}

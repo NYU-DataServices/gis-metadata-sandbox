@@ -1,0 +1,29 @@
+{
+  "dc_creator_sm": [
+    "California Spatial Information Library"
+  ],
+  "dc_description_s": "Populations Centers of Angwin and Deer Park areas from the statewide dataset city90a (www.gis.ca.gov).  This was used as a graphic for the Baseline Data Report maps along with the other population centers from this layer.  The 'CITY90' layer contains 1990 Census Federal place code boundaries that have been clipped by the county tile outline. The Federal place codes define polygons that are cities or census designated places or are unclassified as to type.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "https://geodata.lib.berkeley.edu/catalog/ark28722-s7cg6z",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Napa County (Calif.). County Of Napa.",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Population Centers"
+  ],
+  "dc_title_s": "Deer Park and Angwin Boundaries",
+  "dc_type_s": "Dataset",
+  "dct_provenance_s": "Berkeley",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.lib.berkeley.edu/catalog/ark28722-s7cg6z\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7cg6z/data.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\"}",
+  "dct_spatial_sm": [
+    "Angwin Deer Park (Calif.)",
+    "Napa County (Calif.)"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "s7cg6z",
+  "layer_modified_dt": "43843.54952",
+  "layer_slug_s": "ark28722-s7cg6z",
+  "solr_geom": "ENVELOPE(-122.498728, -122.419529, 38.601649, 38.511043)",
+  "solr_year_i": 2005
+}
