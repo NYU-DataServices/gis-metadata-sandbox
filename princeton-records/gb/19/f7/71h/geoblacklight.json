@@ -24,7 +24,7 @@
   "dct_temporal_sm": [
     "1719"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Image",
   "layer_id_s": "public-figgy:p-542b35a2-ee82-4c17-b2c9-de5c8e63c34c",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -33,6 +33,6 @@
     "TIFF"
   ],
   "solr_geom": "ENVELOPE(-180.0, 2.01, 80.02, -5.51)",
-  "solr_year_i": 1719.0,
+  "solr_year_i": "1719.0",
   "uuid": "princeton-gb19f771h"
 }

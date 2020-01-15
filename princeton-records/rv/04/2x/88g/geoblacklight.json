@@ -8,20 +8,14 @@
   "dc_language_s": "English",
   "dc_publisher_s": "Geological Survey of New Jersey",
   "dc_rights_s": "Public",
-  "dc_subject_sm": [
-
-  ],
+  "dc_subject_sm": [],
   "dc_title_s": "A Topographical Map of the Vicinity of Trenton, New Brunswick and Bordentown.",
   "dc_type_s": "Dataset",
-  "dct_isPartOf_sm": [
-
-  ],
+  "dct_isPartOf_sm": [],
   "dct_issued_s": "",
   "dct_provenance_s": "Princeton",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fcf10784-c2f9-45c9-b6fe-3483f137696a/file/04963c12-9020-4b88-8dd2-eae35f743aad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/192737d9-c028-46c8-a5e3-256b55db525b/file/4ad60baf-8b81-4cb6-a08b-713fb9f0f3fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/192737d9-c028-46c8-a5e3-256b55db525b/file/daec3627-a7f2-45d5-b3fa-2b606aa09b25\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "Trenton",
     "Mercer",
@@ -36,7 +30,7 @@
     "1887",
     "2003"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Raster",
   "layer_id_s": "public-figgy:p-192737d9-c028-46c8-a5e3-256b55db525b",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -45,6 +39,6 @@
     "GeoTIFF"
   ],
   "solr_geom": "ENVELOPE(-75.587306, -73.890363, 41.357564, 38.924819)",
-  "solr_year_i": 1887.0,
+  "solr_year_i": "1887.0",
   "uuid": "princeton-rv042x88g"
 }

@@ -1,7 +1,5 @@
 {
-  "dc_creator_sm": [
-
-  ],
+  "dc_creator_sm": [],
   "dc_description_s": "Transverse Mercator projection. Relief shown by contours and spot elevation. With a glossary. \"Reprinted by NIMA 4-00.",
   "dc_format_s": "TIFF",
   "dc_identifier_s": "ark:/88435/dr26z013p",
@@ -15,22 +13,16 @@
   ],
   "dc_title_s": "Honduras city graphic 1:12,500. Tegucigalpa. Series E952",
   "dc_type_s": "Image",
-  "dct_isPartOf_sm": [
-
-  ],
+  "dct_isPartOf_sm": [],
   "dct_issued_s": "",
   "dct_provenance_s": "Princeton",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6829709\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bb4de3a1-35d7-4706-abe3-915b6bb0d9fc/file/3257f957-3bce-4916-9b4f-62a750b1b3f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45652db5-1400-42d3-9532-c723f3b9c5b5/file/c667bb0e-de48-4adf-8aa1-5718f4db5e72\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45652db5-1400-42d3-9532-c723f3b9c5b5/file/fa5b7a12-deb7-4d97-8ca2-9f8d04529d96\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2F53%2F4b%2F8b534b6a8bb64f6db7e2a1fc5329c070%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/808f6dbf-0b58-4a2a-9cd9-b686f9a8dd2d/manifest\"}",
-  "dct_source_sm": [
-
-  ],
-  "dct_spatial_sm": [
-
-  ],
+  "dct_source_sm": [],
+  "dct_spatial_sm": [],
   "dct_temporal_sm": [
     "2000"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Image",
   "layer_id_s": "public-figgy:p-45652db5-1400-42d3-9532-c723f3b9c5b5",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -39,6 +31,6 @@
     "TIFF"
   ],
   "solr_geom": "ENVELOPE(-87.23333333333333, -87.16666666666667, 14.116666666666667, 14.033333333333333)",
-  "solr_year_i": 2000.0,
+  "solr_year_i": "2000.0",
   "uuid": "princeton-dr26z013p"
 }

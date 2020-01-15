@@ -2,7 +2,7 @@
   "dc_creator_sm": [
     "Capitaine, Louis, approximately 1749-approximately 1797"
   ],
-  "dc_description_s": "Shows states from Maine south to Maryland and west to New York and Pennsylvania; relief shown pictorially. From La Rochefoucauld-Liancourt's Voyage dans les États-Unis d'Amérique fait en 1795, 1796 et 1797.",
+  "dc_description_s": "Shows states from Maine south to Maryland and west to New York and Pennsylvania; relief shown pictorially. From La Rochefoucauld-Liancourt's Voyage dans les E\u0301tats-Unis d'Ame\u0301rique fait en 1795, 1796 et 1797.",
   "dc_format_s": "TIFF",
   "dc_identifier_s": "ark:/88435/rn301383n",
   "dc_language_s": "French",
@@ -24,7 +24,7 @@
   "dct_temporal_sm": [
     "1799"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Image",
   "layer_id_s": "public-figgy:p-8a92f14d-882c-45b1-aa49-933d9a890601",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -33,6 +33,6 @@
     "TIFF"
   ],
   "solr_geom": "ENVELOPE(-81.0081, -67.349, 45.1833, 38.4367)",
-  "solr_year_i": 1799.0,
+  "solr_year_i": "1799.0",
   "uuid": "princeton-rn301383n"
 }

@@ -27,7 +27,7 @@
   "dct_temporal_sm": [
     "1949"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Polygon",
   "layer_id_s": "public-figgy:p-59e8bb21-42b3-4c21-8041-a62f58bd994b",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -36,6 +36,6 @@
     "Shapefile"
   ],
   "solr_geom": "ENVELOPE(8.436508, 14.663601, 12.669343, 3.909098)",
-  "solr_year_i": 1949.0,
+  "solr_year_i": "1949.0",
   "uuid": "princeton-kh04dt19d"
 }

@@ -25,7 +25,7 @@
   "dct_temporal_sm": [
     "1598"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Image",
   "layer_id_s": "public-figgy:p-3efdcb2f-04dd-4f0c-91ce-5fbbf000ae14",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -34,6 +34,6 @@
     "TIFF"
   ],
   "solr_geom": "ENVELOPE(10.7266958, 10.8268765, 53.7815093, 53.6702922)",
-  "solr_year_i": 1598.0,
+  "solr_year_i": "1598.0",
   "uuid": "princeton-hm50tv24x"
 }

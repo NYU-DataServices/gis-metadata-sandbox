@@ -14,22 +14,18 @@
   ],
   "dc_title_s": "New Jersey (Relief Map)",
   "dc_type_s": "Dataset",
-  "dct_isPartOf_sm": [
-
-  ],
+  "dct_isPartOf_sm": [],
   "dct_issued_s": "",
   "dct_provenance_s": "Princeton",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/010151af-39ee-42d4-b1b6-e2bd6f519963/file/0af004a4-d654-4eda-8f5d-506a011ac191\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/626337f5-c122-478b-b8e1-a658b9106818/file/f32cef8c-e851-4089-9ce8-7fb03a0142f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/626337f5-c122-478b-b8e1-a658b9106818/file/03de4eb1-f9c3-4b62-b1ca-60d80403da21\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
-  "dct_source_sm": [
-
-  ],
+  "dct_source_sm": [],
   "dct_spatial_sm": [
     "New Jersey"
   ],
   "dct_temporal_sm": [
     "1888"
   ],
-  "geoblacklight_version": 1.0,
+  "geoblacklight_version": "1.0",
   "layer_geom_type_s": "Raster",
   "layer_id_s": "public-figgy:p-626337f5-c122-478b-b8e1-a658b9106818",
   "layer_modified_dt": "2019-02-28T00:22:29Z",
@@ -38,6 +34,6 @@
     "GeoTIFF"
   ],
   "solr_geom": "ENVELOPE(-75.0, -74.0, 41.0, 38.0)",
-  "solr_year_i": 1888.0,
+  "solr_year_i": "1888.0",
   "uuid": "princeton-hd76s3883"
 }
