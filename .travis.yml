@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - 2.5
 script:
-  - bundle exec rake validate princeton-records
+  - bundle exec rake validate cornell-records
